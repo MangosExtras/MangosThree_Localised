@@ -63,7 +63,7 @@ UPDATE gossip_texts SET content_loc4='好吧，克罗米。' WHERE entry=-359500
 UPDATE gossip_texts SET content_loc4='为什么我被送回了这个特别的地方和时间？' WHERE entry=-3595003; /* content: Why have I been sent back to this particular place and time? */
 UPDATE gossip_texts SET content_loc4='这个决定是什么？' WHERE entry=-3595004; /* content: What was this decision? */
 UPDATE gossip_texts SET content_loc4='永恒之龙打算如何破坏这一时间流呢？' WHERE entry=-3595005; /* content: So how does the Infinite Dragonflight plan to interfere? */
-UPDATE gossip_texts SET content_loc4='克罗米，你和我都知道在这个时间流中会出什么事。我们以前都遇到过这种情形。你能不能略过这些部分，直接进入真正的行动？' WHERE entry=-3595006; /* content: Chromie, you and I both know what\'s going to happen in this time stream. We\'ve seen this all before. Can you just skip us ahead to all the real action? */
+UPDATE gossip_texts SET content_loc4='克罗米，你和我都知道在这个时间流中会出什么事。我们以前都遇到过这种情形。你能不能略过这些部分，$B$B直接进入真正的行动？' WHERE entry=-3595006; /* content: Chromie, you and I both know what\'s going to happen in this time stream. We\'ve seen this all before.$B$BCan you just skip us ahead to all the real action? */
 UPDATE gossip_texts SET content_loc4='好啊，请吧！' WHERE entry=-3595007; /* content: Yes, please! */
 UPDATE gossip_texts SET content_loc4='遵命，王子殿下。我们准备好了。' WHERE entry=-3595008; /* content: Yes, my Prince. We are ready. */
 UPDATE gossip_texts SET content_loc4='殿下，我们的所作所为都是为了洛丹伦的利益。' WHERE entry=-3595009; /* content: We\'re only doing what is best for Lordaeron, your Highness. */
@@ -107,7 +107,7 @@ UPDATE gossip_texts SET content_loc4='我们已经准备好了。这一次情况
 UPDATE gossip_texts SET content_loc4='开始。' WHERE entry=-3649015; /* content: Now. */
 UPDATE gossip_texts SET content_loc4='尽管把她们带出来，然后好好看着吧。' WHERE entry=-3649017; /* content: Just bring them out again, then watch. */
 UPDATE gossip_texts SET content_loc4='我准备好了。' WHERE entry=-3650000; /* content: I am ready. */
-UPDATE gossip_texts SET content_loc4='我准备好了。但是，我倒是愿意不参加这庆典。' WHERE entry=-3650001; /* content: I am ready.  However, I\'d like to skip the pageantry. */
+UPDATE gossip_texts SET content_loc4='我准备好了。但是，我倒是愿意不参加这庆典。' WHERE entry=-3650001; /* content: I am ready. However, I\'d like to skip the pageantry. */
 UPDATE gossip_texts SET content_loc4='我已经为下一个挑战做好了准备。' WHERE entry=-3650002; /* content: I am ready for the next challenge. */
 
 SET NAMES 'latin1';

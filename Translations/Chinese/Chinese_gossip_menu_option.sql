@@ -1907,7 +1907,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='把这个旅店设为你
 UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc4='不给糖就捣蛋！' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc4='?????????????,????!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc4='有点不舒服？出去的路很安全，快点跑吧！' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc4='<给病人使用疗伤药膏。>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc4='我想要一份你的疗伤药膏的样本，药剂师。' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */

@@ -829,7 +829,7 @@ UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3675;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3676;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3677;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3693;
-UPDATE locales_npc_text SET Text0_0_loc4='A diary with yellowing pages lies open to the last entry:$B$BI don\'t know what\'s going to happen now that Harold\'s turned.  It took everything out of me to drag him into the only place I could find that\'d lock him up tight and hold him.  I hid the key on me, and I pray it works...$B$BI hope I can get out of here, but I need money to do that.  Our stuff\'s all in the cabinet I think... and now that I think about it, doesn\'t Harold keep the key on him?$B$BI\'ll rest on it, I\'m dead tired now.' WHERE entry=3694; /* Text0_0: A diary with yellowing pages lies open to the last entry:$B$BI don\'t know what\'s going to happen now that Harold\'s turned.  It took everything out of me to drag him into the only place I could find that\'d lock him up tight and hold him.  I hid the key on me, and I pray it works...$B$BI hope I can get out of here, but I need money to do that.  Our stuff\'s all in the cabinet I think... and now that I think about it, doesn\'t Harold keep the key on him?$B$BI\'ll rest on it, I\'m dead tired now. */
+UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3694;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3734;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3753;
 UPDATE locales_npc_text SET Text0_1_loc4='' WHERE entry=3754;
