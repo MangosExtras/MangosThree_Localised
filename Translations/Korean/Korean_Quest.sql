@@ -2001,12 +2001,29 @@ UPDATE locales_quest SET title_loc1='모린 클라우드스토커' WHERE entry=2
 UPDATE locales_quest SET title_loc1='전투의 외침' WHERE entry=24466; /* title: Battle Shout */
 UPDATE locales_quest SET title_loc1='전선을 유지하라!' WHERE entry=24469; /* title: Hold the Line! */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=24477; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc1='투영의 전당' WHERE entry=24480; /* title: The Halls Of Reflection */
+UPDATE locales_quest SET title_loc1='신의 권능: 인내' WHERE entry=24482; /* title: Power Word: Fortitude */
+UPDATE locales_quest SET title_loc1='해충 박멸!' WHERE entry=24484; /* title: Pest Control */
 UPDATE locales_quest SET title_loc1='비전 룬' WHERE entry=24496; /* title: Arcane Rune */
+UPDATE locales_quest SET title_loc1='리치 왕의 분노' WHERE entry=24500; /* title: Wrath of the Lich King */
 UPDATE locales_quest SET title_loc1='탈로리엔 돈시커' WHERE entry=24535; /* title: Thalorien Dawnseeker */
+UPDATE locales_quest SET title_loc1='투영의 전당' WHERE entry=24561; /* title: The Halls Of Reflection */
 UPDATE locales_quest SET title_loc1='탈로리엔 돈시커' WHERE entry=24563; /* title: Thalorien Dawnseeker */
+UPDATE locales_quest SET title_loc1='스톰윈드 국왕에게 선물을' WHERE entry=24597; /* title: A Gift for the King of Stormwind */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=24606; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET title_loc1='뻐드렁니' WHERE entry=24608; /* title: Mangletooth */
+UPDATE locales_quest SET title_loc1='엘룬의 대여사제에게 선물을' WHERE entry=24610; /* title: A Gift for the High Priestess of Elune */
+UPDATE locales_quest SET title_loc1='예언자에게 선물을' WHERE entry=24611; /* title: A Gift for the Prophet */
+UPDATE locales_quest SET title_loc1='대족장에게 선물을' WHERE entry=24612; /* title: A Gift for the Warchief */
+UPDATE locales_quest SET title_loc1='밴시 여왕에게 선물을' WHERE entry=24613; /* title: A Gift for the Banshee Queen */
+UPDATE locales_quest SET title_loc1='대부족장에게 선물을' WHERE entry=24614; /* title: A Gift for the High Chieftain */
+UPDATE locales_quest SET title_loc1='쿠엘탈라스의 섭정에게 선물을' WHERE entry=24615; /* title: A Gift for the Regent Lord of Quel\'Thalas */
+UPDATE locales_quest SET title_loc1='가시덩굴 우리의 대모' WHERE entry=24630; /* title: The Crone of the Kraul */
+UPDATE locales_quest SET title_loc1='용골 항구',offerrewardtext_loc1='이렇게 다시 만나다니 너무 기쁘구려, $n.' WHERE entry=24680; /* title: Keel Harbor */ /* offerrewardtext: It is good to see you again, $N. */
+UPDATE locales_quest SET title_loc1='사론의 구덩이' WHERE entry=24682; /* title: The Pit of Saron */
+UPDATE locales_quest SET title_loc1='사론의 구덩이' WHERE entry=24683; /* title: The Pit of Saron */
 UPDATE locales_quest SET title_loc1='불바람' WHERE entry=24690; /* title: Blazerunner */
+UPDATE locales_quest SET title_loc1='이끼 더미' WHERE entry=24693; /* title: Mossy Pile */
 UPDATE locales_quest SET title_loc1='서리한' WHERE entry=24711; /* title: Frostmourne */
 UPDATE locales_quest SET title_loc1='서리한' WHERE entry=24713; /* title: Frostmourne */
 UPDATE locales_quest SET title_loc1='회복의 수정' WHERE entry=24724; /* title: Crystal Restore */
@@ -2016,12 +2033,19 @@ UPDATE locales_quest SET title_loc1='돌기의 수정' WHERE entry=24727; /* tit
 UPDATE locales_quest SET title_loc1='수호의 수정' WHERE entry=24728; /* title: Crystal Ward */
 UPDATE locales_quest SET title_loc1='굴복의 수정' WHERE entry=24729; /* title: Crystal Yield */
 UPDATE locales_quest SET title_loc1='어둠의 칼날도끼' WHERE entry=24743; /* title: Shadow\'s Edge */
+UPDATE locales_quest SET title_loc1='재사용' WHERE entry=24746; /* title: REUSE */
+UPDATE locales_quest SET title_loc1='재사용' WHERE entry=24797; /* title: REUSE */
+UPDATE locales_quest SET title_loc1='리치 왕의 분노' WHERE entry=24802; /* title: Wrath of the Lich King */
+UPDATE locales_quest SET title_loc1='칼루아크 낚시 대회' WHERE entry=24803; /* title: Kalu\'ak Fishing Derby */
 UPDATE locales_quest SET RequestItemsText_loc1='당신은 누구시죠?' WHERE entry=24849; /* RequestItemsText: Who are you? */
 UPDATE locales_quest SET RequestItemsText_loc1='당신은 누구시죠?' WHERE entry=24851; /* RequestItemsText: Who are you? */
+UPDATE locales_quest SET title_loc1='공성 저지' WHERE entry=24863; /* title: Breaking the Siege */
 UPDATE locales_quest SET RequestItemsText_loc1='그래, $n|1이여;여;?' WHERE entry=24866; /* RequestItemsText: Yes, $N? */
 UPDATE locales_quest SET RequestItemsText_loc1='안 돼...' WHERE entry=24904; /* RequestItemsText: No... */
 UPDATE locales_quest SET title_loc1='제이나의 펜던트' WHERE entry=24916; /* title: Jaina\'s Locket */
 UPDATE locales_quest SET title_loc1='땅으로!' WHERE entry=24928; /* title: To The Ground! */
+UPDATE locales_quest SET title_loc1='검은그물 거미굴' WHERE entry=24973; /* title: Night Web\'s Hollow */
+UPDATE locales_quest SET title_loc1='가렌의 흉가' WHERE entry=24991; /* title: Garren\'s Haunt */
 UPDATE locales_quest SET title_loc1='죽음풀' WHERE entry=24994; /* title: Doom Weed */
 UPDATE locales_quest SET title_loc1='구더기눈' WHERE entry=24998; /* title: Maggot Eye */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=24998; /* RequestItemsText: Yes? */
@@ -2029,15 +2053,23 @@ UPDATE locales_quest SET title_loc1='굴절의 상트라제' WHERE entry=25025; 
 UPDATE locales_quest SET title_loc1='땅으로!' WHERE entry=25053; /* title: To The Ground! */
 UPDATE locales_quest SET title_loc1='센진 마을' WHERE entry=25073; /* title: Sen\'jin Village */
 UPDATE locales_quest SET title_loc1='뻐드렁니' WHERE entry=25085; /* title: Mangletooth */
+UPDATE locales_quest SET title_loc1='슬픈모래 감시탑' WHERE entry=25091; /* title: Sandsorrow Watch */
+UPDATE locales_quest SET title_loc1='밀조장이 전초기지' WHERE entry=25103; /* title: Bootlegger Outpost */
 UPDATE locales_quest SET title_loc1='추방자 피글리 (구)' WHERE entry=25108; /* title: Feegly the Exiled */
 UPDATE locales_quest SET title_loc1='하나주아' WHERE entry=25128; /* title: Hana\'zua */
 UPDATE locales_quest SET title_loc1='사르코스' WHERE entry=25129; /* title: Sarkoth */
 UPDATE locales_quest SET title_loc1='불타는 칼날단 메달' WHERE entry=25132; /* title: Burning Blade Medallion */
 UPDATE locales_quest SET title_loc1='타즈릴의 곡괭이' WHERE entry=25135; /* title: Thazz\'ril\'s Pick */
+UPDATE locales_quest SET title_loc1='절개' WHERE entry=25141; /* title: Eviscerate */
+UPDATE locales_quest SET title_loc1='제물' WHERE entry=25145; /* title: Immolate */
+UPDATE locales_quest SET title_loc1='돌진' WHERE entry=25147; /* title: Charge */
+UPDATE locales_quest SET title_loc1='신비한 화살' WHERE entry=25149; /* title: Arcane Missiles */
 UPDATE locales_quest SET title_loc1='대지의 서판' WHERE entry=25180; /* title: Tablets of the Earth */
 UPDATE locales_quest SET title_loc1='불의 서판' WHERE entry=25181; /* title: Tablets of Fire */
 UPDATE locales_quest SET title_loc1='모두 없애버려!' WHERE entry=25182; /* title: Kill them all! */
+UPDATE locales_quest SET title_loc1='은빛 너울 동굴' WHERE entry=25222; /* title: Silver Tide Hollow */
 UPDATE locales_quest SET title_loc1='마르고즈' WHERE entry=25261; /* title: Margoz */
+UPDATE locales_quest SET title_loc1='해골 바위굴' WHERE entry=25262; /* title: Skull Rock */
 UPDATE locales_quest SET title_loc1='네루 파이어블레이드' WHERE entry=25263; /* title: Neeru Fireblade */
 UPDATE locales_quest SET title_loc1='아크젤로스' WHERE entry=25264; /* title: Ak\'Zeloth */
 UPDATE locales_quest SET title_loc1='승리!' WHERE entry=25265; /* title: Victory! */
@@ -2046,10 +2078,14 @@ UPDATE locales_quest SET title_loc1='나무정령 뮤세크' WHERE entry=25338; 
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=25342; /* RequestItemsText: Yes? */
 UPDATE locales_quest SET title_loc1='요정용 뮤세크' WHERE entry=25345; /* title: Faerie Dragon Muisek */
 UPDATE locales_quest SET title_loc1='산악거인 뮤세크' WHERE entry=25346; /* title: Mountain Giant Muisek */
+UPDATE locales_quest SET title_loc1='선제 공격' WHERE entry=25364; /* title: Alpha Strike */
 UPDATE locales_quest SET title_loc1='채찍쐐기' WHERE entry=25369; /* title: Stinglasher */
 UPDATE locales_quest SET title_loc1='골두니 코발트' WHERE entry=25376; /* title: Gordunni Cobalt */
+UPDATE locales_quest SET title_loc1='놈리건 작전' WHERE entry=25393; /* title: Operation: Gnomeregan */
+UPDATE locales_quest SET title_loc1='선제 공격' WHERE entry=25427; /* title: Alpha Strike */
 UPDATE locales_quest SET title_loc1='채찍쐐기' WHERE entry=25431; /* title: Stinglasher */
 UPDATE locales_quest SET title_loc1='소용돌이' WHERE entry=25441; /* title: Vortex */
+UPDATE locales_quest SET title_loc1='잘라제인의 최후' WHERE entry=25445; /* title: Zalazane\'s Fall */
 UPDATE locales_quest SET title_loc1='온전한 설인 가죽' WHERE entry=25451; /* title: Pristine Yeti Hide */
 UPDATE locales_quest SET title_loc1='완전한 설인 가죽' WHERE entry=25454; /* title: Perfect Yeti Hide */
 UPDATE locales_quest SET RequestItemsText_loc1='그래, $n|1이여;여;?' WHERE entry=25472; /* RequestItemsText: Yes, $N? */
@@ -2058,67 +2094,116 @@ UPDATE locales_quest SET title_loc1='싸움이 일어났습니다!' WHERE entry=
 UPDATE locales_quest SET title_loc1='싸움이 일어났습니다!' WHERE entry=25518; /* title: Bar Fight! */
 UPDATE locales_quest SET title_loc1='전투 태세로!' WHERE entry=25545; /* title: To Arms! */
 UPDATE locales_quest SET RequestItemsText_loc1='무슨 일이오, $c|1이여;여;?' WHERE entry=25583; /* RequestItemsText: Yes, $C? */
+UPDATE locales_quest SET title_loc1='가라앉은 보물' WHERE entry=25609; /* title: Sunken Treasure */
+UPDATE locales_quest SET title_loc1='가라앉은 보물' WHERE entry=25610; /* title: Sunken Treasure */
 UPDATE locales_quest SET title_loc1='화끈하게! 불타올라!' WHERE entry=25622; /* title: Burn, Baby, Burn! */
 UPDATE locales_quest SET title_loc1='감시자 마할 바' WHERE entry=25714; /* title: Watcher Mahar Ba */
 UPDATE locales_quest SET title_loc1='발연 광석' WHERE entry=25735; /* title: Incendicite Ore */
+UPDATE locales_quest SET title_loc1='고대 화톳불' WHERE entry=25762; /* title: The Ancient Brazier */
 UPDATE locales_quest SET title_loc1='바보의 금' WHERE entry=25774; /* title: Fool\'s Gold */
 UPDATE locales_quest SET title_loc1='바보의 금' WHERE entry=25775; /* title: Fool\'s Gold */
+UPDATE locales_quest SET title_loc1='깊은 산마루' WHERE entry=25793; /* title: The Deep Reaches */
+UPDATE locales_quest SET title_loc1='폭군의 몰락' WHERE entry=25848; /* title: Downfall */
+UPDATE locales_quest SET title_loc1='네스피라' WHERE entry=25890; /* title: Nespirah */
+UPDATE locales_quest SET title_loc1='전장의 부름' WHERE entry=25924; /* title: Call of Duty */
 UPDATE locales_quest SET title_loc1='덤벼!' WHERE entry=25948; /* title: Bring It On! */
 UPDATE locales_quest SET title_loc1='피바람을 불러 일으키자!' WHERE entry=25949; /* title: Blood and Thunder! */
 UPDATE locales_quest SET RequestItemsText_loc1='무슨 일이오, $c|1이여;여;?' WHERE entry=25956; /* RequestItemsText: Yes, $C? */
+UPDATE locales_quest SET title_loc1='크롬가르 요새' WHERE entry=26004; /* title: Krom\'gar Fortress */
+UPDATE locales_quest SET title_loc1='수색과 파괴' WHERE entry=26009; /* title: Seek and Destroy */
 UPDATE locales_quest SET title_loc1='스트롬의 인장' WHERE entry=26030; /* title: Sigil of Strom */
 UPDATE locales_quest SET title_loc1='소라딘의 인장' WHERE entry=26031; /* title: Sigil of Thoradin */
 UPDATE locales_quest SET title_loc1='아라소르의 인장' WHERE entry=26032; /* title: Sigil of Arathor */
 UPDATE locales_quest SET title_loc1='황혼의 파괴자' WHERE entry=26034; /* title: The Twilight Destroyer */
+UPDATE locales_quest SET title_loc1='가라앉은 보물' WHERE entry=26051; /* title: Sunken Treasure */
 UPDATE locales_quest SET title_loc1='망치 주둔지' WHERE entry=26084; /* title: Hammerfall */
+UPDATE locales_quest SET title_loc1='북부습곡 장원' WHERE entry=26093; /* title: Northfold Manor */
 UPDATE locales_quest SET title_loc1='육지다!' WHERE entry=26109; /* title: Land Ho! */
+UPDATE locales_quest SET title_loc1='페니의 호박 팬케이크' WHERE entry=26153; /* title: Penny\'s Pumpkin Pancakes */
+UPDATE locales_quest SET title_loc1='수르위치' WHERE entry=26175; /* title: Surwich */
+UPDATE locales_quest SET title_loc1='게가 느껴지나요?' WHERE entry=26177; /* title: Feeling Crabby? */
 UPDATE locales_quest SET title_loc1='감독관 피즈스프로켓' WHERE entry=26180; /* title: Supervisor Fizsprocket */
+UPDATE locales_quest SET title_loc1='왕의 탄산수' WHERE entry=26183; /* title: The King\'s Cider */
 UPDATE locales_quest SET title_loc1='마즈라나체' WHERE entry=26188; /* title: Mazzranache */
+UPDATE locales_quest SET title_loc1='낚시꾼의 잔치 음식' WHERE entry=26190; /* title: A Fisherman\'s Feast */
+UPDATE locales_quest SET title_loc1='고아들도 과자를 좋아해!' WHERE entry=26192; /* title: Orphans Like Cookies Too! */
 UPDATE locales_quest SET title_loc1='결의의 롱브레이드' WHERE entry=26196; /* title: Longbraid the Grim */
+UPDATE locales_quest SET title_loc1='베이컨만 있으면 모든 게 좋아져' WHERE entry=26220; /* title: Everything Is Better with Bacon */
 UPDATE locales_quest SET title_loc1='퍼플리버보스 포트 포도주' WHERE entry=26225; /* title: Pupellyverbos Port */
+UPDATE locales_quest SET title_loc1='크리올식 가재 요리' WHERE entry=26226; /* title: Crawfish Creole */
+UPDATE locales_quest SET title_loc1='주의: 이 과일은 쏩니다' WHERE entry=26227; /* title: Careful, This Fruit Bites Back */
+UPDATE locales_quest SET title_loc1='우리 걸 훔치기' WHERE entry=26233; /* title: Stealing From Our Own */
+UPDATE locales_quest SET title_loc1='우리 걸 훔치기' WHERE entry=26234; /* title: Stealing From Our Own */
+UPDATE locales_quest SET title_loc1='도둑들도 배가 고프다' WHERE entry=26235; /* title: Even Thieves Get Hungry */
 UPDATE locales_quest SET title_loc1='서부정통 스튜' WHERE entry=26241; /* title: Westfall Stew */
 UPDATE locales_quest SET title_loc1='살아있습니다!' WHERE entry=26257; /* title: It\'s alive! */
+UPDATE locales_quest SET title_loc1='데스윙의 몰락지' WHERE entry=26258; /* title: Deathwing\'s Fall */
 UPDATE locales_quest SET title_loc1='가시덤불 골짜기의 푸른 언덕' WHERE entry=26269; /* title: The Green Hills of Stranglethorn */
 UPDATE locales_quest SET RequestItemsText_loc1='좋은 소식이라도?' WHERE entry=26295; /* RequestItemsText: Any luck? */
+UPDATE locales_quest SET title_loc1='마음의 눈' WHERE entry=26303; /* title: The Mind\'s Eye */
 UPDATE locales_quest SET RequestItemsText_loc1='다시 오신 걸 환영해요, $n 님.' WHERE entry=26329; /* RequestItemsText: Welcome back, $N. */
 UPDATE locales_quest SET title_loc1='혈군주 만도키르' WHERE entry=26334; /* title: Bloodlord Mandokir */
 UPDATE locales_quest SET title_loc1='셰익스 오브린' WHERE entry=26336; /* title: Shakes O\'Breen */
 UPDATE locales_quest SET title_loc1='엑셀시어' WHERE entry=26345; /* title: Excelsior */
+UPDATE locales_quest SET title_loc1='돌더미' WHERE entry=26375; /* title: Loose Stones */
 UPDATE locales_quest SET title_loc1='덩가 롱드링크' WHERE entry=26395; /* title: Dungar Longdrink */
+UPDATE locales_quest SET title_loc1='쏘가리를 내려쳐라' WHERE entry=26414; /* title: Hitting a Walleye */
+UPDATE locales_quest SET title_loc1='지렁이 파내기' WHERE entry=26420; /* title: Diggin\' For Worms */
+UPDATE locales_quest SET title_loc1='깨진엄니 마을' WHERE entry=26430; /* title: Revantusk Village */
 UPDATE locales_quest SET title_loc1='고고학' WHERE entry=26431; /* title: Archaeology */
+UPDATE locales_quest SET title_loc1='바위 바닷가재' WHERE entry=26442; /* title: Rock Lobster */
 UPDATE locales_quest SET title_loc1='악마의 계획서' WHERE entry=26443; /* title: Diabolical Plans */
 UPDATE locales_quest SET title_loc1='악마의 계획서' WHERE entry=26447; /* title: Diabolical Plans */
 UPDATE locales_quest SET title_loc1='루젤' WHERE entry=26466; /* title: Ruuzel */
 UPDATE locales_quest SET title_loc1='배스랜모초' WHERE entry=26473; /* title: Bathran\'s Hair */
 UPDATE locales_quest SET title_loc1='오렌딜의 치료제' WHERE entry=26474; /* title: Orendil\'s Cure */
 UPDATE locales_quest SET title_loc1='엘룬의 눈물' WHERE entry=26475; /* title: Elune\'s Tear */
+UPDATE locales_quest SET title_loc1='꿀꺽' WHERE entry=26488; /* title: Big Gulp */
 UPDATE locales_quest SET title_loc1='그리핀 조련사 탈론액스' WHERE entry=26527; /* title: Gryphon Master Talonaxe */
+UPDATE locales_quest SET title_loc1='천둥 폭포' WHERE entry=26536; /* title: Thunder Falls */
+UPDATE locales_quest SET title_loc1='친친한 손' WHERE entry=26543; /* title: Clammy Hands */
 UPDATE locales_quest SET title_loc1='대여사제 제클릭' WHERE entry=26553; /* title: High Priestess Jeklik */
 UPDATE locales_quest SET title_loc1='대사제 베녹시스' WHERE entry=26555; /* title: High Priest Venoxis */
+UPDATE locales_quest SET title_loc1='쓰레기 투척은 그만' WHERE entry=26556; /* title: No Dumping Allowed */
+UPDATE locales_quest SET title_loc1='무너지는 노력' WHERE entry=26557; /* title: A Staggering Effort */
 UPDATE locales_quest SET title_loc1='측량 장비' WHERE entry=26569; /* title: Surveying Equipment */
+UPDATE locales_quest SET title_loc1='절호의 기회' WHERE entry=26572; /* title: A Golden Opportunity */
+UPDATE locales_quest SET title_loc1='왕성한 낚시' WHERE entry=26588; /* title: A Furious Catch */
 UPDATE locales_quest SET title_loc1='선장의 상자' WHERE entry=26599; /* title: The Captain\'s Chest */
 UPDATE locales_quest SET title_loc1='쪽지가 든 병' WHERE entry=26603; /* title: Message in a Bottle */
 UPDATE locales_quest SET title_loc1='갈색 게살 케이크' WHERE entry=26623; /* title: Dusky Crab Cakes */
 UPDATE locales_quest SET title_loc1='은둔자' WHERE entry=26627; /* title: The Hermit */
 UPDATE locales_quest SET title_loc1='어둠의 순찰대' WHERE entry=26645; /* title: The Night Watch */
+UPDATE locales_quest SET title_loc1='전쟁 포로' WHERE entry=26646; /* title: Prisoners of War */
+UPDATE locales_quest SET title_loc1='아가씨의 행운호' WHERE entry=26650; /* title: The Damsel\'s Luck */
 UPDATE locales_quest SET title_loc1='유령의 머리 가닥' WHERE entry=26652; /* title: Ghost Hair Thread */
+UPDATE locales_quest SET title_loc1='롤랜드 광산' WHERE entry=26670; /* title: Roland\'s Doom */
+UPDATE locales_quest SET title_loc1='오염된 과수원' WHERE entry=26689; /* title: The Rotting Orchard */
+UPDATE locales_quest SET title_loc1='재사용' WHERE entry=26704; /* title: REUSE */
 UPDATE locales_quest SET title_loc1='말퓨리온 스톰레이지' WHERE entry=26715; /* title: Malfurion Stormrage */
 UPDATE locales_quest SET RequestItemsText_loc1='그래, $n|1이여;여;?' WHERE entry=26729; /* RequestItemsText: Yes, $N? */
+UPDATE locales_quest SET title_loc1='재사용' WHERE entry=26741; /* title: REUSE */
 UPDATE locales_quest SET title_loc1='혈군주 만도키르' WHERE entry=26748; /* title: Bloodlord Mandokir */
 UPDATE locales_quest SET title_loc1='모벤트 파멸의 불꽃' WHERE entry=26754; /* title: Morbent\'s Bane */
 UPDATE locales_quest SET title_loc1='네사 섀도송' WHERE entry=26756; /* title: Nessa Shadowsong */
+UPDATE locales_quest SET title_loc1='마음의 눈' WHERE entry=26781; /* title: The Mind\'s Eye */
 UPDATE locales_quest SET title_loc1='모건 래디모어' WHERE entry=26794; /* title: Morgan Ladimore */
 UPDATE locales_quest SET title_loc1='모르라딤' WHERE entry=26795; /* title: Mor\'Ladim */
 UPDATE locales_quest SET title_loc1='저주받은 해골' WHERE entry=26802; /* title: The Damned */
 UPDATE locales_quest SET title_loc1='대여사제 제클릭' WHERE entry=26812; /* title: High Priestess Jeklik */
 UPDATE locales_quest SET title_loc1='대사제 베녹시스' WHERE entry=26814; /* title: High Priest Venoxis */
+UPDATE locales_quest SET title_loc1='전율하는 들판' WHERE entry=26847; /* title: The Quaking Fields */
 UPDATE locales_quest SET title_loc1='욕망의 타라가만' WHERE entry=26858; /* title: Taragaman the Hungerer */
 UPDATE locales_quest SET title_loc1='검은심연 나락' WHERE entry=26893; /* title: Blackfathom Deeps */
 UPDATE locales_quest SET title_loc1='검은심연 나락' WHERE entry=26894; /* title: Blackfathom Deeps */
 UPDATE locales_quest SET title_loc1='검은심연 나락' WHERE entry=26897; /* title: Blackfathom Deeps */
 UPDATE locales_quest SET title_loc1='검은심연 나락' WHERE entry=26898; /* title: Blackfathom Deeps */
 UPDATE locales_quest SET title_loc1='수입업자 윌릭스' WHERE entry=26903; /* title: Willix the Importer */
+UPDATE locales_quest SET title_loc1='불태우기' WHERE entry=26914; /* title: Immolation */
 UPDATE locales_quest SET title_loc1='소환사 아라즈' WHERE entry=26925; /* title: Araj the Summoner */
+UPDATE locales_quest SET title_loc1='신비한 화살' WHERE entry=26940; /* title: Arcane Missiles */
+UPDATE locales_quest SET title_loc1='신비한 화살' WHERE entry=26968; /* title: Arcane Missiles */
+UPDATE locales_quest SET title_loc1='날쌘톱니 기지' WHERE entry=26980; /* title: Swiftgear Station */
 UPDATE locales_quest SET title_loc1='타락의 개요' WHERE entry=26993; /* title: Compendium of the Fallen */
 UPDATE locales_quest SET title_loc1='족장 우코르즈 샌드스칼프' WHERE entry=27068; /* title: Chief Ukorz Sandscalp */
 UPDATE locales_quest SET title_loc1='놈들에게 지옥을 보여줘라!' WHERE entry=27073; /* title: Give \'em Hell! */
@@ -2129,15 +2214,25 @@ UPDATE locales_quest SET title_loc1='레스텐드리스의 그물' WHERE entry=2
 UPDATE locales_quest SET title_loc1='명가' WHERE entry=27131; /* title: The Highborne */
 UPDATE locales_quest SET title_loc1='명가' WHERE entry=27132; /* title: The Highborne */
 UPDATE locales_quest SET title_loc1='사자 키르토노스' WHERE entry=27147; /* title: Kirtonos the Herald */
+UPDATE locales_quest SET title_loc1='학교가기 싫은 사람, 모여라' WHERE entry=27148; /* title: School\'s Out Forever */
 UPDATE locales_quest SET title_loc1='소환사 아라즈' WHERE entry=27164; /* title: Araj the Summoner */
+UPDATE locales_quest SET title_loc1='고통의 흉가' WHERE entry=27172; /* title: The Writhing Haunt */
 UPDATE locales_quest SET RequestItemsText_loc1='그래, $n|1이여;여;?' WHERE entry=27176; /* RequestItemsText: Yes, $N? */
+UPDATE locales_quest SET title_loc1='수색과 파괴' WHERE entry=27193; /* title: Seek and Destroy */
 UPDATE locales_quest SET title_loc1='트레샤돈 기름' WHERE entry=27217; /* title: Thresher Oil */
 UPDATE locales_quest SET title_loc1='깊은 바다에 사는 사악한 생물들' WHERE entry=27218; /* title: Dastardly Denizens of the Deep */
+UPDATE locales_quest SET title_loc1='징벌' WHERE entry=27223; /* title: Retribution */
+UPDATE locales_quest SET title_loc1='군주 아우리우스 리븐데어' WHERE entry=27227; /* title: Lord Aurius Rivendare */
 UPDATE locales_quest SET title_loc1='렌 맥길' WHERE entry=27235; /* title: Renn McGill */
 UPDATE locales_quest SET title_loc1='그레이슨 섀도브레이커 경' WHERE entry=27265; /* title: Lord Grayson Shadowbreaker */
 UPDATE locales_quest SET title_loc1='그레즈 레이지피스트' WHERE entry=27281; /* title: Grezz Ragefist */
+UPDATE locales_quest SET title_loc1='탈영병들' WHERE entry=27287; /* title: The Deserters */
+UPDATE locales_quest SET title_loc1='탈영병들' WHERE entry=27288; /* title: The Deserters */
 UPDATE locales_quest SET title_loc1='바임스의 보고서' WHERE entry=27289; /* title: Vimes\'s Report */
 UPDATE locales_quest SET title_loc1='가족과 사랑' WHERE entry=27305; /* title: Of Love and Family */
+UPDATE locales_quest SET title_loc1='기드윈 골드브레이즈' WHERE entry=27367; /* title: Gidwin Goldbraids */
+UPDATE locales_quest SET title_loc1='타레나 선스트라이크' WHERE entry=27370; /* title: Tarenar Sunstrike */
+UPDATE locales_quest SET title_loc1='광기의 구렁텅이' WHERE entry=27374; /* title: The Maw of Madness */
 UPDATE locales_quest SET title_loc1='악몽마' WHERE entry=27380; /* title: Nightmare */
 UPDATE locales_quest SET title_loc1='파멜라의 인형' WHERE entry=27384; /* title: Pamela\'s Doll */
 UPDATE locales_quest SET title_loc1='물러나세요!' WHERE entry=27405; /* title: Fall Back! */
@@ -2146,57 +2241,156 @@ UPDATE locales_quest SET title_loc1='달라 돈위버' WHERE entry=27476; /* tit
 UPDATE locales_quest SET title_loc1='여로의 종착지' WHERE entry=27527; /* title: Journey\'s End */
 UPDATE locales_quest SET title_loc1='아우구스투스의 회계장부' WHERE entry=27534; /* title: Augustus\' Receipt Book */
 UPDATE locales_quest SET title_loc1='파멜라의 인형' WHERE entry=27558; /* title: Pamela\'s Doll */
+UPDATE locales_quest SET title_loc1='험상궂은 주정뱅이 선술집' WHERE entry=27571; /* title: The Grim Guzzler */
+UPDATE locales_quest SET title_loc1='험상궂은 주정뱅이 선술집' WHERE entry=27589; /* title: The Grim Guzzler */
 UPDATE locales_quest SET title_loc1='산의 정수' WHERE entry=27596; /* title: The Heart of the Mountain */
+UPDATE locales_quest SET title_loc1='봉인된 문' WHERE entry=27603; /* title: The Sealed Gate */
 UPDATE locales_quest SET title_loc1='예언자 잠말란' WHERE entry=27604; /* title: Jammal\'an the Prophet */
 UPDATE locales_quest SET title_loc1='에라니쿠스 변신' WHERE entry=27605; /* title: Eranikus */
+UPDATE locales_quest SET title_loc1='파이어비어드의 지구대' WHERE entry=27621; /* title: Firebeard\'s Patrol */
+UPDATE locales_quest SET title_loc1='위조한 서류' WHERE entry=27675; /* title: Forged Documents */
+UPDATE locales_quest SET title_loc1='백금 원반' WHERE entry=27678; /* title: The Platinum Discs */
+UPDATE locales_quest SET title_loc1='위조한 서류' WHERE entry=27686; /* title: Forged Documents */
 UPDATE locales_quest SET title_loc1='공주 테라드라스' WHERE entry=27692; /* title: Princess Theradras */
+UPDATE locales_quest SET title_loc1='눈물의 연못' WHERE entry=27694; /* title: Pool of Tears */
+UPDATE locales_quest SET title_loc1='쿠엘다닐 오두막' WHERE entry=27725; /* title: Quel\'Danil Lodge */
 UPDATE locales_quest SET RequestItemsText_loc1='$n!' WHERE entry=27745; /* RequestItemsText: $N! */
 UPDATE locales_quest SET title_loc1='감독관' WHERE entry=27756; /* title: The Foreman */
+UPDATE locales_quest SET title_loc1='좋은 물건' WHERE entry=27824; /* title: The Good Stuff */
 UPDATE locales_quest SET RequestItemsText_loc1='너무 빨리 온 거 아니오?' WHERE entry=27824; /* RequestItemsText: Back so soon? */
+UPDATE locales_quest SET title_loc1='숨겨진 손아귀' WHERE entry=27832; /* title: The Hidden Clutch */
 UPDATE locales_quest SET title_loc1='드레니시스트 수정' WHERE entry=27840; /* title: Draenethyst Crystals */
 UPDATE locales_quest SET RequestItemsText_loc1='상황은?' WHERE entry=27851; /* RequestItemsText: What\'s the situation? */
 UPDATE locales_quest SET title_loc1='공격 받고 있다!' WHERE entry=27857; /* title: We\'re Under Attack! */
 UPDATE locales_quest SET RequestItemsText_loc1='너무 빨리 온 거 아니오?' WHERE entry=27878; /* RequestItemsText: Back so soon? */
+UPDATE locales_quest SET title_loc1='피감시자 거점' WHERE entry=27881; /* title: Bloodwatcher Point */
+UPDATE locales_quest SET title_loc1='신 카르가스' WHERE entry=27889; /* title: New Kargath */
+UPDATE locales_quest SET title_loc1='숨겨진 손아귀' WHERE entry=27897; /* title: The Hidden Clutch */
+UPDATE locales_quest SET title_loc1='점화' WHERE entry=27903; /* title: Ignition */
 UPDATE locales_quest SET title_loc1='니카 블러드스카' WHERE entry=27906; /* title: Neeka Bloodscar */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=27916; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc1='피난처' WHERE entry=27918; /* title: The Harborage */
 UPDATE locales_quest SET title_loc1='참상의 도끼' WHERE entry=27930; /* title: Devastation */
+UPDATE locales_quest SET title_loc1='전율하는 들판' WHERE entry=27931; /* title: The Quaking Fields */
+UPDATE locales_quest SET title_loc1='거미 퇴치' WHERE entry=27944; /* title: Thinning the Brood */
+UPDATE locales_quest SET title_loc1='끈끈한 임무' WHERE entry=27948; /* title: A Sticky Task */
+UPDATE locales_quest SET title_loc1='잊어버린 전우' WHERE entry=27949; /* title: The Forgotten */
+UPDATE locales_quest SET title_loc1='성골 보관실' WHERE entry=27953; /* title: The Reliquary */
+UPDATE locales_quest SET title_loc1='유해 구조' WHERE entry=27966; /* title: Salvaging the Remains */
+UPDATE locales_quest SET title_loc1='부관 코너' WHERE entry=27967; /* title: First Lieutenant Connor */
+UPDATE locales_quest SET title_loc1='선장 P. 해리스' WHERE entry=27970; /* title: Captain P. Harris */
+UPDATE locales_quest SET title_loc1='언데드 퇴치' WHERE entry=27971; /* title: Rattling Their Cages */
+UPDATE locales_quest SET title_loc1='사기 충전' WHERE entry=27972; /* title: Boosting Morale */
+UPDATE locales_quest SET title_loc1='유령 조심!' WHERE entry=27973; /* title: Watch Out For Splinters! */
+UPDATE locales_quest SET title_loc1='현상 수배: 현장감독 웰슨' WHERE entry=27975; /* title: WANTED: Foreman Wellson */
+UPDATE locales_quest SET title_loc1='유령 잡는 호드' WHERE entry=27978; /* title: Ghostbuster */
 UPDATE locales_quest SET title_loc1='엘룬께 올리는 기도문' WHERE entry=27985; /* title: Prayer to Elune */
+UPDATE locales_quest SET title_loc1='포탄이다!' WHERE entry=27987; /* title: Cannonball! */
+UPDATE locales_quest SET title_loc1='전망대 탈환' WHERE entry=27991; /* title: Taking the Overlook Back */
+UPDATE locales_quest SET title_loc1='자석의 원리' WHERE entry=27992; /* title: Magnets, How Do They Work? */
+UPDATE locales_quest SET title_loc1='깔끔한 일 처리' WHERE entry=28046; /* title: Finish The Job */
+UPDATE locales_quest SET title_loc1='상어 탱크' WHERE entry=28050; /* title: Shark Tank */
+UPDATE locales_quest SET title_loc1='요새 점령' WHERE entry=28059; /* title: Claiming The Keep */
+UPDATE locales_quest SET title_loc1='무기를 남기지 말라' WHERE entry=28063; /* title: Leave No Weapon Behind */
 UPDATE locales_quest SET RequestItemsText_loc1='반갑습니다.' WHERE entry=28093; /* RequestItemsText: Welcome, $r. */
+UPDATE locales_quest SET title_loc1='나락 청소' WHERE entry=28117; /* title: Clearing the Depths */
+UPDATE locales_quest SET title_loc1='감금된 대마법사' WHERE entry=28118; /* title: The Imprisoned Archmage */
+UPDATE locales_quest SET title_loc1='과거의 교훈' WHERE entry=28120; /* title: Learning From The Past */
+UPDATE locales_quest SET title_loc1='커다란 문제' WHERE entry=28122; /* title: A Huge Problem */
+UPDATE locales_quest SET title_loc1='불친절한 마을' WHERE entry=28130; /* title: Not The Friendliest Town */
 UPDATE locales_quest SET title_loc1='어둠의 군주 펠단' WHERE entry=28153; /* title: Shadow Lord Fel\'dan */
 UPDATE locales_quest SET title_loc1='군주 베인할로우' WHERE entry=28155; /* title: Lord Banehollow */
+UPDATE locales_quest SET title_loc1='늪의 보물' WHERE entry=28162; /* title: Swamp Bait */
+UPDATE locales_quest SET title_loc1='얼라이언스 찌꺼기' WHERE entry=28163; /* title: The Leftovers */
+UPDATE locales_quest SET title_loc1='D 구역' WHERE entry=28165; /* title: D-Block */
+UPDATE locales_quest SET title_loc1='100인 베기' WHERE entry=28173; /* title: Blackout */
+UPDATE locales_quest SET title_loc1='물품 비축' WHERE entry=28177; /* title: Stocking Up */
+UPDATE locales_quest SET title_loc1='스바노스' WHERE entry=28185; /* title: Svarnos */
+UPDATE locales_quest SET title_loc1='저주받은 족쇄' WHERE entry=28186; /* title: Cursed Shackles */
+UPDATE locales_quest SET title_loc1='폭동 진압' WHERE entry=28188; /* title: Prison Revolt */
+UPDATE locales_quest SET title_loc1='감금!' WHERE entry=28193; /* title: Lockdown! */
 UPDATE locales_quest SET RequestItemsText_loc1='이게 뭐지요?' WHERE entry=28196; /* RequestItemsText: What\'s this? */
 UPDATE locales_quest SET title_loc1='위나의 고양이' WHERE entry=28208; /* title: Winna\'s Kitten */
+UPDATE locales_quest SET title_loc1='교도소장' WHERE entry=28223; /* title: The Warden */
+UPDATE locales_quest SET title_loc1='식량 조달' WHERE entry=28232; /* title: Food From Below */
+UPDATE locales_quest SET title_loc1='박살의 땅' WHERE entry=28249; /* title: Crushblow */
 UPDATE locales_quest SET title_loc1='굴단의 해골' WHERE entry=28256; /* title: The Skull of Gul\'dan */
 UPDATE locales_quest SET title_loc1='폭탄 발사!' WHERE entry=28275; /* title: Bombs Away! */
+UPDATE locales_quest SET title_loc1='바람속삭임 숲' WHERE entry=28306; /* title: Whisperwind Grove */
+UPDATE locales_quest SET title_loc1='모건의 망루' WHERE entry=28310; /* title: Morgan\'s Vigil */
 UPDATE locales_quest SET RequestItemsText_loc1='그쪽은 잘 되어 가오?' WHERE entry=28313; /* RequestItemsText: Any luck out there? */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔데요?' WHERE entry=28318; /* RequestItemsText: What? */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔가?' WHERE entry=28330; /* RequestItemsText: Yes? */
+UPDATE locales_quest SET title_loc1='그래! 네 타락을 행동으로 보여줘!' WHERE entry=28351; /* title: Unlimited Potential */
 UPDATE locales_quest SET title_loc1='폭탄이다!' WHERE entry=28368; /* title: FIRE IN THE HOLE! */
+UPDATE locales_quest SET title_loc1='나무구렁 요새' WHERE entry=28373; /* title: Timbermaw Hold */
+UPDATE locales_quest SET title_loc1='완전 연소' WHERE entry=28387; /* title: Burnout */
+UPDATE locales_quest SET title_loc1='물품 비축' WHERE entry=28419; /* title: Stocking Up */
+UPDATE locales_quest SET title_loc1='화염 마루' WHERE entry=28442; /* title: Flame Crest */
 UPDATE locales_quest SET RequestItemsText_loc1='그쪽은 잘 되어 가오?' WHERE entry=28445; /* RequestItemsText: Any luck out there? */
 UPDATE locales_quest SET RequestItemsText_loc1='뭔데요?' WHERE entry=28451; /* RequestItemsText: What? */
 UPDATE locales_quest SET title_loc1='겨울눈 화주' WHERE entry=28462; /* title: Winterfall Firewater */
 UPDATE locales_quest SET title_loc1='대족장 겨울눈' WHERE entry=28470; /* title: High Chief Winterfall */
 UPDATE locales_quest SET title_loc1='대족장의 기록' WHERE entry=28472; /* title: Words of the High Chief */
+UPDATE locales_quest SET title_loc1='켈테릴의 폐허' WHERE entry=28479; /* title: The Ruins of Kel\'Theril */
 UPDATE locales_quest SET RequestItemsText_loc1='어떻게 도와드릴까요, $c님?' WHERE entry=28529; /* RequestItemsText: How can I help you, $c? */
 UPDATE locales_quest SET title_loc1='마우아리의 부적' WHERE entry=28541; /* title: Cache of Mau\'ari */
 UPDATE locales_quest SET title_loc1='겨울눈 에코' WHERE entry=28546; /* title: Winterfall E\'ko */
 UPDATE locales_quest SET title_loc1='겨울눈 에코' WHERE entry=28547; /* title: Winterfall E\'ko */
 UPDATE locales_quest SET title_loc1='격감' WHERE entry=28566; /* title: Decimation */
+UPDATE locales_quest SET title_loc1='침투' WHERE entry=28603; /* title: Infiltration */
+UPDATE locales_quest SET title_loc1='점령' WHERE entry=28605; /* title: Domination */
+UPDATE locales_quest SET title_loc1='해리슨 존스와 울둠의 사원' WHERE entry=28612; /* title: Harrison Jones and the Temple of Uldum */
 UPDATE locales_quest SET title_loc1='아직 멀었어요?' WHERE entry=28629; /* title: Are We There, Yeti? */
 UPDATE locales_quest SET title_loc1='우르시우스' WHERE entry=28639; /* title: Ursius */
 UPDATE locales_quest SET title_loc1='샤이로탐' WHERE entry=28642; /* title: Shy-Rotam */
 UPDATE locales_quest SET title_loc1='수련사제 엘레스' WHERE entry=28651; /* title: Novice Elreth */
 UPDATE locales_quest SET title_loc1='관리인 카이스' WHERE entry=28652; /* title: Caretaker Caice */
 UPDATE locales_quest SET title_loc1='어둠의 사제 사비스' WHERE entry=28653; /* title: Shadow Priest Sarvis */
+UPDATE locales_quest SET title_loc1='커다란 문제' WHERE entry=28657; /* title: A Huge Problem */
+UPDATE locales_quest SET title_loc1='늪의 보물' WHERE entry=28658; /* title: Swamp Bait */
+UPDATE locales_quest SET title_loc1='얼라이언스 찌꺼기' WHERE entry=28659; /* title: The Leftovers */
+UPDATE locales_quest SET title_loc1='나락 청소' WHERE entry=28660; /* title: Clearing the Depths */
+UPDATE locales_quest SET title_loc1='감금된 대마법사' WHERE entry=28661; /* title: The Imprisoned Archmage */
+UPDATE locales_quest SET title_loc1='과거의 교훈' WHERE entry=28662; /* title: Learning From The Past */
+UPDATE locales_quest SET title_loc1='D 구역' WHERE entry=28663; /* title: D-Block */
+UPDATE locales_quest SET title_loc1='스바노스' WHERE entry=28664; /* title: Svarnos */
+UPDATE locales_quest SET title_loc1='저주받은 족쇄' WHERE entry=28665; /* title: Cursed Shackles */
+UPDATE locales_quest SET title_loc1='폭동 진압' WHERE entry=28668; /* title: Prison Revolt */
+UPDATE locales_quest SET title_loc1='교도소장' WHERE entry=28669; /* title: The Warden */
+UPDATE locales_quest SET title_loc1='식량 조달' WHERE entry=28670; /* title: Food From Below */
 UPDATE locales_quest SET title_loc1='별똥별 마을' WHERE entry=28674; /* title: Starfall Village */
+UPDATE locales_quest SET title_loc1='선장 P. 해리스' WHERE entry=28678; /* title: Captain P. Harris */
+UPDATE locales_quest SET title_loc1='언데드 퇴치' WHERE entry=28679; /* title: Rattling Their Cages */
+UPDATE locales_quest SET title_loc1='사기 충전' WHERE entry=28680; /* title: Boosting Morale */
+UPDATE locales_quest SET title_loc1='상어 탱크' WHERE entry=28681; /* title: Shark Tank */
+UPDATE locales_quest SET title_loc1='요새 점령' WHERE entry=28682; /* title: Claiming The Keep */
+UPDATE locales_quest SET title_loc1='거미 퇴치' WHERE entry=28683; /* title: Thinning the Brood */
+UPDATE locales_quest SET title_loc1='끈끈한 임무' WHERE entry=28684; /* title: A Sticky Task */
+UPDATE locales_quest SET title_loc1='무기를 남기지 말라' WHERE entry=28685; /* title: Leave No Weapon Behind */
+UPDATE locales_quest SET title_loc1='불친절한 마을' WHERE entry=28686; /* title: Not The Friendliest Town */
+UPDATE locales_quest SET title_loc1='잊어버린 전우' WHERE entry=28689; /* title: The Forgotten */
+UPDATE locales_quest SET title_loc1='유해 구조' WHERE entry=28690; /* title: Salvaging the Remains */
+UPDATE locales_quest SET title_loc1='부관 코너' WHERE entry=28691; /* title: First Lieutenant Connor */
+UPDATE locales_quest SET title_loc1='자석의 원리' WHERE entry=28692; /* title: Magnets, How Do They Work? */
+UPDATE locales_quest SET title_loc1='깔끔한 일 처리' WHERE entry=28693; /* title: Finish The Job */
+UPDATE locales_quest SET title_loc1='유령 조심!' WHERE entry=28694; /* title: Watch Out For Splinters! */
+UPDATE locales_quest SET title_loc1='현상 수배: 현장감독 웰슨' WHERE entry=28695; /* title: WANTED: Foreman Wellson */
 UPDATE locales_quest SET title_loc1='폭탄 발사!' WHERE entry=28696; /* title: Bombs Away! */
+UPDATE locales_quest SET title_loc1='유령 잡는 호드' WHERE entry=28697; /* title: Ghostbuster */
+UPDATE locales_quest SET title_loc1='포탄이다!' WHERE entry=28698; /* title: Cannonball! */
+UPDATE locales_quest SET title_loc1='전망대 탈환' WHERE entry=28700; /* title: Taking the Overlook Back */
 UPDATE locales_quest SET RequestItemsText_loc1='여기서 무엇을 하고 있나요?' WHERE entry=28710; /* RequestItemsText: What are you doing here? */
 UPDATE locales_quest SET title_loc1='달의 여사제' WHERE entry=28723; /* title: Priestess of the Moon */
 UPDATE locales_quest SET title_loc1='이베론의 해독제' WHERE entry=28724; /* title: Iverron\'s Antidote */
 UPDATE locales_quest SET title_loc1='이 섬은 뭐죠?' WHERE entry=28737; /* title: What is this place? */
+UPDATE locales_quest SET title_loc1='승천 군주 옵시디우스' WHERE entry=28741; /* title: Ascendant Lord Obsidius */
 UPDATE locales_quest SET title_loc1='샤이로탐' WHERE entry=28742; /* title: Shy-Rotam */
 UPDATE locales_quest SET RequestItemsText_loc1='무슨 일이오, $c|1이여;여;?' WHERE entry=28805; /* RequestItemsText: Yes, $C? */
+UPDATE locales_quest SET title_loc1='소용돌이 누각' WHERE entry=28845; /* title: The Vortex Pinnacle */
+UPDATE locales_quest SET title_loc1='돌돌이' WHERE entry=28869; /* title: Pebble */
 UPDATE locales_quest SET title_loc1='발굴조사단장 건스탠' WHERE entry=28881; /* title: Prospector Gunstan */
+UPDATE locales_quest SET title_loc1='변신' WHERE entry=28941; /* title: Transformation */
 UPDATE locales_quest SET title_loc1='사탕 바구니' WHERE entry=28951; /* title: Candy Bucket */
 UPDATE locales_quest SET title_loc1='사탕 바구니' WHERE entry=28952; /* title: Candy Bucket */
 UPDATE locales_quest SET title_loc1='사탕 바구니' WHERE entry=28953; /* title: Candy Bucket */
@@ -2271,17 +2465,86 @@ UPDATE locales_quest SET title_loc1='사모플랜지' WHERE entry=29022; /* titl
 UPDATE locales_quest SET title_loc1='사모플랜지' WHERE entry=29023; /* title: Samophlange */
 UPDATE locales_quest SET title_loc1='사모플랜지' WHERE entry=29024; /* title: Samophlange */
 UPDATE locales_quest SET title_loc1='웨니키 볼트버킷' WHERE entry=29026; /* title: Wenikee Boltbucket */
+UPDATE locales_quest SET title_loc1='구린내 폭탄 투하!' WHERE entry=29054; /* title: Stink Bombs Away! */
+UPDATE locales_quest SET title_loc1='평화를 얻을 시간' WHERE entry=29075; /* title: A Time to Gain */
+UPDATE locales_quest SET title_loc1='추락의 끝' WHERE entry=29141; /* title: The Harder They Fall */
+UPDATE locales_quest SET title_loc1='스톰윈드 청소' WHERE entry=29144; /* title: Clean Up in Stormwind */
 UPDATE locales_quest SET title_loc1='여군주 실바나스 윈드러너' WHERE entry=29167; /* title: The Banshee Queen */
+UPDATE locales_quest SET title_loc1='불꽃의 의식' WHERE entry=29195; /* title: A Ritual of Flame */
+UPDATE locales_quest SET title_loc1='레이아라' WHERE entry=29200; /* title: Leyara */
+UPDATE locales_quest SET title_loc1='나락으로' WHERE entry=29203; /* title: Into the Depths */
 UPDATE locales_quest SET RequestItemsText_loc1='무슨 일이오, $c|1이여;여;?' WHERE entry=29214; /* RequestItemsText: Yes, $C? */
 UPDATE locales_quest SET RequestItemsText_loc1='그래, $n|1이여;여;?' WHERE entry=29281; /* RequestItemsText: Yes, $N? */
 UPDATE locales_quest SET title_loc1='화염의 심장' WHERE entry=29307; /* title: Heart of Flame */
 UPDATE locales_quest SET title_loc1='화염의 심장' WHERE entry=29308; /* title: Heart of Flame */
+UPDATE locales_quest SET title_loc1='완벽한 김치의 비법' WHERE entry=29313; /* title: The Secret to Perfect Kimchi */
+UPDATE locales_quest SET title_loc1='선조를 기리는 일' WHERE entry=29314; /* title: Remembering the Ancestors */
+UPDATE locales_quest SET title_loc1='우리 사이에 피어난 버섯' WHERE entry=29315; /* title: Fungus Among Us */
+UPDATE locales_quest SET title_loc1='기본으로 돌아가기' WHERE entry=29316; /* title: Back to Basics */
+UPDATE locales_quest SET title_loc1='뚱뚱 불은 머리' WHERE entry=29317; /* title: Fish Head */
+UPDATE locales_quest SET title_loc1='파수꾼을 위한 갈비' WHERE entry=29318; /* title: Ribs for the Sentinels */
+UPDATE locales_quest SET title_loc1='공포의 올챙이' WHERE entry=29319; /* title: Tadpole Terror */
+UPDATE locales_quest SET title_loc1='창꼬치 낚시' WHERE entry=29320; /* title: Like Pike? */
+UPDATE locales_quest SET title_loc1='즐거운 조개캐기' WHERE entry=29321; /* title: Happy as a Clam Digger */
+UPDATE locales_quest SET title_loc1='수액 곰팡이를 잡을 시간' WHERE entry=29322; /* title: Time for Slime */
+UPDATE locales_quest SET title_loc1='물품 비축' WHERE entry=29323; /* title: Stocking Up */
+UPDATE locales_quest SET title_loc1='수녀의 펜던트' WHERE entry=29324; /* title: The Sister\'s Pendant */
+UPDATE locales_quest SET title_loc1='미끄덩거리는 먹을거리' WHERE entry=29325; /* title: A Slippery Snack */
+UPDATE locales_quest SET title_loc1='백합, 오 백합' WHERE entry=29332; /* title: Lily, Oh Lily */
+UPDATE locales_quest SET title_loc1='달팽이 요리' WHERE entry=29333; /* title: Escargot A Go-Go */
+UPDATE locales_quest SET title_loc1='바퀴 마차' WHERE entry=29334; /* title: Roach Coach */
+UPDATE locales_quest SET title_loc1='냉수어 낚시' WHERE entry=29342; /* title: Cold Water Fishing */
+UPDATE locales_quest SET title_loc1='늙은 무쇠턱의 후손' WHERE entry=29343; /* title: One fer the Ages */
+UPDATE locales_quest SET title_loc1='스쿼키에게 줄 물고기 낚기' WHERE entry=29344; /* title: Fish fer Squirky */
+UPDATE locales_quest SET title_loc1='연못의 포식자' WHERE entry=29345; /* title: Pond Predators */
+UPDATE locales_quest SET title_loc1='바로 그 반지' WHERE entry=29346; /* title: The Ring\'s the Thing */
+UPDATE locales_quest SET title_loc1='살아 있는 미끼' WHERE entry=29347; /* title: Live Bait */
+UPDATE locales_quest SET title_loc1='시급한 방류 작업' WHERE entry=29348; /* title: The Race to Restock */
+UPDATE locales_quest SET title_loc1='가재가 최고' WHERE entry=29349; /* title: Craving Crayfish */
+UPDATE locales_quest SET title_loc1='노움 자동미끼' WHERE entry=29350; /* title: The Gnomish Bait-o-Matic */
+UPDATE locales_quest SET title_loc1='경비병을 위한 식사' WHERE entry=29351; /* title: A Round for the Guards */
+UPDATE locales_quest SET title_loc1='닭 부족' WHERE entry=29352; /* title: A Fowl Shortage */
+UPDATE locales_quest SET title_loc1='양 순대는 흘러 넘쳐야 해' WHERE entry=29353; /* title: Keepin\' the Haggis Flowin\' */
+UPDATE locales_quest SET title_loc1='반짝이는 미끼' WHERE entry=29354; /* title: Shiny Baubles */
+UPDATE locales_quest SET title_loc1='양념빵은 언제나 부족해' WHERE entry=29355; /* title: Can\'t Get Enough Spice Bread */
+UPDATE locales_quest SET title_loc1='저장통이 필요해' WHERE entry=29356; /* title: I Need to Cask a Favor */
+UPDATE locales_quest SET title_loc1='풍부한 양념빵' WHERE entry=29357; /* title: Spice Bread Aplenty */
+UPDATE locales_quest SET title_loc1='잣이 필요해' WHERE entry=29358; /* title: Pining for Nuts */
+UPDATE locales_quest SET title_loc1='청어 사랑' WHERE entry=29359; /* title: An Old Favorite */
+UPDATE locales_quest SET title_loc1='고기에 붙은 파리' WHERE entry=29360; /* title: Would You Like Some Flies With That? */
+UPDATE locales_quest SET title_loc1='해자 괴물!' WHERE entry=29361; /* title: Moat Monster! */
+UPDATE locales_quest SET title_loc1='"마법" 버섯' WHERE entry=29362; /* title: "Magic" Mushrooms */
 UPDATE locales_quest SET title_loc1='멀고어 양념빵' WHERE entry=29363; /* title: Mulgore Spice Bread */
+UPDATE locales_quest SET title_loc1='옥수수 으깨기' WHERE entry=29364; /* title: Corn Mash */
+UPDATE locales_quest SET title_loc1='완벽하게 고른 재료' WHERE entry=29365; /* title: Perfectly Picked Portions */
 UPDATE locales_quest SET title_loc1='추적' WHERE entry=29368; /* title: Tracking */
+UPDATE locales_quest SET title_loc1='불을 사그라뜨릴 시간' WHERE entry=29371; /* title: A Time to Lose */
+UPDATE locales_quest SET title_loc1='구린내 폭탄 투하!' WHERE entry=29374; /* title: Stink Bombs Away! */
+UPDATE locales_quest SET title_loc1='언더시티 청소' WHERE entry=29375; /* title: Clean Up in Undercity */
+UPDATE locales_quest SET title_loc1='결의를 다질 시간' WHERE entry=29376; /* title: A Time to Build Up */
+UPDATE locales_quest SET title_loc1='축제를 방해할 시간' WHERE entry=29377; /* title: A Time to Break Down */
 UPDATE locales_quest SET title_loc1='슛, 골인!' WHERE entry=29438; /* title: He Shoots, He Scores! */
+UPDATE locales_quest SET title_loc1='분노의 심장' WHERE entry=29536; /* title: Heart of Rage */
+UPDATE locales_quest SET title_loc1='분노의 심장' WHERE entry=29539; /* title: Heart of Rage */
+UPDATE locales_quest SET title_loc1='피의 용광로' WHERE entry=29544; /* title: The Blood Furnace */
+UPDATE locales_quest SET title_loc1='피의 용광로' WHERE entry=29545; /* title: The Blood Furnace */
+UPDATE locales_quest SET title_loc1='검은 추적자 처치' WHERE entry=29567; /* title: Stalk the Stalker */
+UPDATE locales_quest SET title_loc1='경쟁자 처치' WHERE entry=29575; /* title: Undercutting the Competition */
+UPDATE locales_quest SET title_loc1='영혼의 자유를 위하여' WHERE entry=29595; /* title: Everything Will Be Alright */
+UPDATE locales_quest SET title_loc1='던홀드 탈출' WHERE entry=29599; /* title: Escape from Durnholde */
+UPDATE locales_quest SET title_loc1='테로크의 유산' WHERE entry=29606; /* title: Terokk\'s Legacy */
 UPDATE locales_quest SET title_loc1='피의 고서' WHERE entry=29643; /* title: The Codex of Blood */
+UPDATE locales_quest SET title_loc1='미궁의 심장부로' WHERE entry=29644; /* title: Into the Heart of the Labyrinth */
 UPDATE locales_quest SET title_loc1='사자 지옥아귀' WHERE entry=29645; /* title: Ambassador Hellmaw */
 UPDATE locales_quest SET title_loc1='지옥의 불씨' WHERE entry=29650; /* title: Fel Ember */
+UPDATE locales_quest SET title_loc1='대족장의 의지' WHERE entry=29653; /* title: The Will of the Warchief */
+UPDATE locales_quest SET title_loc1='전황의 변화' WHERE entry=29654; /* title: Turning the Tide */
+UPDATE locales_quest SET title_loc1='검은늪' WHERE entry=29671; /* title: The Black Morass */
+UPDATE locales_quest SET title_loc1='어둠의 문 열기' WHERE entry=29672; /* title: The Opening of the Dark Portal */
+UPDATE locales_quest SET title_loc1='검은늪' WHERE entry=29673; /* title: The Black Morass */
 UPDATE locales_quest SET title_loc1='마법학자의 정원' WHERE entry=29682; /* title: Magisters\' Terrace */
+UPDATE locales_quest SET title_loc1='어려운 상대' WHERE entry=29685; /* title: Hard to Kill */
+UPDATE locales_quest SET title_loc1='무르도즈노' WHERE entry=30096; /* title: Murozond */
+UPDATE locales_quest SET title_loc1='드락타론 정화' WHERE entry=30120; /* title: Cleansing Drak\'Tharon */
 
 SET NAMES 'latin1';

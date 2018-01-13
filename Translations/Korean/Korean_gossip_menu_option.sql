@@ -1818,7 +1818,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc1='이 여관을 귀환 장
 UPDATE locales_gossip_menu_option SET option_text_loc1='물건을 구입하고 싶습니다.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc1='사탕 하나 주면 안 잡아먹지!' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc1='<복원의 비약을 먹입니다.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc1='??? ?? ????? ??? ???? ?? ??????!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc1='고마운 줄도 모르는군? 출구는 안전하니 빨리 빠져나가시오!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc1='<복원의 비약을 먹입니다.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc1='<복원의 비약을 먹입니다.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc1='연금술사님, 복원의 비약이 필요해요.' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
