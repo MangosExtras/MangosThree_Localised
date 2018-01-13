@@ -2022,11 +2022,15 @@ UPDATE locales_creature SET name_loc2='Angela Leifeld',subname_loc2='First Aid T
 UPDATE locales_creature SET subname_loc2='The Hand of Azshara' WHERE entry=57118; /* subname: The Hand of Azshara */
 UPDATE locales_creature SET subname_loc2='Defense of Wyrmrest Summit' WHERE entry=57287; /* subname: Defense of Wyrmrest Summit */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57333; /* subname: Blood of Shu\'ma */
+UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57359; /* subname: Blood of Shu\'ma */
+UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57360; /* subname: Blood of Shu\'ma */
+UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57361; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57382; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57384; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57386; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57387; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57388; /* subname: Blood of Shu\'ma */
+UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57425; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET subname_loc2='Blood of Shu\'ma' WHERE entry=57429; /* subname: Blood of Shu\'ma */
 UPDATE locales_creature SET name_loc2='Lord Afrasastrasz (1)',subname_loc2='Commander of Wyrmrest Temple Defenses' WHERE entry=57481; /* name: Lord Afrasastrasz (1) */ .* subname: Commander of Wyrmrest Temple Defenses */
 UPDATE locales_creature SET name_loc2='Deathwing Arm R',subname_loc2='The Destroyer' WHERE entry=57686; /* name: Deathwing Arm R */ .* subname: The Destroyer */

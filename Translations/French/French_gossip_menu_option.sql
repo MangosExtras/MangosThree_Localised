@@ -1818,7 +1818,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc2='Faites de cette auberge 
 UPDATE locales_gossip_menu_option SET option_text_loc2='Laissez-moi jeter un coup d\'œil sur vos marchandises.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc2='Un bonbon ou une blague !' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc2='<Administre le breuvage de restauration.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc2='Je me trompe, ou je sens une pointe d\'ingratitude ? La route est libre, fuyez vite !' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc2='Je me trompe, ou je sens une pointe d\'ingratitude ? La route est libre, fuyez vite !' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc2='<Administre le breuvage de restauration.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc2='<Administre le breuvage de restauration.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc2='Apothicaire, j\'ai besoin d\'une dose de votre breuvage de restauration.' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
