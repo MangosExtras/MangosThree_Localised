@@ -26386,6 +26386,7 @@ UPDATE locales_creature SET name_loc6='Drugan Hondobarril',subname_loc6='Liga de
 UPDATE locales_creature SET name_loc6='Trampa de congelación de escarcha' WHERE entry=37744; /* name: Frost Freeze Trap */
 UPDATE locales_creature SET name_loc6='Quel\'Delar' WHERE entry=37745; /* name: Quel\'Delar */
 UPDATE locales_creature SET name_loc6='Sunwell Caster Bunny' WHERE entry=37746; /* name: Sunwell Caster Bunny */
+UPDATE locales_creature SET name_loc6='Un Dineral de Lanzador de Roca Ardiente' WHERE entry=37748; /* name: A Bazillion Macaroons Fiery Boulder Caster */
 UPDATE locales_creature SET name_loc6='Tótem de aire enano' WHERE entry=37749; /* name: Dwarf Air Totem */
 UPDATE locales_creature SET name_loc6='Tótem de tierra enano' WHERE entry=37750; /* name: Dwarf Earth Totem */
 UPDATE locales_creature SET name_loc6='Tótem de fuego enano' WHERE entry=37751; /* name: Dwarf Fire Totem */
@@ -27693,6 +27694,7 @@ UPDATE locales_creature SET name_loc6='Tahu Viento Sabio',subname_loc6='Instruct
 UPDATE locales_creature SET name_loc6='Destruyemundos personal' WHERE entry=43800; /* name: Personal World Destroyer */
 UPDATE locales_creature SET name_loc6='Furia del cielo' WHERE entry=43801; /* name: Heaven\'s Fury */
 UPDATE locales_creature SET name_loc6='Therazane' WHERE entry=43802; /* name: Therazane */ /* subname: The Stonemother */
+UPDATE locales_creature SET name_loc6='Un Ansuelo: Atrae al Conejo Visual' WHERE entry=43803; /* name: A Lure: Lure Visual Bunny */
 UPDATE locales_creature SET name_loc6='Campeón Roca Negra' WHERE entry=43813; /* name: Blackrock Champion */
 UPDATE locales_creature SET name_loc6='Arrepentimiento' WHERE entry=43817; /* name: Repentance */
 UPDATE locales_creature SET name_loc6='Exiliado ardiente' WHERE entry=43830; /* name: Burning Exile */

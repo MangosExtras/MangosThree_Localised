@@ -19088,13 +19088,19 @@ UPDATE locales_gameobject SET name_loc6='silla' WHERE entry=207119; /* name: Cha
 UPDATE locales_gameobject SET name_loc6='silla' WHERE entry=207120; /* name: Chair */
 UPDATE locales_gameobject SET name_loc6='silla' WHERE entry=207121; /* name: Chair */
 UPDATE locales_gameobject SET name_loc6='Hoguera' WHERE entry=207129; /* name: Campfire */
+UPDATE locales_gameobject SET name_loc6='Una jaula con drakonchik' WHERE entry=207131; /* name: A cage with drakonchik */
+UPDATE locales_gameobject SET name_loc6='Una bolsa con poverzhenny demos of fire' WHERE entry=207138; /* name: A bag with poverzhenny demons of fire */
 UPDATE locales_gameobject SET name_loc6='Mar\'at' WHERE entry=207140; /* name: Marinaded in sidr meat */
+UPDATE locales_gameobject SET name_loc6='Una bolsa con demonios de fuego adormecidos' WHERE entry=207141; /* name: A bag with sleeping demons of fire */
 UPDATE locales_gameobject SET name_loc6='Asiento de peluquería' WHERE entry=207146; /* name: Barbershop Chair */
 UPDATE locales_gameobject SET name_loc6='Asiento de peluquería' WHERE entry=207147; /* name: Barbershop Chair */
 UPDATE locales_gameobject SET name_loc6='Asiento de peluquería' WHERE entry=207148; /* name: Barbershop Chair */
 UPDATE locales_gameobject SET name_loc6='Asiento de peluquería' WHERE entry=207149; /* name: Barbershop Chair */
 UPDATE locales_gameobject SET name_loc6='Asiento de peluquería' WHERE entry=207150; /* name: Barbershop Chair */
+UPDATE locales_gameobject SET name_loc6='Una jaula con drakonchik' WHERE entry=207152; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='Hoguera' WHERE entry=207167; /* name: Campfire */
+UPDATE locales_gameobject SET name_loc6='Una jaula con drakonchik' WHERE entry=207168; /* name: A cage with drakonchik */
+UPDATE locales_gameobject SET name_loc6='Una jaula con drakonchik' WHERE entry=207174; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='PUERTA DE LA ALIANZA' WHERE entry=207177; /* name: ALLIANCE DOOR */
 UPDATE locales_gameobject SET name_loc6='Puerta de la Horda' WHERE entry=207178; /* name: Horde Gate */
 UPDATE locales_gameobject SET name_loc6='Espada de Humbert' WHERE entry=207182; /* name: Humbert\'s Sword */
@@ -19390,11 +19396,13 @@ UPDATE locales_gameobject SET name_loc6='Minería y joyería' WHERE entry=208417
 UPDATE locales_gameobject SET name_loc6='Herrería' WHERE entry=208418; /* name: Blacksmithing */
 UPDATE locales_gameobject SET name_loc6='Ingeniería Pezuña Pálida' WHERE entry=208421; /* name: Palehoof Engineering */
 UPDATE locales_gameobject SET name_loc6='Joyería Cazanubes' WHERE entry=208422; /* name: Cloudchaser Jewelcrafting */
+UPDATE locales_gameobject SET name_loc6='Un fuego grande' WHERE entry=208424; /* name: A big fire */
 UPDATE locales_gameobject SET name_loc6='Oro de tontos' WHERE entry=208436; /* name: Fool\'s Gold */
 UPDATE locales_gameobject SET name_loc6='Door 01' WHERE entry=208461; /* name: Doodad_org_arena_pulley02 */
 UPDATE locales_gameobject SET name_loc6='Fogata' WHERE entry=208508; /* name: Bonfire */
 UPDATE locales_gameobject SET name_loc6='Hoguera' WHERE entry=208534; /* name: Campfire */
 UPDATE locales_gameobject SET name_loc6='Tierra de Un\'Goro' WHERE entry=208537; /* name: Un\'Goro Soil */
+UPDATE locales_gameobject SET name_loc6='Una bolsa con especies' WHERE entry=208538; /* name: A bag with spices */
 UPDATE locales_gameobject SET name_loc6='Mesa' WHERE entry=208573; /* name: Table */
 UPDATE locales_gameobject SET name_loc6='Tambor de guerra embrujado' WHERE entry=208591; /* name: Haunted War Drum */
 UPDATE locales_gameobject SET name_loc6='Estandarte de la Alianza' WHERE entry=208673; /* name: Alliance Banner */
@@ -19447,6 +19455,7 @@ UPDATE locales_gameobject SET name_loc6='Telaraña pegajosa' WHERE entry=208877;
 UPDATE locales_gameobject SET name_loc6='Portal de Fuego' WHERE entry=208899; /* name: Fire Portal */
 UPDATE locales_gameobject SET name_loc6='Portal de Fuego' WHERE entry=208901; /* name: Fire Portal */
 UPDATE locales_gameobject SET name_loc6='Portal de Fuego' WHERE entry=208902; /* name: Fire Portal */
+UPDATE locales_gameobject SET name_loc6='Un fuego grande' WHERE entry=208903; /* name: A big fire */
 UPDATE locales_gameobject SET name_loc6='Muro de Fuego' WHERE entry=208906; /* name: Fire Wall */
 UPDATE locales_gameobject SET name_loc6='Cámara de hermandad' WHERE entry=208948; /* name: Guild Vault */
 UPDATE locales_gameobject SET name_loc6='Azeroth' WHERE entry=208952; /* name: Azeroth */

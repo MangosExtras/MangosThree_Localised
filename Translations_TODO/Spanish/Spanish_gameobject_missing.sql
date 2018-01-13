@@ -4090,20 +4090,16 @@ UPDATE locales_gameobject SET name_loc6='Deadwood Weapon Pile' WHERE entry=20712
 UPDATE locales_gameobject SET name_loc6='Schnottz Powder Keg' WHERE entry=207127; /* name: Schnottz Powder Keg */
 UPDATE locales_gameobject SET name_loc6='Wildhammer Banner' WHERE entry=207128; /* name: Wildhammer Banner */
 UPDATE locales_gameobject SET name_loc6='Titan Guardian' WHERE entry=207130; /* name: Titan Guardian */
-UPDATE locales_gameobject SET name_loc6='A cage with drakonchik' WHERE entry=207131; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='Shaving and sharp stings scorpid' WHERE entry=207132; /* name: Shaving and sharp stings scorpid */
 UPDATE locales_gameobject SET name_loc6='Skins ashy worg' WHERE entry=207133; /* name: Skins ashy worg */
 UPDATE locales_gameobject SET name_loc6='The dirt sated with obsidian' WHERE entry=207134; /* name: The dirt sated with obsidian */
 UPDATE locales_gameobject SET name_loc6='Various reagents of magicians' WHERE entry=207135; /* name: Various reagents of magicians */
 UPDATE locales_gameobject SET name_loc6='Horn of prizyvatel' WHERE entry=207136; /* name: Horn of prizyvatel */
 UPDATE locales_gameobject SET name_loc6='Obsidianovy ashes' WHERE entry=207137; /* name: Obsidianovy ashes */
-UPDATE locales_gameobject SET name_loc6='A bag with poverzhenny demons of fire' WHERE entry=207138; /* name: A bag with poverzhenny demons of fire */
 UPDATE locales_gameobject SET name_loc6='Cutting from worg' WHERE entry=207139; /* name: Cutting from worg */
-UPDATE locales_gameobject SET name_loc6='A bag with sleeping demons of fire' WHERE entry=207141; /* name: A bag with sleeping demons of fire */
 UPDATE locales_gameobject SET name_loc6='The sphere from transparent glass' WHERE entry=207142; /* name: The sphere from transparent glass */
 UPDATE locales_gameobject SET name_loc6='Elemental Binding Stone' WHERE entry=207145; /* name: Elemental Binding Stone */
 UPDATE locales_gameobject SET name_loc6='Titan Guardian' WHERE entry=207151; /* name: Titan Guardian */
-UPDATE locales_gameobject SET name_loc6='A cage with drakonchik' WHERE entry=207152; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='The dirt sated with obsidian' WHERE entry=207153; /* name: The dirt sated with obsidian */
 UPDATE locales_gameobject SET name_loc6='Various reagents of magicians' WHERE entry=207154; /* name: Various reagents of magicians */
 UPDATE locales_gameobject SET name_loc6='Pristine Owl Feather' WHERE entry=207158; /* name: Pristine Owl Feather */
@@ -4114,13 +4110,11 @@ UPDATE locales_gameobject SET name_loc6='Crate of Fine Cloth' WHERE entry=207162
 UPDATE locales_gameobject SET name_loc6='Uldum_BeetleShrine' WHERE entry=207164; /* name: Uldum_BeetleShrine */
 UPDATE locales_gameobject SET name_loc6='Grain Rations' WHERE entry=207165; /* name: Grain Rations */
 UPDATE locales_gameobject SET name_loc6='Titan Console' WHERE entry=207166; /* name: Titan Console */
-UPDATE locales_gameobject SET name_loc6='A cage with drakonchik' WHERE entry=207168; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='Shaving and sharp stings scorpid' WHERE entry=207169; /* name: Shaving and sharp stings scorpid */
 UPDATE locales_gameobject SET name_loc6='Skins ashy worg' WHERE entry=207170; /* name: Skins ashy worg */
 UPDATE locales_gameobject SET name_loc6='The dirt sated with obsidian' WHERE entry=207171; /* name: The dirt sated with obsidian */
 UPDATE locales_gameobject SET name_loc6='Various reagents of magicians' WHERE entry=207172; /* name: Various reagents of magicians */
 UPDATE locales_gameobject SET name_loc6='Horn of prizyvatel' WHERE entry=207173; /* name: Horn of prizyvatel */
-UPDATE locales_gameobject SET name_loc6='A cage with drakonchik' WHERE entry=207174; /* name: A cage with drakonchik */
 UPDATE locales_gameobject SET name_loc6='The dirt sated with obsidian' WHERE entry=207175; /* name: The dirt sated with obsidian */
 UPDATE locales_gameobject SET name_loc6='Various reagents of magicians' WHERE entry=207176; /* name: Various reagents of magicians */
 UPDATE locales_gameobject SET name_loc6='Winterfall Cauldron' WHERE entry=207179; /* name: Winterfall Cauldron */
@@ -4546,7 +4540,6 @@ UPDATE locales_gameobject SET name_loc6='Ice Cream Cone' WHERE entry=208385; /* 
 UPDATE locales_gameobject SET name_loc6='Sac de grain' WHERE entry=208419; /* name: Sac de grain */
 UPDATE locales_gameobject SET name_loc6='Treasure Chest' WHERE entry=208420; /* name: Treasure Chest */
 UPDATE locales_gameobject SET name_loc6='Cinderweb Egg Sac' WHERE entry=208423; /* name: Cinderweb Egg Sac */
-UPDATE locales_gameobject SET name_loc6='A big fire' WHERE entry=208424; /* name: A big fire */
 UPDATE locales_gameobject SET name_loc6='Cinderweb Egg Sac - Spiderling Trap' WHERE entry=208426; /* name: Cinderweb Egg Sac - Spiderling Trap */
 UPDATE locales_gameobject SET name_loc6='Furnace Door' WHERE entry=208427; /* name: Furnace Door */
 UPDATE locales_gameobject SET name_loc6='Hitching post of fighting group' WHERE entry=208428; /* name: Hitching post of fighting group */
@@ -4615,7 +4608,6 @@ UPDATE locales_gameobject SET name_loc6='Forlorn Spire' WHERE entry=208531; /* n
 UPDATE locales_gameobject SET name_loc6='Forlorn Spire' WHERE entry=208532; /* name: Forlorn Spire */
 UPDATE locales_gameobject SET name_loc6='Dried Acorn' WHERE entry=208535; /* name: Dried Acorn */
 UPDATE locales_gameobject SET name_loc6='Doodad_firelands_druidtree_supports01' WHERE entry=208536; /* name: Doodad_firelands_druidtree_supports01 */
-UPDATE locales_gameobject SET name_loc6='A bag with spices' WHERE entry=208538; /* name: A bag with spices */
 UPDATE locales_gameobject SET name_loc6='Magmolia' WHERE entry=208540; /* name: Magmolia */
 UPDATE locales_gameobject SET name_loc6='Magmolia' WHERE entry=208541; /* name: Magmolia */
 UPDATE locales_gameobject SET name_loc6='Magmolia' WHERE entry=208543; /* name: Magmolia */
@@ -4713,7 +4705,6 @@ UPDATE locales_gameobject SET name_loc6='Savory Spice Herbs' WHERE entry=208888;
 UPDATE locales_gameobject SET name_loc6='Fresh-Caught Fish' WHERE entry=208889; /* name: Fresh-Caught Fish */
 UPDATE locales_gameobject SET name_loc6='Fresh-Hunted Fowl' WHERE entry=208890; /* name: Fresh-Hunted Fowl */
 UPDATE locales_gameobject SET name_loc6='Portal to the Firelands' WHERE entry=208900; /* name: Portal to the Firelands */
-UPDATE locales_gameobject SET name_loc6='A big fire' WHERE entry=208903; /* name: A big fire */
 UPDATE locales_gameobject SET name_loc6='Doodad_InstancePortal_Green_10Man01' WHERE entry=208922; /* name: Doodad_InstancePortal_Green_10Man01 */
 UPDATE locales_gameobject SET name_loc6='Doodad_InstancePortal_Green_10Man_Heroic01' WHERE entry=208923; /* name: Doodad_InstancePortal_Green_10Man_Heroic01 */
 UPDATE locales_gameobject SET name_loc6='Doodad_InstancePortal_Green_25Man01' WHERE entry=208924; /* name: Doodad_InstancePortal_Green_25Man01 */
