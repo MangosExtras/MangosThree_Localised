@@ -1818,7 +1818,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc7='Fija tu hogar en esta ta
 UPDATE locales_gossip_menu_option SET option_text_loc7='Deja que eche un vistazo a tus mercancías.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc7='¡Truco o trato!' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc7='<Administra la pócima recuperadora.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc7='No eres de los agradecidos, ¿eh? La salida está libre, ¡huye deprisa!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc7='No eres de los agradecidos, ¿eh? La salida está libre, ¡huye deprisa!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc7='<Administra la pócima recuperadora.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc7='<Administra la pócima recuperadora.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc7='Necesito una muestra de su pócima revitalizadora, apotecario.' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
