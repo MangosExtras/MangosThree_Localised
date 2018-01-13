@@ -33,7 +33,6 @@ UPDATE locales_quest SET RequestItemsText_loc9='Si?' WHERE entry=398; /* Request
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=406; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=462; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=490; /* title: <UNUSED> */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=493; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=497; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='Grotta di Beren' WHERE entry=516; /* title: Beren\'s Peril */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=534; /* title: <UNUSED> */
@@ -97,7 +96,6 @@ UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=904; /* title: <UN
 UPDATE locales_quest SET RequestItemsText_loc9='Siamo ancora qui?' WHERE entry=910; /* RequestItemsText: Are we there yet? */
 UPDATE locales_quest SET title_loc9='Il Seme Demonico' WHERE entry=924; /* title: The Demon Seed */
 UPDATE locales_quest SET title_loc9='Pietra del Potere Imperfetta' WHERE entry=926; /* title: Flawed Power Stone */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=931; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='Nebbia' WHERE entry=938; /* title: Mist */
 UPDATE locales_quest SET title_loc9='Teldrassil' WHERE entry=940; /* title: Teldrassil */
 UPDATE locales_quest SET title_loc9='Gladio del Maestro' WHERE entry=944; /* title: The Master\'s Glaive */
@@ -114,7 +112,6 @@ UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=987; /* title: <UN
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=988; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=989; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=996; /* title: Corrupted Windblossom */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=997; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='Windblossom Corrotto' WHERE entry=998; /* title: Corrupted Windblossom */
 UPDATE locales_quest SET title_loc9='Buzzbox 411' WHERE entry=1001; /* title: Buzzbox 411 */
 UPDATE locales_quest SET title_loc9='Buzzbox 323' WHERE entry=1002; /* title: Buzzbox 323 */
@@ -130,10 +127,6 @@ UPDATE locales_quest SET title_loc9='Mitologia dei Titani' WHERE entry=1050; /* 
 UPDATE locales_quest SET title_loc9='The Den' WHERE entry=1089; /* title: The Den */
 UPDATE locales_quest SET title_loc9='La strega della galleria' WHERE entry=1101; /* title: The Crone of the Kraul */
 UPDATE locales_quest SET title_loc9='Un fato vendicativo' WHERE entry=1102; /* title: A Vengeful Fate */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1220; /* RequestItemsText: You have something for me? */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1238; /* RequestItemsText: You have something for me? */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1359; /* RequestItemsText: You have something for me? */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=1423; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=1441; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='Jammal\'an il Profeta' WHERE entry=1446; /* title: Jammal\'an the Prophet */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=1460; /* title: <UNUSED> */
@@ -295,10 +288,6 @@ UPDATE locales_quest SET title_loc9='Bambola di Pamela' WHERE entry=5149; /* tit
 UPDATE locales_quest SET title_loc9='Catalogo del Ribelle' WHERE entry=5164; /* title: Catalogue of the Wayward */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=5205; /* title: <UNUSED> */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=5209; /* title: <UNUSED> */
-UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5216; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
-UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5225; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
-UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5229; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
-UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=5233; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
 UPDATE locales_quest SET title_loc9='Pioggia di Stelle' WHERE entry=5250; /* title: Starfall */
 UPDATE locales_quest SET title_loc9='La Stiva Argent' WHERE entry=5265; /* title: The Argent Hold */
 UPDATE locales_quest SET title_loc9='<NON USATO>' WHERE entry=5303; /* title: <UNUSED> */
@@ -426,7 +415,6 @@ UPDATE locales_quest SET title_loc9='Lanciatore Fuochi d\'Artificio' WHERE entry
 UPDATE locales_quest SET title_loc9='Lanciagrappoli' WHERE entry=8882; /* title: Cluster Launcher */
 UPDATE locales_quest SET title_loc9='Le relazioni pericolose' WHERE entry=8903; /* title: Dangerous Love */
 UPDATE locales_quest SET title_loc9='Le relazioni pericolose' WHERE entry=8904; /* title: Dangerous Love */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=8922; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='RIUSO' WHERE entry=8971; /* title: REUSE */
 UPDATE locales_quest SET title_loc9='RIUSO' WHERE entry=8972; /* title: REUSE */
 UPDATE locales_quest SET title_loc9='RIUSO' WHERE entry=8973; /* title: REUSE */
@@ -456,7 +444,6 @@ UPDATE locales_quest SET title_loc9='Cappella della Luce' WHERE entry=9154; /* t
 UPDATE locales_quest SET RequestItemsText_loc9='Come posso esserti d\'aiuto?' WHERE entry=9207; /* RequestItemsText: How may I help you? */
 UPDATE locales_quest SET title_loc9='RIUSO' WHERE entry=9231; /* title: REUSE */
 UPDATE locales_quest SET title_loc9='Atiesh, l\'infame Granbastone' WHERE entry=9251; /* title: Atiesh, the Befouled Greatstaff */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=9255; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='Brezzaserena' WHERE entry=9256; /* title: Fairbreeze Village */
 UPDATE locales_quest SET title_loc9='Atiesh, Granbastone del Guardiano' WHERE entry=9257; /* title: Atiesh, Greatstaff of the Guardian */
 UPDATE locales_quest SET title_loc9='Bosco Arso' WHERE entry=9258; /* title: The Scorched Grove */
@@ -973,7 +960,6 @@ UPDATE locales_quest SET title_loc9='Missili Arcani' WHERE entry=26940; /* title
 UPDATE locales_quest SET title_loc9='Missili Arcani' WHERE entry=26968; /* title: Arcane Missiles */
 UPDATE locales_quest SET title_loc9='Stazione di Marcialesta' WHERE entry=26980; /* title: Swiftgear Station */
 UPDATE locales_quest SET title_loc9='Compendio dei Caduti' WHERE entry=26993; /* title: Compendium of the Fallen */
-UPDATE locales_quest SET RequestItemsText_loc9='Панель доступа к котлу по-прежнему надежно закреплена. Без ключа ее не открыть.' WHERE entry=27053; /* RequestItemsText: An access panel to the cauldron remains securely fastened.  In order to open it, you will need to find the key. */
 UPDATE locales_quest SET title_loc9='Capo Ukorz Scalporude' WHERE entry=27068; /* title: Chief Ukorz Sandscalp */
 UPDATE locales_quest SET title_loc9='Alzzin il Selvatico' WHERE entry=27104; /* title: Alzzin the Wildshaper */
 UPDATE locales_quest SET title_loc9='Kirtonos l\'Araldo' WHERE entry=27147; /* title: Kirtonos the Herald */
@@ -982,8 +968,6 @@ UPDATE locales_quest SET title_loc9='Il Campo Putrido' WHERE entry=27172; /* tit
 UPDATE locales_quest SET title_loc9='Buoni o Cattivi' WHERE entry=27193; /* title: Seek and Destroy */
 UPDATE locales_quest SET title_loc9='Castigo' WHERE entry=27223; /* title: Retribution */
 UPDATE locales_quest SET title_loc9='Ser Aurius Fieramorte' WHERE entry=27227; /* title: Lord Aurius Rivendare */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=27244; /* RequestItemsText: You have something for me? */
-UPDATE locales_quest SET RequestItemsText_loc9='У вас ко мне какое-то дело?' WHERE entry=27247; /* RequestItemsText: You have something for me? */
 UPDATE locales_quest SET title_loc9='I Disertori' WHERE entry=27287; /* title: The Deserters */
 UPDATE locales_quest SET title_loc9='I Disertori' WHERE entry=27288; /* title: The Deserters */
 UPDATE locales_quest SET title_loc9='L\'Atto di Storia' WHERE entry=27320; /* title: The Writ of History */
