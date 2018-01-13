@@ -2163,6 +2163,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Конфета или Ж
 UPDATE locales_gossip_menu_option SET option_text_loc8='Позвольте взглянуть на ваши товары.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Я хочу остановиться здесь.' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc8='<Дать глоток приводящего в сознание зелья.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
+UPDATE locales_gossip_menu_option SET option_text_loc8='Какие мы неблагодарные, правда? Выход свободен, беги быстрее!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc8='<Дать глоток приводящего в сознание зелья.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc8='<Дать глоток приводящего в сознание зелья.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Мне нужен образец твоего приводящего в сознание зелья, аптекарь...' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
