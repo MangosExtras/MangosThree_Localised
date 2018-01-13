@@ -2086,7 +2086,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc3='Was kann ich in einem Ga
 UPDATE locales_gossip_menu_option SET option_text_loc3='Ich möchte ein wenig in Euren Waren stöbern.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc3='Süßes oder Saures!' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc3='<Das Regenerationsgebräu verabreichen.>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
-UPDATE locales_gossip_menu_option SET option_text_loc3='Seid Ihr nicht ein bisschen undankbar? Der Weg nach draußen ist frei, flieht schnell!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we? The way out is clear, flee quickly! */
+UPDATE locales_gossip_menu_option SET option_text_loc3='Seid Ihr nicht ein bisschen undankbar? Der Weg nach draußen ist frei, flieht schnell!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc3='<Das Regenerationsgebräu verabreichen.>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc3='<Das Regenerationsgebräu verabreichen.>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc3='Herr Apotheker, ich benötige eine Probe von Eurem Regenerationsgebräu.' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
