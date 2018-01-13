@@ -13,10 +13,8 @@ UPDATE locales_creature SET subname_loc5='The Westfall Brigade' WHERE entry=874;
 UPDATE locales_creature SET subname_loc5='The Westfall Brigade' WHERE entry=876; /* subname: The Westfall Brigade */
 UPDATE locales_creature SET subname_loc5='The Westfall Brigade' WHERE entry=878; /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc5='Eric Dodds the Third',subname_loc5='Tailoring Trainer' WHERE entry=996; /* name: Eric Dodds the Third */ .* subname: Tailoring Trainer */
-UPDATE locales_creature SET subname_loc5='REUSE ME' WHERE entry=1649; /* subname: REUSE ME */
 UPDATE locales_creature SET name_loc5='[Deprecated for 4.x]Rendow',subname_loc5='Leather Armor Merchant' WHERE entry=1695; /* name: [Deprecated for 4.x]Rendow */ .* subname: Leather Armor Merchant */
 UPDATE locales_creature SET subname_loc5='Envoy of Zanzil' WHERE entry=2530; /* subname: Envoy of Zanzil */
-UPDATE locales_creature SET subname_loc5='REUSE ME' WHERE entry=2756; /* subname: REUSE ME */
 UPDATE locales_creature SET subname_loc5='Crocilisk Trainer' WHERE entry=2876; /* subname: Crocilisk Trainer */
 UPDATE locales_creature SET subname_loc5='Magic Skill Trainer *Temp*' WHERE entry=2896; /* subname: Magic Skill Trainer *Temp* */
 UPDATE locales_creature SET subname_loc5='Toughness/Resist Trainer *Temp*' WHERE entry=2899; /* subname: Toughness/Resist Trainer *Temp* */

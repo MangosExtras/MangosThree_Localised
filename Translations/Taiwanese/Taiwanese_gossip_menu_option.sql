@@ -1818,6 +1818,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc5='將這座旅店設為你
 UPDATE locales_gossip_menu_option SET option_text_loc5='讓我看看你的貨物。' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc5='不給糖就搗蛋!' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc5='<開始操作恢復藥劑>' WHERE menu_id=7177 AND id=0; /* option_text: <Administer the restorative draught.> */
+UPDATE locales_gossip_menu_option SET option_text_loc5='我們有點忘恩負義，不是嗎?出去的路很清楚，快逃吧!' WHERE menu_id=7179 AND id=0; /* option_text: A bit ungrateful, aren\'t we?  The way out is clear, flee quickly! */
 UPDATE locales_gossip_menu_option SET option_text_loc5='<開始操作恢復藥劑>' WHERE menu_id=7182 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc5='<開始操作恢復藥劑>' WHERE menu_id=7185 AND id=0; /* option_text: <Administer the restorative draught.> */
 UPDATE locales_gossip_menu_option SET option_text_loc5='我要你的恢復藥劑樣本，藥劑師。' WHERE menu_id=7187 AND id=0; /* option_text: I seek a sample of your restorative draught, apothecary. */
