@@ -8,6 +8,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Come creo una gilda?' WHERE menu_id=0 AND id=8; /* option_text: How do I form a guild? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio creare uno stemma di gilda.' WHERE menu_id=0 AND id=9; /* option_text: I want to create a guild crest. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=0 AND id=10; /* option_text: I would like to go to the battleground. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Auction!' WHERE menu_id=0 AND id=11; /* option_text: Auction! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei lasciare nella stalla il mio animale.' WHERE menu_id=0 AND id=12; /* option_text: I\'d like to stable my pet here. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci' WHERE menu_id=0 AND id=13; /* option_text: I want to browse your goods */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=0 AND id=14; /* option_text: I wish to unlearn my talents. */
@@ -81,6 +82,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Deeprun Tram' WHERE menu
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=435 AND id=4; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Domatore di Grifoni' WHERE menu_id=435 AND id=5; /* option_text: Gryphon Master */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mastro di Gilda' WHERE menu_id=435 AND id=6; /* option_text: Guild Master */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Locksmith' WHERE menu_id=435 AND id=7; /* option_text: Locksmith */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Stalliere' WHERE menu_id=435 AND id=8; /* option_text: Stable Master */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Maestro d\'Armi' WHERE menu_id=435 AND id=9; /* option_text: Weapons Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Salone degli Ufficiali' WHERE menu_id=435 AND id=10; /* option_text: Officers\' Lounge */
@@ -168,6 +170,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_i
 UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=751 AND id=9; /* option_text: Mining */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=751 AND id=10; /* option_text: Skinning */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=751 AND id=11; /* option_text: Tailoring */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Subordinates?' WHERE menu_id=884 AND id=0; /* option_text: Subordinates? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=900 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sì! Voglio ancora di quel favoloso Elisir Noggenfogger!' WHERE menu_id=922 AND id=0; /* option_text: Yes! I want more of that fabulous Noggenfogger Elixir! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Hai visto niente di strano nel deserto ultimamente?' WHERE menu_id=922 AND id=1; /* option_text: Seen any strange things in the desert lately? */
@@ -275,6 +278,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=1951 AND id=4; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Barbiere' WHERE menu_id=1951 AND id=5; /* option_text: Barber */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=1951 AND id=10; /* option_text: The Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Portals' WHERE menu_id=1951 AND id=12; /* option_text: Portals */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=1964 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=1965 AND id=0; /* option_text: I would like to buy from you. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova lo zeppelin ora?' WHERE menu_id=1969 AND id=0; /* option_text: Where is the zeppelin now? */
@@ -394,6 +398,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=2849 AND id=3; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu_id=2849 AND id=5; /* option_text: The Auction House */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Barbiere' WHERE menu_id=2849 AND id=10; /* option_text: Barber */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Locksmith' WHERE menu_id=2849 AND id=14; /* option_text: Locksmith */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=2890 AND id=0; /* option_text: Make this inn your home. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=2890 AND id=1; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dolcetto o Scherzetto!' WHERE menu_id=2890 AND id=2; /* option_text: Trick or Treat! */
@@ -414,6 +419,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Febbre della giungla' WH
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mono-ciglio' WHERE menu_id=3062 AND id=4; /* option_text: Uni-brow */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Colpo di frusta' WHERE menu_id=3062 AND id=5; /* option_text: Whiplash */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Non voglio tornare al lavoro' WHERE menu_id=3062 AND id=6; /* option_text: I don\'t want to go back to work */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Absolutely.' WHERE menu_id=3064 AND id=0; /* option_text: Absolutely. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Horrifying.' WHERE menu_id=3065 AND id=0; /* option_text: Horrifying. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gradirei allenarmi.' WHERE menu_id=3067 AND id=0; /* option_text: I would like to train. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=3070 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=3072 AND id=0; /* option_text: Train me. */
@@ -514,6 +521,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=335
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=3356 AND id=0; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=3356 AND id=2; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Continua, per favore.' WHERE menu_id=3366 AND id=0; /* option_text: Continue, please. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Impossible.' WHERE menu_id=3371 AND id=0; /* option_text: Impossible. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi serve un altro mandato dell\'Argent Dawn.' WHERE menu_id=3421 AND id=0; /* option_text: I need another Argent Dawn Commission. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=3421 AND id=1; /* option_text: I would like to buy from you. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi serve un altro mandato dell\'Argent Dawn.' WHERE menu_id=3441 AND id=0; /* option_text: I need another Argent Dawn Commission. */
@@ -656,6 +664,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco allenamento per ca
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco allenamento per cavalcare un destriero.' WHERE menu_id=4022 AND id=0; /* option_text: I seek training to ride a steed. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=4023 AND id=1; /* option_text: I wish to unlearn my talents. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=4066 AND id=0; /* option_text: I want to browse your goods. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continue...' WHERE menu_id=4081 AND id=0; /* option_text: Continue... */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Continue...' WHERE menu_id=4082 AND id=0; /* option_text: Continue... */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=4090 AND id=0; /* option_text: I would like to buy from you. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sì. Ce l\'ho' WHERE menu_id=4091 AND id=0; /* option_text: Yes. I have. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=4091 AND id=1; /* option_text: I wish to unlearn my talents. */
@@ -1077,7 +1087,9 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='La mia risposta - Neltha
 UPDATE locales_gossip_menu_option SET option_text_loc9='La mia risposta - Nozdormu.' WHERE menu_id=4763 AND id=2; /* option_text: My answer - Nozdormu. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La mia risposta - Alexstrasza.' WHERE menu_id=4763 AND id=3; /* option_text: My answer - Alexstrasza. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La mia risposta - Malygos.' WHERE menu_id=4763 AND id=4; /* option_text: My answer - Malygos. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Gul\'dan' WHERE menu_id=4764 AND id=0; /* option_text: Gul\'dan */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Kel\'Thuzad' WHERE menu_id=4764 AND id=1; /* option_text: Kel\'Thuzad */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Ner\'zhul' WHERE menu_id=4764 AND id=2; /* option_text: Ner\'zhul */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Hrm, sto ascoltando. Qual\'è questa offerta?' WHERE menu_id=4781 AND id=1; /* option_text: Hrm, I\'m listening. What is this offer? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei dimenticare le abilità del mio animale.' WHERE menu_id=4783 AND id=1; /* option_text: I wish to unlearn my pet\'s skills. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco più conoscenze nelle vie sacerdotali.' WHERE menu_id=4801 AND id=0; /* option_text: I seek more training in the priestly ways. */
@@ -1191,6 +1203,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Sto ascoltando, Demitria
 UPDATE locales_gossip_menu_option SET option_text_loc9='Preso alla sprovvista? Come?' WHERE menu_id=5701 AND id=0; /* option_text: Caught unaware? How? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='<Annuisci>' WHERE menu_id=5702 AND id=0; /* option_text: <Nod> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa ha poi fatto Ragnaros?' WHERE menu_id=5704 AND id=0; /* option_text: So what did Ragnaros do next? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='DIE!' WHERE menu_id=5709 AND id=3; /* option_text: DIE! */
+UPDATE locales_gossip_menu_option SET option_text_loc9='DIE!' WHERE menu_id=5712 AND id=0; /* option_text: DIE! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Affascinante. Continua, per favore.' WHERE menu_id=5726 AND id=0; /* option_text: Fascinating. Continue, please. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Continua, per favore.' WHERE menu_id=5727 AND id=0; /* option_text: Continue, please. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cos\'è successo qui, spirito?' WHERE menu_id=5729 AND id=0; /* option_text: What happened here, spirit? */
@@ -1401,6 +1415,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio chiederti qualcos
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio chiederti qualcos\'altro' WHERE menu_id=6776 AND id=0; /* option_text: I want to ask you about something else. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio chiederti qualcos\'altro' WHERE menu_id=6777 AND id=0; /* option_text: I want to ask you about something else. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei lasciare il mio animale qui' WHERE menu_id=6791 AND id=0; /* option_text: I\'d like to stable my pet here */
+UPDATE locales_gossip_menu_option SET option_text_loc9='[ph]' WHERE menu_id=6799 AND id=0; /* option_text: [ph] */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova l\'Anziano High Mountain?' WHERE menu_id=6814 AND id=1; /* option_text: Where is Elder High Mountain? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova l\'Anziano Moonwarden?' WHERE menu_id=6814 AND id=2; /* option_text: Where is Elder Moonwarden? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dove si trova l\'Anziano Ezra Wheathoof?' WHERE menu_id=6814 AND id=3; /* option_text: Where is Elder Ezra Wheathoof? */
@@ -1593,6 +1608,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Vi\'el, mostrami le tue 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Scopriamolo.' WHERE menu_id=7048 AND id=0; /* option_text: Let\'s find out. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vediamo che cosa hai.' WHERE menu_id=7048 AND id=1; /* option_text: Let\'s see what you have. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa?' WHERE menu_id=7130 AND id=0; /* option_text: What? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Cos\'è questo posto?' WHERE menu_id=7139 AND id=0; /* option_text: What is this place? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=7146 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=7148 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=7162 AND id=0; /* option_text: I want to browse your goods. */
@@ -1600,6 +1616,9 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=7173 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Dolcetto o Scherzetto!' WHERE menu_id=7173 AND id=2; /* option_text: Trick or Treat! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Amichevole' WHERE menu_id=7208 AND id=0; /* option_text: Friendly */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Onorato' WHERE menu_id=7208 AND id=1; /* option_text: Honored */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Revered' WHERE menu_id=7208 AND id=2; /* option_text: Revered */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Esaltato' WHERE menu_id=7208 AND id=3; /* option_text: Exalted */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=7219 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=7243 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=7244 AND id=0; /* option_text: Let me browse your goods. */
@@ -1696,8 +1715,11 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=7633 AND id=1; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=7633 AND id=4; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Maestro d\'Armi' WHERE menu_id=7633 AND id=7; /* option_text: Weapon Master */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemasters' WHERE menu_id=7633 AND id=8; /* option_text: Battlemasters */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Classe' WHERE menu_id=7633 AND id=9; /* option_text: Class Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Professione' WHERE menu_id=7633 AND id=10; /* option_text: Profession Trainer */
+UPDATE locales_gossip_menu_option SET option_text_loc9='West' WHERE menu_id=7639 AND id=0; /* option_text: West */
+UPDATE locales_gossip_menu_option SET option_text_loc9='East.' WHERE menu_id=7639 AND id=1; /* option_text: East. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Druido' WHERE menu_id=7649 AND id=0; /* option_text: Druid */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cacciatore' WHERE menu_id=7649 AND id=1; /* option_text: Hunter */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mago' WHERE menu_id=7649 AND id=2; /* option_text: Mage */
@@ -1725,12 +1747,14 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=7712 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=7713 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='E ora?' WHERE menu_id=7717 AND id=0; /* option_text: And now? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Legion?' WHERE menu_id=7718 AND id=0; /* option_text: Legion? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Ho bisogno di un pacco di Bombe Incendiarie.' WHERE menu_id=7769 AND id=0; /* option_text: I need a pack of Incendiary Bombs. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu_id=7777 AND id=0; /* option_text: The Auction House */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=7777 AND id=1; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Domatore di Ippogrifi' WHERE menu_id=7777 AND id=2; /* option_text: Hippogryph Master */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=7777 AND id=4; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Maestro d\'Armi' WHERE menu_id=7777 AND id=7; /* option_text: Weapon Master */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemasters' WHERE menu_id=7777 AND id=8; /* option_text: Battlemasters */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Classe' WHERE menu_id=7777 AND id=9; /* option_text: Class Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Professione' WHERE menu_id=7777 AND id=10; /* option_text: Profession Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mastro di Guerra dell\'Arena' WHERE menu_id=7786 AND id=0; /* option_text: Arena Battlemaster */
@@ -1837,6 +1861,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Vediamo che cosa hai.' W
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=8035 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='<ancora>' WHERE menu_id=8044 AND id=0; /* option_text: <more> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi servono alcuni reagenti e veleni, signora.' WHERE menu_id=8058 AND id=0; /* option_text: I need some reagents and poisons, lady. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='YES!' WHERE menu_id=8060 AND id=0; /* option_text: YES! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='NO!' WHERE menu_id=8060 AND id=1; /* option_text: No! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=8073 AND id=0; /* option_text: I would like to go to the battleground. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=8075 AND id=0; /* option_text: I would like to go to the battleground. */
@@ -1883,6 +1908,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_i
 UPDATE locales_gossip_menu_option SET option_text_loc9='Minatore' WHERE menu_id=8138 AND id=11; /* option_text: Mining */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=8138 AND id=12; /* option_text: Skinning */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sarto' WHERE menu_id=8138 AND id=13; /* option_text: Tailoring */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Big?' WHERE menu_id=8172 AND id=0; /* option_text: Big? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=8185 AND id=2; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Classe' WHERE menu_id=8185 AND id=4; /* option_text: Class Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Professione' WHERE menu_id=8185 AND id=5; /* option_text: Profession Trainer */
@@ -1967,6 +1993,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=8382 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=8386 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei curiosare tra i tuoi beni' WHERE menu_id=8387 AND id=0; /* option_text: I wish to browse your wares. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Interesting.' WHERE menu_id=8395 AND id=0; /* option_text: Interesting. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alchimista' WHERE menu_id=8403 AND id=0; /* option_text: Alchemy */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Archeologia' WHERE menu_id=8403 AND id=1; /* option_text: Archaeology */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fabbro' WHERE menu_id=8403 AND id=2; /* option_text: Blacksmithing */
@@ -1994,6 +2021,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Conciatore' WHERE menu_i
 UPDATE locales_gossip_menu_option SET option_text_loc9='Spellatore' WHERE menu_id=8424 AND id=7; /* option_text: Skinning */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Per favore insegnami.' WHERE menu_id=8433 AND id=0; /* option_text: Please teach me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=8434 AND id=0; /* option_text: Train me. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Absolutely!' WHERE menu_id=8439 AND id=0; /* option_text: Absolutely! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=8451 AND id=0; /* option_text: I would like to go to the battleground. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=8452 AND id=0; /* option_text: I would like to go to the battleground. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei andare al campo di battaglia.' WHERE menu_id=8453 AND id=0; /* option_text: I would like to go to the battleground. */
@@ -2005,6 +2033,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami cos\'hai in vendita.' WHERE menu_id=8530 AND id=0; /* option_text: Show me what you have for sale. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami cos\'hai in vendita.' WHERE menu_id=8531 AND id=0; /* option_text: Show me what you have for sale. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami cos\'hai in vendita.' WHERE menu_id=8532 AND id=0; /* option_text: Show me what you have for sale. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='<back>' WHERE menu_id=8544 AND id=0; /* option_text: <back> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Non ti sfiderò, ma vorrei vedere le tue merci.' WHERE menu_id=8545 AND id=0; /* option_text: I won\'t challenge you, but I\'d like to see your wares. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mercante di Gemme Aldor' WHERE menu_id=8548 AND id=0; /* option_text: Aldor Gem Merchant */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco allenamento per cavalcare un destriero.' WHERE menu_id=8553 AND id=0; /* option_text: I seek training to ride a steed. */
@@ -2038,6 +2067,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=8658 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami cos\'hai in vendita.' WHERE menu_id=8659 AND id=0; /* option_text: Show me what you have for sale. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami cos\'hai in vendita.' WHERE menu_id=8664 AND id=0; /* option_text: Show me what you have for sale. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Skwak!' WHERE menu_id=8683 AND id=0; /* option_text: Skwak! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Continua per favore.' WHERE menu_id=8699 AND id=0; /* option_text: Continue please. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=8710 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=8716 AND id=0; /* option_text: Let me browse your goods. */
@@ -2120,13 +2150,18 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE me
 UPDATE locales_gossip_menu_option SET option_text_loc9='Club Birra del Mese' WHERE menu_id=9017 AND id=4; /* option_text: Brew of the Month Club */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9018 AND id=1; /* option_text: Food & Drink */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Club Birra del Mese' WHERE menu_id=9018 AND id=4; /* option_text: Brew of the Month Club */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Yarp.' WHERE menu_id=9023 AND id=0; /* option_text: Yarp. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9025 AND id=0; /* option_text: Food & Drink */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Club Birra del Mese' WHERE menu_id=9025 AND id=3; /* option_text: Brew of the Month Club */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9026 AND id=0; /* option_text: Food & Drink */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Club Birra del Mese' WHERE menu_id=9026 AND id=3; /* option_text: Brew of the Month Club */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9038 AND id=1; /* option_text: Food & Drink */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Stash?' WHERE menu_id=9038 AND id=3; /* option_text: "Stash?" */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9040 AND id=0; /* option_text: Food & Drink */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Stash?' WHERE menu_id=9040 AND id=2; /* option_text: "Stash? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Stash?' WHERE menu_id=9041 AND id=2; /* option_text: "Stash? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9042 AND id=1; /* option_text: Food & Drink */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Stash?' WHERE menu_id=9042 AND id=2; /* option_text: "Stash? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cibo e bevande' WHERE menu_id=9043 AND id=1; /* option_text: Food & Drink */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=9050 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=9055 AND id=0; /* option_text: Make this inn your home. */
@@ -2178,10 +2213,12 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Insegna del Vuoto' WHERE
 UPDATE locales_gossip_menu_option SET option_text_loc9='Imp in una Palla' WHERE menu_id=9194 AND id=2; /* option_text: Imp in a Ball */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gallina a Reazione' WHERE menu_id=9196 AND id=1; /* option_text: Rocket Chicken */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Aquilone a Forma di Drago' WHERE menu_id=9196 AND id=2; /* option_text: Dragon Kite */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Attraverso il Portale Oscuro' WHERE menu_id=9197 AND id=1; /* option_text: Through the Dark Portal */
 UPDATE locales_gossip_menu_option SET option_text_loc9='I Tamburi di Guerra' WHERE menu_id=9197 AND id=6; /* option_text: The Drums of War */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=9198 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Chi sei?' WHERE menu_id=9199 AND id=0; /* option_text: Who are you? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei lasciare il mio animale qui' WHERE menu_id=9212 AND id=0; /* option_text: I\'d like to stable my pet here */
+UPDATE locales_gossip_menu_option SET option_text_loc9='lala' WHERE menu_id=9212 AND id=1; /* option_text: lala */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa sai del Culto dei Dannati?' WHERE menu_id=9217 AND id=0; /* option_text: What do you know about the Cult of the Damned? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=9218 AND id=1; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=9245 AND id=0; /* option_text: Make this inn your home. */
@@ -2246,6 +2283,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le t
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=9633 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Soldato, hai nuovi ordini. Devi tornare indietro e fare rapporto al Sergente!' WHERE menu_id=9640 AND id=0; /* option_text: Soldier, you have new orders. You\'re to pull back and report to the sergeant! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Un altro drink!' WHERE menu_id=9648 AND id=2; /* option_text: Another drink! */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Cheers!' WHERE menu_id=9652 AND id=0; /* option_text: Cheers! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Si, mio principe. Siamo pronti.' WHERE menu_id=9653 AND id=0; /* option_text: Yes, my Prince. We are ready. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono pronto.' WHERE menu_id=9667 AND id=0; /* option_text: I am ready. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Brann, sarebbe un nostro onore!' WHERE menu_id=9669 AND id=0; /* option_text: Brann, it would be our honor! */
@@ -2326,16 +2364,25 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Arena' WHERE menu_id=100
 UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu_id=10043 AND id=1; /* option_text: The Auction House */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=10043 AND id=2; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Barbiere' WHERE menu_id=10043 AND id=3; /* option_text: Barber */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Battlemasters' WHERE menu_id=10043 AND id=4; /* option_text: Battlemasters */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Il Maestro di Volo' WHERE menu_id=10043 AND id=6; /* option_text: The flight master */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=10043 AND id=8; /* option_text: The Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Locksmith' WHERE menu_id=10043 AND id=9; /* option_text: Locksmith */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Trainers' WHERE menu_id=10043 AND id=13; /* option_text: Trainers */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Merchants' WHERE menu_id=10043 AND id=14; /* option_text: Merchants */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Entrata Est delle Fogne di Dalaran' WHERE menu_id=10055 AND id=0; /* option_text: Dalaran Eastern Sewer Entrance */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Well' WHERE menu_id=10055 AND id=2; /* option_text: Well */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Predatori del Sole' WHERE menu_id=10056 AND id=1; /* option_text: Sunreaver\'s Sanctuary */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fortezza Violacea' WHERE menu_id=10056 AND id=2; /* option_text: Violet Hold */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Drains' WHERE menu_id=10056 AND id=4; /* option_text: Drains */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Trade District' WHERE menu_id=10056 AND id=5; /* option_text: Trade District */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Terrazza di Krasus' WHERE menu_id=10056 AND id=6; /* option_text: Krasus\' Landing */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Memoriale Antonidas' WHERE menu_id=10056 AND id=7; /* option_text: Antonidas Memorial */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Piazza di Tessiruna' WHERE menu_id=10056 AND id=8; /* option_text: Runeweaver Square */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Eventide' WHERE menu_id=10056 AND id=9; /* option_text: Eventide */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Cemetary' WHERE menu_id=10056 AND id=10; /* option_text: Cemetary */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Entrata Est delle Fogne di Dalaran' WHERE menu_id=10057 AND id=0; /* option_text: Dalaran Eastern Sewer Entrance */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Well' WHERE menu_id=10057 AND id=2; /* option_text: Well */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Predatori del Sole' WHERE menu_id=10058 AND id=1; /* option_text: Sunreaver\'s Sanctuary */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Locanda dell\'Alleanza' WHERE menu_id=10073 AND id=0; /* option_text: Alliance Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alchimista' WHERE menu_id=10078 AND id=0; /* option_text: Alchemy */
@@ -2357,6 +2404,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Terrazza di Krasus' WHER
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Maghi' WHERE menu_id=10082 AND id=3; /* option_text: Mage Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Addestratore di Professione' WHERE menu_id=10082 AND id=4; /* option_text: Profession Trainer */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Locanda dell\'Alleanza' WHERE menu_id=10084 AND id=0; /* option_text: Alliance Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Drains' WHERE menu_id=10084 AND id=2; /* option_text: Drains */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Drains' WHERE menu_id=10089 AND id=2; /* option_text: Drains */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=10090 AND id=0; /* option_text: The Inn */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=10090 AND id=1; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Terrazza di Krasus' WHERE menu_id=10090 AND id=2; /* option_text: Krasus\' Landing */
@@ -2364,6 +2413,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Predatori 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Arena' WHERE menu_id=10106 AND id=0; /* option_text: Arena */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Banca' WHERE menu_id=10106 AND id=1; /* option_text: Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Locanda' WHERE menu_id=10106 AND id=2; /* option_text: Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Vendors' WHERE menu_id=10106 AND id=4; /* option_text: Vendors */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=10114 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=10115 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=10116 AND id=0; /* option_text: Train me. */
@@ -2382,10 +2432,13 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Armature in Pelle' WHERE
 UPDATE locales_gossip_menu_option SET option_text_loc9='Armature in Maglio' WHERE menu_id=10170 AND id=2; /* option_text: Mail Armor */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Scudi' WHERE menu_id=10170 AND id=4; /* option_text: Shields */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Armatura' WHERE menu_id=10173 AND id=0; /* option_text: Armour */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Flowers' WHERE menu_id=10173 AND id=3; /* option_text: Flowers */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Frutta' WHERE menu_id=10173 AND id=4; /* option_text: Fruit */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Reagents' WHERE menu_id=10173 AND id=9; /* option_text: Reagents */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Monili' WHERE menu_id=10173 AND id=12; /* option_text: Trinkets */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Armi' WHERE menu_id=10173 AND id=13; /* option_text: Weapons */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=10174 AND id=0; /* option_text: I want to browse your goods. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='They?' WHERE menu_id=10176 AND id=0; /* option_text: They? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alexstrasza, puoi mostrarmi cosa è successo qua?' WHERE menu_id=10179 AND id=0; /* option_text: Alexstrasza, can you show me what happened here? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Alexstrasza, puoi mostrarmi cosa è successo qua?' WHERE menu_id=10179 AND id=2; /* option_text: Alexstrasza, can you show me what happened here? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=10180 AND id=0; /* option_text: I want to browse your goods. */
@@ -2496,6 +2549,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Quale nuova sfida ci att
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono pronto.' WHERE menu_id=10614 AND id=0; /* option_text: I am ready. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=10615 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=10627 AND id=0; /* option_text: Train me. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='OK...' WHERE menu_id=10628 AND id=0; /* option_text: OK... */
+UPDATE locales_gossip_menu_option SET option_text_loc9='YES!' WHERE menu_id=10649 AND id=0; /* option_text: YES! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei controllare la mia cassa di deposito.' WHERE menu_id=10667 AND id=0; /* option_text: I would like to check my deposit box. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci' WHERE menu_id=10667 AND id=1; /* option_text: I want to browse your goods */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Tundra Boreale' WHERE menu_id=10668 AND id=0; /* option_text: Borean Tundra */
@@ -2503,6 +2558,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Fiordo Echeggiante' WHER
 UPDATE locales_gossip_menu_option SET option_text_loc9='Bacino di Sholazar' WHERE menu_id=10668 AND id=2; /* option_text: Sholazar Basin */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Corona di Ghiaccio' WHERE menu_id=10668 AND id=3; /* option_text: Icecrown */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cime Tempestose' WHERE menu_id=10668 AND id=4; /* option_text: Storm Peaks */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Underground...' WHERE menu_id=10668 AND id=5; /* option_text: Underground... */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Certamente!' WHERE menu_id=10678 AND id=0; /* option_text: Of course! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono interessato in un addestramento da mago.' WHERE menu_id=10683 AND id=0; /* option_text: I am interested in mage training. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco allenamento per cavalcare un destriero.' WHERE menu_id=10723 AND id=0; /* option_text: I seek training to ride a steed. */
@@ -2529,6 +2585,8 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=10769 AND id=1; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Barbiere' WHERE menu_id=10769 AND id=2; /* option_text: Barber */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=10769 AND id=6; /* option_text: The Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Locksmith' WHERE menu_id=10769 AND id=7; /* option_text: Locksmith */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Sempre più in alto!' WHERE menu_id=10808 AND id=0; /* option_text: Up, Up & Away! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Aquilone Tuskarr' WHERE menu_id=10810 AND id=1; /* option_text: Tuskarr Kite */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cucciolo di Tigre Spettrale' WHERE menu_id=10810 AND id=2; /* option_text: Spectral Tiger Cub */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=10841 AND id=0; /* option_text: Let me browse your goods. */
@@ -2557,6 +2615,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Sì, per favore!' WHERE 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=11361 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami dove posso volare.' WHERE menu_id=11373 AND id=0; /* option_text: Show me where I can fly. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Attacca!' WHERE menu_id=11388 AND id=0; /* option_text: Attack! */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Sorry!' WHERE menu_id=11388 AND id=1; /* option_text: Sorry! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=11402 AND id=0; /* option_text: Make this inn your home. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=11402 AND id=1; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=11435 AND id=1; /* option_text: Make this inn your home. */
@@ -2570,6 +2629,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.
 UPDATE locales_gossip_menu_option SET option_text_loc9='Vorrei acquistare da te.' WHERE menu_id=11672 AND id=0; /* option_text: I would like to buy from you. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi serve un passaggio.' WHERE menu_id=11684 AND id=0; /* option_text: I need a ride. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mostrami dove posso volare.' WHERE menu_id=11719 AND id=0; /* option_text: Show me where I can fly. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Moo.' WHERE menu_id=11741 AND id=1; /* option_text: Moo. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Voglio curiosare tra le tue merci.' WHERE menu_id=11743 AND id=0; /* option_text: I want to browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Gradirei allenarmi.' WHERE menu_id=11767 AND id=0; /* option_text: I would like to train. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=11767 AND id=1; /* option_text: I wish to unlearn my talents. */
@@ -2613,6 +2673,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Casa d\'Aste' WHERE menu
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Banca' WHERE menu_id=11969 AND id=4; /* option_text: The Bank */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Barbiere' WHERE menu_id=11969 AND id=5; /* option_text: Barber */
 UPDATE locales_gossip_menu_option SET option_text_loc9='La Locanda' WHERE menu_id=11969 AND id=10; /* option_text: The Inn */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Portals' WHERE menu_id=11969 AND id=12; /* option_text: Portals */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Druido' WHERE menu_id=11976 AND id=0; /* option_text: Druid */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cacciatore' WHERE menu_id=11976 AND id=1; /* option_text: Hunter */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Prete' WHERE menu_id=11976 AND id=3; /* option_text: Priest */
@@ -2640,13 +2701,16 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la 
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=12100 AND id=3; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Rendi questa locanda la tua casa.' WHERE menu_id=12101 AND id=2; /* option_text: Make this inn your home. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le tue merci.' WHERE menu_id=12101 AND id=3; /* option_text: Let me browse your goods. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Yeah...' WHERE menu_id=12113 AND id=0; /* option_text: Yeah... */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Andiamo!' WHERE menu_id=12130 AND id=0; /* option_text: Let\'s go! */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Yeah...' WHERE menu_id=12138 AND id=0; /* option_text: Yeah... */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Necessito di un addestramento da guerriero.' WHERE menu_id=12151 AND id=0; /* option_text: I require warrior training. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=12151 AND id=1; /* option_text: I wish to unlearn my talents. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono interessato in un addestramento da mago.' WHERE menu_id=12233 AND id=0; /* option_text: I am interested in mage training. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=12233 AND id=1; /* option_text: I wish to unlearn my talents. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Per favore insegnami.' WHERE menu_id=12235 AND id=0; /* option_text: Please teach me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Mi serve un passaggio.' WHERE menu_id=12237 AND id=0; /* option_text: I need a ride. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Dismissed!' WHERE menu_id=12253 AND id=0; /* option_text: Dismissed! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Necessito di un addestramento da guerriero.' WHERE menu_id=12344 AND id=0; /* option_text: I require warrior training. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=12344 AND id=1; /* option_text: I wish to unlearn my talents. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=12410 AND id=0; /* option_text: Train me. */
@@ -2698,12 +2762,18 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Fammi curiosare tra le t
 UPDATE locales_gossip_menu_option SET option_text_loc9='Allenami.' WHERE menu_id=12887 AND id=0; /* option_text: Train me. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cerco maggiori conoscenze druidiche per avere una comprensione più profonda con la volontà della Madre Terra.' WHERE menu_id=12927 AND id=0; /* option_text: I seek further druidic training to have a closer understanding of the Earth Mother\'s will. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Desidero dimenticare i miei talenti.' WHERE menu_id=12927 AND id=1; /* option_text: I wish to unlearn my talents. */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Fascinating.' WHERE menu_id=12979 AND id=0; /* option_text: Fascinating. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sono pronto.' WHERE menu_id=12991 AND id=0; /* option_text: I am ready. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Cosa posso comprare?' WHERE menu_id=13075 AND id=1; /* option_text: What can I purchase? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Attractions?' WHERE menu_id=13075 AND id=4; /* option_text: Attractions? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Tonks?' WHERE menu_id=13076 AND id=0; /* option_text: Tonks? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Cannon?' WHERE menu_id=13076 AND id=1; /* option_text: Cannon? */
+UPDATE locales_gossip_menu_option SET option_text_loc9='Whack-a-Gnoll?' WHERE menu_id=13076 AND id=2; /* option_text: Whack-a-Gnoll? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Andiamo!' WHERE menu_id=13163 AND id=0; /* option_text: Let\'s go! */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Draghi di Smeraldo' WHERE menu_id=13321 AND id=2; /* option_text: Emerald Dragonshrine */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Draghi di Ossidiana' WHERE menu_id=13321 AND id=4; /* option_text: Obsidian Dragonshrine */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Santuario dei Draghi di Ossidiana' WHERE menu_id=13321 AND id=8; /* option_text: Obsidian Dragonshrine */
+UPDATE locales_gossip_menu_option SET option_text_loc9='<back>' WHERE menu_id=50008 AND id=0; /* option_text: <back> */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Per favore, apri la serratura della porta del giardino.' WHERE menu_id=50151 AND id=0; /* option_text: Please unlock the courtyard door. */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Chi è il Cavaliere Senza Testa?' WHERE menu_id=50169 AND id=0; /* option_text: Who is the Headless Horseman? */
 UPDATE locales_gossip_menu_option SET option_text_loc9='Sogni?' WHERE menu_id=50304 AND id=0; /* option_text: Dreams? */
