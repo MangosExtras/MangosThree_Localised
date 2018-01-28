@@ -6324,5 +6324,8 @@ UPDATE locales_npc_text SET Text0_0_loc2='Défendez le temple à tout prix.' WHE
 UPDATE locales_npc_text SET Text0_0_loc2='Vos actions vivront à jamais dans les souvenirs de tous les dragons bleus, $n.' WHERE entry=53371; /* Text0_0: Your deeds shall live on forever in the memories of every blue dragon, $n. */
 UPDATE locales_npc_text SET Text0_0_loc2='Vos actions vivront à jamais dans les souvenirs de tous les dragons bleus, $n.' WHERE entry=53466; /* Text0_0: Your deeds shall live on forever in the memories of every blue dragon, $n. */
 UPDATE locales_npc_text SET Text0_0_loc2='Perdu. Volé ! C\'est un coup terrible. Terrible !' WHERE entry=55488; /* Text0_0: Lost. Stolen! This is a terrible blow. Terrible! */
+UPDATE locales_npc_text SET Text0_0_loc2='% N! Excellent travail décodant le message. Allons au fond de ça.
+ Es-tu prêt à voler?' WHERE entry=56314; /* Text0_0: %N! Great work decoding the message. Let\'s get to the bottom of this. 
+ Are you ready to fly? */
 
 SET NAMES 'latin1';

@@ -304,7 +304,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Gnomish Univ
 UPDATE locales_item SET description_loc3='Teaches you how to make Goblin Jumper Cables.' WHERE entry=7561; /* description: Teaches you how to make Goblin Jumper Cables. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Green Leather Armor.' WHERE entry=7613; /* description: Teaches you how to craft Green Leather Armor. */
 UPDATE locales_item SET description_loc3='A sealed letter' WHERE entry=7628; /* description: A sealed letter */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=7674; /* description: Sealed */
 UPDATE locales_item SET description_loc3='Teaches you how to brew a Thistle Tea.' WHERE entry=7678; /* description: Teaches you how to brew a Thistle Tea. */
 UPDATE locales_item SET description_loc3='Written in a language you cannot decipher.' WHERE entry=7737; /* description: Written in a language you cannot decipher. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Gnomish Cloaking Device.' WHERE entry=7742; /* description: Teaches you how to make a Gnomish Cloaking Device. */
@@ -331,7 +330,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Runed Mithri
 UPDATE locales_item SET description_loc3='Teaches you how to make a Wicked Mithril Blade.' WHERE entry=8029; /* description: Teaches you how to make a Wicked Mithril Blade. */
 UPDATE locales_item SET description_loc3='Teaches you how to make an Ebon Shiv.' WHERE entry=8030; /* description: Teaches you how to make an Ebon Shiv. */
 UPDATE locales_item SET description_loc3='The glowing emerald just needs to be pulled out...' WHERE entry=8049; /* description: The glowing emerald just needs to be pulled out... */
-UPDATE locales_item SET description_loc3='Scooby-dooby-doo!' WHERE entry=8243; /* description: Scooby-dooby-doo! */
 UPDATE locales_item SET description_loc3='Not quite as good as the 2 Ring' WHERE entry=8350; /* description: Not quite as good as the 2 Ring */
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Comfortable Leather Hat.' WHERE entry=8384; /* description: Teaches you how to craft a Comfortable Leather Hat. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Turtle Scale Gloves.' WHERE entry=8385; /* description: Teaches you how to craft Turtle Scale Gloves. */
@@ -532,7 +530,6 @@ UPDATE locales_item SET description_loc3='The fiery essence of Bael\'Gar wrapped
 UPDATE locales_item SET description_loc3='A dull and gray patch of black dragon skin' WHERE entry=11231; /* description: A dull and gray patch of black dragon skin */
 UPDATE locales_item SET description_loc3='The dark, pale skin feels like clay.' WHERE entry=11268; /* description: The dark, pale skin feels like clay. */
 UPDATE locales_item SET description_loc3='Unbreakable bindings.' WHERE entry=11286; /* description: Unbreakable bindings. */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=11366; /* description: Sealed */
 UPDATE locales_item SET description_loc3='-General Angerforge' WHERE entry=11464; /* description: -General Angerforge */
 UPDATE locales_item SET description_loc3='-Golem Lord Argelmach' WHERE entry=11465; /* description: -Golem Lord Argelmach */
 UPDATE locales_item SET description_loc3='This device helps identify corrupted elements of nature.' WHERE entry=11511; /* description: This device helps identify corrupted elements of nature. */
@@ -895,7 +892,6 @@ UPDATE locales_item SET description_loc3='Handle With Care.' WHERE entry=17118; 
 UPDATE locales_item SET description_loc3='Teaches you how to bake a Gingerbread Cookie.' WHERE entry=17200; /* description: Teaches you how to bake a Gingerbread Cookie. */
 UPDATE locales_item SET description_loc3='Teaches you how to make Egg Nog.' WHERE entry=17201; /* description: Teaches you how to make Egg Nog. */
 UPDATE locales_item SET description_loc3='Alliance: the other, other, OTHER, white meat.' WHERE entry=17326; /* description: Alliance: the other, other, OTHER, white meat. */
-UPDATE locales_item SET description_loc3='Ewww...' WHERE entry=17345; /* description: Ewww... */
 UPDATE locales_item SET description_loc3='Return to your base blacksmith to help upgrade troops' WHERE entry=17422; /* description: Return to your base blacksmith to help upgrade troops */
 UPDATE locales_item SET description_loc3='Give to Warmaster Garrick in the Field of Strife' WHERE entry=17442; /* description: Give to Warmaster Garrick in the Field of Strife */
 UPDATE locales_item SET description_loc3='Deliver to: Smokywood Pastures Retail' WHERE entry=17662; /* description: Deliver to: Smokywood Pastures Retail */
@@ -1284,9 +1280,6 @@ UPDATE locales_item SET description_loc3='Chapter VI' WHERE entry=21108; /* desc
 UPDATE locales_item SET description_loc3='Chapter VII' WHERE entry=21109; /* description: Chapter VII */
 UPDATE locales_item SET description_loc3='Chapter VIII' WHERE entry=21110; /* description: Chapter VIII */
 UPDATE locales_item SET description_loc3='A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons.' WHERE entry=21144; /* description: A shamanistic device fashioned by the Timbermaw to summon forth corrupting demons. */
-UPDATE locales_item SET description_loc3='-Hinterlands' WHERE entry=21146; /* description: -Hinterlands */
-UPDATE locales_item SET description_loc3='-Ashenvale' WHERE entry=21147; /* description: -Ashenvale */
-UPDATE locales_item SET description_loc3='-Duskwood' WHERE entry=21149; /* description: -Duskwood */
 UPDATE locales_item SET description_loc3='This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it.' WHERE entry=21155; /* description: This truesilver-wrought item is a furbolg symbol of peace.  A sealed message is attached to it. */
 UPDATE locales_item SET description_loc3='This strange dust should allow Metzen to be freed when sprinkled on him.' WHERE entry=21211; /* description: This strange dust should allow Metzen to be freed when sprinkled on him. */
 UPDATE locales_item SET name_loc3='Tome of Frostbolt',description_loc3='This item appears damaged by the elements and no longer readable.' WHERE entry=21214; /* name: Tome of Frostbolt */ .* description: This item appears damaged by the elements and no longer readable. */
@@ -1340,7 +1333,6 @@ UPDATE locales_item SET description_loc3='These may be gathered for the Timberma
 UPDATE locales_item SET description_loc3='These may be gathered for the Timbermaw furbolgs to earn their trust.' WHERE entry=21383; /* description: These may be gathered for the Timbermaw furbolgs to earn their trust. */
 UPDATE locales_item SET description_loc3='Seek out an Alliance Commendation Officer to exchange signets for recognition.' WHERE entry=21436; /* description: Seek out an Alliance Commendation Officer to exchange signets for recognition. */
 UPDATE locales_item SET description_loc3='Seek out a Horde Commendation Officer to exchange signets for recognition.' WHERE entry=21438; /* description: Seek out a Horde Commendation Officer to exchange signets for recognition. */
-UPDATE locales_item SET description_loc3='Ouch' WHERE entry=21488; /* description: Ouch */
 UPDATE locales_item SET description_loc3='Still dripping with blood' WHERE entry=21498; /* description: Still dripping with blood */
 UPDATE locales_item SET description_loc3='A tiny fragment of a very large insect.' WHERE entry=21533; /* description: A tiny fragment of a very large insect. */
 UPDATE locales_item SET description_loc3='A tiny fragment of a very large insect.' WHERE entry=21534; /* description: A tiny fragment of a very large insect. */
@@ -1786,7 +1778,6 @@ UPDATE locales_item SET description_loc3='A box filled with a variety of buildin
 UPDATE locales_item SET description_loc3='The reports are all signed by Keltus Darkleaf.' WHERE entry=23919; /* description: The reports are all signed by Keltus Darkleaf. */
 UPDATE locales_item SET description_loc3='The handkerchief is covered in blood and dirt, ruining its scent.' WHERE entry=23920; /* description: The handkerchief is covered in blood and dirt, ruining its scent. */
 UPDATE locales_item SET description_loc3='A bright, juicy fruit favored by the elekk.' WHERE entry=23927; /* description: A bright, juicy fruit favored by the elekk. */
-UPDATE locales_item SET description_loc3='Sealed.' WHERE entry=23928; /* description: Sealed. */
 UPDATE locales_item SET description_loc3='A draenei crystal containing information on the eastern part of Bloodmyst Isle.' WHERE entry=23932; /* description: A draenei crystal containing information on the eastern part of Bloodmyst Isle. */
 UPDATE locales_item SET description_loc3='A letter written by Anchorite Paetheus.' WHERE entry=23937; /* description: A letter written by Anchorite Paetheus. */
 UPDATE locales_item SET description_loc3='A little rusty, but it appears to be in working order.' WHERE entry=23981; /* description: A little rusty, but it appears to be in working order. */
@@ -1943,7 +1934,6 @@ UPDATE locales_item SET description_loc3='A politely worded, but firm refusal of
 UPDATE locales_item SET description_loc3='It\'s still oozing venom.' WHERE entry=25448; /* description: It\'s still oozing venom. */
 UPDATE locales_item SET description_loc3='Heavy and slightly damp from the marsh.' WHERE entry=25449; /* description: Heavy and slightly damp from the marsh. */
 UPDATE locales_item SET description_loc3='Giant mandibles indicative of provincial insect nobility.' WHERE entry=25459; /* description: Giant mandibles indicative of provincial insect nobility. */
-UPDATE locales_item SET description_loc3='Pristine!' WHERE entry=25463; /* description: Pristine! */
 UPDATE locales_item SET description_loc3='Smudged with food, blood, and unidentifiable liquids and substances.' WHERE entry=25468; /* description: Smudged with food, blood, and unidentifiable liquids and substances. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Greater Rune of Warding.' WHERE entry=25526; /* description: Teaches you how to make a Greater Rune of Warding. */
 UPDATE locales_item SET description_loc3='Bears the symbol of Warmaul.' WHERE entry=25552; /* description: Bears the symbol of Warmaul. */
@@ -2069,7 +2059,6 @@ UPDATE locales_item SET description_loc3='Manufactured: Garvin the Goblin, Area 
 UPDATE locales_item SET description_loc3='These explosives are a great example of fel orc \'engineering\' in action. They could make even the most accomplished goblin engineer blush.' WHERE entry=28039; /* description: These explosives are a great example of fel orc \'engineering\' in action. They could make even the most accomplished goblin engineer blush. */
 UPDATE locales_item SET description_loc3='These explosives are a great example of fel orc \'engineering\' in action. They could make even the most accomplished goblin engineer blush.' WHERE entry=28048; /* description: These explosives are a great example of fel orc \'engineering\' in action. They could make even the most accomplished goblin engineer blush. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28066; /* description: Counts as an Air, Earth, Fire, and Water totem. */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=28105; /* description: Sealed */
 UPDATE locales_item SET name_loc3='Brilliant Ornate Ruby',description_loc3='Matches a Red Socket.' WHERE entry=28118; /* name: Brilliant Ornate Ruby */ .* description: Matches a Red Socket. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=28248; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant chest armor to increase resilience rating by 15.  Requires a level 35 or higher item.' WHERE entry=28270; /* description: Teaches you how to permanently enchant chest armor to increase resilience rating by 15.  Requires a level 35 or higher item. */
@@ -2258,7 +2247,6 @@ UPDATE locales_item SET description_loc3='It smells a little funny.' WHERE entry
 UPDATE locales_item SET description_loc3='Teaches you how to summon Attumen the Huntsman\'s steed.' WHERE entry=30480; /* description: Teaches you how to summon Attumen the Huntsman\'s steed. */
 UPDATE locales_item SET description_loc3='Rokgah\'s soul fragment is searing hot, yet does not burn your hand.' WHERE entry=30481; /* description: Rokgah\'s soul fragment is searing hot, yet does not burn your hand. */
 UPDATE locales_item SET description_loc3='Teaches you how to sew Shadowcloth.' WHERE entry=30483; /* description: Teaches you how to sew Shadowcloth. */
-UPDATE locales_item SET description_loc3='Disgusting...' WHERE entry=30500; /* description: Disgusting... */
 UPDATE locales_item SET name_loc3='Reckless Fire Opal',description_loc3='Matches a Red or Yellow Socket.' WHERE entry=30547; /* name: Reckless Fire Opal */ .* description: Matches a Red or Yellow Socket. */
 UPDATE locales_item SET name_loc3='Misty Chrysoprase',description_loc3='Matches a Yellow or Blue Socket.' WHERE entry=30550; /* name: Misty Chrysoprase */ .* description: Matches a Yellow or Blue Socket. */
 UPDATE locales_item SET name_loc3='Reckless Fire Opal',description_loc3='Matches a Red or Yellow Socket.' WHERE entry=30551; /* name: Reckless Fire Opal */ .* description: Matches a Red or Yellow Socket. */
@@ -2477,7 +2465,6 @@ UPDATE locales_item SET description_loc3='This polished trophy is huge!' WHERE e
 UPDATE locales_item SET description_loc3='Darn, it\'s empty.' WHERE entry=32380; /* description: Darn, it\'s empty. */
 UPDATE locales_item SET description_loc3='Teaches you how to make Fused Wiring.' WHERE entry=32381; /* description: Teaches you how to make Fused Wiring. */
 UPDATE locales_item SET description_loc3='Torn and dirty, it smells as bad as Slaag.' WHERE entry=32382; /* description: Torn and dirty, it smells as bad as Slaag. */
-UPDATE locales_item SET description_loc3='EVIL!' WHERE entry=32383; /* description: EVIL! */
 UPDATE locales_item SET description_loc3='All that remains of the hellspawn, Magtheridon.' WHERE entry=32385; /* description: All that remains of the hellspawn, Magtheridon. */
 UPDATE locales_item SET description_loc3='All that remains of the hellspawn, Magtheridon.' WHERE entry=32386; /* description: All that remains of the hellspawn, Magtheridon. */
 UPDATE locales_item SET description_loc3='Used to create an Elixir of Shadows.' WHERE entry=32388; /* description: Used to create an Elixir of Shadows. */
@@ -2627,6 +2614,9 @@ UPDATE locales_item SET description_loc3='From beneath you it devours.' WHERE en
 UPDATE locales_item SET description_loc3='A strong, braided leather rope suitable for capturing large creatures.' WHERE entry=33069; /* description: A strong, braided leather rope suitable for capturing large creatures. */
 UPDATE locales_item SET description_loc3='The nearly rancid remains from a recent hunting trip.' WHERE entry=33070; /* description: The nearly rancid remains from a recent hunting trip. */
 UPDATE locales_item SET description_loc3='These arms and armor match the style of those found at the Shady Rest Inn, but haven\'t seen battle.' WHERE entry=33071; /* description: These arms and armor match the style of those found at the Shady Rest Inn, but haven\'t seen battle. */
+UPDATE locales_item SET description_loc3='hides ears for testing' WHERE entry=33073; /* description: hides ears for testing */
+UPDATE locales_item SET description_loc3='hides eyes for testing' WHERE entry=33074; /* description: hides eyes for testing */
+UPDATE locales_item SET description_loc3='hides nose and ears for testing' WHERE entry=33075; /* description: hides nose and ears for testing */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=33078; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='This doesn\'t do a body good....' WHERE entry=33083; /* description: This doesn\'t do a body good.... */
 UPDATE locales_item SET description_loc3='Ammonia, uric, phosphoric, oxalic, and carbonic acids.  Mmm, all the good stuff!' WHERE entry=33084; /* description: Ammonia, uric, phosphoric, oxalic, and carbonic acids.  Mmm, all the good stuff! */
@@ -2677,13 +2667,11 @@ UPDATE locales_item SET description_loc3='Very odd-looking ore.' WHERE entry=331
 UPDATE locales_item SET description_loc3='Teaches you how to make Shadowprowler\'s Chestguard.' WHERE entry=33205; /* description: Teaches you how to make Shadowprowler\'s Chestguard. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Flask of Chromatic Wonder.' WHERE entry=33209; /* description: Teaches you how to make a Flask of Chromatic Wonder. */
 UPDATE locales_item SET description_loc3='Accepting donations.' WHERE entry=33211; /* description: Accepting donations. */
-UPDATE locales_item SET description_loc3='Chilling!' WHERE entry=33234; /* description: Chilling! */
 UPDATE locales_item SET description_loc3='Because, Let\'s Face it, \'New Fizzy Faire Drink\' Was Awful' WHERE entry=33236; /* description: Because, Let\'s Face it, \'New Fizzy Faire Drink\' Was Awful */
 UPDATE locales_item SET description_loc3='It\'s... HUGE!' WHERE entry=33254; /* description: It\'s... HUGE! */
 UPDATE locales_item SET description_loc3='Detailing plans of an attack upon Westguard Keep by Glacion the frost wyrm.' WHERE entry=33289; /* description: Detailing plans of an attack upon Westguard Keep by Glacion the frost wyrm. */
 UPDATE locales_item SET description_loc3='There\'s a hole for your head...' WHERE entry=33292; /* description: There\'s a hole for your head... */
 UPDATE locales_item SET description_loc3='Teaches you how to cut Don Julio\'s Heart.' WHERE entry=33305; /* description: Teaches you how to cut Don Julio\'s Heart. */
-UPDATE locales_item SET description_loc3='Giddyup!' WHERE entry=33306; /* description: Giddyup! */
 UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant a melee weapon to occasionally grant you 120 critical strike rating. Requires a level 60 or higher item.' WHERE entry=33307; /* description: Teaches you how to permanently enchant a melee weapon to occasionally grant you 120 critical strike rating. Requires a level 60 or higher item. */
 UPDATE locales_item SET description_loc3='A painted dragon skin depicting a mysterious vrykul ritual.' WHERE entry=33314; /* description: A painted dragon skin depicting a mysterious vrykul ritual. */
 UPDATE locales_item SET description_loc3='You wonder to yourself about the proper etiquette for holding the disembodied head of another...' WHERE entry=33330; /* description: You wonder to yourself about the proper etiquette for holding the disembodied head of another... */
@@ -2836,7 +2824,6 @@ UPDATE locales_item SET description_loc3='Probably contains something good, but 
 UPDATE locales_item SET description_loc3='Better get this back to Glrglrglr a.s.a.p.!' WHERE entry=34600; /* description: Better get this back to Glrglrglr a.s.a.p.! */
 UPDATE locales_item SET description_loc3='It\'s dripping... ewww!' WHERE entry=34617; /* description: It\'s dripping... ewww! */
 UPDATE locales_item SET description_loc3='It\'s roomy.' WHERE entry=34619; /* description: It\'s roomy. */
-UPDATE locales_item SET description_loc3='Click-clack!' WHERE entry=34621; /* description: Click-clack! */
 UPDATE locales_item SET description_loc3='Hot potato!' WHERE entry=34623; /* description: Hot potato! */
 UPDATE locales_item SET description_loc3='Holds the staff, heart, shield and armor of the Vrykul.' WHERE entry=34624; /* description: Holds the staff, heart, shield and armor of the Vrykul. */
 UPDATE locales_item SET description_loc3='Azerothian diamonds are eternal.' WHERE entry=34625; /* description: Azerothian diamonds are eternal. */
@@ -2848,7 +2835,6 @@ UPDATE locales_item SET description_loc3='Drop one and find some cover!' WHERE e
 UPDATE locales_item SET description_loc3='You handle them with reverence and care.' WHERE entry=34773; /* description: You handle them with reverence and care. */
 UPDATE locales_item SET description_loc3='All that remains of Ith\'rix' WHERE entry=34777; /* description: All that remains of Ith\'rix */
 UPDATE locales_item SET description_loc3='It howls with the intensity of a hurricane.' WHERE entry=34778; /* description: It howls with the intensity of a hurricane. */
-UPDATE locales_item SET description_loc3='P.T.T.' WHERE entry=34785; /* description: P.T.T. */
 UPDATE locales_item SET description_loc3='This looks sturdy enough for a tank.' WHERE entry=34786; /* description: This looks sturdy enough for a tank. */
 UPDATE locales_item SET description_loc3='Such a big box for such a tiny person.' WHERE entry=34787; /* description: Such a big box for such a tiny person. */
 UPDATE locales_item SET description_loc3='A tiny susurrus of energy.' WHERE entry=34800; /* description: A tiny susurrus of energy. */
@@ -3018,7 +3004,6 @@ UPDATE locales_item SET description_loc3='You cannot identify this item or deter
 UPDATE locales_item SET description_loc3='These metal scraps are covered with glowing blue runes.' WHERE entry=35668; /* description: These metal scraps are covered with glowing blue runes. */
 UPDATE locales_item SET description_loc3='A powerful aura surrounds this device.' WHERE entry=35669; /* description: A powerful aura surrounds this device. */
 UPDATE locales_item SET description_loc3='Forged for T.S.' WHERE entry=35683; /* description: Forged for T.S. */
-UPDATE locales_item SET description_loc3='Heavy.' WHERE entry=35686; /* description: Heavy. */
 UPDATE locales_item SET description_loc3='Oh so cute. Too bad they grow up to be such little monsters!' WHERE entry=35692; /* description: Oh so cute. Too bad they grow up to be such little monsters! */
 UPDATE locales_item SET description_loc3='Teaches you how to create a Figurine - Empyrean Tortoise.' WHERE entry=35695; /* description: Teaches you how to create a Figurine - Empyrean Tortoise. */
 UPDATE locales_item SET description_loc3='Teaches you how to create a Figure - Khorium Boar.' WHERE entry=35696; /* description: Teaches you how to create a Figure - Khorium Boar. */
@@ -3052,12 +3037,8 @@ UPDATE locales_item SET description_loc3='Let\'s see what this mage hunter had o
 UPDATE locales_item SET description_loc3='The flesh is covered with claw marks.' WHERE entry=35794; /* description: The flesh is covered with claw marks. */
 UPDATE locales_item SET description_loc3='Summons the image of Drakuru for a short time.' WHERE entry=35797; /* description: Summons the image of Drakuru for a short time. */
 UPDATE locales_item SET description_loc3='Cold, concentrated troll mojo.' WHERE entry=35799; /* description: Cold, concentrated troll mojo. */
-UPDATE locales_item SET description_loc3='Clickety-clack!' WHERE entry=35802; /* description: Clickety-clack! */
-UPDATE locales_item SET description_loc3='Ribbit!' WHERE entry=35803; /* description: Ribbit! */
 UPDATE locales_item SET description_loc3='A strange mist swirls just beneath the gem\'s surface.' WHERE entry=35806; /* description: A strange mist swirls just beneath the gem\'s surface. */
-UPDATE locales_item SET description_loc3='Succulent!' WHERE entry=35831; /* description: Succulent! */
 UPDATE locales_item SET description_loc3='Dark, wet, and smells like fish...' WHERE entry=35908; /* description: Dark, wet, and smells like fish... */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=35941; /* description: Sealed */
 UPDATE locales_item SET description_loc3='There\'s something shiny inside....' WHERE entry=35945; /* description: There\'s something shiny inside.... */
 UPDATE locales_item SET description_loc3='This gem seems to be pulsating.' WHERE entry=36739; /* description: This gem seems to be pulsating. */
 UPDATE locales_item SET description_loc3='It\'s odd-looking and definitely magical.' WHERE entry=36742; /* description: It\'s odd-looking and definitely magical. */
@@ -3170,7 +3151,6 @@ UPDATE locales_item SET description_loc3='For those extra long days.' WHERE entr
 UPDATE locales_item SET description_loc3='This extracted soul has been pressed into service as entertainment for you.' WHERE entry=38308; /* description: This extracted soul has been pressed into service as entertainment for you. */
 UPDATE locales_item SET description_loc3='The sergeant is being ordered to bring his men back to reinforce the courtyard at The Argent Stand.' WHERE entry=38319; /* description: The sergeant is being ordered to bring his men back to reinforce the courtyard at The Argent Stand. */
 UPDATE locales_item SET description_loc3='The decanter shimmers with an unearthly glow.' WHERE entry=38321; /* description: The decanter shimmers with an unearthly glow. */
-UPDATE locales_item SET description_loc3='Pure.' WHERE entry=38325; /* description: Pure. */
 UPDATE locales_item SET description_loc3='Smells nasty. People actually eat these?' WHERE entry=38326; /* description: Smells nasty. People actually eat these? */
 UPDATE locales_item SET description_loc3='Teaches you how to sew a Haliscan Jacket.' WHERE entry=38327; /* description: Teaches you how to sew a Haliscan Jacket. */
 UPDATE locales_item SET description_loc3='Teaches you how to sew Haliscan Pantaloons.' WHERE entry=38328; /* description: Teaches you how to sew Haliscan Pantaloons. */
@@ -3200,8 +3180,6 @@ UPDATE locales_item SET description_loc3='Painstakingly pilfered, patiently poli
 UPDATE locales_item SET description_loc3='Cures what ails ya.' WHERE entry=38381; /* description: Cures what ails ya. */
 UPDATE locales_item SET description_loc3='Keep them in a safe place so that they don\'t fracture!' WHERE entry=38382; /* description: Keep them in a safe place so that they don\'t fracture! */
 UPDATE locales_item SET description_loc3='Smells of halitosis.' WHERE entry=38384; /* description: Smells of halitosis. */
-UPDATE locales_item SET description_loc3='Mmmm!' WHERE entry=38386; /* description: Mmmm! */
-UPDATE locales_item SET description_loc3='Half-hatched.' WHERE entry=38393; /* description: Half-hatched. */
 UPDATE locales_item SET description_loc3='Parted to the left...' WHERE entry=38396; /* description: Parted to the left... */
 UPDATE locales_item SET description_loc3='Imported from the South Seas.' WHERE entry=38397; /* description: Imported from the South Seas. */
 UPDATE locales_item SET description_loc3='Drinking water. Exclusively for the elite.' WHERE entry=38398; /* description: Drinking water. Exclusively for the elite. */
@@ -3233,8 +3211,6 @@ UPDATE locales_item SET description_loc3='For an aspiring student of the wasp hu
 UPDATE locales_item SET description_loc3='It squirms!' WHERE entry=38622; /* description: It squirms! */
 UPDATE locales_item SET description_loc3='Well worn.' WHERE entry=38624; /* description: Well worn. */
 UPDATE locales_item SET description_loc3='Uncut but full of possibility.' WHERE entry=38637; /* description: Uncut but full of possibility. */
-UPDATE locales_item SET description_loc3='Candybars?!' WHERE entry=38638; /* description: Candybars?! */
-UPDATE locales_item SET description_loc3='Gold!' WHERE entry=38639; /* description: Gold! */
 UPDATE locales_item SET description_loc3='Crafted of bone and dripping with blood...' WHERE entry=38660; /* description: Crafted of bone and dripping with blood... */
 UPDATE locales_item SET description_loc3='Crafted of bone and dripping with blood...' WHERE entry=38673; /* description: Crafted of bone and dripping with blood... */
 UPDATE locales_item SET description_loc3='Intricate pictograms adorn these tablets.' WHERE entry=38677; /* description: Intricate pictograms adorn these tablets. */
@@ -3255,7 +3231,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Heavy Frostw
 UPDATE locales_item SET description_loc3='Whatever could Quetz\'lun want with this?' WHERE entry=39156; /* description: Whatever could Quetz\'lun want with this? */
 UPDATE locales_item SET description_loc3='This is the collection of fragments that you initially gathered for Quetz\'lun\'s Spirit.' WHERE entry=39166; /* description: This is the collection of fragments that you initially gathered for Quetz\'lun\'s Spirit. */
 UPDATE locales_item SET description_loc3='The pages are torn beyond readability' WHERE entry=39203; /* description: The pages are torn beyond readability */
-UPDATE locales_item SET description_loc3='Sealed' WHERE entry=39269; /* description: Sealed */
 UPDATE locales_item SET description_loc3='Teaches you how to summon Frosty!' WHERE entry=39286; /* description: Teaches you how to summon Frosty! */
 UPDATE locales_item SET description_loc3='Full of all sorts of Drakkari goodies.' WHERE entry=39301; /* description: Full of all sorts of Drakkari goodies. */
 UPDATE locales_item SET description_loc3='You\'d best get this back to Har\'koa a.s.a.p.!' WHERE entry=39318; /* description: You\'d best get this back to Har\'koa a.s.a.p.! */
@@ -3279,7 +3254,6 @@ UPDATE locales_item SET description_loc3='Flawless unlike all of the others.' WH
 UPDATE locales_item SET description_loc3='Its winds swirl in a seething vortex.' WHERE entry=39541; /* description: Its winds swirl in a seething vortex. */
 UPDATE locales_item SET description_loc3='Teaches you how to brew Kungaloosh.' WHERE entry=39644; /* description: Teaches you how to brew Kungaloosh. */
 UPDATE locales_item SET description_loc3='Bulbous, bluish and somewhat bitter.' WHERE entry=39668; /* description: Bulbous, bluish and somewhat bitter. */
-UPDATE locales_item SET description_loc3='Mouthwatering!' WHERE entry=39669; /* description: Mouthwatering! */
 UPDATE locales_item SET description_loc3='Sticky, but brittle.' WHERE entry=39670; /* description: Sticky, but brittle. */
 UPDATE locales_item SET description_loc3='Teaches you how to cook Succulent Orca Stew.' WHERE entry=39692; /* description: Teaches you how to cook Succulent Orca Stew. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=39728; /* description: Counts as an Air, Earth, Fire, and Water totem. */
@@ -3420,7 +3394,6 @@ UPDATE locales_item SET name_loc3='Perfect Glinting Shadow Crystal',description_
 UPDATE locales_item SET name_loc3='Perfect Glinting Shadow Crystal',description_loc3='Matches a Red or Blue Socket.' WHERE entry=41496; /* name: Perfect Glinting Shadow Crystal */ .* description: Matches a Red or Blue Socket. */
 UPDATE locales_item SET name_loc3='Perfect Veiled Shadow Crystal',description_loc3='Matches a Red or Blue Socket.' WHERE entry=41502; /* name: Perfect Veiled Shadow Crystal */ .* description: Matches a Red or Blue Socket. */
 UPDATE locales_item SET description_loc3='So soft that it crumbles in your hands.' WHERE entry=41503; /* description: So soft that it crumbles in your hands. */
-UPDATE locales_item SET description_loc3='Stretchy!' WHERE entry=41504; /* description: Stretchy! */
 UPDATE locales_item SET description_loc3='You couldn\'t possibly carry more than one...' WHERE entry=41506; /* description: You couldn\'t possibly carry more than one... */
 UPDATE locales_item SET description_loc3='Size XXXL' WHERE entry=41507; /* description: Size XXXL */
 UPDATE locales_item SET description_loc3='Teaches you how to ride this sweet hog.' WHERE entry=41508; /* description: Teaches you how to ride this sweet hog. */
@@ -3540,7 +3513,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to cut a Subtle Dragon
 UPDATE locales_item SET description_loc3='The best free ale in Zul\'Drak.' WHERE entry=42381; /* description: The best free ale in Zul\'Drak. */
 UPDATE locales_item SET description_loc3='Medal awarded for fighting in Strand of the Ancients' WHERE entry=42425; /* description: Medal awarded for fighting in Strand of the Ancients */
 UPDATE locales_item SET description_loc3='A remnant of a lost age.' WHERE entry=42541; /* description: A remnant of a lost age. */
-UPDATE locales_item SET description_loc3='Failsafe.' WHERE entry=42546; /* description: Failsafe. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=42593; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=42594; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=42595; /* description: Counts as an Air, Earth, Fire, and Water totem. */
@@ -3565,7 +3537,6 @@ UPDATE locales_item SET description_loc3='Teaches you how to craft a Titanium Sp
 UPDATE locales_item SET description_loc3='Matches a Red, Yellow or Blue socket.  Maximum of one socketed in your equipment.' WHERE entry=42701; /* description: Matches a Red, Yellow or Blue socket.  Maximum of one socketed in your equipment. */
 UPDATE locales_item SET description_loc3='Matches a Red, Yellow or Blue socket.  Maximum of one socketed in your equipment.' WHERE entry=42702; /* description: Matches a Red, Yellow or Blue socket.  Maximum of one socketed in your equipment. */
 UPDATE locales_item SET description_loc3='Permanently teaches you this glyph.' WHERE entry=42739; /* description: Permanently teaches you this glyph. */
-UPDATE locales_item SET description_loc3='Gooey.' WHERE entry=42770; /* description: Gooey. */
 UPDATE locales_item SET description_loc3='This large tome contains the doctor\'s notes for the construction of a flesh giant from the pieces of vargul' WHERE entry=42772; /* description: This large tome contains the doctor\'s notes for the construction of a flesh giant from the pieces of vargul */
 UPDATE locales_item SET description_loc3='Just the thing for a cold crusader.' WHERE entry=42779; /* description: Just the thing for a cold crusader. */
 UPDATE locales_item SET description_loc3='There are certain to be individuals who place value in these.' WHERE entry=42780; /* description: There are certain to be individuals who place value in these. */
@@ -3650,6 +3621,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to cook Bad Clams.' WH
 UPDATE locales_item SET description_loc3='Teaches you how to cook Haunted Herring.' WHERE entry=43510; /* description: Teaches you how to cook Haunted Herring. */
 UPDATE locales_item SET description_loc3='You cannot imagine anything being more disgusting than this.' WHERE entry=43511; /* description: You cannot imagine anything being more disgusting than this. */
 UPDATE locales_item SET description_loc3='The odor from this fungus makes you retch uncontrollably.' WHERE entry=43512; /* description: The odor from this fungus makes you retch uncontrollably. */
+UPDATE locales_item SET name_loc3='Stamped Identification Tag',description_loc3='867-5309' WHERE entry=43514; /* name: Stamped Identification Tag */ .* description: 867-5309 */
 UPDATE locales_item SET description_loc3='Just a little bit too big...' WHERE entry=43521; /* description: Just a little bit too big... */
 UPDATE locales_item SET description_loc3='A valuable member of the Pa\'Troll!' WHERE entry=43555; /* description: A valuable member of the Pa\'Troll! */
 UPDATE locales_item SET description_loc3='Not consumed when used.' WHERE entry=43569; /* description: Not consumed when used. */
@@ -3793,6 +3765,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to make a Mechano-hog.
 UPDATE locales_item SET description_loc3='Teaches you how to make a Mekgineer\'s Chopper.' WHERE entry=44503; /* description: Teaches you how to make a Mekgineer\'s Chopper. */
 UPDATE locales_item SET description_loc3='Blade of the Crimson Landlord.' WHERE entry=44505; /* description: Blade of the Crimson Landlord. */
 UPDATE locales_item SET description_loc3='Accidents from using this device are down by nearly 17%!' WHERE entry=44507; /* description: Accidents from using this device are down by nearly 17%! */
+UPDATE locales_item SET description_loc3='Randomly discover a new Alchemy recipe.' WHERE entry=44508; /* description: Randomly discover a new Alchemy recipe. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Trapper\'s Traveling Pack.' WHERE entry=44509; /* description: Teaches you how to make a Trapper\'s Traveling Pack. */
 UPDATE locales_item SET description_loc3='Teaches you how to make a Mammoth Mining Bag.' WHERE entry=44510; /* description: Teaches you how to make a Mammoth Mining Bag. */
 UPDATE locales_item SET description_loc3='Teaches you how to make an Eviscerator\'s Facemask.' WHERE entry=44513; /* description: Teaches you how to make an Eviscerator\'s Facemask. */
@@ -3946,6 +3919,7 @@ UPDATE locales_item SET description_loc3='Smarter and Juicier!' WHERE entry=4527
 UPDATE locales_item SET description_loc3='For when you\'re feeling the pinch!' WHERE entry=45277; /* description: For when you\'re feeling the pinch! */
 UPDATE locales_item SET description_loc3='Carry with you the thunderous strength of the storm.' WHERE entry=45463; /* description: Carry with you the thunderous strength of the storm. */
 UPDATE locales_item SET description_loc3='As shall my love never fail, neither shall the strength of your rule.' WHERE entry=45469; /* description: As shall my love never fail, neither shall the strength of your rule. */
+UPDATE locales_item SET description_loc3='The corruption seems to be spreading to you. Better get it to Gnarl quickly!' WHERE entry=45573; /* description: The corruption seems to be spreading to you. Better get it to Gnarl quickly! */
 UPDATE locales_item SET description_loc3='A small sum of money awarded to champions for training or service to the tournament.' WHERE entry=45724; /* description: A small sum of money awarded to champions for training or service to the tournament. */
 UPDATE locales_item SET description_loc3='Teaches you how to sew an Emerald Bag.' WHERE entry=45774; /* description: Teaches you how to sew an Emerald Bag. */
 UPDATE locales_item SET description_loc3='Just holding this heavy and unwieldy tome makes you feel a little clumsy....' WHERE entry=45849; /* description: Just holding this heavy and unwieldy tome makes you feel a little clumsy.... */
@@ -3979,6 +3953,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to permanently enchant
 UPDATE locales_item SET description_loc3='Just the right size for a young child.' WHERE entry=46693; /* description: Just the right size for a young child. */
 UPDATE locales_item SET description_loc3='Teaches you how to cook Bread of the Dead.' WHERE entry=46710; /* description: Teaches you how to cook Bread of the Dead. */
 UPDATE locales_item SET description_loc3='Said to attract spirits and help one communicate with the departed on the Day of the Dead.' WHERE entry=46718; /* description: Said to attract spirits and help one communicate with the departed on the Day of the Dead. */
+UPDATE locales_item SET description_loc3='The assembled rod somehow feels both light and heavy within your hand.' WHERE entry=46721; /* description: The assembled rod somehow feels both light and heavy within your hand. */
 UPDATE locales_item SET description_loc3='An official Red Rider Carbine-Action 200-Shot Range Model Air Rifle!' WHERE entry=46725; /* description: An official Red Rider Carbine-Action 200-Shot Range Model Air Rifle! */
 UPDATE locales_item SET description_loc3='The goggles, they do something!' WHERE entry=46735; /* description: The goggles, they do something! */
 UPDATE locales_item SET name_loc3='Warbot Ignition Key',description_loc3='Teaches you how to summon this companion.' WHERE entry=46767; /* name: Warbot Ignition Key */ .* description: Teaches you how to summon this companion. */
@@ -4054,6 +4029,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to cut a Deft Ametrine
 UPDATE locales_item SET description_loc3='Teaches you how to cut a Lucent Ametrine.' WHERE entry=47021; /* description: Teaches you how to cut a Lucent Ametrine. */
 UPDATE locales_item SET description_loc3='Teaches you how to cut a Resolute Ametrine.' WHERE entry=47022; /* description: Teaches you how to cut a Resolute Ametrine. */
 UPDATE locales_item SET description_loc3='Teaches you how to cut a Deft Ametrine.' WHERE entry=47023; /* description: Teaches you how to cut a Deft Ametrine. */
+UPDATE locales_item SET name_loc3='Hip New Outfit',description_loc3='Tight!' WHERE entry=47046; /* name: Hip New Outfit */ .* description: Tight! */
 UPDATE locales_item SET description_loc3='Shed by a growing raptor. Mor\'vek says your raptor will be ready to ride when it has shed 20 baby teeth.' WHERE entry=47196; /* description: Shed by a growing raptor. Mor\'vek says your raptor will be ready to ride when it has shed 20 baby teeth. */
 UPDATE locales_item SET description_loc3='Medal awarded for fighting in Isle of Conquest' WHERE entry=47395; /* description: Medal awarded for fighting in Isle of Conquest */
 UPDATE locales_item SET description_loc3='Can be used in arenas.  This potent flask is not consumed when used, but is unaffected by Mixology.' WHERE entry=47499; /* description: Can be used in arenas.  This potent flask is not consumed when used, but is unaffected by Mixology. */
@@ -4118,6 +4094,7 @@ UPDATE locales_item SET description_loc3='Teaches you how to summon this mount. 
 UPDATE locales_item SET description_loc3='Teaches you how to summon this mount.  This mount changes depending on your Riding skill and location.' WHERE entry=49286; /* description: Teaches you how to summon this mount.  This mount changes depending on your Riding skill and location. */
 UPDATE locales_item SET description_loc3='The High Blade' WHERE entry=49303; /* description: The High Blade */
 UPDATE locales_item SET description_loc3='The pages are yellowed; this book is very old.' WHERE entry=49335; /* description: The pages are yellowed; this book is very old. */
+UPDATE locales_item SET description_loc3='Pages of elegantly-inked arcane script, complete with carefully-penned diagrams.' WHERE entry=49356; /* description: Pages of elegantly-inked arcane script, complete with carefully-penned diagrams. */
 UPDATE locales_item SET name_loc3='Thanks for Playing!',description_loc3='Better Luck Next Time!' WHERE entry=49370; /* name: Thanks for Playing! */ .* description: Better Luck Next Time! */
 UPDATE locales_item SET description_loc3='There\'s a message carved into the handle of the throwing axe: \'Lok\'tar ogar! -- Garrosh\'' WHERE entry=49377; /* description: There\'s a message carved into the handle of the throwing axe: \'Lok\'tar ogar! -- Garrosh\' */
 UPDATE locales_item SET description_loc3='The High Blade' WHERE entry=49495; /* description: The High Blade */
@@ -4128,13 +4105,16 @@ UPDATE locales_item SET description_loc3='The head of the Black Dragonflight\'s 
 UPDATE locales_item SET description_loc3='Pliers, bone saw, scalpel and sundry other tools allow for the collection of Lovely Charms from worthwhile enemies. Collect 10 charms to make a bracelet!' WHERE entry=49661; /* description: Pliers, bone saw, scalpel and sundry other tools allow for the collection of Lovely Charms from worthwhile enemies. Collect 10 charms to make a bracelet! */
 UPDATE locales_item SET name_loc3='Enchanted Purple Jade',description_loc3='Teaches you how to summon this companion.' WHERE entry=49664; /* name: Enchanted Purple Jade */ .* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET description_loc3='Worth a handful of Dalaran Cooking Tokens from the right person.' WHERE entry=49667; /* description: Worth a handful of Dalaran Cooking Tokens from the right person. */
+UPDATE locales_item SET description_loc3='Surface to Face Grenade' WHERE entry=49700; /* description: Surface to Face Grenade */
 UPDATE locales_item SET description_loc3='Power - Grace - Beauty' WHERE entry=49856; /* description: Power - Grace - Beauty */
 UPDATE locales_item SET description_loc3='Arcane Allure' WHERE entry=49857; /* description: Arcane Allure */
 UPDATE locales_item SET description_loc3='True Love Is' WHERE entry=49858; /* description: True Love Is */
 UPDATE locales_item SET description_loc3='Be Reckless in Love' WHERE entry=49859; /* description: Be Reckless in Love */
 UPDATE locales_item SET description_loc3='The Air of Sophistication' WHERE entry=49860; /* description: The Air of Sophistication */
 UPDATE locales_item SET description_loc3='Musk for Men' WHERE entry=49861; /* description: Musk for Men */
+UPDATE locales_item SET description_loc3='Everything you\'ve ever managed to earn or steal!' WHERE entry=49866; /* description: Everything you\'ve ever managed to earn or steal! */
 UPDATE locales_item SET description_loc3='You can hear the clink of glass... don\'t drop it!' WHERE entry=49867; /* description: You can hear the clink of glass... don\'t drop it! */
+UPDATE locales_item SET name_loc3='Enervated Adder',description_loc3='Feisty!' WHERE entry=49875; /* name: Enervated Adder */ .* description: Feisty! */
 UPDATE locales_item SET description_loc3='This re-forged blade radiates evil from the saronite used to restore it.' WHERE entry=49879; /* description: This re-forged blade radiates evil from the saronite used to restore it. */
 UPDATE locales_item SET description_loc3='This re-forged blade radiates evil from the saronite used to restore it.' WHERE entry=49889; /* description: This re-forged blade radiates evil from the saronite used to restore it. */
 UPDATE locales_item SET description_loc3='Contains a variety of delicious chocolates.' WHERE entry=49909; /* description: Contains a variety of delicious chocolates. */
@@ -4172,6 +4152,7 @@ UPDATE locales_item SET description_loc3='Contains one of three lovely dinner su
 UPDATE locales_item SET description_loc3='It won\'t last long, but it\'s lovely.' WHERE entry=50163; /* description: It won\'t last long, but it\'s lovely. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon this mount.  This mount changes depending on your Riding skill and location.' WHERE entry=50250; /* description: Teaches you how to summon this mount.  This mount changes depending on your Riding skill and location. */
 UPDATE locales_item SET description_loc3='The sword\'s compulsion has been overcome... for now.' WHERE entry=50254; /* description: The sword\'s compulsion has been overcome... for now. */
+UPDATE locales_item SET description_loc3='Don\'t drop it!' WHERE entry=50261; /* description: Don\'t drop it! */
 UPDATE locales_item SET description_loc3='When you dislike enough to make the very worst!' WHERE entry=50320; /* description: When you dislike enough to make the very worst! */
 UPDATE locales_item SET description_loc3='Signed in blood by a referring member.' WHERE entry=50375; /* description: Signed in blood by a referring member. */
 UPDATE locales_item SET description_loc3='This scratched and dented hilt once belonged to an ancient sword.' WHERE entry=50379; /* description: This scratched and dented hilt once belonged to an ancient sword. */
@@ -4205,7 +4186,14 @@ UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Wat
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=51507; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='Counts as an Air, Earth, Fire, and Water totem.' WHERE entry=51513; /* description: Counts as an Air, Earth, Fire, and Water totem. */
 UPDATE locales_item SET description_loc3='Even longer than your average cloak or cape.' WHERE entry=51912; /* description: Even longer than your average cloak or cape. */
+UPDATE locales_item SET description_loc3='A dangerous heap of random bits of metal scrap or broken glass.' WHERE entry=51957; /* description: A dangerous heap of random bits of metal scrap or broken glass. */
+UPDATE locales_item SET description_loc3='Smells funny.' WHERE entry=52024; /* description: Smells funny. */
+UPDATE locales_item SET description_loc3='A gross mishmash of different bits.' WHERE entry=52041; /* description: A gross mishmash of different bits. */
+UPDATE locales_item SET description_loc3='This short staff groans and creaks in your hand, as if the wood is alive and still growing.' WHERE entry=52046; /* description: This short staff groans and creaks in your hand, as if the wood is alive and still growing. */
+UPDATE locales_item SET description_loc3='Much heavier than it looks.  This is a flower?' WHERE entry=52067; /* description: Much heavier than it looks.  This is a flower? */
 UPDATE locales_item SET name_loc3='Strange Gem',description_loc3='Matches a Red or Blue Socket.' WHERE entry=52070; /* name: Strange Gem */ .* description: Matches a Red or Blue Socket. */
+UPDATE locales_item SET description_loc3='A black, cottony clump that fizzles in your hands.' WHERE entry=52072; /* description: A black, cottony clump that fizzles in your hands. */
+UPDATE locales_item SET description_loc3='A piece of correspondence from the local lieutenant.' WHERE entry=52079; /* description: A piece of correspondence from the local lieutenant. */
 UPDATE locales_item SET name_loc3='Bold Carnelian',description_loc3='Matches a Red Socket.' WHERE entry=52081; /* name: Bold Carnelian */ .* description: Matches a Red Socket. */
 UPDATE locales_item SET name_loc3='Delicate Carnelian',description_loc3='Matches a Red Socket.' WHERE entry=52082; /* name: Delicate Carnelian */ .* description: Matches a Red Socket. */
 UPDATE locales_item SET name_loc3='Flashing Carnelian',description_loc3='Matches a Red Socket.' WHERE entry=52083; /* name: Flashing Carnelian */ .* description: Matches a Red Socket. */
@@ -4382,13 +4370,20 @@ UPDATE locales_item SET name_loc3='Powerful Shadowspirit Diamond',description_lo
 UPDATE locales_item SET name_loc3='Enigmatic Shadowspirit Diamond',description_loc3='Only fits in a meta gem slot.' WHERE entry=52300; /* name: Enigmatic Shadowspirit Diamond */ .* description: Only fits in a meta gem slot. */
 UPDATE locales_item SET name_loc3='Impassive Shadowspirit Diamond',description_loc3='Only fits in a meta gem slot.' WHERE entry=52301; /* name: Impassive Shadowspirit Diamond */ .* description: Only fits in a meta gem slot. */
 UPDATE locales_item SET name_loc3='Forlorn Shadowspirit Diamond',description_loc3='Only fits in a meta gem slot.' WHERE entry=52302; /* name: Forlorn Shadowspirit Diamond */ .* description: Only fits in a meta gem slot. */
+UPDATE locales_item SET description_loc3='Covered in different scripts of writing.' WHERE entry=52470; /* description: Covered in different scripts of writing. */
 UPDATE locales_item SET description_loc3='Measures radiation levels, temperature, and makes neat sounds too!' WHERE entry=52541; /* description: Measures radiation levels, temperature, and makes neat sounds too! */
 UPDATE locales_item SET description_loc3='Point, Shoot, Motivate!' WHERE entry=52566; /* description: Point, Shoot, Motivate! */
+UPDATE locales_item SET description_loc3='The crystal tears of a mountain giant.' WHERE entry=52573; /* description: The crystal tears of a mountain giant. */
 UPDATE locales_item SET description_loc3='There\'s a good one in here ... somewhere...' WHERE entry=52709; /* description: There\'s a good one in here ... somewhere... */
+UPDATE locales_item SET description_loc3='A dried, pungent fungal bloom.' WHERE entry=52726; /* description: A dried, pungent fungal bloom. */
+UPDATE locales_item SET description_loc3='The buds of this plant are heavy with liquid stored within.' WHERE entry=52727; /* description: The buds of this plant are heavy with liquid stored within. */
 UPDATE locales_item SET description_loc3='Smoke dances beneath its flawless surface.' WHERE entry=52832; /* description: Smoke dances beneath its flawless surface. */
 UPDATE locales_item SET description_loc3='Small, portable devices housing powerful elementals.' WHERE entry=52835; /* description: Small, portable devices housing powerful elementals. */
 UPDATE locales_item SET description_loc3='Waterproof, stain-proof, one size fits all. Hooray, science!' WHERE entry=53097; /* description: Waterproof, stain-proof, one size fits all. Hooray, science! */
+UPDATE locales_item SET description_loc3='A disgusting fruit with pus-like ichor bursting from its leathery skin.' WHERE entry=53102; /* description: A disgusting fruit with pus-like ichor bursting from its leathery skin. */
 UPDATE locales_item SET description_loc3='Soft wailing can be heard from the glowing light.' WHERE entry=53136; /* description: Soft wailing can be heard from the glowing light. */
+UPDATE locales_item SET name_loc3='Refleshified Bracers',description_loc3='Ick.' WHERE entry=53434; /* name: Refleshified Bracers */ .* description: Ick. */
+UPDATE locales_item SET name_loc3='Scalding Gloves',description_loc3='Ouch.' WHERE entry=53438; /* name: Scalding Gloves */ .* description: Ouch. */
 UPDATE locales_item SET description_loc3='A chip off the old block.' WHERE entry=53641; /* description: A chip off the old block. */
 UPDATE locales_item SET description_loc3='NOTE: Not Guaranteed to Contain an Actual Mount' WHERE entry=54218; /* description: NOTE: Not Guaranteed to Contain an Actual Mount */
 UPDATE locales_item SET description_loc3='The squirming cub refuses to leave the tree. It looks like you\'ll have to chuck it from the treetops.' WHERE entry=54439; /* description: The squirming cub refuses to leave the tree. It looks like you\'ll have to chuck it from the treetops. */
@@ -4403,10 +4398,20 @@ UPDATE locales_item SET description_loc3='Teaches you how to summon this mount. 
 UPDATE locales_item SET description_loc3='Sealed tight for delivery.' WHERE entry=55175; /* description: Sealed tight for delivery. */
 UPDATE locales_item SET description_loc3='This magical fire is cold to the touch. Nevermind that it burns underwater.' WHERE entry=55979; /* description: This magical fire is cold to the touch. Nevermind that it burns underwater. */
 UPDATE locales_item SET description_loc3='The enchanted arrowhead is still razor-sharp.' WHERE entry=56176; /* description: The enchanted arrowhead is still razor-sharp. */
+UPDATE locales_item SET description_loc3='You didn\'t know that fish eggs came in this size.' WHERE entry=56570; /* description: You didn\'t know that fish eggs came in this size. */
+UPDATE locales_item SET description_loc3='You didn\'t know that fish eggs came in this size.' WHERE entry=56571; /* description: You didn\'t know that fish eggs came in this size. */
+UPDATE locales_item SET description_loc3='A thick, glowing liquid extracted from local sealife.' WHERE entry=56573; /* description: A thick, glowing liquid extracted from local sealife. */
 UPDATE locales_item SET description_loc3='The legendary blade of Ignaeus Trollbane.' WHERE entry=56804; /* description: The legendary blade of Ignaeus Trollbane. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon Mini Thor.' WHERE entry=56806; /* description: Teaches you how to summon Mini Thor. */
+UPDATE locales_item SET description_loc3='A sack of fish.' WHERE entry=56811; /* description: A sack of fish. */
+UPDATE locales_item SET description_loc3='You didn\'t know that fish eggs came in this size.' WHERE entry=56812; /* description: You didn\'t know that fish eggs came in this size. */
+UPDATE locales_item SET name_loc3='"Flying" Worgen Robes',description_loc3='Whee!' WHERE entry=58216; /* name: "Flying" Worgen Robes */ .* description: Whee! */
 UPDATE locales_item SET description_loc3='An ancient kaldorei staple.' WHERE entry=58260; /* description: An ancient kaldorei staple. */
 UPDATE locales_item SET description_loc3='Sweet, warm, buttery goodness.' WHERE entry=58261; /* description: Sweet, warm, buttery goodness. */
+UPDATE locales_item SET description_loc3='Details the brave acts you performed in service of the Alliance.' WHERE entry=58363; /* description: Details the brave acts you performed in service of the Alliance. */
+UPDATE locales_item SET description_loc3='As promised, it appears to be mouth-wateringly pure.' WHERE entry=58811; /* description: As promised, it appears to be mouth-wateringly pure. */
+UPDATE locales_item SET description_loc3='The gnomecorder crackles and whirs.' WHERE entry=58894; /* description: The gnomecorder crackles and whirs. */
+UPDATE locales_item SET name_loc3='Westfall Mud Pie',description_loc3='Yum?' WHERE entry=58933; /* name: Westfall Mud Pie */ .* description: Yum? */
 UPDATE locales_item SET description_loc3='Pinch nose before drinking to prevent vomiting.' WHERE entry=59029; /* description: Pinch nose before drinking to prevent vomiting. */
 UPDATE locales_item SET description_loc3='At least it\'s better than the fungus.' WHERE entry=59227; /* description: At least it\'s better than the fungus. */
 UPDATE locales_item SET description_loc3='Tastes even worse than it smells.' WHERE entry=59228; /* description: Tastes even worse than it smells. */
@@ -4415,16 +4420,33 @@ UPDATE locales_item SET description_loc3='Syrupy and foul-smelling.' WHERE entry
 UPDATE locales_item SET description_loc3='They slide right on down! Sometimes right back up, too.' WHERE entry=59231; /* description: They slide right on down! Sometimes right back up, too. */
 UPDATE locales_item SET description_loc3='Somehow even more sinister than Mystery Meat.' WHERE entry=59232; /* description: Somehow even more sinister than Mystery Meat. */
 UPDATE locales_item SET description_loc3='The final, blood-stained page has been added.' WHERE entry=59362; /* description: The final, blood-stained page has been added. */
+UPDATE locales_item SET description_loc3='For those occasions when regular rum just won\'t do.' WHERE entry=59523; /* description: For those occasions when regular rum just won\'t do. */
+UPDATE locales_item SET description_loc3='A foul-smelling and fibrous weed.' WHERE entry=60204; /* description: A foul-smelling and fibrous weed. */
 UPDATE locales_item SET description_loc3='A holy artifact crafted from lightforged iron.' WHERE entry=60212; /* description: A holy artifact crafted from lightforged iron. */
 UPDATE locales_item SET description_loc3='Nearly as complicated to operate as it is to make.' WHERE entry=60223; /* description: Nearly as complicated to operate as it is to make. */
 UPDATE locales_item SET description_loc3='The cleanest water in the Cape.' WHERE entry=60386; /* description: The cleanest water in the Cape. */
+UPDATE locales_item SET description_loc3='Bring enough for the arch geomancer to perform his ritual.' WHERE entry=60487; /* description: Bring enough for the arch geomancer to perform his ritual. */
 UPDATE locales_item SET name_loc3='Trans-Dimensional Fabricator',description_loc3='Good luck.' WHERE entry=60498; /* name: Trans-Dimensional Fabricator */ .* description: Good luck. */
 UPDATE locales_item SET name_loc3='Stabthistle Seed',description_loc3='Ouch!' WHERE entry=60737; /* name: Stabthistle Seed */ .* description: Ouch! */
+UPDATE locales_item SET description_loc3='Heavy crates of disorganized mechanical debris.' WHERE entry=60757; /* description: Heavy crates of disorganized mechanical debris. */
+UPDATE locales_item SET name_loc3='Gahrron Prayer Book',description_loc3='Well-worn.' WHERE entry=60770; /* name: Gahrron Prayer Book */ .* description: Well-worn. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=60869; /* description: Teaches you how to summon and dismiss this companion. */
+UPDATE locales_item SET description_loc3='True to form, it rattles with the unearthly sound of bones from within.' WHERE entry=60959; /* description: True to form, it rattles with the unearthly sound of bones from within. */
 UPDATE locales_item SET description_loc3='Touching it makes your blood run cold.' WHERE entry=60975; /* description: Touching it makes your blood run cold. */
-UPDATE locales_item SET name_loc3='Orders from High Command',description_loc3='Bears the Seal of Stormwind' WHERE entry=60977; /* name: Orders from High Command */ .* description: Bears the Seal of Stormwind */
+UPDATE locales_item SET description_loc3='The taurahe pictograms glow with magical incandescence.' WHERE entry=60976; /* description: The taurahe pictograms glow with magical incandescence. */
+UPDATE locales_item SET description_loc3='A palpable force booms out when the drum is struck.' WHERE entry=60980; /* description: A palpable force booms out when the drum is struck. */
+UPDATE locales_item SET description_loc3='Tastes like sweet, sweet death.' WHERE entry=61364; /* description: Tastes like sweet, sweet death. */
+UPDATE locales_item SET name_loc3='Stack of Questionable Publications',description_loc3='Improper!' WHERE entry=61373; /* name: Stack of Questionable Publications */ .* description: Improper! */
+UPDATE locales_item SET description_loc3='An urgent note from Baroness Anastari.' WHERE entry=61377; /* description: An urgent note from Baroness Anastari. */
+UPDATE locales_item SET description_loc3='An urgent note from Baroness Anastari.' WHERE entry=61378; /* description: An urgent note from Baroness Anastari. */
 UPDATE locales_item SET name_loc3='Dempsey\'s Giblets',description_loc3='What is this?' WHERE entry=61508; /* name: Dempsey\'s Giblets */ .* description: What is this? */
+UPDATE locales_item SET name_loc3='Intact Swampshore Tail',description_loc3='Jumbo-sized!' WHERE entry=61633; /* name: Intact Swampshore Tail */ .* description: Jumbo-sized! */
+UPDATE locales_item SET name_loc3='Thousand-Thread-Count Fuse',description_loc3='Luxurious!' WHERE entry=61921; /* name: Thousand-Thread-Count Fuse */ .* description: Luxurious! */
+UPDATE locales_item SET name_loc3='Extra-Pure Blasting Powder',description_loc3='Refined!' WHERE entry=61922; /* name: Extra-Pure Blasting Powder */ .* description: Refined! */
 UPDATE locales_item SET description_loc3='Kind of handsome in a rugged sort of way.' WHERE entry=61924; /* description: Kind of handsome in a rugged sort of way. */
+UPDATE locales_item SET name_loc3='Brox\'s Head',description_loc3='Gruesome.' WHERE entry=61925; /* name: Brox\'s Head */ .* description: Gruesome. */
+UPDATE locales_item SET name_loc3='Beeble\'s Head',description_loc3='Disgusting.' WHERE entry=61926; /* name: Beeble\'s Head */ .* description: Disgusting. */
+UPDATE locales_item SET name_loc3='Phod\'s Head',description_loc3='Dripping.' WHERE entry=61927; /* name: Phod\'s Head */ .* description: Dripping. */
 UPDATE locales_item SET description_loc3='Information on the Revantusk Tribe and strategic locations.' WHERE entry=61972; /* description: Information on the Revantusk Tribe and strategic locations. */
 UPDATE locales_item SET description_loc3='Records of Highvale supplies and Alliance contacts.' WHERE entry=61973; /* description: Records of Highvale supplies and Alliance contacts. */
 UPDATE locales_item SET description_loc3='Observations on wildlife and local resources.' WHERE entry=61974; /* description: Observations on wildlife and local resources. */
@@ -4433,7 +4455,9 @@ UPDATE locales_item SET name_loc3='Volcanic Deck',description_loc3='Property of 
 UPDATE locales_item SET name_loc3='Tsunami Deck',description_loc3='Property of the Darkmoon Faire.' WHERE entry=62044; /* name: Tsunami Deck */ .* description: Property of the Darkmoon Faire. */
 UPDATE locales_item SET name_loc3='Hurricane Deck',description_loc3='Property of the Darkmoon Faire.' WHERE entry=62045; /* name: Hurricane Deck */ .* description: Property of the Darkmoon Faire. */
 UPDATE locales_item SET name_loc3='Earthquake Deck',description_loc3='Property of the Darkmoon Faire.' WHERE entry=62046; /* name: Earthquake Deck */ .* description: Property of the Darkmoon Faire. */
+UPDATE locales_item SET description_loc3='Ooh, that\'s sharp!' WHERE entry=62230; /* description: Ooh, that\'s sharp! */
 UPDATE locales_item SET name_loc3='Reins of the Golden King',description_loc3='Teaches you how to summon this mount.' WHERE entry=62298; /* name: Reins of the Golden King */ .* description: Teaches you how to summon this mount. */
+UPDATE locales_item SET name_loc3='Wildhammer Ale',description_loc3='Pungent.' WHERE entry=62327; /* name: Wildhammer Ale */ .* description: Pungent. */
 UPDATE locales_item SET description_loc3='A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals.' WHERE entry=62379; /* description: A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals. */
 UPDATE locales_item SET name_loc3='Sheepdog Collar',description_loc3='That\'ll do.' WHERE entry=62389; /* name: Sheepdog Collar */ .* description: That\'ll do. */
 UPDATE locales_item SET description_loc3='A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals.' WHERE entry=62412; /* description: A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals. */
@@ -4441,11 +4465,18 @@ UPDATE locales_item SET name_loc3='Goblin Trike Key',description_loc3='Teaches y
 UPDATE locales_item SET name_loc3='Goblin Turbo-Trike Key',description_loc3='Teaches you how to summon this mount.' WHERE entry=62462; /* name: Goblin Turbo-Trike Key */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET description_loc3='A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals.' WHERE entry=62495; /* description: A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals. */
 UPDATE locales_item SET description_loc3='A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals.' WHERE entry=62496; /* description: A rare tome describing the Twilight\'s Hammer cult\'s ritual for opening elemental portals. */
+UPDATE locales_item SET name_loc3='Lenore\'s Pendant',description_loc3='Nevermore.' WHERE entry=62507; /* name: Lenore\'s Pendant */ .* description: Nevermore. */
+UPDATE locales_item SET description_loc3='At least the Dark Irons can appreciate a good beer.' WHERE entry=62510; /* description: At least the Dark Irons can appreciate a good beer. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon Lil\' Deathwing.' WHERE entry=62540; /* description: Teaches you how to summon Lil\' Deathwing. */
+UPDATE locales_item SET description_loc3='These flowers grow up towards the sky, even in the darkest shadow.' WHERE entry=62550; /* description: These flowers grow up towards the sky, even in the darkest shadow. */
 UPDATE locales_item SET name_loc3='Reins of the Volcanic Stone Drake',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=62900; /* name: Reins of the Volcanic Stone Drake */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET name_loc3='Reins of the Drake of the East Wind',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=62901; /* name: Reins of the Drake of the East Wind */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
+UPDATE locales_item SET name_loc3='I-Scream Cryocannon',description_loc3='Brrrrr!' WHERE entry=62913; /* name: I-Scream Cryocannon */ .* description: Brrrrr! */
+UPDATE locales_item SET description_loc3='Located right at the bottom of the fire-esophagus.' WHERE entry=62914; /* description: Located right at the bottom of the fire-esophagus. */
 UPDATE locales_item SET description_loc3='This is one big pillow.' WHERE entry=62933; /* description: This is one big pillow. */
 UPDATE locales_item SET name_loc3='Creeper Egg',description_loc3='It\'s alive!' WHERE entry=63029; /* name: Creeper Egg */ .* description: It\'s alive! */
+UPDATE locales_item SET description_loc3='The slightest noise causes this flower\'s petals to shiver.' WHERE entry=63032; /* description: The slightest noise causes this flower\'s petals to shiver. */
+UPDATE locales_item SET description_loc3='A loop of seemingly ordinary ornamental chain that fills your mind with dread as it touches your flesh.' WHERE entry=63036; /* description: A loop of seemingly ordinary ornamental chain that fills your mind with dread as it touches your flesh. */
 UPDATE locales_item SET name_loc3='Reins of the Drake of the West Wind',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=63039; /* name: Reins of the Drake of the West Wind */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET name_loc3='Reins of the Drake of the North Wind',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=63040; /* name: Reins of the Drake of the North Wind */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET name_loc3='Reins of the Drake of the South Wind',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=63041; /* name: Reins of the Drake of the South Wind */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
@@ -4454,12 +4485,16 @@ UPDATE locales_item SET name_loc3='Reins of the Vitreous Stone Drake',descriptio
 UPDATE locales_item SET name_loc3='Reins of the Brown Riding Camel',description_loc3='Teaches you how to summon this mount.' WHERE entry=63044; /* name: Reins of the Brown Riding Camel */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Reins of the Tan Riding Camel',description_loc3='Teaches you how to summon this mount.' WHERE entry=63045; /* name: Reins of the Tan Riding Camel */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Reins of the Grey Riding Camel',description_loc3='Teaches you how to summon this mount.' WHERE entry=63046; /* name: Reins of the Grey Riding Camel */ .* description: Teaches you how to summon this mount. */
+UPDATE locales_item SET description_loc3='0, 1, 1, 2, 3, 5, 8, 13, 21, ...' WHERE entry=63053; /* description: 0, 1, 1, 2, 3, 5, 8, 13, 21, ... */
+UPDATE locales_item SET description_loc3='This tiny dark chunk of rock is so heavy, it takes all of your might to lift it!' WHERE entry=63096; /* description: This tiny dark chunk of rock is so heavy, it takes all of your might to lift it! */
 UPDATE locales_item SET name_loc3='Reins of the Dark Phoenix',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=63125; /* name: Reins of the Dark Phoenix */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET description_loc3='Try not to get any in your eyes.' WHERE entry=63132; /* description: Try not to get any in your eyes. */
 UPDATE locales_item SET description_loc3='Blood, brains, and goo coat the head of the shovel.' WHERE entry=63150; /* description: Blood, brains, and goo coat the head of the shovel. */
+UPDATE locales_item SET description_loc3='Ouch.  Good for generating aggro.' WHERE entry=63591; /* description: Ouch.  Good for generating aggro. */
 UPDATE locales_item SET description_loc3='One of the few things the draenei were able to take with them on their flight from Argus.' WHERE entry=64457; /* description: One of the few things the draenei were able to take with them on their flight from Argus. */
 UPDATE locales_item SET description_loc3='Extremely difficult to open.' WHERE entry=64482; /* description: Extremely difficult to open. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=64494; /* description: Teaches you how to summon and dismiss this companion. */
+UPDATE locales_item SET description_loc3='Strange inscriptions glow on the stone slab.' WHERE entry=64649; /* description: Strange inscriptions glow on the stone slab. */
 UPDATE locales_item SET description_loc3='Achusenmen osadi djahi kahun Ammunae' WHERE entry=64880; /* description: Achusenmen osadi djahi kahun Ammunae */
 UPDATE locales_item SET description_loc3='Teaches you how to summon the Ultramarine Qiraji Battle Tank.' WHERE entry=64883; /* description: Teaches you how to summon the Ultramarine Qiraji Battle Tank. */
 UPDATE locales_item SET description_loc3='The wind in the desert has a name...' WHERE entry=64885; /* description: The wind in the desert has a name... */
@@ -4467,8 +4502,11 @@ UPDATE locales_item SET name_loc3='Reins of the Spectral Steed',description_loc3
 UPDATE locales_item SET name_loc3='Reins of the Spectral Wolf',description_loc3='Teaches you how to summon this mount.' WHERE entry=64999; /* name: Reins of the Spectral Wolf */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET description_loc3='Wasn\'t there a jewel here before?' WHERE entry=65169; /* description: Wasn\'t there a jewel here before? */
 UPDATE locales_item SET name_loc3='Reins of the Drake of the West Wind',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=65356; /* name: Reins of the Drake of the West Wind */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
+UPDATE locales_item SET description_loc3='A worn volume, believed lost, containing an account of the deeds of the Knights of the Silver Hand.' WHERE entry=65615; /* description: A worn volume, believed lost, containing an account of the deeds of the Knights of the Silver Hand. */
+UPDATE locales_item SET description_loc3='Pretty good, if you\'re into eating.' WHERE entry=65730; /* description: Pretty good, if you\'re into eating. */
 UPDATE locales_item SET description_loc3='Teaches you how to transform into a dragon, allowing you to carry an ally on your back.  This is a flying mount.' WHERE entry=65891; /* description: Teaches you how to transform into a dragon, allowing you to carry an ally on your back.  This is a flying mount. */
 UPDATE locales_item SET description_loc3='Sold only by Yasmin in Uldum.' WHERE entry=65893; /* description: Sold only by Yasmin in Uldum. */
+UPDATE locales_item SET description_loc3='It\'s freezing cold! You must resist the temptation to put your tongue on it.' WHERE entry=65903; /* description: It\'s freezing cold! You must resist the temptation to put your tongue on it. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=66070; /* description: Teaches you how to summon and dismiss this companion. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=66073; /* description: Teaches you how to summon and dismiss this companion. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=66075; /* description: Teaches you how to summon and dismiss this companion. */
@@ -4481,6 +4519,7 @@ UPDATE locales_item SET description_loc3='He didn\'t want to eat it, so he gave 
 UPDATE locales_item SET description_loc3='You\'re about to eat a legend.' WHERE entry=67271; /* description: You\'re about to eat a legend. */
 UPDATE locales_item SET description_loc3='Hope you aren\'t Shy.' WHERE entry=67272; /* description: Hope you aren\'t Shy. */
 UPDATE locales_item SET description_loc3='Best served cold.' WHERE entry=67273; /* description: Best served cold. */
+UPDATE locales_item SET description_loc3='Warning: emits a radiation deadly to goblins!' WHERE entry=67323; /* description: Warning: emits a radiation deadly to goblins! */
 UPDATE locales_item SET name_loc3='[DND] Lil\' Deathwing Placeholder',description_loc3='Teaches you how to summon this companion.' WHERE entry=67417; /* name: [DND] Lil\' Deathwing Placeholder */ .* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc3='Smoldering Murloc Egg',description_loc3='Teaches you how to summon this companion.' WHERE entry=67418; /* name: Smoldering Murloc Egg */ .* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc3='Willful Ember Topaz',description_loc3='Matches a Red or Yellow Socket.' WHERE entry=68356; /* name: Willful Ember Topaz */ .* description: Matches a Red or Yellow Socket. */
@@ -4494,6 +4533,7 @@ UPDATE locales_item SET name_loc3='Reverberating Shadowspirit Diamond',descripti
 UPDATE locales_item SET name_loc3='Burning Shadowspirit Diamond',description_loc3='Only fits in a meta gem slot.' WHERE entry=68780; /* name: Burning Shadowspirit Diamond */ .* description: Only fits in a meta gem slot. */
 UPDATE locales_item SET name_loc3='Armored Razzashi Raptor',description_loc3='Teaches you how to summon this mount.' WHERE entry=68823; /* name: Armored Razzashi Raptor */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Swift Zulian Panther',description_loc3='Teaches you how to summon this mount.' WHERE entry=68824; /* name: Swift Zulian Panther */ .* description: Teaches you how to summon this mount. */
+UPDATE locales_item SET description_loc3='It glows with demonic energy.' WHERE entry=68837; /* description: It glows with demonic energy. */
 UPDATE locales_item SET description_loc3='Gourmet ice cream frozen to order by licensed mages.' WHERE entry=69027; /* description: Gourmet ice cream frozen to order by licensed mages. */
 UPDATE locales_item SET name_loc3='Flameward Hippogryph',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=69213; /* name: Flameward Hippogryph */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET name_loc3='Green Fire Hawk Mount',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=69226; /* name: Green Fire Hawk Mount */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
@@ -4502,7 +4542,10 @@ UPDATE locales_item SET description_loc3='Gourmet ice cream frozen to order by m
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=69251; /* description: Teaches you how to summon and dismiss this companion. */
 UPDATE locales_item SET description_loc3='You are sure to get attention wearing a black diamond this large.' WHERE entry=69262; /* description: You are sure to get attention wearing a black diamond this large. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon and dismiss this companion.' WHERE entry=69648; /* description: Teaches you how to summon and dismiss this companion. */
+UPDATE locales_item SET description_loc3='This molten substance is hot to the touch.' WHERE entry=69722; /* description: This molten substance is hot to the touch. */
+UPDATE locales_item SET description_loc3='This glowing flower is hot to the touch.' WHERE entry=69725; /* description: This glowing flower is hot to the touch. */
 UPDATE locales_item SET name_loc3='Amani Battle Bear',description_loc3='Teaches you how to summon this mount.' WHERE entry=69747; /* name: Amani Battle Bear */ .* description: Teaches you how to summon this mount. */
+UPDATE locales_item SET description_loc3='On closer inspection, it doesn\'t appear to be a living plant.' WHERE entry=69765; /* description: On closer inspection, it doesn\'t appear to be a living plant. */
 UPDATE locales_item SET description_loc3='A cold chill flows from the scythe.' WHERE entry=69771; /* description: A cold chill flows from the scythe. */
 UPDATE locales_item SET description_loc3='Teaches you how to summon this companion. Unbinds in 24 hours.' WHERE entry=69847; /* description: Teaches you how to summon this companion. Unbinds in 24 hours. */
 UPDATE locales_item SET name_loc3='Brilliant Blazejewel',description_loc3='Matches a Red Socket.' WHERE entry=69922; /* name: Brilliant Blazejewel */ .* description: Matches a Red Socket. */
@@ -4580,6 +4623,8 @@ UPDATE locales_item SET name_loc3='Precise Queen\'s Garnet',description_loc3='Ma
 UPDATE locales_item SET name_loc3='Brilliant Queen\'s Garnet',description_loc3='Matches a Red Socket.' WHERE entry=71881; /* name: Brilliant Queen\'s Garnet */ .* description: Matches a Red Socket. */
 UPDATE locales_item SET name_loc3='Flashing Queen\'s Garnet',description_loc3='Matches a Red Socket.' WHERE entry=71882; /* name: Flashing Queen\'s Garnet */ .* description: Matches a Red Socket. */
 UPDATE locales_item SET name_loc3='Bold Queen\'s Garnet',description_loc3='Matches a Red Socket.' WHERE entry=71883; /* name: Bold Queen\'s Garnet */ .* description: Matches a Red Socket. */
+UPDATE locales_item SET description_loc3='Workmanship worthy of royalty!' WHERE entry=71967; /* description: Workmanship worthy of royalty! */
+UPDATE locales_item SET description_loc3='Freshly-penned words spell out the future for those who consult Sayge.' WHERE entry=71974; /* description: Freshly-penned words spell out the future for those who consult Sayge. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Tough Scorpid Gloves.' WHERE entry=72025; /* description: Teaches you how to craft Tough Scorpid Gloves. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Tough Scorpid Bracers.' WHERE entry=72026; /* description: Teaches you how to craft Tough Scorpid Bracers. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Tough Scorpid Shoulders.' WHERE entry=72027; /* description: Teaches you how to craft Tough Scorpid Shoulders. */
@@ -4587,11 +4632,13 @@ UPDATE locales_item SET description_loc3='Teaches you how to craft Tough Scorpid
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Tough Scorpid Breastplate.' WHERE entry=72029; /* description: Teaches you how to craft a Tough Scorpid Breastplate. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft Tough Scorpid Leggings.' WHERE entry=72030; /* description: Teaches you how to craft Tough Scorpid Leggings. */
 UPDATE locales_item SET description_loc3='Teaches you how to craft a Tough Scorpid Helm.' WHERE entry=72033; /* description: Teaches you how to craft a Tough Scorpid Helm. */
+UPDATE locales_item SET description_loc3='The exact contents of this blend of herbs is only known to members of the Darkmoon Faire.' WHERE entry=72046; /* description: The exact contents of this blend of herbs is only known to members of the Darkmoon Faire. */
 UPDATE locales_item SET description_loc3='A Darkmoon Faire-goer\'s favorite.' WHERE entry=72058; /* description: A Darkmoon Faire-goer\'s favorite. */
 UPDATE locales_item SET name_loc3='Grell Moss',description_loc3='Teaches you how to summon this companion.' WHERE entry=72134; /* name: Grell Moss */ .* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc3='Swift Forest Strider',description_loc3='Teaches you how to summon this mount.' WHERE entry=72140; /* name: Swift Forest Strider */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Swift Springstrider',description_loc3='Teaches you how to summon this mount.' WHERE entry=72145; /* name: Swift Springstrider */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Swift Lovebird',description_loc3='Teaches you how to summon this mount.' WHERE entry=72146; /* name: Swift Lovebird */ .* description: Teaches you how to summon this mount. */
+UPDATE locales_item SET description_loc3='Dyed with the blood of his victims.' WHERE entry=72597; /* description: Dyed with the blood of his victims. */
 UPDATE locales_item SET name_loc3='Crescent Moon',description_loc3='Sands of Time' WHERE entry=72812; /* name: Crescent Moon */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Scepter of Azshara',description_loc3='Sands of Time' WHERE entry=72833; /* name: Scepter of Azshara */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Fanged Tentacle',description_loc3='Sands of Time' WHERE entry=72862; /* name: Fanged Tentacle */ .* description: Sands of Time */
@@ -4602,8 +4649,7 @@ UPDATE locales_item SET name_loc3='Darkmoon Dancing Bear',description_loc3='Teac
 UPDATE locales_item SET name_loc3='Lump of Coal',description_loc3='Teaches you how to summon this companion.' WHERE entry=73797; /* name: Lump of Coal */ .* description: Teaches you how to summon this companion. */
 UPDATE locales_item SET name_loc3='Mountain Horse',description_loc3='Teaches you how to summon this mount.' WHERE entry=73838; /* name: Mountain Horse */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc3='Swift Mountain Horse',description_loc3='Teaches you how to summon this mount.' WHERE entry=73839; /* name: Swift Mountain Horse */ .* description: Teaches you how to summon this mount. */
-UPDATE locales_item SET name_loc3='Pit Fighter',description_loc3='Sands of Time' WHERE entry=74034; /* name: Pit Fighter */ .* description: Sands of Time */
-UPDATE locales_item SET name_loc3='Master Pit Fighter',description_loc3='Sands of Time' WHERE entry=74035; /* name: Master Pit Fighter */ .* description: Sands of Time */
+UPDATE locales_item SET description_loc3='Key to the hidden Empire of Azjol-Nerub.' WHERE entry=74616; /* description: Key to the hidden Empire of Azjol-Nerub. */
 UPDATE locales_item SET description_loc3='A fizzy sasparilla containing vanilla ice cream.' WHERE entry=74822; /* description: A fizzy sasparilla containing vanilla ice cream. */
 UPDATE locales_item SET description_loc3='Of COURSE it\'s venison, sweetling. What ELSE would it be?!' WHERE entry=75027; /* description: Of COURSE it\'s venison, sweetling. What ELSE would it be?! */
 UPDATE locales_item SET description_loc3='Hee! Hee hee hee! Heee-he- *hack* *cough* Ahem. Hee!' WHERE entry=75028; /* description: Hee! Hee hee hee! Heee-he- *hack* *cough* Ahem. Hee! */
@@ -4631,7 +4677,6 @@ UPDATE locales_item SET name_loc3='Turbid Elven Peridot',description_loc3='Match
 UPDATE locales_item SET name_loc3='Vivid Elven Peridot',description_loc3='Matches a Yellow or Blue Socket.' WHERE entry=77143; /* name: Vivid Elven Peridot */ .* description: Matches a Yellow or Blue Socket. */
 UPDATE locales_item SET name_loc3='Willful Lava Coral',description_loc3='Matches a Red or Yellow Socket.' WHERE entry=77144; /* name: Willful Lava Coral */ .* description: Matches a Red or Yellow Socket. */
 UPDATE locales_item SET name_loc3='Radiant Elven Peridot',description_loc3='Matches a Yellow or Blue Socket.' WHERE entry=77154; /* name: Radiant Elven Peridot */ .* description: Matches a Yellow or Blue Socket. */
-UPDATE locales_item SET name_loc3='Souldrinker',description_loc3='Sands of Time' WHERE entry=77193; /* name: Souldrinker */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Kiril, Fury of Beasts',description_loc3='Sands of Time' WHERE entry=77194; /* name: Kiril, Fury of Beasts */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Timepiece of the Bronze Flight',description_loc3='Sands of Time' WHERE entry=77227; /* name: Timepiece of the Bronze Flight */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Petrified Fungal Heart',description_loc3='Sands of Time' WHERE entry=77262; /* name: Petrified Fungal Heart */ .* description: Sands of Time */
@@ -4652,7 +4697,6 @@ UPDATE locales_item SET name_loc3='Timepiece of the Bronze Flight',description_l
 UPDATE locales_item SET name_loc3='Blackhorn\'s Mighty Bulwark',description_loc3='Sands of Time' WHERE entry=78456; /* name: Blackhorn\'s Mighty Bulwark */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Timepiece of the Bronze Flight',description_loc3='Sands of Time' WHERE entry=78458; /* name: Timepiece of the Bronze Flight */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Kiril, Fury of Beasts',description_loc3='Sands of Time' WHERE entry=78473; /* name: Kiril, Fury of Beasts */ .* description: Sands of Time */
-UPDATE locales_item SET name_loc3='Souldrinker',description_loc3='Sands of Time' WHERE entry=78479; /* name: Souldrinker */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Vishanka, Jaws of the Earth',description_loc3='Sands of Time' WHERE entry=78480; /* name: Vishanka, Jaws of the Earth */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='No\'Kaled, the Elements of Death',description_loc3='Sands of Time' WHERE entry=78481; /* name: No\'Kaled, the Elements of Death */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Kiril, Fury of Beasts',description_loc3='Sands of Time' WHERE entry=78482; /* name: Kiril, Fury of Beasts */ .* description: Sands of Time */
@@ -4661,10 +4705,8 @@ UPDATE locales_item SET name_loc3='Rathrak, the Poisonous Mind',description_loc3
 UPDATE locales_item SET name_loc3='Maw of the Dragonlord',description_loc3='Sands of Time' WHERE entry=78485; /* name: Maw of the Dragonlord */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Ti\'tahk, the Steps of Time',description_loc3='Sands of Time' WHERE entry=78486; /* name: Ti\'tahk, the Steps of Time */ .* description: Sands of Time */
 UPDATE locales_item SET name_loc3='Gurthalak, Voice of the Deeps',description_loc3='Sands of Time' WHERE entry=78487; /* name: Gurthalak, Voice of the Deeps */ .* description: Sands of Time */
-UPDATE locales_item SET name_loc3='Souldrinker',description_loc3='Sands of Time' WHERE entry=78488; /* name: Souldrinker */ .* description: Sands of Time */
 UPDATE locales_item SET description_loc3='Teaches you to summon this companion.' WHERE entry=78916; /* description: Teaches you to summon this companion. */
 UPDATE locales_item SET name_loc3='Experiment 12-B',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=78919; /* name: Experiment 12-B */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
-UPDATE locales_item SET name_loc3='Feldrake',description_loc3='Teaches you how to summon this mount.  This is a flying mount.' WHERE entry=79771; /* name: Feldrake */ .* description: Teaches you how to summon this mount.  This is a flying mount. */
 UPDATE locales_item SET description_loc3='Teaches you how to transform into an Obsidian Nightwing, allowing you to carry an ally on your back.  This is a flying mount.' WHERE entry=83086; /* description: Teaches you how to transform into an Obsidian Nightwing, allowing you to carry an ally on your back.  This is a flying mount. */
 
 SET NAMES 'latin1';

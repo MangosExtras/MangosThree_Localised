@@ -8763,9 +8763,7 @@ Switching between the two sets cannot be done while in combat and will consume y
 UPDATE locales_npc_text SET Text0_1_loc2='' WHERE entry=53371;
 UPDATE locales_npc_text SET Text0_1_loc2='' WHERE entry=53466;
 UPDATE locales_npc_text SET Text0_1_loc2='' WHERE entry=55488;
-UPDATE locales_npc_text SET Text0_0_loc2='%N! Great work decoding the message. Let\'s get to the bottom of this. 
- Are you ready to fly?' WHERE entry=56314; /* Text0_0: %N! Great work decoding the message. Let\'s get to the bottom of this. 
- Are you ready to fly? */
+UPDATE locales_npc_text SET Text0_1_loc2='' WHERE entry=56314;
 UPDATE locales_npc_text SET Text0_0_loc2='I\'ll do it for 10 000 gold.' WHERE entry=57800; /* Text0_0: I\'ll do it for 10 000 gold. */
 
 SET NAMES 'latin1';
