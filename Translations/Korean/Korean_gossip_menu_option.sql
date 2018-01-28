@@ -2807,6 +2807,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc1='아제로스의 영웅�
 UPDATE locales_gossip_menu_option SET option_text_loc1='어둠의 문을 지나서' WHERE menu_id=9197 AND id=1; /* option_text: Through the Dark Portal */
 UPDATE locales_gossip_menu_option SET option_text_loc1='배신자의 하수인들' WHERE menu_id=9197 AND id=4; /* option_text: Servants of the Betrayer */
 UPDATE locales_gossip_menu_option SET option_text_loc1='일리단 사냥' WHERE menu_id=9197 AND id=5; /* option_text: Hunt for Illidan */
+UPDATE locales_gossip_menu_option SET option_text_loc1='전쟁의 북' WHERE menu_id=9197 AND id=6; /* option_text: The Drums of War */
 UPDATE locales_gossip_menu_option SET option_text_loc1='명예의 들판' WHERE menu_id=9197 AND id=8; /* option_text: Fields of honor */
 UPDATE locales_gossip_menu_option SET option_text_loc1='물건을 구입하고 싶습니다.' WHERE menu_id=9198 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc1='당신은 누구시죠?' WHERE menu_id=9199 AND id=0; /* option_text: Who are you? */

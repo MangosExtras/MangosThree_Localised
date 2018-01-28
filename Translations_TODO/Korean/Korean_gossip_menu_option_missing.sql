@@ -542,7 +542,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc1='What\'s unusual about me
 UPDATE locales_gossip_menu_option SET option_text_loc1='What\'s unusual about me you can suggest?' WHERE menu_id=9196 AND id=3; /* option_text: What\'s unusual about me you can suggest? */
 UPDATE locales_gossip_menu_option SET option_text_loc1='Fires Outland' WHERE menu_id=9197 AND id=2; /* option_text: Fires Outland */
 UPDATE locales_gossip_menu_option SET option_text_loc1='Invasion of the Legion' WHERE menu_id=9197 AND id=3; /* option_text: Invasion of the Legion */
-UPDATE locales_gossip_menu_option SET option_text_loc1='The Drums of War' WHERE menu_id=9197 AND id=6; /* option_text: The Drums of War */
 UPDATE locales_gossip_menu_option SET option_text_loc1='Blood gladiators' WHERE menu_id=9197 AND id=7; /* option_text: Blood gladiators */
 UPDATE locales_gossip_menu_option SET option_text_loc1='War of the 17249ourge' WHERE menu_id=9197 AND id=9; /* option_text: War of the 17249ourge */
 UPDATE locales_gossip_menu_option SET option_text_loc1='Restore points' WHERE menu_id=9197 AND id=10; /* option_text: Restore points */

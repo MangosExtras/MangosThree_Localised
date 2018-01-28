@@ -322,10 +322,10 @@ UPDATE locales_creature SET name_loc1='엘링 트리아스',subname_loc1='치즈
 UPDATE locales_creature SET name_loc1='일레인 트리아스',subname_loc1='치즈 상인' WHERE entry=483; /* name: Elaine Trias */ /* subname: Mistress of Cheese */
 UPDATE locales_creature SET name_loc1='검은바위 길잡이' WHERE entry=485; /* name: Blackrock Outrunner */
 UPDATE locales_creature SET name_loc1='타릴준' WHERE entry=486; /* name: Tharil\'zun */
-UPDATE locales_creature SET name_loc1='민병대원 비알론' WHERE entry=487; /* name: Protector Bialon */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='민병대원 위버' WHERE entry=488; /* name: Protector Weaver */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='민병대원 듀트필드' WHERE entry=489; /* name: Protector Dutfield */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='민병대원 가리엘' WHERE entry=490; /* name: Protector Gariel */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 비알론',subname_loc1='서부 몰락지대 여단' WHERE entry=487; /* name: Protector Bialon */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 위버',subname_loc1='서부 몰락지대 여단' WHERE entry=488; /* name: Protector Weaver */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 듀트필드',subname_loc1='서부 몰락지대 여단' WHERE entry=489; /* name: Protector Dutfield */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 가리엘',subname_loc1='서부 몰락지대 여단' WHERE entry=490; /* name: Protector Gariel */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='병참장교 루이스',subname_loc1='병참장교' WHERE entry=491; /* name: Quartermaster Lewis */ /* subname: Quartermaster */
 UPDATE locales_creature SET name_loc1='순찰대원 부코우리스',subname_loc1='어둠의 순찰대' WHERE entry=494; /* name: Watcher Bukouris */ /* subname: The Night Watch */
 UPDATE locales_creature SET name_loc1='순찰대원 키퍼',subname_loc1='어둠의 순찰대' WHERE entry=495; /* name: Watcher Keefer */ /* subname: The Night Watch */
@@ -584,8 +584,8 @@ UPDATE locales_creature SET name_loc1='하사관 맬서스' WHERE entry=814; /* 
 UPDATE locales_creature SET name_loc1='사서 헤로드' WHERE entry=815; /* name: Bookie Herod */
 UPDATE locales_creature SET name_loc1='마이조스' WHERE entry=818; /* name: Mai\'Zoth */
 UPDATE locales_creature SET name_loc1='일갈라의 종복' WHERE entry=819; /* name: Servant of Ilgalar */
-UPDATE locales_creature SET name_loc1='정찰병 리엘' WHERE entry=820; /* name: Scout Riell */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='정찰대장 다누빈' WHERE entry=821; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='정찰병 리엘',subname_loc1='서부 몰락지대 여단' WHERE entry=820; /* name: Scout Riell */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='정찰대장 다누빈',subname_loc1='서부 몰락지대 여단' WHERE entry=821; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='새끼 숲곰' WHERE entry=822; /* name: Young Forest Bear */
 UPDATE locales_creature SET name_loc1='데피아즈단 채굴꾼' WHERE entry=824; /* name: Defias Digger */
 UPDATE locales_creature SET name_loc1='순찰대원 잔',subname_loc1='어둠의 순찰대' WHERE entry=826; /* name: Watcher Jan */ /* subname: The Night Watch */
@@ -625,15 +625,15 @@ UPDATE locales_creature SET name_loc1='스토나드 길잡이' WHERE entry=865; 
 UPDATE locales_creature SET name_loc1='스토나드 그런트' WHERE entry=866; /* name: Stonard Grunt */
 UPDATE locales_creature SET name_loc1='스토나드 지도제작자' WHERE entry=867; /* name: Stonard Cartographer */
 UPDATE locales_creature SET name_loc1='스토나드 주술사' WHERE entry=868; /* name: Stonard Shaman */
-UPDATE locales_creature SET name_loc1='민병대원 도라나' WHERE entry=869; /* name: Protector Dorana */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='민병대원 데니' WHERE entry=870; /* name: Protector Deni */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 도라나',subname_loc1='서부 몰락지대 여단' WHERE entry=869; /* name: Protector Dorana */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 데니',subname_loc1='서부 몰락지대 여단' WHERE entry=870; /* name: Protector Deni */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='소금비늘 전사' WHERE entry=871; /* name: Saltscale Warrior */
 UPDATE locales_creature SET name_loc1='소금비늘 점쟁이' WHERE entry=873; /* name: Saltscale Oracle */
-UPDATE locales_creature SET name_loc1='민병대원 코렐로' WHERE entry=874; /* name: Protector Korelor */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 코렐로',subname_loc1='서부 몰락지대 여단' WHERE entry=874; /* name: Protector Korelor */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='소금비늘 우두머리' WHERE entry=875; /* name: Saltscale Tide Lord */
-UPDATE locales_creature SET name_loc1='민병대원 레이크' WHERE entry=876; /* name: Protector Leick */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='민병대원 레이크',subname_loc1='서부 몰락지대 여단' WHERE entry=876; /* name: Protector Leick */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='소금비늘 채집꾼' WHERE entry=877; /* name: Saltscale Forager */
-UPDATE locales_creature SET name_loc1='정찰병 갈리안' WHERE entry=878; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='정찰병 갈리안',subname_loc1='서부 몰락지대 여단' WHERE entry=878; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='소금비늘 사냥꾼' WHERE entry=879; /* name: Saltscale Hunter */
 UPDATE locales_creature SET name_loc1='엘런 드러지무어' WHERE entry=880; /* name: Erlan Drudgemoor */
 UPDATE locales_creature SET name_loc1='슈레나 캘리돈' WHERE entry=881; /* name: Surena Caledon */
@@ -1184,6 +1184,7 @@ UPDATE locales_creature SET name_loc1='잔질 사냥꾼' WHERE entry=1489; /* na
 UPDATE locales_creature SET name_loc1='잔질 의술사' WHERE entry=1490; /* name: Zanzil Witch Doctor */
 UPDATE locales_creature SET name_loc1='잔질 나가' WHERE entry=1491; /* name: Zanzil Naga */
 UPDATE locales_creature SET name_loc1='고를라쉬' WHERE entry=1492; /* name: Gorlash */
+UPDATE locales_creature SET name_loc1='큰망치 모크라쉬' WHERE entry=1493; /* name: Mok\'rash the Cleaver */
 UPDATE locales_creature SET name_loc1='네골라쉬' WHERE entry=1494; /* name: Negolash */
 UPDATE locales_creature SET name_loc1='죽음경비병 리니아' WHERE entry=1495; /* name: Deathguard Linnea */
 UPDATE locales_creature SET name_loc1='죽음경비병 딜링거' WHERE entry=1496; /* name: Deathguard Dillinger */
@@ -1326,7 +1327,7 @@ UPDATE locales_creature SET name_loc1='[미사용] 엘윈 숲 경비병 (미사�
 UPDATE locales_creature SET name_loc1='[미사용] 붉은마루 경비병 (미사용)' WHERE entry=1644; /* name: [UNUSED] Redridge Guard */
 UPDATE locales_creature SET name_loc1='병참장교 힉스',subname_loc1='무기제작의 대가' WHERE entry=1645; /* name: Quartermaster Hicks */ /* subname: Master Weaponsmith */
 UPDATE locales_creature SET name_loc1='바로스 알렉스턴',subname_loc1='도시 건축가' WHERE entry=1646; /* name: Baros Alexston */ /* subname: City Architect */
-UPDATE locales_creature SET name_loc1='볼고르' WHERE entry=1649; /* name: UNUSED Jordan Croft */ /* subname: REUSE ME */
+UPDATE locales_creature SET name_loc1='볼고르',subname_loc1='REUSE ME' WHERE entry=1649; /* name: UNUSED Jordan Croft */ /* subname: REUSE ME */
 UPDATE locales_creature SET name_loc1='테리 팔린',subname_loc1='벌목꾼' WHERE entry=1650; /* name: Terry Palin */ /* subname: Lumberjack */
 UPDATE locales_creature SET name_loc1='리 브라운',subname_loc1='전문 낚시꾼' WHERE entry=1651; /* name: Lee Brown */ /* subname: Fishing Trainer */
 UPDATE locales_creature SET name_loc1='죽음경비병 버제스' WHERE entry=1652; /* name: Deathguard Burgess */
@@ -2287,7 +2288,7 @@ UPDATE locales_creature SET name_loc1='우레정령' WHERE entry=2752; /* name: 
 UPDATE locales_creature SET name_loc1='바르나부스' WHERE entry=2753; /* name: Barnabus */
 UPDATE locales_creature SET name_loc1='아나테무스' WHERE entry=2754; /* name: Anathemus */
 UPDATE locales_creature SET name_loc1='미즈라엘' WHERE entry=2755; /* name: Myzrael */
-UPDATE locales_creature SET name_loc1='차오쥐' WHERE entry=2756; /* name: UNUSED Grund Drokda */ /* subname: REUSE ME */
+UPDATE locales_creature SET name_loc1='차오쥐',subname_loc1='REUSE ME' WHERE entry=2756; /* name: UNUSED Grund Drokda */ /* subname: REUSE ME */
 UPDATE locales_creature SET name_loc1='블랙래쉬' WHERE entry=2757; /* name: Blacklash */
 UPDATE locales_creature SET name_loc1='헤마투스' WHERE entry=2759; /* name: Hematus */
 UPDATE locales_creature SET name_loc1='떠도는 불의 정령' WHERE entry=2760; /* name: Burning Exile */
@@ -17240,6 +17241,7 @@ UPDATE locales_creature SET name_loc1='무쇠룬 하인' WHERE entry=24387; /* n
 UPDATE locales_creature SET name_loc1='덥석이' WHERE entry=24388; /* name: Toothy */
 UPDATE locales_creature SET name_loc1='캭캭이' WHERE entry=24389; /* name: Muckbreath */
 UPDATE locales_creature SET name_loc1='현자 에단' WHERE entry=24390; /* name: Sage Edan */
+UPDATE locales_creature SET name_loc1='여유만만호' WHERE entry=24391; /* name: Old Puttery */
 UPDATE locales_creature SET name_loc1='"상냥한" 리니 스몰스',subname_loc1='정복 병참장교' WHERE entry=24392; /* name: Leeni "Smiley" Smalls */ /* subname: Arena Vendor */
 UPDATE locales_creature SET name_loc1='로크',subname_loc1='요리의 대가' WHERE entry=24393; /* name: The Rokk */ /* subname: Master of Cooking */
 UPDATE locales_creature SET name_loc1='델릭스 핀치휘슬',subname_loc1='정복 병참장교' WHERE entry=24394; /* name: Dellix Pinchwhistle */ /* subname: Arena Vendor */
@@ -25919,6 +25921,7 @@ UPDATE locales_creature SET name_loc1='스랄',subname_loc1='대족장' WHERE en
 UPDATE locales_creature SET name_loc1='사나운 바위돌기고릴라' WHERE entry=36189; /* name: Hardknuckle Charger Proxy */
 UPDATE locales_creature SET name_loc1='물가 게' WHERE entry=36201; /* name: Crab */
 UPDATE locales_creature SET name_loc1='물가 게' WHERE entry=36203; /* name: Crab */
+UPDATE locales_creature SET name_loc1='먹보고래' WHERE entry=36206; /* name: Blubbergut */
 UPDATE locales_creature SET name_loc1='포세이큰 암살자' WHERE entry=36207; /* name: Forsaken Assassin */
 UPDATE locales_creature SET name_loc1='제라쉬 파이어블레이드' WHERE entry=36208; /* name: Xerash Fireblade */
 UPDATE locales_creature SET name_loc1='[DND] 노스렌드 어린이 주간 트리거 2' WHERE entry=36209; /* name: [DND]Northrend Children\'s Week Trigger 2 */
@@ -25960,6 +25963,8 @@ UPDATE locales_creature SET name_loc1='지팡이 사탕' WHERE entry=36404; /* n
 UPDATE locales_creature SET name_loc1='아그라' WHERE entry=36418; /* name: Aggra */
 UPDATE locales_creature SET name_loc1='검은무쇠 경비병' WHERE entry=36431; /* name: Dark Iron Guard */
 UPDATE locales_creature SET name_loc1='아주어고스의 영혼' WHERE entry=36436; /* name: Spirit of Azuregos */
+UPDATE locales_creature SET name_loc1='왈 할머니' WHERE entry=36458; /* name: Grandma Wahl */
+UPDATE locales_creature SET name_loc1='왈 할머니' WHERE entry=36462; /* name: Grandma Wahl */
 UPDATE locales_creature SET name_loc1='지팡이 사탕' WHERE entry=36468; /* name: Candy Cane */
 UPDATE locales_creature SET name_loc1='이크',subname_loc1='크리크의 하수인' WHERE entry=36476; /* name: Ick */ /* subname: Krick\'s Minion */
 UPDATE locales_creature SET name_loc1='크리크' WHERE entry=36477; /* name: Krick */
@@ -26238,6 +26243,7 @@ UPDATE locales_creature SET name_loc1='복제된 환영 버그 테스트' WHERE 
 UPDATE locales_creature SET name_loc1='이미야르 여전사' WHERE entry=37132; /* name: Ymirjar Battle-Maiden */
 UPDATE locales_creature SET name_loc1='이미야르 장군' WHERE entry=37133; /* name: Ymirjar Warlord */
 UPDATE locales_creature SET name_loc1='이미야르 여사냥꾼' WHERE entry=37134; /* name: Ymirjar Huntress */
+UPDATE locales_creature SET name_loc1='누라 패스파인더' WHERE entry=37135; /* name: Nura Pathfinder */
 UPDATE locales_creature SET name_loc1='하늘파괴자호 명사수' WHERE entry=37144; /* name: Skybreaker Marksman */
 UPDATE locales_creature SET name_loc1='코르크론 저격수' WHERE entry=37146; /* name: Kor\'kron Sniper */
 UPDATE locales_creature SET name_loc1='하늘파괴자호 소환사' WHERE entry=37148; /* name: Skybreaker Summoner */
@@ -26377,6 +26383,7 @@ UPDATE locales_creature SET name_loc1='굶주린 구울' WHERE entry=37711; /* n
 UPDATE locales_creature SET name_loc1='죽음속삭임 흑마술사',subname_loc1='저주받은 자들의 교단' WHERE entry=37712; /* name: Deathwhisper Shadowcaster */ /* subname: Cult of the Damned */
 UPDATE locales_creature SET name_loc1='죽음속삭임 고문관',subname_loc1='저주받은 자들의 교단' WHERE entry=37713; /* name: Deathwhisper Torturer */ /* subname: Cult of the Damned */
 UPDATE locales_creature SET name_loc1='스니블 러스트로켓',subname_loc1='투자개발회사' WHERE entry=37715; /* name: Snivel Rustrocket */ /* subname: Venture Co. */
+UPDATE locales_creature SET name_loc1='위노아 파인포레스트' WHERE entry=37717; /* name: Winnoa Pineforest */
 UPDATE locales_creature SET name_loc1='예언자 레이븐페더',subname_loc1='상급 사제' WHERE entry=37724; /* name: Seer Ravenfeather */ /* subname: Priest Trainer */
 UPDATE locales_creature SET name_loc1='성난해골 마술사' WHERE entry=37728; /* name: Wrathbone Sorcerer */
 UPDATE locales_creature SET name_loc1='성난해골 약탈자' WHERE entry=37729; /* name: Wrathbone Reaver */
@@ -26527,6 +26534,7 @@ UPDATE locales_creature SET name_loc1='탈란 문스트라이크',subname_loc1='
 UPDATE locales_creature SET name_loc1='알라나 문스트라이크',subname_loc1='드루이드 방어구' WHERE entry=37999; /* name: Alana Moonstrike */ /* subname: Druid Armor */
 UPDATE locales_creature SET name_loc1='빛의 복수' WHERE entry=38001; /* name: Light\'s Vengeance Bunny 2 */
 UPDATE locales_creature SET name_loc1='피의 여왕 라나텔' WHERE entry=38004; /* name: Blood-Queen Lana\'thel */
+UPDATE locales_creature SET name_loc1='모라야' WHERE entry=38005; /* name: Moraya */
 UPDATE locales_creature SET name_loc1='왕관 폭도' WHERE entry=38006; /* name: Crown Hoodlum */
 UPDATE locales_creature SET name_loc1='피의 보주 제어기' WHERE entry=38008; /* name: Blood Orb Controller */
 UPDATE locales_creature SET name_loc1='되살아난 광신자',subname_loc1='저주받은 자들의 교단' WHERE entry=38009; /* name: Reanimated Fanatic */ /* subname: Cult of the Damned */
@@ -26730,6 +26738,7 @@ UPDATE locales_creature SET name_loc1='뼈 가시' WHERE entry=38711; /* name: B
 UPDATE locales_creature SET name_loc1='뼈 가시' WHERE entry=38712; /* name: Bone Spike */
 UPDATE locales_creature SET name_loc1='마법학자 텔로스' WHERE entry=38716; /* name: Magister Thelos */
 UPDATE locales_creature SET name_loc1='감독 크로스첵' WHERE entry=38738; /* name: Coach Crosscheck */ /* subname: The Bilgewater Buccaneers */
+UPDATE locales_creature SET name_loc1='선장 드레드비어드' WHERE entry=38749; /* name: Captain Dreadbeard */
 UPDATE locales_creature SET name_loc1='흑기사 방패' WHERE entry=38751; /* name: Black Knight Shield Proxy */
 UPDATE locales_creature SET name_loc1='녹색용 전투 트리거' WHERE entry=38752; /* name: Green Dragon Combat Trigger */
 UPDATE locales_creature SET name_loc1='파멸' WHERE entry=38757; /* name: Defile */
@@ -26753,6 +26762,7 @@ UPDATE locales_creature SET name_loc1='구 시가지 흉악범' WHERE entry=3886
 UPDATE locales_creature SET name_loc1='[DND] 검은무쇠 경비병 이동' WHERE entry=38870; /* name: [DND] Dark Iron Guard Move To Bunny */
 UPDATE locales_creature SET name_loc1='검은무쇠 시민' WHERE entry=38877; /* name: Dark Iron Citizen */
 UPDATE locales_creature SET name_loc1='퓨트리사이드의 함정' WHERE entry=38879; /* name: Putricide\'s Trap */
+UPDATE locales_creature SET name_loc1='모래싸움꾼' WHERE entry=38880; /* name: Sandscraper */
 UPDATE locales_creature SET name_loc1='여우' WHERE entry=38881; /* name: Fox */
 UPDATE locales_creature SET name_loc1='[DND] 굴착기 생성기' WHERE entry=38882; /* name: [DND] Mole Machine Spawner */
 UPDATE locales_creature SET name_loc1='스콧G 시험용' WHERE entry=38883; /* name: ScottG Test */
@@ -26830,10 +26840,14 @@ UPDATE locales_creature SET name_loc1='구출된 놈리건 피난민' WHERE entr
 UPDATE locales_creature SET name_loc1='땜장이왕 멕카토크',subname_loc1='노움 국왕' WHERE entry=39271; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
 UPDATE locales_creature SET name_loc1='"의사" 코그스핀',subname_loc1='의무 장관' WHERE entry=39273; /* name: "Doc" Cogspin */ /* subname: Surgeon General */
 UPDATE locales_creature SET name_loc1='놈리건 의무병' WHERE entry=39275; /* name: Gnomeregan Medic */
+UPDATE locales_creature SET name_loc1='통크' WHERE entry=39323; /* name: Thonk */
 UPDATE locales_creature SET name_loc1='파멸의 예언자' WHERE entry=39328; /* name: Doomsayer */
 UPDATE locales_creature SET name_loc1='절벽거인' WHERE entry=39339; /* name: Cliff Giant */
 UPDATE locales_creature SET name_loc1='오그리마 시민' WHERE entry=39343; /* name: Orgrimmar Citizen */
 UPDATE locales_creature SET name_loc1='놈리건 훈련병' WHERE entry=39349; /* name: Gnomeregan Trainee */
+UPDATE locales_creature SET name_loc1='기슬라니아' WHERE entry=39351; /* name: Ghislania */
+UPDATE locales_creature SET name_loc1='가우어 아이스혼' WHERE entry=39352; /* name: Gaur Icehorn */
+UPDATE locales_creature SET name_loc1='그리스월드 하니스턴' WHERE entry=39353; /* name: Griswold Hanniston */
 UPDATE locales_creature SET name_loc1='[DND] 경례 퀘스트 점수' WHERE entry=39355; /* name: [DND] Salute Quest Credit Bunny */
 UPDATE locales_creature SET name_loc1='[DND] 함성 퀘스트 점수' WHERE entry=39356; /* name: [DND] Roar Quest Credit Bunny */
 UPDATE locales_creature SET name_loc1='[DND] 춤 퀘스트 점수' WHERE entry=39361; /* name: [DND] Dance Quest Credit Bunny */
@@ -26903,6 +26917,7 @@ UPDATE locales_creature SET name_loc1='스톰윈드 시민' WHERE entry=39686; /
 UPDATE locales_creature SET name_loc1='[DND] 퀘스트 점수 - 이동 1' WHERE entry=39691; /* name: [DND] Quest Credit Bunny - Move 1 */
 UPDATE locales_creature SET name_loc1='[DND] 퀘스트 점수 - 이동 2' WHERE entry=39692; /* name: [DND] Quest Credit Bunny - Move 2 */
 UPDATE locales_creature SET name_loc1='[DND] 퀘스트 점수 - 이동 3' WHERE entry=39695; /* name: [DND] Quest Credit Bunny - Move 3 */
+UPDATE locales_creature SET name_loc1='도살로봇' WHERE entry=39696; /* name: Butcherbot */
 UPDATE locales_creature SET name_loc1='카쉬 스틸벤더' WHERE entry=39698; /* name: Karsh Steelbender */ /* subname: Twilight Armorer */
 UPDATE locales_creature SET name_loc1='아름이' WHERE entry=39700; /* name: Beauty */
 UPDATE locales_creature SET name_loc1='[DND] 퀘스트 점수 - 공격' WHERE entry=39703; /* name: [DND] Quest Credit Bunny - Attack */
@@ -26934,6 +26949,7 @@ UPDATE locales_creature SET name_loc1='이교도 아그타' WHERE entry=39758; /
 UPDATE locales_creature SET name_loc1='대전차포' WHERE entry=39759; /* name: Tankbuster Cannon */
 UPDATE locales_creature SET name_loc1='이교도 토카' WHERE entry=39760; /* name: Cultist Tokka */
 UPDATE locales_creature SET name_loc1='이교도 로카가' WHERE entry=39763; /* name: Cultist Rokaga */
+UPDATE locales_creature SET name_loc1='황혼의 눈' WHERE entry=39765; /* name: The Eye of Twilight */
 UPDATE locales_creature SET name_loc1='안라펫' WHERE entry=39788; /* name: Anraphet */
 UPDATE locales_creature SET name_loc1='자리스리안 생성 추적기' WHERE entry=39794; /* name: Zarithrian Spawn Stalker */
 UPDATE locales_creature SET name_loc1='천공의 정령' WHERE entry=39795; /* name: Celestial Familiar */
@@ -26967,6 +26983,7 @@ UPDATE locales_creature SET name_loc1='할리온',subname_loc1='황혼의 파괴
 UPDATE locales_creature SET name_loc1='데스윙',subname_loc1='죽음의 위상' WHERE entry=39867; /* name: Deathwing */ /* subname: Aspect of Death */
 UPDATE locales_creature SET name_loc1='아다라' WHERE entry=39868; /* name: Adarrah */
 UPDATE locales_creature SET name_loc1='교단 모집 점수' WHERE entry=39872; /* name: Cult Recruitment Credit */
+UPDATE locales_creature SET name_loc1='위대한 샘비노',subname_loc1='대지 고리회' WHERE entry=39882; /* name: The Great Sambino */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc1='아다라' WHERE entry=39883; /* name: Adarrah */
 UPDATE locales_creature SET name_loc1='맥 피어센' WHERE entry=39885; /* name: Mack Fearsen */
 UPDATE locales_creature SET name_loc1='놈리건 의무병' WHERE entry=39888; /* name: Gnomeregan Medic */
@@ -27018,6 +27035,7 @@ UPDATE locales_creature SET name_loc1='유성 충돌' WHERE entry=40041; /* name
 UPDATE locales_creature SET name_loc1='유성 충돌' WHERE entry=40042; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc1='유성 충돌' WHERE entry=40043; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc1='유성 충돌' WHERE entry=40044; /* name: Meteor Strike */
+UPDATE locales_creature SET name_loc1='사령관 스케세쉬' WHERE entry=40051; /* name: General Skessesh */
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=40053; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc1='유성 충돌' WHERE entry=40055; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=40060; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
@@ -27044,6 +27062,7 @@ UPDATE locales_creature SET name_loc1='파멸의 예언자' WHERE entry=40124; /
 UPDATE locales_creature SET name_loc1='스톰윈드 시민' WHERE entry=40125; /* name: Stormwind Citizen */
 UPDATE locales_creature SET name_loc1='베스티아 문스피어' WHERE entry=40132; /* name: Vestia Moonspear */
 UPDATE locales_creature SET name_loc1='소진' WHERE entry=40135; /* name: Consumption */
+UPDATE locales_creature SET name_loc1='뒤틀린 베리니아스' WHERE entry=40136; /* name: Verinias the Twisted */
 UPDATE locales_creature SET name_loc1='스톰윈드 근위병 (시체)' WHERE entry=40138; /* name: Stormwind City Guard (Corpse) */
 UPDATE locales_creature SET name_loc1='대드루이드 판드랄 스태그헬름' WHERE entry=40140; /* name: Arch Druid Fandral Staghelm */
 UPDATE locales_creature SET name_loc1='토르문의 보호막' WHERE entry=40141; /* name: Tormun\'s Shield */
@@ -27052,6 +27071,7 @@ UPDATE locales_creature SET name_loc1='할리온 제어기' WHERE entry=40146; /
 UPDATE locales_creature SET name_loc1='남작 게돈' WHERE entry=40147; /* name: Baron Geddon */
 UPDATE locales_creature SET name_loc1='전투 추적기' WHERE entry=40151; /* name: Combat Stalker */
 UPDATE locales_creature SET name_loc1='유명인 프로조',subname_loc1='얼어붙은 보주 상인' WHERE entry=40160; /* name: Frozo the Renowned */ /* subname: Frozen Orb Trader */
+UPDATE locales_creature SET name_loc1='심해군주 진자타르' WHERE entry=40161; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc1='화염 회오리' WHERE entry=40164; /* name: Fire Cyclone */
 UPDATE locales_creature SET name_loc1='타오르는 히포그리프' WHERE entry=40165; /* name: Blazing Hippogryph */
 UPDATE locales_creature SET name_loc1='놈리건 기계보행전차' WHERE entry=40175; /* name: Gnomeregan Mechano-Tank */
@@ -27178,6 +27198,8 @@ UPDATE locales_creature SET name_loc1='질드지안',subname_loc1='볼진의 전
 UPDATE locales_creature SET name_loc1='잘라제인' WHERE entry=40502; /* name: Zalazane */
 UPDATE locales_creature SET name_loc1='모래수렁' WHERE entry=40503; /* name: Quicksand */
 UPDATE locales_creature SET name_loc1='폭발' WHERE entry=40506; /* name: Explosion Bunny */
+UPDATE locales_creature SET name_loc1='도살로봇' WHERE entry=40508; /* name: Butcherbot */
+UPDATE locales_creature SET name_loc1='심해군주 진자타르' WHERE entry=40510; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc1='서리 덮인 비행 융단' WHERE entry=40533; /* name: Frosty Flying Carpet */
 UPDATE locales_creature SET name_loc1='루비 수호병' WHERE entry=40537; /* name: Ruby Guardian */
 UPDATE locales_creature SET name_loc1='딱정벌레' WHERE entry=40539; /* name: Beetle */
@@ -27187,6 +27209,7 @@ UPDATE locales_creature SET name_loc1='[4.x 미사용]자멕' WHERE entry=40556;
 UPDATE locales_creature SET name_loc1='토르톨라의 자식' WHERE entry=40557; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc1='황혼의 수습생' WHERE entry=40562; /* name: Twilight Initiate */
 UPDATE locales_creature SET name_loc1='거만한 의류상',subname_loc1='패션 디자이너' WHERE entry=40572; /* name: Haughty Modiste */ /* subname: Fashion Designer */
+UPDATE locales_creature SET name_loc1='대왕전갈' WHERE entry=40581; /* name: Gargantapid */
 UPDATE locales_creature SET name_loc1='포자' WHERE entry=40585; /* name: Spore */
 UPDATE locales_creature SET name_loc1='여군주 나즈자르' WHERE entry=40586; /* name: Lady Naz\'jar */
 UPDATE locales_creature SET name_loc1='더지 퀵클레이브',subname_loc1='푸줏간 주인' WHERE entry=40589; /* name: Dirge Quikcleave */ /* subname: Butcher */
@@ -27201,6 +27224,8 @@ UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='
 UPDATE locales_creature SET name_loc1='상급기사 트매르 시즈',subname_loc1='노스렌드 방어구 병참장교' WHERE entry=40606; /* name: Knight-Lieutenant T\'Maire Sydes */ /* subname: Northrend Armor Quartermaster */
 UPDATE locales_creature SET name_loc1='상급기사 트매르 시즈',subname_loc1='노스렌드 방어구 병참장교' WHERE entry=40607; /* name: Knight-Lieutenant T\'Maire Sydes */ /* subname: Northrend Armor Quartermaster */
 UPDATE locales_creature SET name_loc1='[DND] Bunny' WHERE entry=40617; /* name: [DND] Bunny */
+UPDATE locales_creature SET name_loc1='졸업 연설' WHERE entry=40618; /* name: Graduation Speech */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=40619; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='활짝 핀 붉은꽃잎덩굴손' WHERE entry=40620; /* name: Bloodpetal Blossom */
 UPDATE locales_creature SET name_loc1='활짝 핀 붉은꽃잎덩굴손' WHERE entry=40622; /* name: Bloodpetal Blossom */
 UPDATE locales_creature SET name_loc1='천공의 용' WHERE entry=40624; /* name: Celestial Dragon */
@@ -27240,6 +27265,7 @@ UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=40746; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc1='마린 노겐포저' WHERE entry=40763; /* name: Marin Noggenfogger */ /* subname: Baron of Gadgetzan */
 UPDATE locales_creature SET name_loc1='사령관 울톡' WHERE entry=40765; /* name: Commander Ulthok */ /* subname: The Festering Prince */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=40772; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='세나리우스' WHERE entry=40773; /* name: Cenarius */
 UPDATE locales_creature SET name_loc1='에메랄드 비룡' WHERE entry=40780; /* name: Emerald Drake */
 UPDATE locales_creature SET name_loc1='암흑의 균열' WHERE entry=40784; /* name: Dark Fissure */
@@ -27261,6 +27287,7 @@ UPDATE locales_creature SET name_loc1='불의 정령 토템' WHERE entry=40830; 
 UPDATE locales_creature SET name_loc1='상급 불의 정령' WHERE entry=40831; /* name: Greater Fire Elemental */ /* subname: Earthen Ring Shaman\'s Guardian */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]데이지',subname_loc1='바텐더' WHERE entry=40832; /* name: Daisy */ /* subname: Bartender */
 UPDATE locales_creature SET name_loc1='루비 비룡' WHERE entry=40842; /* name: Ruby Drake */
+UPDATE locales_creature SET name_loc1='제련장인 피렌디우스' WHERE entry=40845; /* name: Forgemaster Pyrendius */
 UPDATE locales_creature SET name_loc1='화염의 벽' WHERE entry=40859; /* name: Fire Wall */
 UPDATE locales_creature SET name_loc1='정신의 안개' WHERE entry=40861; /* name: Mind Fog */
 UPDATE locales_creature SET name_loc1='루비 용' WHERE entry=40870; /* name: Ruby Dragon */
@@ -27285,10 +27312,12 @@ UPDATE locales_creature SET name_loc1='맥 피어센' WHERE entry=40983; /* name
 UPDATE locales_creature SET name_loc1='모르디스 위스퍼윙',subname_loc1='갈퀴발톱의 드루이드' WHERE entry=41003; /* name: Morthis Whisperwing */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc1='티살리 크로우',subname_loc1='갈퀴발톱의 드루이드' WHERE entry=41006; /* name: Thisalee Crow */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc1='갈퀴발톱의 드루이드' WHERE entry=41008; /* name: Druid of the Talon */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=41025; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='말퓨리온 스톰레이지' WHERE entry=41032; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc1='뒤틀린 환영' WHERE entry=41040; /* name: Twisted Visage */
 UPDATE locales_creature SET name_loc1='혼돈 작렬' WHERE entry=41041; /* name: Chaos Blast */
 UPDATE locales_creature SET name_loc1='노움 기술자' WHERE entry=41046; /* name: Gnome Engineer */
+UPDATE locales_creature SET name_loc1='심해군주 진자타르' WHERE entry=41049; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc1='성난모래 혈투사' WHERE entry=41059; /* name: Sandfury Blood Drinker */
 UPDATE locales_creature SET name_loc1='성난모래 의술사' WHERE entry=41065; /* name: Sandfury Witch Doctor */
 UPDATE locales_creature SET name_loc1='성난모래 어둠사냥꾼' WHERE entry=41066; /* name: Sandfury Shadowhunter */
@@ -27313,6 +27342,7 @@ UPDATE locales_creature SET name_loc1='서리갈기 길잡이' WHERE entry=41122
 UPDATE locales_creature SET name_loc1='[4.x 미사용]"씩씩이" 존슨' WHERE entry=41135; /* name: "Plucky" Johnson */
 UPDATE locales_creature SET name_loc1='조련사 만렉',subname_loc1='박쥐 조련사' WHERE entry=41142; /* name: Handler Marnlek */ /* subname: Bat Handler */
 UPDATE locales_creature SET name_loc1='공허의 추적자' WHERE entry=41148; /* name: Void Seeker */
+UPDATE locales_creature SET name_loc1='드룬겔트 글로워글레어' WHERE entry=41151; /* name: Drungeld Glowerglare */
 UPDATE locales_creature SET name_loc1='혼돈의 지배' WHERE entry=41168; /* name: Reign of Chaos */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=41172; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]리즈넥' WHERE entry=41184; /* name: Riznek */
@@ -27362,6 +27392,7 @@ UPDATE locales_creature SET name_loc1='갈퀴발톱 고원랩터' WHERE entry=41
 UPDATE locales_creature SET name_loc1='발굴조사단장 웰가르',subname_loc1='탐험가 연맹' WHERE entry=41411; /* name: Prospector Whelgar */ /* subname: Explorers\' League */
 UPDATE locales_creature SET name_loc1='오머 아이언브레이드' WHERE entry=41412; /* name: Ormer Ironbraid */
 UPDATE locales_creature SET name_loc1='메린 록위버',subname_loc1='탐험가 연맹' WHERE entry=41413; /* name: Merrin Rockweaver */ /* subname: Explorers\' League */
+UPDATE locales_creature SET name_loc1='욜라 다크스네어' WHERE entry=41416; /* name: Yorla Darksnare */
 UPDATE locales_creature SET name_loc1='습지악어' WHERE entry=41419; /* name: Wetlands Crocolisk */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]라우 클리프러너' WHERE entry=41421; /* name: Rau Cliffrunner */
 UPDATE locales_creature SET name_loc1='푸른아가미 멀록' WHERE entry=41425; /* name: Bluegill Murloc */
@@ -27378,6 +27409,7 @@ UPDATE locales_creature SET name_loc1='[4.x 미사용]탈리아 앰버하이드'
 UPDATE locales_creature SET name_loc1='[4.x 미사용]보르젠' WHERE entry=41447; /* name: Bor\'zehn */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]나그젠' WHERE entry=41448; /* name: Nag\'zehn */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]스타른',subname_loc1='총기류 및 활 상인' WHERE entry=41452; /* name: Starn */ /* subname: Gunsmith & Bowyer */
+UPDATE locales_creature SET name_loc1='감독관 이드라케스' WHERE entry=41455; /* name: Overseer Idra\'kess */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]절벽파수꾼 롱혼' WHERE entry=41458; /* name: Cliffwatcher Longhorn */
 UPDATE locales_creature SET name_loc1='높새바람 용사' WHERE entry=41468; /* name: Freewind Brave */
 UPDATE locales_creature SET name_loc1='마나사냥개' WHERE entry=41474; /* name: Manahound */
@@ -27386,7 +27418,9 @@ UPDATE locales_creature SET name_loc1='눈추적늑대' WHERE entry=41478; /* na
 UPDATE locales_creature SET name_loc1='대드루이드 하뮬 룬토템' WHERE entry=41480; /* name: Arch Druid Hamuul Runetotem */
 UPDATE locales_creature SET name_loc1='신록수호자 레시엘' WHERE entry=41503; /* name: Rethiel the Greenwarden */
 UPDATE locales_creature SET name_loc1='나즈자르 근위병' WHERE entry=41514; /* name: Naz\'jar Honor Guard */
+UPDATE locales_creature SET name_loc1='욜라 다크스네어' WHERE entry=41524; /* name: Yorla Darksnare */
 UPDATE locales_creature SET name_loc1='탐지 음파' WHERE entry=41546; /* name: Sonar Pulse */
+UPDATE locales_creature SET name_loc1='드룬겔트 글로워글레어' WHERE entry=41553; /* name: Drungeld Glowerglare */
 UPDATE locales_creature SET name_loc1='불한당 발가라스' WHERE entry=41556; /* name: Balgaras the Foul */
 UPDATE locales_creature SET name_loc1='토르톨라의 자식' WHERE entry=41557; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc1='경비대장 스타우트피스트' WHERE entry=41559; /* name: Captain Stoutfist */
@@ -27394,6 +27428,7 @@ UPDATE locales_creature SET name_loc1='용암아귀' WHERE entry=41570; /* name:
 UPDATE locales_creature SET name_loc1='순간 빙결 얼음' WHERE entry=41576; /* name: Flash Freeze */
 UPDATE locales_creature SET name_loc1='토르톨라의 자식' WHERE entry=41581; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=41600; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
+UPDATE locales_creature SET name_loc1='페릴론 리프본' WHERE entry=41615; /* name: Ferilon Leafborn */
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=41618; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc1='대드루이드 하뮬 룬토템' WHERE entry=41630; /* name: Arch Druid Hamuul Runetotem */
 UPDATE locales_creature SET name_loc1='세나리우스' WHERE entry=41631; /* name: Cenarius */
@@ -27405,6 +27440,7 @@ UPDATE locales_creature SET name_loc1='대주교 베네딕투스' WHERE entry=41
 UPDATE locales_creature SET name_loc1='여군주 제이나 프라우드무어',subname_loc1='테라모어의 지배자' WHERE entry=41710; /* name: Lady Jaina Proudmoore */ /* subname: Ruler of Theramore */
 UPDATE locales_creature SET name_loc1='부관 나즈그림' WHERE entry=41711; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc1='모래 회오리' WHERE entry=41730; /* name: Sand Vortex */
+UPDATE locales_creature SET name_loc1='감독관 이드라케스' WHERE entry=41731; /* name: Overseer Idra\'kess */
 UPDATE locales_creature SET name_loc1='국왕 바리안 린',subname_loc1='스톰윈드 왕자' WHERE entry=41735; /* name: King Varian Wrynn */ /* subname: King of Stormwind */
 UPDATE locales_creature SET name_loc1='전투코도' WHERE entry=41742; /* name: War Kodo */
 UPDATE locales_creature SET name_loc1='부관 나즈그림' WHERE entry=41748; /* name: Legionnaire Nazgrim */
@@ -27448,6 +27484,7 @@ UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='
 UPDATE locales_creature SET name_loc1='하급 서큐버스' WHERE entry=41872; /* name: Succubus Minion */
 UPDATE locales_creature SET name_loc1='하급 임프' WHERE entry=41873; /* name: Imp Minion */
 UPDATE locales_creature SET name_loc1='던 모로 산악경비대' WHERE entry=41897; /* name: Dun Morogh Mountaineer */
+UPDATE locales_creature SET name_loc1='오라코' WHERE entry=41908; /* name: Orako */
 UPDATE locales_creature SET name_loc1='진동의 토템' WHERE entry=41938; /* name: Tremor Totem */
 UPDATE locales_creature SET name_loc1='진동의 토템' WHERE entry=41939; /* name: Tremor Totem */
 UPDATE locales_creature SET name_loc1='질풍의 토템' WHERE entry=41940; /* name: Windfury Totem */
@@ -27466,6 +27503,8 @@ UPDATE locales_creature SET name_loc1='노움 비행기' WHERE entry=42016; /* n
 UPDATE locales_creature SET name_loc1='스톰윈드 병사' WHERE entry=42021; /* name: Stormwind Soldier */
 UPDATE locales_creature SET name_loc1='화학약품 수레' WHERE entry=42052; /* name: Chemical Wagon */
 UPDATE locales_creature SET name_loc1='나즈자르 근위병' WHERE entry=42065; /* name: Naz\'jar Honor Guard */
+UPDATE locales_creature SET name_loc1='심해군주 진자타르' WHERE entry=42072; /* name: Fathom-Lord Zin\'jatar */
+UPDATE locales_creature SET name_loc1='심해군주 진자타르' WHERE entry=42073; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc1='심해추적자 아즈젠투스' WHERE entry=42074; /* name: Fathom-Stalker Azjentus */
 UPDATE locales_creature SET name_loc1='심해추적자 아즈젠투스' WHERE entry=42075; /* name: Fathom-Stalker Azjentus */
 UPDATE locales_creature SET name_loc1='여군주 나즈자르' WHERE entry=42076; /* name: Lady Naz\'jar */
@@ -27508,6 +27547,7 @@ UPDATE locales_creature SET name_loc1='가로쉬 헬스크림',subname_loc1='호
 UPDATE locales_creature SET name_loc1='가로쉬 헬스크림',subname_loc1='전쟁노래 공격대 대군주' WHERE entry=42282; /* name: Garrosh Hellscream */ /* subname: Overlord of the Warsong Offensive */
 UPDATE locales_creature SET name_loc1='볼진' WHERE entry=42283; /* name: Vol\'jin */
 UPDATE locales_creature SET name_loc1='겨울늑대' WHERE entry=42290; /* name: Winter Wolf */
+UPDATE locales_creature SET name_loc1='카심 샤림' WHERE entry=42298; /* name: Kasim Sharim */
 UPDATE locales_creature SET name_loc1='스톰윈드 근위병' WHERE entry=42304; /* name: Stormwind City Guard */
 UPDATE locales_creature SET name_loc1='북해 크라켄' WHERE entry=42305; /* name: North Sea Kraken */
 UPDATE locales_creature SET name_loc1='베른호' WHERE entry=42306; /* name: The Verne */
@@ -27552,6 +27592,8 @@ UPDATE locales_creature SET name_loc1='그물' WHERE entry=42570; /* name: Net *
 UPDATE locales_creature SET name_loc1='케른 블러드후프',subname_loc1='대부족장' WHERE entry=42600; /* name: Cairne Bloodhoof */ /* subname: High Chieftain */
 UPDATE locales_creature SET name_loc1='로카로',subname_loc1='호드의 용사' WHERE entry=42602; /* name: Rexxar */ /* subname: Champion of the Horde */
 UPDATE locales_creature SET name_loc1='불꽃의 토템' WHERE entry=42605; /* name: Flametongue Totem */
+UPDATE locales_creature SET name_loc1='간드란다' WHERE entry=42609; /* name: Gan\'dranda */ /* subname: Revantusk General */
+UPDATE locales_creature SET name_loc1='토르나 썬더클래쉬' WHERE entry=42610; /* name: Thornar Thunderclash */ /* subname: Wildhammer General */
 UPDATE locales_creature SET name_loc1='장로 톤터스크' WHERE entry=42613; /* name: Elder Torntusk */
 UPDATE locales_creature SET name_loc1='서부정통 스튜' WHERE entry=42617; /* name: Westfall Stew */
 UPDATE locales_creature SET name_loc1='썬더 블러프 경비병' WHERE entry=42623; /* name: Bluffwatcher */
@@ -27559,6 +27601,7 @@ UPDATE locales_creature SET name_loc1='신비주의자 사우라노크' WHERE en
 UPDATE locales_creature SET name_loc1='모래 폭풍' WHERE entry=42639; /* name: Sand Storm */
 UPDATE locales_creature SET name_loc1='주술사 톤터스크' WHERE entry=42642; /* name: Primal Torntusk */
 UPDATE locales_creature SET name_loc1='현자 토랄리우스' WHERE entry=42651; /* name: Thoralius the Wise */
+UPDATE locales_creature SET name_loc1='장고 스팟하이드' WHERE entry=42653; /* name: Jango Spothide */
 UPDATE locales_creature SET name_loc1='헬릭스 기어브레이커' WHERE entry=42655; /* name: Helix Gearbreaker */
 UPDATE locales_creature SET name_loc1='용병' WHERE entry=42656; /* name: Mercenary */
 UPDATE locales_creature SET name_loc1='나즈자르 근위병' WHERE entry=42670; /* name: Naz\'jar Honor Guard */
@@ -27576,8 +27619,8 @@ UPDATE locales_creature SET name_loc1='사크 레이지토템' WHERE entry=42729
 UPDATE locales_creature SET name_loc1='동력 증폭장' WHERE entry=42733; /* name: Power Generator */
 UPDATE locales_creature SET name_loc1='아기 채찍꼬리랩터' WHERE entry=42736; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc1='폭발 구슬' WHERE entry=42743; /* name: Exploding Orb */
-UPDATE locales_creature SET name_loc1='정찰대장 다누빈' WHERE entry=42751; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc1='정찰병 갈리안' WHERE entry=42752; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='정찰대장 다누빈',subname_loc1='서부 몰락지대 여단' WHERE entry=42751; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc1='정찰병 갈리안',subname_loc1='서부 몰락지대 여단' WHERE entry=42752; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc1='헬릭스 기어브레이커' WHERE entry=42753; /* name: Helix Gearbreaker */
 UPDATE locales_creature SET name_loc1='글럽톡',subname_loc1='감독관' WHERE entry=42755; /* name: Glubtok */ /* subname: The Foreman */
 UPDATE locales_creature SET name_loc1='사악한 환영' WHERE entry=42761; /* name: Sinister Reflection */
@@ -27590,6 +27633,8 @@ UPDATE locales_creature SET name_loc1='국왕 마그니 브론즈비어드',subn
 UPDATE locales_creature SET name_loc1='무라딘 브론즈비어드' WHERE entry=42795; /* name: Muradin Bronzebeard */
 UPDATE locales_creature SET name_loc1='땜장이왕 멕카토크',subname_loc1='노움 국왕' WHERE entry=42797; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
 UPDATE locales_creature SET name_loc1='혈군주 만도키르' WHERE entry=42799; /* name: Bloodlord Mandokir */
+UPDATE locales_creature SET name_loc1='수르칸' WHERE entry=42811; /* name: Surkhan */ /* subname: Emissary of Rastakhan */
+UPDATE locales_creature SET name_loc1='여사제 후랄라' WHERE entry=42812; /* name: Priestess Hu\'rala */
 UPDATE locales_creature SET name_loc1='불안정한 버섯' WHERE entry=42835; /* name: Unstable Shroom */
 UPDATE locales_creature SET name_loc1='구루바시 박쥐 기수' WHERE entry=42837; /* name: Gurubashi Bat Rider */
 UPDATE locales_creature SET name_loc1='혈군주 만도키르' WHERE entry=42842; /* name: Bloodlord Mandokir */
@@ -27602,6 +27647,7 @@ UPDATE locales_creature SET name_loc1='지옥수호병' WHERE entry=42874; /* na
 UPDATE locales_creature SET name_loc1='수호자 몰타기아' WHERE entry=42877; /* name: Morta\'gya the Keeper */
 UPDATE locales_creature SET name_loc1='뇌우' WHERE entry=42895; /* name: Tornado */
 UPDATE locales_creature SET name_loc1='독폭탄' WHERE entry=42897; /* name: Poison Bomb */
+UPDATE locales_creature SET name_loc1='어둠성직자 마날' WHERE entry=42898; /* name: Darkcleric Marnal */
 UPDATE locales_creature SET name_loc1='진흙괴물' WHERE entry=42902; /* name: Slime */
 UPDATE locales_creature SET name_loc1='수호자 퀴아가' WHERE entry=42919; /* name: Qiaga the Keeper */
 UPDATE locales_creature SET name_loc1='독 웅덩이' WHERE entry=42920; /* name: Poison Puddle */
@@ -27618,19 +27664,24 @@ UPDATE locales_creature SET name_loc1='탄자르' WHERE entry=42980; /* name: Ta
 UPDATE locales_creature SET name_loc1='투르고어' WHERE entry=42982; /* name: Turgore */
 UPDATE locales_creature SET name_loc1='샤드라',subname_loc1='맹독 여왕거미' WHERE entry=43007; /* name: Shadra */ /* subname: The Venom Queen */
 UPDATE locales_creature SET name_loc1='임프' WHERE entry=43014; /* name: Imp */
+UPDATE locales_creature SET name_loc1='어둠성직자 마날' WHERE entry=43018; /* name: Darkcleric Marnal */
 UPDATE locales_creature SET name_loc1='맥 피어센' WHERE entry=43022; /* name: Mack Fearsen */
 UPDATE locales_creature SET name_loc1='버드' WHERE entry=43023; /* name: Budd */
 UPDATE locales_creature SET name_loc1='화염 숨결' WHERE entry=43037; /* name: Flame Breath */
 UPDATE locales_creature SET name_loc1='아다라' WHERE entry=43051; /* name: Adarrah */
 UPDATE locales_creature SET name_loc1='긴다리숲거미' WHERE entry=43084; /* name: Forest Stalker */
 UPDATE locales_creature SET name_loc1='헬스크림 선봉대원' WHERE entry=43090; /* name: Hellscream\'s Vanguard */
+UPDATE locales_creature SET name_loc1='혼합대가 재스퍼' WHERE entry=43097; /* name: Mixmaster Jasper */
+UPDATE locales_creature SET name_loc1='차발' WHERE entry=43098; /* name: Chabal */
 UPDATE locales_creature SET name_loc1='부관 나즈그림' WHERE entry=43100; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc1='바위 바닷가재' WHERE entry=43102; /* name: Rock Lobster */
 UPDATE locales_creature SET name_loc1='케르 아이언사이트' WHERE entry=43108; /* name: Kerr Ironsight */
 UPDATE locales_creature SET name_loc1='돌돌이' WHERE entry=43116; /* name: Pebble */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43135; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='프라가르 썬더맨틀' WHERE entry=43156; /* name: Fraggar Thundermantle */
 UPDATE locales_creature SET name_loc1='도란 스틸윙' WHERE entry=43157; /* name: Doran Steelwing */
 UPDATE locales_creature SET name_loc1='뾰족부리' WHERE entry=43161; /* name: Sharpbeak */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43184; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='현장감독 오슬로' WHERE entry=43194; /* name: Foreman Oslow */
 UPDATE locales_creature SET name_loc1='돌거죽' WHERE entry=43214; /* name: Slabhide */
 UPDATE locales_creature SET name_loc1='그리핀 조련사 탈론액스' WHERE entry=43215; /* name: Gryphon Master Talonaxe */
@@ -27638,8 +27689,12 @@ UPDATE locales_creature SET name_loc1='용암 균열' WHERE entry=43242; /* name
 UPDATE locales_creature SET name_loc1='추방자 잔질' WHERE entry=43245; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc1='추방자 잔질' WHERE entry=43255; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc1='대여사제 제클릭' WHERE entry=43257; /* name: High Priestess Jeklik */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43272; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43274; /* name: Krakauer */
 UPDATE locales_creature SET name_loc1='수정 조각' WHERE entry=43286; /* name: Crystal Shard */
 UPDATE locales_creature SET name_loc1='키마이론' WHERE entry=43296; /* name: Chimaeron */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43303; /* name: Krakauer */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43305; /* name: Jorgensen */
 UPDATE locales_creature SET name_loc1='추방자 잔질' WHERE entry=43322; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc1='대사제 베녹시스' WHERE entry=43323; /* name: High Priest Venoxis */
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=43324; /* name: Cho\'gall */
@@ -27654,8 +27709,18 @@ UPDATE locales_creature SET name_loc1='말로리악' WHERE entry=43404; /* name:
 UPDATE locales_creature SET name_loc1='불의 정령' WHERE entry=43406; /* name: Fire Elemental */
 UPDATE locales_creature SET name_loc1='아트라메데스' WHERE entry=43407; /* name: Atramedes */
 UPDATE locales_creature SET name_loc1='소환된 불타는 토템' WHERE entry=43423; /* name: Summoned Searing Totem */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43433; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43434; /* name: Krakauer */
 UPDATE locales_creature SET name_loc1='코보루스' WHERE entry=43438; /* name: Corborus */
 UPDATE locales_creature SET name_loc1='태양 광선' WHERE entry=43444; /* name: Solar Beam */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43446; /* name: Krakauer */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43447; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43449; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc1='대지종결자 트로그조르' WHERE entry=43456; /* name: Troggzor the Earthinator */ /* subname: Stone Trogg Battle Leader */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43457; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43458; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43460; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43461; /* name: Krakauer */
 UPDATE locales_creature SET name_loc1='여군주 나즈자르' WHERE entry=43468; /* name: Lady Naz\'jar */
 UPDATE locales_creature SET name_loc1='나즈자르 근위병' WHERE entry=43469; /* name: Naz\'jar Honor Guard */
 UPDATE locales_creature SET name_loc1='심연의 촉수' WHERE entry=43472; /* name: Abyssal Tentacle */
@@ -27663,8 +27728,14 @@ UPDATE locales_creature SET name_loc1='신성화' WHERE entry=43499; /* name: Co
 UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='대지 고리회' WHERE entry=43519; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc1='부관 나즈그림' WHERE entry=43520; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc1='헬스크림 선봉대원' WHERE entry=43522; /* name: Hellscream\'s Vanguard */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43546; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='낡아빠진 대포' WHERE entry=43562; /* name: Ol\' Blasty */
 UPDATE locales_creature SET name_loc1='용아귀 집행자' WHERE entry=43575; /* name: Dragonmaw Enforcer */
 UPDATE locales_creature SET name_loc1='불길' WHERE entry=43585; /* name: Blaze */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43600; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43608; /* name: Krakauer */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43609; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43611; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='고위 사제 바림' WHERE entry=43612; /* name: High Prophet Barim */
 UPDATE locales_creature SET name_loc1='톱니아귀' WHERE entry=43614; /* name: Lockmaw */
 UPDATE locales_creature SET name_loc1='나즈자르 근위병' WHERE entry=43620; /* name: Naz\'jar Honor Guard */
@@ -27683,6 +27754,7 @@ UPDATE locales_creature SET name_loc1='광포한 늑대' WHERE entry=43704; /* n
 UPDATE locales_creature SET name_loc1='고대 신의 피' WHERE entry=43707; /* name: Blood of the Old God */
 UPDATE locales_creature SET name_loc1='엘레멘티움 괴물' WHERE entry=43735; /* name: Elementium Monstrosity */
 UPDATE locales_creature SET name_loc1='요동치는 돌격' WHERE entry=43743; /* name: Thrashing Charge */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43744; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='무법항 투사' WHERE entry=43760; /* name: Booty Bay Bruiser */
 UPDATE locales_creature SET name_loc1='모벤트 펠' WHERE entry=43761; /* name: Morbent Fel */
 UPDATE locales_creature SET name_loc1='약해진 모벤트 펠' WHERE entry=43762; /* name: Weakened Morbent Fel */
@@ -27694,8 +27766,11 @@ UPDATE locales_creature SET name_loc1='타후 세이지윈드',subname_loc1='상
 UPDATE locales_creature SET name_loc1='개인용 세계 파괴자' WHERE entry=43800; /* name: Personal World Destroyer */
 UPDATE locales_creature SET name_loc1='천상의 분노' WHERE entry=43801; /* name: Heaven\'s Fury */
 UPDATE locales_creature SET name_loc1='테라제인' WHERE entry=43802; /* name: Therazane */ /* subname: The Stonemother */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=43812; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='검은바위 용사' WHERE entry=43813; /* name: Blackrock Champion */
 UPDATE locales_creature SET name_loc1='참회' WHERE entry=43817; /* name: Repentance */
+UPDATE locales_creature SET name_loc1='요르겐센 구출' WHERE entry=43827; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc1='크라카우어 구출' WHERE entry=43829; /* name: Krakauer */
 UPDATE locales_creature SET name_loc1='떠도는 불의 정령' WHERE entry=43830; /* name: Burning Exile */
 UPDATE locales_creature SET name_loc1='부관 나즈그림' WHERE entry=43844; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc1='말퓨리온 스톰레이지' WHERE entry=43845; /* name: Malfurion Stormrage */
@@ -27724,12 +27799,17 @@ UPDATE locales_creature SET name_loc1='비취볏바실리스크' WHERE entry=439
 UPDATE locales_creature SET name_loc1='혈군주 만도키르' WHERE entry=43989; /* name: Bloodlord Mandokir */
 UPDATE locales_creature SET name_loc1='부패의 검' WHERE entry=43999; /* name: Corruption */
 UPDATE locales_creature SET name_loc1='여군주 나즈자르' WHERE entry=44008; /* name: Lady Naz\'jar */
+UPDATE locales_creature SET name_loc1='여사제 타알리아' WHERE entry=44017; /* name: Priestess Thaalia */
+UPDATE locales_creature SET name_loc1='갈리리' WHERE entry=44021; /* name: Ghaliri */ /* subname: Emissary of Rastakhan */
 UPDATE locales_creature SET name_loc1='어둠에 물든 창조물' WHERE entry=44023; /* name: Darkened Creation */
 UPDATE locales_creature SET name_loc1='테라제인' WHERE entry=44025; /* name: Therazane */ /* subname: The Stonemother */
 UPDATE locales_creature SET name_loc1='용아귀 주술사' WHERE entry=44026; /* name: Dragonmaw Shaman */
 UPDATE locales_creature SET name_loc1='마그마다르' WHERE entry=44031; /* name: Magmadar */
 UPDATE locales_creature SET name_loc1='스랄',subname_loc1='대족장' WHERE entry=44033; /* name: Thrall */ /* subname: Warchief */
 UPDATE locales_creature SET name_loc1='어둠에 물든 창조물' WHERE entry=44045; /* name: Darkened Creation */
+UPDATE locales_creature SET name_loc1='메이위키' WHERE entry=44084; /* name: Maywiki */
+UPDATE locales_creature SET name_loc1='&quot;영약쟁이&quot; 다스크 곱피즐',subname_loc1='탐험가 연맹' WHERE entry=44099; /* name: Dask "The Flask" Gobfizzle */ /* subname: Explorers\' League */
+UPDATE locales_creature SET name_loc1='에어윈 밴텀플랙스',subname_loc1='탐험가 연맹' WHERE entry=44112; /* name: Airwyn Bantamflax */ /* subname: Explorers\' League */
 UPDATE locales_creature SET name_loc1='엘라',subname_loc1='마법 재료 상인' WHERE entry=44115; /* name: Ella */ /* subname: Reagents */
 UPDATE locales_creature SET name_loc1='신비주의자 사우라노크' WHERE entry=44120; /* name: Sauranok the Mystic */
 UPDATE locales_creature SET name_loc1='비취볏바실리스크' WHERE entry=44138; /* name: Jadecrest Basilisk */
@@ -27815,6 +27895,7 @@ UPDATE locales_creature SET name_loc1='칼리프 스콜피드스팅' WHERE entry
 UPDATE locales_creature SET name_loc1='얼굴 없는 흡입술사' WHERE entry=44752; /* name: Faceless Sapper */
 UPDATE locales_creature SET name_loc1='앙드레 파이어비어드' WHERE entry=44759; /* name: Andre Firebeard */
 UPDATE locales_creature SET name_loc1='스파이크' WHERE entry=44765; /* name: Spike */
+UPDATE locales_creature SET name_loc1='고르크레시' WHERE entry=44771; /* name: Gor\'kresh */ /* subname: Disciple of Cho\'gall */
 UPDATE locales_creature SET name_loc1='뾰족부리' WHERE entry=44776; /* name: Sharpbeak */
 UPDATE locales_creature SET name_loc1='죽음추적자' WHERE entry=44790; /* name: Deathstalker */
 UPDATE locales_creature SET name_loc1='훈련용 허수아비' WHERE entry=44794; /* name: Training Dummy */
@@ -27906,8 +27987,10 @@ UPDATE locales_creature SET name_loc1='트롤 대지의 토템' WHERE entry=4521
 UPDATE locales_creature SET name_loc1='트롤 불의 토템' WHERE entry=45217; /* name: Troll Fire Totem */
 UPDATE locales_creature SET name_loc1='트롤 물의 토템' WHERE entry=45218; /* name: Troll Water Totem */
 UPDATE locales_creature SET name_loc1='관리인 스미더스' WHERE entry=45219; /* name: Caretaker Smithers */
+UPDATE locales_creature SET name_loc1='아라드네' WHERE entry=45235; /* name: Aradne */
 UPDATE locales_creature SET name_loc1='폭탄' WHERE entry=45237; /* name: Bomb */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=45238; /* name: Harrison Jones */
+UPDATE locales_creature SET name_loc1='아라드네' WHERE entry=45246; /* name: Aradne */
 UPDATE locales_creature SET name_loc1='돌돌이' WHERE entry=45247; /* name: Pebble */
 UPDATE locales_creature SET name_loc1='무역왕 갤리윅스',subname_loc1='빌지워터 무역회사 대표' WHERE entry=45250; /* name: Trade Prince Gallywix */ /* subname: <PH MODEL: TASK# 33666> Leader of the Bilgewater Cartel */
 UPDATE locales_creature SET name_loc1='겐 그레이메인' WHERE entry=45253; /* name: Genn Greymane */
@@ -27921,6 +28004,7 @@ UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=45275; /* n
 UPDATE locales_creature SET name_loc1='높새바람 용사' WHERE entry=45278; /* name: Freewind Brave */
 UPDATE locales_creature SET name_loc1='해골' WHERE entry=45285; /* name: Skeleton */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=45296; /* name: Harrison Jones */
+UPDATE locales_creature SET name_loc1='거인 코록' WHERE entry=45301; /* name: Korok the Colossus */
 UPDATE locales_creature SET name_loc1='죽음추적자' WHERE entry=45313; /* name: Deathstalker */
 UPDATE locales_creature SET name_loc1='짐노새 주인 스톤브루저',subname_loc1='빛의 결사단' WHERE entry=45323; /* name: Packmaster Stonebruiser */ /* subname: Brotherhood of the Light */
 UPDATE locales_creature SET name_loc1='짐노새' WHERE entry=45325; /* name: Pack Mule */
@@ -27928,6 +28012,7 @@ UPDATE locales_creature SET name_loc1='짐노새 주인 스톤브루저',subname
 UPDATE locales_creature SET name_loc1='대마법사 안젤라 도산토스',subname_loc1='빛의 결사단' WHERE entry=45330; /* name: Archmage Angela Dosantos */ /* subname: Brotherhood of the Light */
 UPDATE locales_creature SET name_loc1='아그라' WHERE entry=45333; /* name: Aggra */
 UPDATE locales_creature SET name_loc1='화석 랩터' WHERE entry=45338; /* name: Fossilized Raptor */
+UPDATE locales_creature SET name_loc1='어둠의 사제 세실',subname_loc1='상급 사제' WHERE entry=45339; /* name: Dark Cleric Cecille */ /* subname: Priest Trainer */
 UPDATE locales_creature SET name_loc1='새끼 화석 랩터' WHERE entry=45340; /* name: Fossilized Hatchling */
 UPDATE locales_creature SET name_loc1='누더기골렘' WHERE entry=45345; /* name: Abomination */
 UPDATE locales_creature SET name_loc1='은빛의 십자군' WHERE entry=45346; /* name: Argent Crusader */
@@ -27971,7 +28056,10 @@ UPDATE locales_creature SET name_loc1='아르거스 하이비컨',subname_loc1='
 UPDATE locales_creature SET name_loc1='황폐의사냥개' WHERE entry=45453; /* name: Blighthound */
 UPDATE locales_creature SET name_loc1='차원문' WHERE entry=45454; /* name: Portal */
 UPDATE locales_creature SET name_loc1='은빛의 십자군' WHERE entry=45456; /* name: Argent Crusader */
+UPDATE locales_creature SET name_loc1='뼈 주술막대' WHERE entry=45463; /* name: The Rattle of Bones */
+UPDATE locales_creature SET name_loc1='역사의 확인서' WHERE entry=45466; /* name: The Writ of History */
 UPDATE locales_creature SET name_loc1='트로그 주민' WHERE entry=45467; /* name: Trogg Dweller */
+UPDATE locales_creature SET name_loc1='전쟁의 북' WHERE entry=45468; /* name: The Drums of War */
 UPDATE locales_creature SET name_loc1='대지화살' WHERE entry=45469; /* name: Earth Shards */
 UPDATE locales_creature SET name_loc1='중력 붕괴' WHERE entry=45476; /* name: Gravity Crush */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=45505; /* name: Harrison Jones */
@@ -27993,6 +28081,7 @@ UPDATE locales_creature SET name_loc1='고드프리 경' WHERE entry=45622; /* n
 UPDATE locales_creature SET name_loc1='남작 애쉬버리' WHERE entry=45623; /* name: Baron Ashbury */
 UPDATE locales_creature SET name_loc1='월든 경' WHERE entry=45624; /* name: Lord Walden */
 UPDATE locales_creature SET name_loc1='어둠 순찰자' WHERE entry=45628; /* name: Dark Ranger */
+UPDATE locales_creature SET name_loc1='태산 해골분쇄자' WHERE entry=45644; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc1='전쟁군주 잴라' WHERE entry=45658; /* name: Warlord Zaela */
 UPDATE locales_creature SET name_loc1='국왕 마그니 브론즈비어드',subname_loc1='아이언포지 국왕' WHERE entry=45666; /* name: King Magni Bronzebeard */ /* subname: Lord of Ironforge */
 UPDATE locales_creature SET name_loc1='땜장이왕 멕카토크',subname_loc1='노움 국왕' WHERE entry=45667; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
@@ -28003,7 +28092,9 @@ UPDATE locales_creature SET name_loc1='에루낙 스톤스피커',subname_loc1='
 UPDATE locales_creature SET name_loc1='숨어있는 폭풍우' WHERE entry=45704; /* name: Lurking Tempest */
 UPDATE locales_creature SET name_loc1='타레나 선스트라이크' WHERE entry=45729; /* name: Tarenar Sunstrike */
 UPDATE locales_creature SET name_loc1='기드윈 골드브레이즈' WHERE entry=45730; /* name: Gidwin Goldbraids */
+UPDATE locales_creature SET name_loc1='유물 수호자 렐리오스' WHERE entry=45734; /* name: Relios the Relic Keeper */
 UPDATE locales_creature SET name_loc1='벡스툴' WHERE entry=45741; /* name: Vex\'tul */
+UPDATE locales_creature SET name_loc1='지하군주 익스라' WHERE entry=45744; /* name: Ix\'lar the Underlord */
 UPDATE locales_creature SET name_loc1='루비' WHERE entry=45745; /* name: Ruby */
 UPDATE locales_creature SET name_loc1='번개' WHERE entry=45754; /* name: Lightning */ /* subname: Thordun\'s Mount */
 UPDATE locales_creature SET name_loc1='비전 마귀' WHERE entry=45766; /* name: Arcane Fiend */
@@ -28047,6 +28138,7 @@ UPDATE locales_creature SET name_loc1='잘린다 스프리그' WHERE entry=45892
 UPDATE locales_creature SET name_loc1='하늘붕괴 별' WHERE entry=45932; /* name: Skyfall Star */
 UPDATE locales_creature SET name_loc1='피오나' WHERE entry=45941; /* name: Fiona */
 UPDATE locales_creature SET name_loc1='코르크론 암살자' WHERE entry=45944; /* name: Kor\'kron Assassin */
+UPDATE locales_creature SET name_loc1='미치광이 래리' WHERE entry=45948; /* name: Crazy Larry */
 UPDATE locales_creature SET name_loc1='파멜라 레드패스' WHERE entry=45951; /* name: Pamela Redpath */
 UPDATE locales_creature SET name_loc1='방사능에 노출된 트로그' WHERE entry=45952; /* name: Irradiated Trogg */
 UPDATE locales_creature SET name_loc1='천둥충격' WHERE entry=45954; /* name: Thunderstruck */
@@ -28059,6 +28151,7 @@ UPDATE locales_creature SET name_loc1='림블랫 어스쉐터',subname_loc1='대
 UPDATE locales_creature SET name_loc1='파멜라 레드패스' WHERE entry=45961; /* name: Pamela Redpath */
 UPDATE locales_creature SET name_loc1='벡스툴' WHERE entry=45962; /* name: Vex\'tul */
 UPDATE locales_creature SET name_loc1='벡스툴' WHERE entry=45963; /* name: Vex\'tul */
+UPDATE locales_creature SET name_loc1='태산 해골분쇄자' WHERE entry=45986; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc1='제피르' WHERE entry=45991; /* name: Zephyr */
 UPDATE locales_creature SET name_loc1='발리오나' WHERE entry=45992; /* name: Valiona */
 UPDATE locales_creature SET name_loc1='테랄리온' WHERE entry=45993; /* name: Theralion */
@@ -28090,7 +28183,11 @@ UPDATE locales_creature SET name_loc1='여군주 실바나스 윈드러너',subn
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=46137; /* name: Cho\'gall */
 UPDATE locales_creature SET name_loc1='발리오나' WHERE entry=46147; /* name: Valiona */
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=46163; /* name: Cho\'gall */
+UPDATE locales_creature SET name_loc1='바바 보그브루' WHERE entry=46172; /* name: Baba Bogbrew */
 UPDATE locales_creature SET name_loc1='기드윈 골드브레이즈' WHERE entry=46173; /* name: Gidwin Goldbraids */
+UPDATE locales_creature SET name_loc1='케이든 둔왈트' WHERE entry=46174; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=46175; /* name: Eoin Dunwald */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=46176; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc1='타레나 선스트라이크' WHERE entry=46178; /* name: Tarenar Sunstrike */
 UPDATE locales_creature SET name_loc1='조각 얼음' WHERE entry=46186; /* name: Ice Patch */
 UPDATE locales_creature SET name_loc1='기드윈 골드브레이즈' WHERE entry=46191; /* name: Gidwin Goldbraids */
@@ -28133,6 +28230,7 @@ UPDATE locales_creature SET name_loc1='불안정한 마법 흡수장' WHERE entr
 UPDATE locales_creature SET name_loc1='장군 할타르' WHERE entry=46493; /* name: Warlord Halthar */
 UPDATE locales_creature SET name_loc1='들창코' WHERE entry=46500; /* name: Hogger */
 UPDATE locales_creature SET name_loc1='데스윙',subname_loc1='죽음의 위상' WHERE entry=46502; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc1='UNUSED' WHERE entry=46510; /* name: UNUSED REUSE */
 UPDATE locales_creature SET name_loc1='짐노새' WHERE entry=46518; /* name: Pack Mule */
 UPDATE locales_creature SET name_loc1='버드' WHERE entry=46520; /* name: Budd */
 UPDATE locales_creature SET name_loc1='사미르' WHERE entry=46522; /* name: Samir */
@@ -28151,16 +28249,27 @@ UPDATE locales_creature SET name_loc1='하코르' WHERE entry=46545; /* name: Ha
 UPDATE locales_creature SET name_loc1='탄자르' WHERE entry=46547; /* name: Tanzar */
 UPDATE locales_creature SET name_loc1='쿠르젤' WHERE entry=46548; /* name: Kurzel */
 UPDATE locales_creature SET name_loc1='스톰윈드 근위병' WHERE entry=46550; /* name: Stormwind City Guard */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=46553; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='부관 코너' WHERE entry=46571; /* name: First Lieutenant Connor */
 UPDATE locales_creature SET name_loc1='썩은지느러미 점쟁이' WHERE entry=46573; /* name: Vile Fin Oracle */
 UPDATE locales_creature SET name_loc1='썩은지느러미 바다사냥꾼' WHERE entry=46574; /* name: Vile Fin Tidehunter */
 UPDATE locales_creature SET name_loc1='파멸의 이교도' WHERE entry=46576; /* name: Doomsday Cultist */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=46583; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='이교도 침투요원' WHERE entry=46584; /* name: Cultist Infiltrator */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=46585; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='하사관 썬더혼',subname_loc1='정복 병참장교' WHERE entry=46594; /* name: Sergeant Thunderhorn */ /* subname: Conquest Quartermaster */
 UPDATE locales_creature SET name_loc1='혈투사 자르쉬',subname_loc1='명예 병참장교' WHERE entry=46595; /* name: Blood Guard Zar\'shi */ /* subname: Honor Quartermaster */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=46615; /* name: Donnelly Dunwald */
+UPDATE locales_creature SET name_loc1='케이든 둔왈트' WHERE entry=46616; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc1='케이든 둔왈트' WHERE entry=46625; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=46626; /* name: Donnelly Dunwald */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=46627; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='훈련용 허수아비' WHERE entry=46647; /* name: Training Dummy */
 UPDATE locales_creature SET name_loc1='예언자 잠말란' WHERE entry=46656; /* name: Jammal\'an the Prophet */
+UPDATE locales_creature SET name_loc1='거인 코록' WHERE entry=46657; /* name: Korok the Colossus */
 UPDATE locales_creature SET name_loc1='레이저 집중' WHERE entry=46669; /* name: Focused Laser */
+UPDATE locales_creature SET name_loc1='황혼의 망치' WHERE entry=46717; /* name: The Hammer of Twilight */
+UPDATE locales_creature SET name_loc1='태산 해골분쇄자' WHERE entry=46732; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc1='얼음 폭풍' WHERE entry=46734; /* name: Ice Storm */
 UPDATE locales_creature SET name_loc1='스톰윈드 근위병' WHERE entry=46745; /* name: Stormwind City Guard */
 UPDATE locales_creature SET name_loc1='알아키르' WHERE entry=46753; /* name: Al\'Akir */
@@ -28197,6 +28306,7 @@ UPDATE locales_creature SET name_loc1='쿠르드란 와일드해머' WHERE entry
 UPDATE locales_creature SET name_loc1='꼬마 데스윙' WHERE entry=46896; /* name: Lil\' Deathwing */
 UPDATE locales_creature SET name_loc1='전쟁군주 잴라' WHERE entry=46897; /* name: Warlord Zaela */
 UPDATE locales_creature SET name_loc1='마력 깃든 초롱' WHERE entry=46898; /* name: Enchanted Lantern */
+UPDATE locales_creature SET name_loc1='태산 해골분쇄자' WHERE entry=46899; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=46900; /* name: Cho\'gall */
 UPDATE locales_creature SET name_loc1='심장부 사냥개' WHERE entry=46910; /* name: Core Hound */
 UPDATE locales_creature SET name_loc1='굽이치는 용암 정령' WHERE entry=46911; /* name: Lava Surger */
@@ -28256,7 +28366,9 @@ UPDATE locales_creature SET name_loc1='복제된 환영' WHERE entry=47243; /* n
 UPDATE locales_creature SET name_loc1='복제된 환영' WHERE entry=47244; /* name: Mirror Image */
 UPDATE locales_creature SET name_loc1='꾸륵이' WHERE entry=47255; /* name: Gobbles */
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=47257; /* name: Cho\'gall */
+UPDATE locales_creature SET name_loc1='태산 해골분쇄자' WHERE entry=47260; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc1='황혼의 새끼용' WHERE entry=47265; /* name: Twilight Whelp */
+UPDATE locales_creature SET name_loc1='채석장 두목 딘휘스커' WHERE entry=47271; /* name: Dig-Boss Dinwhisker */
 UPDATE locales_creature SET name_loc1='영혼 해방' WHERE entry=47272; /* name: Released Spirit */
 UPDATE locales_creature SET name_loc1='시아마트' WHERE entry=47285; /* name: Siamat */ /* subname: Lord of the South Wind */
 UPDATE locales_creature SET name_loc1='선장 P. 해리스' WHERE entry=47287; /* name: Captain P. Harris */
@@ -28273,6 +28385,7 @@ UPDATE locales_creature SET name_loc1='[4.x 미사용]브리블스워프',subnam
 UPDATE locales_creature SET name_loc1='크륵큭스' WHERE entry=47388; /* name: Silithid Ravager */
 UPDATE locales_creature SET name_loc1='시아마트' WHERE entry=47451; /* name: Siamat */ /* subname: Lord of the South Wind */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]파오카 스위프트마운틴' WHERE entry=47471; /* name: Pao\'ka Swiftmountain */
+UPDATE locales_creature SET name_loc1='설인 군주 예티무스' WHERE entry=47484; /* name: Yetimus the Yeti Lord */
 UPDATE locales_creature SET name_loc1='칼날심장' WHERE entry=47486; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc1='고위집행관 다살리아' WHERE entry=47499; /* name: High Executor Darthalia */
 UPDATE locales_creature SET name_loc1='지옥불 돌격' WHERE entry=47501; /* name: Inferno Rush */
@@ -28281,6 +28394,8 @@ UPDATE locales_creature SET name_loc1='칼날심장' WHERE entry=47504; /* name:
 UPDATE locales_creature SET name_loc1='칼날심장' WHERE entry=47507; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc1='칼날심장' WHERE entry=47508; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc1='스바노스' WHERE entry=47544; /* name: Svarnos */
+UPDATE locales_creature SET name_loc1='라샤크라크' WHERE entry=47553; /* name: Rasha\'krak */ /* subname: Minion of Calcinder */
+UPDATE locales_creature SET name_loc1='무자비한 카벰' WHERE entry=47567; /* name: Kavem the Callous */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]라코타 윈드송' WHERE entry=47580; /* name: Lakota Windsong */
 UPDATE locales_creature SET name_loc1='단장 마티아스 쇼',subname_loc1='SI:7 단장' WHERE entry=47592; /* name: Master Mathias Shaw */ /* subname: Leader of SI:7 */
 UPDATE locales_creature SET name_loc1='생명의 어머니 알렉스트라자',subname_loc1='용의 여왕' WHERE entry=47603; /* name: Alexstrasza the Life-Binder */ /* subname: Queen of the Dragons */
@@ -28318,6 +28433,7 @@ UPDATE locales_creature SET name_loc1='마가타 그림토템',subname_loc1='대
 UPDATE locales_creature SET name_loc1='"선장" 쿠키' WHERE entry=47739; /* name: "Captain" Cookie */ /* subname: Defias Kingpin? */
 UPDATE locales_creature SET name_loc1='살무사' WHERE entry=47740; /* name: Viper */
 UPDATE locales_creature SET name_loc1='마가타 그림토템',subname_loc1='대모' WHERE entry=47745; /* name: Magatha Grimtotem */ /* subname: Elder Crone */
+UPDATE locales_creature SET name_loc1='무톤 플레임스타' WHERE entry=47779; /* name: Mouton Flamestar */
 UPDATE locales_creature SET name_loc1='감독관 스틸워터' WHERE entry=47781; /* name: Warden Stillwater */
 UPDATE locales_creature SET name_loc1='서기관 호레이스 화이트스티드' WHERE entry=47789; /* name: Clerk Horrace Whitesteed */
 UPDATE locales_creature SET name_loc1='집정관 번사이드' WHERE entry=47790; /* name: Magistrate Burnside */
@@ -28329,6 +28445,7 @@ UPDATE locales_creature SET name_loc1='지옥사냥개' WHERE entry=47800; /* na
 UPDATE locales_creature SET name_loc1='지옥불정령' WHERE entry=47802; /* name: Infernal */
 UPDATE locales_creature SET name_loc1='검은색 늑대' WHERE entry=47808; /* name: Black Wolf */
 UPDATE locales_creature SET name_loc1='갈색 늑대' WHERE entry=47809; /* name: Brown Wolf */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=47811; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='뿔엄니' WHERE entry=47818; /* name: Tusker */ /* subname: Korla\'s Pet */
 UPDATE locales_creature SET name_loc1='일리단 스톰레이지',subname_loc1='배신자' WHERE entry=47819; /* name: Illidan Stormrage */ /* subname: The Betrayer */
 UPDATE locales_creature SET name_loc1='마법초 꽃잎' WHERE entry=47828; /* name: Mageroyal */
@@ -28368,6 +28485,7 @@ UPDATE locales_creature SET name_loc1='국왕 바리안 린',subname_loc1='스�
 UPDATE locales_creature SET name_loc1='상급 불의 정령' WHERE entry=47992; /* name: Greater Fire Elemental */
 UPDATE locales_creature SET name_loc1='상급 대지의 정령' WHERE entry=47993; /* name: Greater Earth Elemental */
 UPDATE locales_creature SET name_loc1='데스윙',subname_loc1='죽음의 위상' WHERE entry=48005; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc1='용암군주 팔타자르' WHERE entry=48015; /* name: Magmalord Falthazar */
 UPDATE locales_creature SET name_loc1='황혼의 정수' WHERE entry=48018; /* name: Twilight Essence */
 UPDATE locales_creature SET name_loc1='아다라' WHERE entry=48028; /* name: Adarrah */
 UPDATE locales_creature SET name_loc1='아다라' WHERE entry=48030; /* name: Adarrah */
@@ -28386,8 +28504,10 @@ UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=48082; /* n
 UPDATE locales_creature SET name_loc1='감독관 스틸워터' WHERE entry=48103; /* name: Warden Stillwater */
 UPDATE locales_creature SET name_loc1='오우' WHERE entry=48104; /* name: Augh */ /* subname: Lost City Tour Guide */
 UPDATE locales_creature SET name_loc1='녹슨산림 갈매기' WHERE entry=48107; /* name: Rustberg Gull */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=48109; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='조언자 사로파스',subname_loc1='식료품 상인' WHERE entry=48125; /* name: Advisor Sarophas */ /* subname: Food & Drink */
 UPDATE locales_creature SET name_loc1='헬쿨라' WHERE entry=48129; /* name: Helcular */
+UPDATE locales_creature SET name_loc1='장군 토르그이조그' WHERE entry=48133; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc1='말퓨리온 스톰레이지' WHERE entry=48134; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc1='티란데 위스퍼윈드' WHERE entry=48135; /* name: Tyrande Whisperwind */
 UPDATE locales_creature SET name_loc1='초갈' WHERE entry=48142; /* name: Cho\'gall */
@@ -28405,10 +28525,12 @@ UPDATE locales_creature SET name_loc1='크륵큭스' WHERE entry=48178; /* name:
 UPDATE locales_creature SET name_loc1='미명껍질달팽이' WHERE entry=48182; /* name: Shimmershell Snail */
 UPDATE locales_creature SET name_loc1='고래상어' WHERE entry=48185; /* name: Whale Shark */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=48186; /* name: Harrison Jones */
+UPDATE locales_creature SET name_loc1='뼈 주술막대' WHERE entry=48208; /* name: The Rattle of Bones */
 UPDATE locales_creature SET name_loc1='반다르 스톰파이크',subname_loc1='스톰파이크 사령관' WHERE entry=48219; /* name: Vanndar Stormpike */ /* subname: Stormpike General */
 UPDATE locales_creature SET name_loc1='부대장 발린다 스톤하스',subname_loc1='스톰파이크 부대장' WHERE entry=48223; /* name: Captain Balinda Stonehearth */ /* subname: Stormpike Captain */
 UPDATE locales_creature SET name_loc1='코볼트 채굴꾼' WHERE entry=48229; /* name: Kobold Digger */
 UPDATE locales_creature SET name_loc1='새끼 아르마딜로' WHERE entry=48242; /* name: Armadillo Pup */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=48246; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='골룩 록피스트',subname_loc1='호드 사절' WHERE entry=48264; /* name: Golluck Rockfist */ /* subname: Horde Ambassador */
 UPDATE locales_creature SET name_loc1='로리엘 트루블레이드',subname_loc1='얼라이언스 사절' WHERE entry=48265; /* name: Lauriel Trueblade */ /* subname: Alliance Ambassador */
 UPDATE locales_creature SET name_loc1='데피아즈단 대포' WHERE entry=48266; /* name: Defias Cannon */
@@ -28418,10 +28540,16 @@ UPDATE locales_creature SET name_loc1='고블린 땜장이' WHERE entry=48280; /
 UPDATE locales_creature SET name_loc1='연한 살점' WHERE entry=48297; /* name: Mystery Meat */
 UPDATE locales_creature SET name_loc1='올림머리' WHERE entry=48301; /* name: Bun */
 UPDATE locales_creature SET name_loc1='훈련용 허수아비' WHERE entry=48304; /* name: Training Dummy */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=48306; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc1='장군 토르그이조그' WHERE entry=48316; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc1='태초의 거수' WHERE entry=48320; /* name: Primordial Behemoth */
+UPDATE locales_creature SET name_loc1='수렁진흙탕 총알로켓' WHERE entry=48324; /* name: The Bogpaddle Bullet */
 UPDATE locales_creature SET name_loc1='속박 풀린 소용돌이' WHERE entry=48334; /* name: Dust Devil */
 UPDATE locales_creature SET name_loc1='크로쉬우스' WHERE entry=48344; /* name: Kroshius */ /* subname: Herald of the Legion\'s Fall */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=48345; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=48346; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='쿠르드란 와일드해머' WHERE entry=48365; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc1='장군 토르그이조그' WHERE entry=48372; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc1='지축을 울리는 바위돌이' WHERE entry=48376; /* name: Rumbling Rockling */
 UPDATE locales_creature SET name_loc1='휘몰아치는 폭풍돌이' WHERE entry=48377; /* name: Swirling Stormling */
 UPDATE locales_creature SET name_loc1='소용돌이치는 파도돌이' WHERE entry=48378; /* name: Whirling Waveling */
@@ -28492,6 +28620,7 @@ UPDATE locales_creature SET name_loc1='천상의 불꽃' WHERE entry=48907; /* n
 UPDATE locales_creature SET name_loc1='새끼 와일드해머 그리핀' WHERE entry=48915; /* name: Wildhammer Gryphon Hatchling */
 UPDATE locales_creature SET name_loc1='고드름' WHERE entry=48916; /* name: Icicle */
 UPDATE locales_creature SET name_loc1='고산토끼' WHERE entry=48935; /* name: Alpine Hare */
+UPDATE locales_creature SET name_loc1='수렁진흙탕 총알로켓' WHERE entry=48950; /* name: The Bogpaddle Bullet */
 UPDATE locales_creature SET name_loc1='방사능에 노출된 바퀴' WHERE entry=48956; /* name: Irradiated Roach */
 UPDATE locales_creature SET name_loc1='불꽃' WHERE entry=48957; /* name: Fire Blossom */
 UPDATE locales_creature SET name_loc1='얼음꽃' WHERE entry=48958; /* name: Frost Blossom */
@@ -28503,7 +28632,9 @@ UPDATE locales_creature SET name_loc1='부대장 갈반가르',subname_loc1='서
 UPDATE locales_creature SET name_loc1='작은 혈암거미' WHERE entry=48982; /* name: Tiny Shale Spider */
 UPDATE locales_creature SET name_loc1='용천수' WHERE entry=48983; /* name: Geyser */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]경주진행자 크롱크라이더' WHERE entry=48996; /* name: Race Master Kronkrider */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=49013; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='클리프 썬더마' WHERE entry=49015; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=49017; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc1='쿠르드란 와일드해머' WHERE entry=49026; /* name: Kurdran Wildhammer */
 UPDATE locales_creature SET name_loc1='와일드해머 그리핀' WHERE entry=49031; /* name: Wildhammer Gryphon */
 UPDATE locales_creature SET name_loc1='물통' WHERE entry=49036; /* name: Water Barrel */
@@ -28513,6 +28644,7 @@ UPDATE locales_creature SET name_loc1='헬릭스의 대원' WHERE entry=49136; /
 UPDATE locales_creature SET name_loc1='헬릭스의 대원' WHERE entry=49137; /* name: Helix\' Crew */
 UPDATE locales_creature SET name_loc1='헬릭스의 대원' WHERE entry=49138; /* name: Helix\' Crew */
 UPDATE locales_creature SET name_loc1='헬릭스의 대원' WHERE entry=49139; /* name: Helix\' Crew */
+UPDATE locales_creature SET name_loc1='여유만만호' WHERE entry=49147; /* name: Old Puttery */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=49151; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]포비드',subname_loc1='경주 해설가' WHERE entry=49157; /* name: Fobeed */ /* subname: Race Announcer */
 UPDATE locales_creature SET name_loc1='[4.x 미사용]주주비',subname_loc1='경주 해설가' WHERE entry=49158; /* name: Zuzubee */ /* subname: Race Announcer */
@@ -28534,11 +28666,15 @@ UPDATE locales_creature SET name_loc1='야생 그리핀' WHERE entry=49251; /* n
 UPDATE locales_creature SET name_loc1='맹독 촉수' WHERE entry=49264; /* name: Bloodvenom */
 UPDATE locales_creature SET name_loc1='수정 조각' WHERE entry=49267; /* name: Crystal Shard */
 UPDATE locales_creature SET name_loc1='쿠르드란 와일드해머' WHERE entry=49270; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=49276; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='클리프 썬더마' WHERE entry=49278; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=49314; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc1='브란 브론즈비어드' WHERE entry=49351; /* name: Brann Bronzebeard */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=49353; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc1='쿠르드란 와일드해머' WHERE entry=49358; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc1='에오인 둔왈트' WHERE entry=49364; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc1='클리프 썬더마' WHERE entry=49367; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc1='도넬리 둔왈트' WHERE entry=49369; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc1='크라즈작업장 비행선' WHERE entry=49373; /* name: Krazzworks Zeppelin */
 UPDATE locales_creature SET name_loc1='소용돌이치는 증기' WHERE entry=49388; /* name: Swirling Vapor */
 UPDATE locales_creature SET name_loc1='부츠' WHERE entry=49411; /* name: Boots */
@@ -28554,6 +28690,7 @@ UPDATE locales_creature SET name_loc1='불기둥' WHERE entry=49432; /* name: Fl
 UPDATE locales_creature SET name_loc1='핑클 아인혼' WHERE entry=49444; /* name: Finkle Einhorn */
 UPDATE locales_creature SET name_loc1='이세라' WHERE entry=49446; /* name: Ysera */
 UPDATE locales_creature SET name_loc1='점화' WHERE entry=49447; /* name: Ignition */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=49448; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='골드린' WHERE entry=49450; /* name: Goldrinn */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=49459; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc1='해리슨 존스' WHERE entry=49460; /* name: Harrison Jones */
@@ -28678,6 +28815,7 @@ UPDATE locales_creature SET name_loc1='셀레나' WHERE entry=50355; /* name: Se
 UPDATE locales_creature SET name_loc1='애티스' WHERE entry=50358; /* name: Aethis */
 UPDATE locales_creature SET name_loc1='어골락스' WHERE entry=50359; /* name: Urgolax */
 UPDATE locales_creature SET name_loc1='데스윙',subname_loc1='죽음의 위상' WHERE entry=50369; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc1='아라드네' WHERE entry=50372; /* name: Aradne */
 UPDATE locales_creature SET name_loc1='격노한 대지' WHERE entry=50376; /* name: Angered Earth */
 UPDATE locales_creature SET name_loc1='랜드로의 꼬마 해체자' WHERE entry=50384; /* name: Landro\'s Lil\' XT */
 UPDATE locales_creature SET name_loc1='속박된 화염' WHERE entry=50417; /* name: Bound Flames */
@@ -28737,6 +28875,7 @@ UPDATE locales_creature SET name_loc1='눈먼감시자 오도' WHERE entry=50857
 UPDATE locales_creature SET name_loc1='아른이' WHERE entry=50859; /* name: Glimmer */
 UPDATE locales_creature SET name_loc1='도살자 칼날발톱' WHERE entry=50869; /* name: Razorclaw the Butcher */
 UPDATE locales_creature SET name_loc1='톱니어' WHERE entry=50911; /* name: Sharptooth */
+UPDATE locales_creature SET name_loc1='왈 할머니' WHERE entry=50913; /* name: Grandma Wahl */
 UPDATE locales_creature SET name_loc1='늑대 유령' WHERE entry=50923; /* name: Lupine Spectre */
 UPDATE locales_creature SET name_loc1='군마' WHERE entry=50935; /* name: Charger */
 UPDATE locales_creature SET name_loc1='울퉁불퉁 구레나룻' WHERE entry=50964; /* name: Chops */
@@ -28978,6 +29117,7 @@ UPDATE locales_creature SET name_loc1='구루바시 광전사' WHERE entry=52077
 UPDATE locales_creature SET name_loc1='와일드해머 보초병' WHERE entry=52084; /* name: Wildhammer Sentry */
 UPDATE locales_creature SET name_loc1='래즈자쉬 살무사' WHERE entry=52085; /* name: Razzashi Adder */
 UPDATE locales_creature SET name_loc1='학카리 의술사' WHERE entry=52086; /* name: Hakkari Witch Doctor */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=52134; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='말퓨리온 스톰레이지' WHERE entry=52135; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc1='구루바시 인간사냥꾼' WHERE entry=52136; /* name: Gurubashi Headhunter */
 UPDATE locales_creature SET name_loc1='부두교 영혼' WHERE entry=52137; /* name: Voodoo Spirit */
@@ -29037,6 +29177,7 @@ UPDATE locales_creature SET name_loc1='크라젝' WHERE entry=52297; /* name: Kr
 UPDATE locales_creature SET name_loc1='얼가딘 경' WHERE entry=52298; /* name: Sir S. J. Erlgadin */
 UPDATE locales_creature SET name_loc1='대사제 베녹시스' WHERE entry=52301; /* name: High Priest Venoxis */
 UPDATE locales_creature SET name_loc1='오간' WHERE entry=52304; /* name: Ohgan */
+UPDATE locales_creature SET name_loc1='모티' WHERE entry=52313; /* name: Mauti */
 UPDATE locales_creature SET name_loc1='독한 눈물의 웅덩이' WHERE entry=52320; /* name: Pool of Acrid Tears */
 UPDATE locales_creature SET name_loc1='황폐의 격돌' WHERE entry=52324; /* name: Devastating Slam */
 UPDATE locales_creature SET name_loc1='구루바시 흡혈전사' WHERE entry=52325; /* name: Gurubashi Blood Drinker */
@@ -29053,6 +29194,7 @@ UPDATE locales_creature SET name_loc1='투자개발회사 인부' WHERE entry=52
 UPDATE locales_creature SET name_loc1='투자개발회사 용병' WHERE entry=52357; /* name: Venture Co. Mercenary */
 UPDATE locales_creature SET name_loc1='오쿠타르' WHERE entry=52363; /* name: Occu\'thar */
 UPDATE locales_creature SET name_loc1='용 연' WHERE entry=52367; /* name: Dragon Kite */
+UPDATE locales_creature SET name_loc1='모티' WHERE entry=52372; /* name: Mauti */
 UPDATE locales_creature SET name_loc1='새끼 표범' WHERE entry=52374; /* name: Panther Cub */
 UPDATE locales_creature SET name_loc1='흙더미' WHERE entry=52378; /* name: Dirt Mound */
 UPDATE locales_creature SET name_loc1='대여사제 킬나라' WHERE entry=52390; /* name: High Priestess Kilnara */
@@ -29112,6 +29254,8 @@ UPDATE locales_creature SET name_loc1='아마니 납치새' WHERE entry=52638; /
 UPDATE locales_creature SET name_loc1='잔달라 머리사냥꾼' WHERE entry=52667; /* name: Zandalar Headshrinker */
 UPDATE locales_creature SET name_loc1='마토클로' WHERE entry=52669; /* name: Matoclaw */
 UPDATE locales_creature SET name_loc1='베스틸락' WHERE entry=52675; /* name: Beth\'tilac */ /* subname: The Red Widow */
+UPDATE locales_creature SET name_loc1='차발' WHERE entry=52684; /* name: Chabal */
+UPDATE locales_creature SET name_loc1='메이위키' WHERE entry=52685; /* name: Maywiki */
 UPDATE locales_creature SET name_loc1='하이잘 새끼 곰' WHERE entry=52688; /* name: Hyjal Bear Cub */
 UPDATE locales_creature SET name_loc1='천리안 알타빔' WHERE entry=52689; /* name: Al\'tabim the All-Seeing */
 UPDATE locales_creature SET name_loc1='장님 팔디르' WHERE entry=52690; /* name: Falthir the Sightless */
@@ -29155,6 +29299,7 @@ UPDATE locales_creature SET name_loc1='데스윙' WHERE entry=52869; /* name: De
 UPDATE locales_creature SET name_loc1='아기 채찍꼬리랩터' WHERE entry=52877; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc1='아기 채찍꼬리랩터' WHERE entry=52894; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc1='모르디스 위스퍼윙',subname_loc1='갈퀴발톱의 드루이드' WHERE entry=52901; /* name: Morthis Whisperwing */ /* subname: Druid of the Talon */
+UPDATE locales_creature SET name_loc1='사령관 제로드 섀도송' WHERE entry=52902; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc1='티살리 크로우',subname_loc1='갈퀴발톱의 드루이드' WHERE entry=52907; /* name: Thisalee Crow */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc1='델드렌 레이븐엘름' WHERE entry=52921; /* name: Deldren Ravenelm */
 UPDATE locales_creature SET name_loc1='볼진' WHERE entry=52924; /* name: Vol\'jin */
@@ -29247,9 +29392,11 @@ UPDATE locales_creature SET name_loc1='용의 분노 - 타렉고사의 안식' W
 UPDATE locales_creature SET name_loc1='타린드렐라' WHERE entry=53424; /* name: Tarindrella */
 UPDATE locales_creature SET name_loc1='브롤 베어맨틀' WHERE entry=53426; /* name: Broll Bearmantle */
 UPDATE locales_creature SET name_loc1='타사리안' WHERE entry=53427; /* name: Thassarian */
+UPDATE locales_creature SET name_loc1='존 J. 키샨' WHERE entry=53428; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc1='"의사" 코그스핀' WHERE entry=53429; /* name: "Doc" Cogspin */
 UPDATE locales_creature SET name_loc1='복제된 환영' WHERE entry=53438; /* name: Mirror Image */
 UPDATE locales_creature SET name_loc1='킨윌레이' WHERE entry=53441; /* name: Kin\'weelay */
+UPDATE locales_creature SET name_loc1='여사제 후랄라' WHERE entry=53442; /* name: Priestess Hu\'rala */
 UPDATE locales_creature SET name_loc1='투락 룬토템' WHERE entry=53447; /* name: Turak Runetotem */
 UPDATE locales_creature SET name_loc1='녹색 풍선' WHERE entry=53453; /* name: Green Balloon */
 UPDATE locales_creature SET name_loc1='노란색 풍선' WHERE entry=53454; /* name: Yellow Balloon */
@@ -29259,7 +29406,7 @@ UPDATE locales_creature SET name_loc1='다크문 풍선' WHERE entry=53457; /* n
 UPDATE locales_creature SET name_loc1='타오르는 열기' WHERE entry=53473; /* name: Blazing Heat */
 UPDATE locales_creature SET name_loc1='티살리 크로우' WHERE entry=53481; /* name: Thisalee Crow */
 UPDATE locales_creature SET name_loc1='타오르는 유성' WHERE entry=53489; /* name: Molten Meteor */
-UPDATE locales_creature SET name_loc1='발레록' WHERE entry=53494; /* name: Baleroc */ /* subname: The Gatekeeper */
+UPDATE locales_creature SET name_loc1='발레록',subname_loc1='문지기' WHERE entry=53494; /* name: Baleroc */ /* subname: The Gatekeeper */
 UPDATE locales_creature SET name_loc1='타오르는 바위' WHERE entry=53496; /* name: Molten Boulder */
 UPDATE locales_creature SET name_loc1='타오르는 바위' WHERE entry=53497; /* name: Molten Boulder */
 UPDATE locales_creature SET name_loc1='타오르는 바위' WHERE entry=53498; /* name: Molten Boulder */
@@ -29274,6 +29421,7 @@ UPDATE locales_creature SET name_loc1='통통한 용암 벌레' WHERE entry=5352
 UPDATE locales_creature SET name_loc1='아그라' WHERE entry=53536; /* name: Aggra */
 UPDATE locales_creature SET name_loc1='스랄' WHERE entry=53537; /* name: Thrall */
 UPDATE locales_creature SET name_loc1='타오르는 힘' WHERE entry=53554; /* name: Blazing Power */
+UPDATE locales_creature SET name_loc1='여사제 타알리아' WHERE entry=53556; /* name: Priestess Thaalia */
 UPDATE locales_creature SET name_loc1='페더문 파수꾼' WHERE entry=53562; /* name: Feathermoon Sentinel */
 UPDATE locales_creature SET name_loc1='달숲 집행자' WHERE entry=53563; /* name: Moonglade Warden */
 UPDATE locales_creature SET name_loc1='래즈자쉬 독사' WHERE entry=53569; /* name: Razzashi Serpent */
@@ -29375,7 +29523,7 @@ UPDATE locales_creature SET name_loc1='화산' WHERE entry=54071; /* name: Volca
 UPDATE locales_creature SET name_loc1='사나스 임요' WHERE entry=54072; /* name: Sanath Lim-yo */ /* subname: Servant of Archmage Xylem */
 UPDATE locales_creature SET name_loc1='속박의 뿌리' WHERE entry=54074; /* name: Entrapping Roots */
 UPDATE locales_creature SET name_loc1='라그나로스' WHERE entry=54081; /* name: Ragnaros */
-UPDATE locales_creature SET name_loc1='발레록' WHERE entry=54085; /* name: Baleroc */ /* subname: The Gatekeeper */
+UPDATE locales_creature SET name_loc1='발레록',subname_loc1='문지기' WHERE entry=54085; /* name: Baleroc */ /* subname: The Gatekeeper */
 UPDATE locales_creature SET name_loc1='베스틸락' WHERE entry=54089; /* name: Beth\'tilac */ /* subname: The Red Widow */
 UPDATE locales_creature SET name_loc1='군주 라이올리스' WHERE entry=54093; /* name: Lord Rhyolith */
 UPDATE locales_creature SET name_loc1='알리스라조르' WHERE entry=54097; /* name: Alysrazor */
@@ -29676,6 +29824,7 @@ UPDATE locales_creature SET name_loc1='지옥사냥개' WHERE entry=56001; /* na
 UPDATE locales_creature SET name_loc1='지옥수호병' WHERE entry=56002; /* name: Felguard */
 UPDATE locales_creature SET name_loc1='크로 스레드스트롱' WHERE entry=56025; /* name: Cro Threadstrong */
 UPDATE locales_creature SET name_loc1='다마리' WHERE entry=56026; /* name: Darmari */
+UPDATE locales_creature SET name_loc1='폭풍전령 엘리린' WHERE entry=56027; /* name: Stormherald Eljrrin */
 UPDATE locales_creature SET name_loc1='다크문 아기 호랑이' WHERE entry=56031; /* name: Darkmoon Cub */
 UPDATE locales_creature SET name_loc1='지옥불정령' WHERE entry=56036; /* name: Infernal */
 UPDATE locales_creature SET name_loc1='비전 구슬' WHERE entry=56077; /* name: Arcane Sphere */
