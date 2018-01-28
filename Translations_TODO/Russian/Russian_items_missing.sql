@@ -24,7 +24,6 @@ UPDATE locales_item SET name_loc8='Formula: Imbue Chest - Minor Spirit',descript
 UPDATE locales_item SET description_loc8='Teaches you how to make an Ornate Mithril Breastplate.' WHERE entry=7986; /* description: Teaches you how to make an Ornate Mithril Breastplate. */
 UPDATE locales_item SET description_loc8='Teaches you how to make an Ornate Mithril Helm.' WHERE entry=7987; /* description: Teaches you how to make an Ornate Mithril Helm. */
 UPDATE locales_item SET description_loc8='Teaches you how to make Ornate Mithril Boots.' WHERE entry=7988; /* description: Teaches you how to make Ornate Mithril Boots. */
-UPDATE locales_item SET description_loc8='Scooby-dooby-doo!' WHERE entry=8243; /* description: Scooby-dooby-doo! */
 UPDATE locales_item SET name_loc8='Horn of the Skeletal Mount',description_loc8='Teaches you how to summon this mount.' WHERE entry=8583; /* name: Horn of the Skeletal Mount */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc8='Old Whistle of the Obsidian Raptor',description_loc8='Teaches you how to summon this mount.' WHERE entry=8590; /* name: Old Whistle of the Obsidian Raptor */ .* description: Teaches you how to summon this mount. */
 UPDATE locales_item SET name_loc8='Reins of the Leopard',description_loc8='Teaches you how to summon this mount.' WHERE entry=8633; /* name: Reins of the Leopard */ .* description: Teaches you how to summon this mount. */
@@ -142,6 +141,9 @@ UPDATE locales_item SET description_loc8='Teaches you how to cut a Deadly Pyrest
 UPDATE locales_item SET description_loc8='Teaches you how to cut a Regal Seaspray Emerald.' WHERE entry=32309; /* description: Teaches you how to cut a Regal Seaspray Emerald. */
 UPDATE locales_item SET name_loc8='Monster - Axe -Doomguard Punisher',description_loc8='This battle axe appears other-worldly...' WHERE entry=32743; /* name: Monster - Axe -Doomguard Punisher */ .* description: This battle axe appears other-worldly... */
 UPDATE locales_item SET description_loc8='Who knows what\'s inside?' WHERE entry=32777; /* description: Who knows what\'s inside? */
+UPDATE locales_item SET description_loc8='hides ears for testing' WHERE entry=33073; /* description: hides ears for testing */
+UPDATE locales_item SET description_loc8='hides eyes for testing' WHERE entry=33074; /* description: hides eyes for testing */
+UPDATE locales_item SET description_loc8='hides nose and ears for testing' WHERE entry=33075; /* description: hides nose and ears for testing */
 UPDATE locales_item SET description_loc8='Teaches you how to permanently enchant a cloak to increase Agility and dodge rating by 8.' WHERE entry=33149; /* description: Teaches you how to permanently enchant a cloak to increase Agility and dodge rating by 8. */
 UPDATE locales_item SET description_loc8='Teaches you how to permanently enchant a melee weapon to occasionally grant you 120 critical strike rating. Requires a level 60 or higher item.' WHERE entry=33307; /* description: Teaches you how to permanently enchant a melee weapon to occasionally grant you 120 critical strike rating. Requires a level 60 or higher item. */
 UPDATE locales_item SET name_loc8='Forceful Earthstorm Diamond',description_loc8='Only fits in a meta gem slot.' WHERE entry=33633; /* name: Forceful Earthstorm Diamond */ .* description: Only fits in a meta gem slot. */
@@ -225,6 +227,7 @@ UPDATE locales_item SET description_loc8='Teaches you how to cut a Sparkling Dra
 UPDATE locales_item SET description_loc8='Teaches you how to cut a Brilliant Dragon\'s Eye.' WHERE entry=42309; /* description: Teaches you how to cut a Brilliant Dragon\'s Eye. */
 UPDATE locales_item SET description_loc8='Teaches you how to cook a Gigantic Feast. ' WHERE entry=43505; /* description: Teaches you how to cook a Gigantic Feast. */
 UPDATE locales_item SET description_loc8='Teaches you how to cook a Small Feast' WHERE entry=43506; /* description: Teaches you how to cook a Small Feast */
+UPDATE locales_item SET name_loc8='Stamped Identification Tag',description_loc8='867-5309' WHERE entry=43514; /* name: Stamped Identification Tag */ .* description: 867-5309 */
 UPDATE locales_item SET description_loc8='Rarely found when milling Briarthorn, Swiftthistle, Bruiseweed, and Stranglekelp.' WHERE entry=43557; /* description: Rarely found when milling Briarthorn, Swiftthistle, Bruiseweed, and Stranglekelp. */
 UPDATE locales_item SET description_loc8='Rarely found when milling Wild Steelbloom, Grave Moss, Kingsblood, and Liferoot.' WHERE entry=43558; /* description: Rarely found when milling Wild Steelbloom, Grave Moss, Kingsblood, and Liferoot. */
 UPDATE locales_item SET description_loc8='Rarely found when milling Fadeleaf, Goldthorn, Khadgar\'s Whisker, and Wintersbite.' WHERE entry=43559; /* description: Rarely found when milling Fadeleaf, Goldthorn, Khadgar\'s Whisker, and Wintersbite. */
@@ -394,8 +397,6 @@ UPDATE locales_item SET description_loc8='A musty, somewhat hollow taste with a 
 UPDATE locales_item SET description_loc8='You can barely make out the markings on this parchment.' WHERE entry=53053; /* description: You can barely make out the markings on this parchment. */
 UPDATE locales_item SET description_loc8='In memory of lost dreams of being an apprentice.' WHERE entry=53057; /* description: In memory of lost dreams of being an apprentice. */
 UPDATE locales_item SET description_loc8='This was unbelievably hard to find.' WHERE entry=53245; /* description: This was unbelievably hard to find. */
-UPDATE locales_item SET description_loc8='Ick.' WHERE entry=53434; /* description: Ick. */
-UPDATE locales_item SET description_loc8='Ouch.' WHERE entry=53438; /* description: Ouch. */
 UPDATE locales_item SET description_loc8='Shoots pebbles.' WHERE entry=53449; /* description: Shoots pebbles. */
 UPDATE locales_item SET name_loc8='Gnomeregan Overcloak',description_loc8='Waterproof, stain-proof, one size fits all. Hooray, science!' WHERE entry=53476; /* name: Gnomeregan Overcloak */ .* description: Waterproof, stain-proof, one size fits all. Hooray, science! */
 UPDATE locales_item SET description_loc8='Teaches you how to craft a Bloodthirsty Embersilk Cowl.' WHERE entry=54593; /* description: Teaches you how to craft a Bloodthirsty Embersilk Cowl. */
@@ -422,9 +423,7 @@ UPDATE locales_item SET description_loc8='That\'s an oxymoron, lad.' WHERE entry
 UPDATE locales_item SET description_loc8='The object buzzes and whirs.' WHERE entry=57935; /* description: The object buzzes and whirs. */
 UPDATE locales_item SET description_loc8='The object buzzes and whirs.' WHERE entry=57954; /* description: The object buzzes and whirs. */
 UPDATE locales_item SET description_loc8='The material is identical to the scraps you found at the Furlbrow murder scene.' WHERE entry=58117; /* description: The material is identical to the scraps you found at the Furlbrow murder scene. */
-UPDATE locales_item SET description_loc8='Whee!' WHERE entry=58216; /* description: Whee! */
 UPDATE locales_item SET description_loc8='You took it.' WHERE entry=58903; /* description: You took it. */
-UPDATE locales_item SET description_loc8='Yum?' WHERE entry=58933; /* description: Yum? */
 UPDATE locales_item SET description_loc8='It\'s not the most practical weapon, but it looks cool.' WHERE entry=58973; /* description: It\'s not the most practical weapon, but it looks cool. */
 UPDATE locales_item SET description_loc8='...if your entire purpose is to kill things.' WHERE entry=58975; /* description: ...if your entire purpose is to kill things. */
 UPDATE locales_item SET description_loc8='Though underappreciated, this blade cuts through water.' WHERE entry=59158; /* description: Though underappreciated, this blade cuts through water. */
@@ -454,6 +453,7 @@ UPDATE locales_item SET description_loc8='The earth begins to rumble and your fo
 UPDATE locales_item SET description_loc8='Winds, earth, and storm may break upon your form, but your will alone will let you stand on. -Felsen the Enduring' WHERE entry=62351; /* description: Winds, earth, and storm may break upon your form, but your will alone will let you stand on. -Felsen the Enduring */
 UPDATE locales_item SET description_loc8='All souls reveal their nature when trusted, even when trusting is undeserved. -Diamant the Patient' WHERE entry=62352; /* description: All souls reveal their nature when trusted, even when trusting is undeserved. -Diamant the Patient */
 UPDATE locales_item SET name_loc8='Sheepdog Collar',description_loc8='That\'ll do.' WHERE entry=62389; /* name: Sheepdog Collar */ .* description: That\'ll do. */
+UPDATE locales_item SET name_loc8='Lenore\'s Pendant',description_loc8='Nevermore.' WHERE entry=62507; /* name: Lenore\'s Pendant */ .* description: Nevermore. */
 UPDATE locales_item SET description_loc8='Teaches you how to summon Lil\' Deathwing.' WHERE entry=62540; /* description: Teaches you how to summon Lil\' Deathwing. */
 UPDATE locales_item SET description_loc8='Teaches you how to cook a Broiled Dragon Feast.' WHERE entry=62799; /* description: Teaches you how to cook a Broiled Dragon Feast. */
 UPDATE locales_item SET description_loc8='Teaches you how to cook a Seafood Magnifique Feast.' WHERE entry=62800; /* description: Teaches you how to cook a Seafood Magnifique Feast. */
@@ -899,7 +899,9 @@ UPDATE locales_item SET description_loc8='Teaches you how to transmute a Lava Co
 UPDATE locales_item SET description_loc8='Teaches you how to transmute a Shadow Spinel.' WHERE entry=71959; /* description: Teaches you how to transmute a Shadow Spinel. */
 UPDATE locales_item SET description_loc8='Teaches you how to transmute a Queen\'s Garnet.' WHERE entry=71960; /* description: Teaches you how to transmute a Queen\'s Garnet. */
 UPDATE locales_item SET description_loc8='Teaches you how to create Rhinestone Sunglasses.' WHERE entry=71965; /* description: Teaches you how to create Rhinestone Sunglasses. */
+UPDATE locales_item SET description_loc8='Workmanship worthy of royalty!' WHERE entry=71967; /* description: Workmanship worthy of royalty! */
 UPDATE locales_item SET description_loc8='Bits of metal blown off steam tonks in combat.' WHERE entry=71968; /* description: Bits of metal blown off steam tonks in combat. */
+UPDATE locales_item SET description_loc8='Freshly-penned words spell out the future for those who consult Sayge.' WHERE entry=71974; /* description: Freshly-penned words spell out the future for those who consult Sayge. */
 UPDATE locales_item SET description_loc8='Somebody probably found this in a dungeon and decided his current weapon was better.' WHERE entry=72018; /* description: Somebody probably found this in a dungeon and decided his current weapon was better. */
 UPDATE locales_item SET description_loc8='The exact contents of this blend of herbs is only known to members of the Darkmoon Faire.' WHERE entry=72046; /* description: The exact contents of this blend of herbs is only known to members of the Darkmoon Faire. */
 UPDATE locales_item SET description_loc8='A jewelcrafter might be able to turn these bits of broken glass into something beautiful.' WHERE entry=72052; /* description: A jewelcrafter might be able to turn these bits of broken glass into something beautiful. */

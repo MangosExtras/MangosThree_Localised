@@ -3,7 +3,6 @@ SET NAMES 'utf8';
 UPDATE locales_gossip_menu_option SET option_text_loc8='Bring me back to life' WHERE menu_id=0 AND id=4; /* option_text: Bring me back to life */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Bring me back to life' WHERE menu_id=0 AND id=5; /* option_text: Bring me back to life */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Show me my bank' WHERE menu_id=0 AND id=7; /* option_text: Show me my bank */
-UPDATE locales_gossip_menu_option SET option_text_loc8='Auction!' WHERE menu_id=0 AND id=11; /* option_text: Auction! */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Can you tell me about this shard?' WHERE menu_id=21 AND id=1; /* option_text: Can you tell me about this shard? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='[PH] Get E.C.A.C.' WHERE menu_id=524 AND id=0; /* option_text: [PH] Get E.C.A.C. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='[PH] Get Thieves\' Tools' WHERE menu_id=524 AND id=1; /* option_text: [PH] Get Thieves\' Tools */
@@ -19,7 +18,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='You will have to excuse 
 UPDATE locales_gossip_menu_option SET option_text_loc8='I lost Spectral Essence.' WHERE menu_id=3310 AND id=1; /* option_text: I lost Spectral Essence. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Do you know where I can find Half Pendant of Aquatic Agility?' WHERE menu_id=4041 AND id=1; /* option_text: Do you know where I can find Half Pendant of Aquatic Agility? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Do you know where I can find Half Pendant of Aquatic Endurance?' WHERE menu_id=4042 AND id=1; /* option_text: Do you know where I can find Half Pendant of Aquatic Endurance? */
-UPDATE locales_gossip_menu_option SET option_text_loc8='Ner\'zhul' WHERE menu_id=4764 AND id=2; /* option_text: Ner\'zhul */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Teach me how to create and apply a Runecloth Bandage, Doctor.' WHERE menu_id=5381 AND id=1; /* option_text: Teach me how to create and apply a Runecloth Bandage, Doctor. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Teach me how to create and apply a Heavy Runecloth Bandage, Doctor.' WHERE menu_id=5381 AND id=2; /* option_text: Teach me how to create and apply a Heavy Runecloth Bandage, Doctor. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Teach me how to create and apply a Runecloth Bandage, Doctor.' WHERE menu_id=5382 AND id=1; /* option_text: Teach me how to create and apply a Runecloth Bandage, Doctor. */
@@ -30,7 +28,6 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Learn recipe...' WHERE m
 UPDATE locales_gossip_menu_option SET option_text_loc8='May I have your report?' WHERE menu_id=6690 AND id=0; /* option_text: May I have your report? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='May I have your report?' WHERE menu_id=6691 AND id=0; /* option_text: May I have your report? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='May I have your report?' WHERE menu_id=6692 AND id=0; /* option_text: May I have your report? */
-UPDATE locales_gossip_menu_option SET option_text_loc8='[ph]' WHERE menu_id=6799 AND id=0; /* option_text: [ph] */
 UPDATE locales_gossip_menu_option SET option_text_loc8='You\'re free to go now. The way out is safe.' WHERE menu_id=7176 AND id=0; /* option_text: You\'re free to go now. The way out is safe. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='You\'re free to go now. The way out is safe.' WHERE menu_id=7186 AND id=0; /* option_text: You\'re free to go now. The way out is safe. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Take Blood Knight Insignia' WHERE menu_id=7486 AND id=0; /* option_text: Take Blood Knight Insignia */
@@ -42,13 +39,9 @@ UPDATE locales_gossip_menu_option SET option_text_loc8='Yes... yes, it\'s me.' W
 UPDATE locales_gossip_menu_option SET option_text_loc8='Yes elder. Tell me more of the book.' WHERE menu_id=8617 AND id=0; /* option_text: Yes elder. Tell me more of the book. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='You gave the crew disguises?' WHERE menu_id=8775 AND id=0; /* option_text: You gave the crew disguises? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='I need to fly to the Windrunner. Official Business!' WHERE menu_id=8894 AND id=0; /* option_text: I need to fly to the Windrunner. Official Business! */
-UPDATE locales_gossip_menu_option SET option_text_loc8='"Stash?' WHERE menu_id=9040 AND id=2; /* option_text: "Stash? */
-UPDATE locales_gossip_menu_option SET option_text_loc8='"Stash?' WHERE menu_id=9041 AND id=2; /* option_text: "Stash? */
-UPDATE locales_gossip_menu_option SET option_text_loc8='"Stash?' WHERE menu_id=9042 AND id=2; /* option_text: "Stash? */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Thank you for telling me your story.' WHERE menu_id=9182 AND id=0; /* option_text: Thank you for telling me your story. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='[PH] I want to deliver prisoner.' WHERE menu_id=9184 AND id=0; /* option_text: [PH] I want to deliver prisoner. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='Take me to the Caverns of Time' WHERE menu_id=9205 AND id=0; /* option_text: Take me to the Caverns of Time */
-UPDATE locales_gossip_menu_option SET option_text_loc8='lala' WHERE menu_id=9212 AND id=1; /* option_text: lala */
 UPDATE locales_gossip_menu_option SET option_text_loc8='I would like to build a catapult.' WHERE menu_id=9904 AND id=0; /* option_text: I would like to build a catapult. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='I would like to build a demolisher.' WHERE menu_id=9904 AND id=1; /* option_text: I would like to build a demolisher. */
 UPDATE locales_gossip_menu_option SET option_text_loc8='I would like to build a siege engine.' WHERE menu_id=9904 AND id=2; /* option_text: I would like to build a siege engine. */
