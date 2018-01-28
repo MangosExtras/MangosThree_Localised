@@ -322,10 +322,10 @@ UPDATE locales_creature SET name_loc4='埃林·提亚斯',subname_loc4='奶酪�
 UPDATE locales_creature SET name_loc4='伊莱恩·提亚斯',subname_loc4='奶酪商' WHERE entry=483; /* name: Elaine Trias */ /* subname: Mistress of Cheese */
 UPDATE locales_creature SET name_loc4='黑石前锋' WHERE entry=485; /* name: Blackrock Outrunner */
 UPDATE locales_creature SET name_loc4='萨瑞尔祖恩' WHERE entry=486; /* name: Tharil\'zun */
-UPDATE locales_creature SET name_loc4='守卫者比亚伦' WHERE entry=487; /* name: Protector Bialon */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='守卫者维沃尔' WHERE entry=488; /* name: Protector Weaver */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='守卫者达菲欧德' WHERE entry=489; /* name: Protector Dutfield */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='守卫者加瑞尔' WHERE entry=490; /* name: Protector Gariel */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者比亚伦',subname_loc4='月溪旅' WHERE entry=487; /* name: Protector Bialon */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者维沃尔',subname_loc4='月溪旅' WHERE entry=488; /* name: Protector Weaver */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者达菲欧德',subname_loc4='月溪旅' WHERE entry=489; /* name: Protector Dutfield */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者加瑞尔',subname_loc4='月溪旅' WHERE entry=490; /* name: Protector Gariel */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='军需官刘易斯',subname_loc4='军需官' WHERE entry=491; /* name: Quartermaster Lewis */ /* subname: Quartermaster */
 UPDATE locales_creature SET name_loc4='守夜人布克瑞斯',subname_loc4='守夜人' WHERE entry=494; /* name: Watcher Bukouris */ /* subname: The Night Watch */
 UPDATE locales_creature SET name_loc4='守夜人基佛',subname_loc4='守夜人' WHERE entry=495; /* name: Watcher Keefer */ /* subname: The Night Watch */
@@ -584,8 +584,8 @@ UPDATE locales_creature SET name_loc4='玛尔苏斯中士' WHERE entry=814; /* n
 UPDATE locales_creature SET name_loc4='书呆子赫罗德' WHERE entry=815; /* name: Bookie Herod */
 UPDATE locales_creature SET name_loc4='麦佐斯' WHERE entry=818; /* name: Mai\'Zoth */
 UPDATE locales_creature SET name_loc4='伊尔加拉的仆从' WHERE entry=819; /* name: Servant of Ilgalar */
-UPDATE locales_creature SET name_loc4='哨兵瑞尔' WHERE entry=820; /* name: Scout Riell */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='丹努文队长' WHERE entry=821; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='哨兵瑞尔',subname_loc4='月溪旅' WHERE entry=820; /* name: Scout Riell */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='丹努文队长',subname_loc4='月溪旅' WHERE entry=821; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='森林熊幼崽' WHERE entry=822; /* name: Young Forest Bear */
 UPDATE locales_creature SET name_loc4='迪菲亚掘地工' WHERE entry=824; /* name: Defias Digger */
 UPDATE locales_creature SET name_loc4='守夜人詹恩',subname_loc4='守夜人' WHERE entry=826; /* name: Watcher Jan */ /* subname: The Night Watch */
@@ -625,15 +625,15 @@ UPDATE locales_creature SET name_loc4='斯通纳德寻路者' WHERE entry=865; /
 UPDATE locales_creature SET name_loc4='斯通纳德步兵' WHERE entry=866; /* name: Stonard Grunt */
 UPDATE locales_creature SET name_loc4='斯通纳德制图师' WHERE entry=867; /* name: Stonard Cartographer */
 UPDATE locales_creature SET name_loc4='斯通纳德萨满祭司' WHERE entry=868; /* name: Stonard Shaman */
-UPDATE locales_creature SET name_loc4='守卫者多拉娜' WHERE entry=869; /* name: Protector Dorana */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='守卫者德尼' WHERE entry=870; /* name: Protector Deni */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者多拉娜',subname_loc4='月溪旅' WHERE entry=869; /* name: Protector Dorana */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者德尼',subname_loc4='月溪旅' WHERE entry=870; /* name: Protector Deni */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='盐鳞战士' WHERE entry=871; /* name: Saltscale Warrior */
 UPDATE locales_creature SET name_loc4='盐鳞智者' WHERE entry=873; /* name: Saltscale Oracle */
-UPDATE locales_creature SET name_loc4='守卫者科瑞罗' WHERE entry=874; /* name: Protector Korelor */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者科瑞罗',subname_loc4='月溪旅' WHERE entry=874; /* name: Protector Korelor */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='盐鳞首领' WHERE entry=875; /* name: Saltscale Tide Lord */
-UPDATE locales_creature SET name_loc4='守卫者雷克' WHERE entry=876; /* name: Protector Leick */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='守卫者雷克',subname_loc4='月溪旅' WHERE entry=876; /* name: Protector Leick */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='盐鳞强盗' WHERE entry=877; /* name: Saltscale Forager */
-UPDATE locales_creature SET name_loc4='哨兵加里安' WHERE entry=878; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='哨兵加里安',subname_loc4='月溪旅' WHERE entry=878; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='盐鳞猎人' WHERE entry=879; /* name: Saltscale Hunter */
 UPDATE locales_creature SET name_loc4='埃尔兰·杜德摩尔' WHERE entry=880; /* name: Erlan Drudgemoor */
 UPDATE locales_creature SET name_loc4='苏伦娜·凯尔东' WHERE entry=881; /* name: Surena Caledon */
@@ -1184,6 +1184,7 @@ UPDATE locales_creature SET name_loc4='赞吉尔猎人' WHERE entry=1489; /* nam
 UPDATE locales_creature SET name_loc4='赞吉尔巫医' WHERE entry=1490; /* name: Zanzil Witch Doctor */
 UPDATE locales_creature SET name_loc4='赞吉尔纳迦' WHERE entry=1491; /* name: Zanzil Naga */
 UPDATE locales_creature SET name_loc4='高拉什' WHERE entry=1492; /* name: Gorlash */
+UPDATE locales_creature SET name_loc4='切割者摩卡什' WHERE entry=1493; /* name: Mok\'rash the Cleaver */
 UPDATE locales_creature SET name_loc4='奈古拉什' WHERE entry=1494; /* name: Negolash */
 UPDATE locales_creature SET name_loc4='亡灵卫兵林奈' WHERE entry=1495; /* name: Deathguard Linnea */
 UPDATE locales_creature SET name_loc4='亡灵卫兵迪林格尔' WHERE entry=1496; /* name: Deathguard Dillinger */
@@ -4299,7 +4300,7 @@ UPDATE locales_creature SET name_loc4='芬斯维克',subname_loc4='盗贼训练�
 UPDATE locales_creature SET name_loc4='泰努斯·毒芽',subname_loc4='毒药商' WHERE entry=5169; /* name: Tynnus Venomsprout */ /* subname: Shady Dealer */
 UPDATE locales_creature SET name_loc4='霍迪尔·石刃',subname_loc4='铸剑商' WHERE entry=5170; /* name: Hjoldir Stoneblade */ /* subname: Blade Merchant */
 UPDATE locales_creature SET name_loc4='瑟斯哈特',subname_loc4='术士训练师' WHERE entry=5171; /* name: Thistleheart */ /* subname: Warlock Trainer */
-UPDATE locales_creature SET name_loc4='石南草',subname_loc4='术士训练师' WHERE entry=5172; /* name: Briarthorn */ /* subname: Warlock Trainer */
+UPDATE locales_creature SET name_loc4='布瑞尔索恩',subname_loc4='术士训练师' WHERE entry=5172; /* name: Briarthorn */ /* subname: Warlock Trainer */
 UPDATE locales_creature SET name_loc4='亚历山大·考德尔',subname_loc4='术士训练师' WHERE entry=5173; /* name: Alexander Calder */ /* subname: Warlock Trainer */
 UPDATE locales_creature SET name_loc4='宾斯匹德',subname_loc4='工程学训练师' WHERE entry=5174; /* name: Springspindle Fizzlegear */ /* subname: Engineering Trainer */
 UPDATE locales_creature SET name_loc4='考格斯宾',subname_loc4='工程学供应商' WHERE entry=5175; /* name: Gearcutter Cogspinner */ /* subname: Engineering Supplies */
@@ -17244,6 +17245,7 @@ UPDATE locales_creature SET name_loc4='铁符文仆从' WHERE entry=24387; /* na
 UPDATE locales_creature SET name_loc4='牙牙' WHERE entry=24388; /* name: Toothy */
 UPDATE locales_creature SET name_loc4='毒皮' WHERE entry=24389; /* name: Muckbreath */
 UPDATE locales_creature SET name_loc4='先知厄丹' WHERE entry=24390; /* name: Sage Edan */
+UPDATE locales_creature SET name_loc4='老帕特锐' WHERE entry=24391; /* name: Old Puttery */
 UPDATE locales_creature SET name_loc4='雷尼·“招牌微笑”·斯莫',subname_loc4='征服军需官' WHERE entry=24392; /* name: Leeni "Smiley" Smalls */ /* subname: Arena Vendor */
 UPDATE locales_creature SET name_loc4='巨石洛克',subname_loc4='烹饪大师' WHERE entry=24393; /* name: The Rokk */ /* subname: Master of Cooking */
 UPDATE locales_creature SET name_loc4='德里希·宾奇维瑟',subname_loc4='征服军需官' WHERE entry=24394; /* name: Dellix Pinchwhistle */ /* subname: Arena Vendor */
@@ -25923,6 +25925,7 @@ UPDATE locales_creature SET name_loc4='萨尔',subname_loc4='酋长' WHERE entry
 UPDATE locales_creature SET name_loc4='Hardknuckle Charger Proxy' WHERE entry=36189; /* name: Hardknuckle Charger Proxy */
 UPDATE locales_creature SET name_loc4='海湾蟹' WHERE entry=36201; /* name: Crab */
 UPDATE locales_creature SET name_loc4='海湾蟹' WHERE entry=36203; /* name: Crab */
+UPDATE locales_creature SET name_loc4='肥肠' WHERE entry=36206; /* name: Blubbergut */
 UPDATE locales_creature SET name_loc4='亡灵刺客' WHERE entry=36207; /* name: Forsaken Assassin */
 UPDATE locales_creature SET name_loc4='夏拉什·火刃' WHERE entry=36208; /* name: Xerash Fireblade */
 UPDATE locales_creature SET name_loc4='[DND]Northrend Children\'s Week Trigger 2' WHERE entry=36209; /* name: [DND]Northrend Children\'s Week Trigger 2 */
@@ -25964,6 +25967,8 @@ UPDATE locales_creature SET name_loc4='糖棒' WHERE entry=36404; /* name: Candy
 UPDATE locales_creature SET name_loc4='阿格娜' WHERE entry=36418; /* name: Aggra */
 UPDATE locales_creature SET name_loc4='黑铁守卫' WHERE entry=36431; /* name: Dark Iron Guard */
 UPDATE locales_creature SET name_loc4='艾索雷葛斯之魂' WHERE entry=36436; /* name: Spirit of Azuregos */
+UPDATE locales_creature SET name_loc4='薇儿外婆' WHERE entry=36458; /* name: Grandma Wahl */
+UPDATE locales_creature SET name_loc4='薇儿外婆' WHERE entry=36462; /* name: Grandma Wahl */
 UPDATE locales_creature SET name_loc4='糖棒' WHERE entry=36468; /* name: Candy Cane */
 UPDATE locales_creature SET name_loc4='伊克',subname_loc4='科瑞克的奴仆' WHERE entry=36476; /* name: Ick */ /* subname: Krick\'s Minion */
 UPDATE locales_creature SET name_loc4='科瑞克' WHERE entry=36477; /* name: Krick */
@@ -26242,6 +26247,7 @@ UPDATE locales_creature SET name_loc4='Mirror Image Bug Test' WHERE entry=37131;
 UPDATE locales_creature SET name_loc4='伊米亚女武神' WHERE entry=37132; /* name: Ymirjar Battle-Maiden */
 UPDATE locales_creature SET name_loc4='伊米亚战争领主' WHERE entry=37133; /* name: Ymirjar Warlord */
 UPDATE locales_creature SET name_loc4='伊米亚女猎手' WHERE entry=37134; /* name: Ymirjar Huntress */
+UPDATE locales_creature SET name_loc4='探路者鲁娜' WHERE entry=37135; /* name: Nura Pathfinder */
 UPDATE locales_creature SET name_loc4='破天号射手' WHERE entry=37144; /* name: Skybreaker Marksman */
 UPDATE locales_creature SET name_loc4='库卡隆狙击手' WHERE entry=37146; /* name: Kor\'kron Sniper */
 UPDATE locales_creature SET name_loc4='破天号召唤师' WHERE entry=37148; /* name: Skybreaker Summoner */
@@ -26381,6 +26387,7 @@ UPDATE locales_creature SET name_loc4='饥饿的食尸鬼' WHERE entry=37711; /*
 UPDATE locales_creature SET name_loc4='亡语者暗影法师',subname_loc4='诅咒教派' WHERE entry=37712; /* name: Deathwhisper Shadowcaster */ /* subname: Cult of the Damned */
 UPDATE locales_creature SET name_loc4='亡语者拷问者',subname_loc4='诅咒教派' WHERE entry=37713; /* name: Deathwhisper Torturer */ /* subname: Cult of the Damned */
 UPDATE locales_creature SET name_loc4='斯内维尔·拉斯罗凯特',subname_loc4='风险投资公司' WHERE entry=37715; /* name: Snivel Rustrocket */ /* subname: Venture Co. */
+UPDATE locales_creature SET name_loc4='温诺亚·松林' WHERE entry=37717; /* name: Winnoa Pineforest */
 UPDATE locales_creature SET name_loc4='鸦羽先知',subname_loc4='牧师训练师' WHERE entry=37724; /* name: Seer Ravenfeather */ /* subname: Priest Trainer */
 UPDATE locales_creature SET name_loc4='怒骨巫师' WHERE entry=37728; /* name: Wrathbone Sorcerer */
 UPDATE locales_creature SET name_loc4='怒骨掠夺者' WHERE entry=37729; /* name: Wrathbone Reaver */
@@ -26531,6 +26538,7 @@ UPDATE locales_creature SET name_loc4='塔兰·袭月',subname_loc4='猎人护�
 UPDATE locales_creature SET name_loc4='艾兰娜·袭月',subname_loc4='德鲁伊护甲商' WHERE entry=37999; /* name: Alana Moonstrike */ /* subname: Druid Armor */
 UPDATE locales_creature SET name_loc4='Light\'s Vengeance Bunny 2' WHERE entry=38001; /* name: Light\'s Vengeance Bunny 2 */
 UPDATE locales_creature SET name_loc4='鲜血女王兰娜瑟尔' WHERE entry=38004; /* name: Blood-Queen Lana\'thel */
+UPDATE locales_creature SET name_loc4='莫拉亚' WHERE entry=38005; /* name: Moraya */
 UPDATE locales_creature SET name_loc4='皇冠恶霸' WHERE entry=38006; /* name: Crown Hoodlum */
 UPDATE locales_creature SET name_loc4='鲜血宝珠控制器' WHERE entry=38008; /* name: Blood Orb Controller */
 UPDATE locales_creature SET name_loc4='被复活的狂热者',subname_loc4='诅咒教派' WHERE entry=38009; /* name: Reanimated Fanatic */ /* subname: Cult of the Damned */
@@ -26734,6 +26742,7 @@ UPDATE locales_creature SET name_loc4='骨针' WHERE entry=38711; /* name: Bone 
 UPDATE locales_creature SET name_loc4='骨针' WHERE entry=38712; /* name: Bone Spike */
 UPDATE locales_creature SET name_loc4='魔导师赛洛斯' WHERE entry=38716; /* name: Magister Thelos */
 UPDATE locales_creature SET name_loc4='克罗斯彻克教练' WHERE entry=38738; /* name: Coach Crosscheck */ /* subname: The Bilgewater Buccaneers */
+UPDATE locales_creature SET name_loc4='恐须船长' WHERE entry=38749; /* name: Captain Dreadbeard */
 UPDATE locales_creature SET name_loc4='Black Knight Shield Proxy' WHERE entry=38751; /* name: Black Knight Shield Proxy */
 UPDATE locales_creature SET name_loc4='Green Dragon Combat Trigger' WHERE entry=38752; /* name: Green Dragon Combat Trigger */
 UPDATE locales_creature SET name_loc4='污浊者' WHERE entry=38757; /* name: Defile */
@@ -26834,10 +26843,14 @@ UPDATE locales_creature SET name_loc4='被解救的诺莫瑞根撤离者' WHERE 
 UPDATE locales_creature SET name_loc4='大工匠梅卡托克',subname_loc4='侏儒之王' WHERE entry=39271; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
 UPDATE locales_creature SET name_loc4='“怪医”克斯宾',subname_loc4='军医主任' WHERE entry=39273; /* name: "Doc" Cogspin */ /* subname: Surgeon General */
 UPDATE locales_creature SET name_loc4='诺莫瑞根医疗兵' WHERE entry=39275; /* name: Gnomeregan Medic */
+UPDATE locales_creature SET name_loc4='索恩克' WHERE entry=39323; /* name: Thonk */
 UPDATE locales_creature SET name_loc4='末日预言者' WHERE entry=39328; /* name: Doomsayer */
 UPDATE locales_creature SET name_loc4='峭壁巨人' WHERE entry=39339; /* name: Cliff Giant */
 UPDATE locales_creature SET name_loc4='奥格瑞玛平民' WHERE entry=39343; /* name: Orgrimmar Citizen */
 UPDATE locales_creature SET name_loc4='诺莫瑞根预备兵' WHERE entry=39349; /* name: Gnomeregan Trainee */
+UPDATE locales_creature SET name_loc4='西瑟兰尼亚' WHERE entry=39351; /* name: Ghislania */
+UPDATE locales_creature SET name_loc4='高乌·冰角' WHERE entry=39352; /* name: Gaur Icehorn */
+UPDATE locales_creature SET name_loc4='格里斯沃德·汉尼登' WHERE entry=39353; /* name: Griswold Hanniston */
 UPDATE locales_creature SET name_loc4='[DND] Salute Quest Credit Bunny' WHERE entry=39355; /* name: [DND] Salute Quest Credit Bunny */
 UPDATE locales_creature SET name_loc4='[DND] Roar Quest Credit Bunny' WHERE entry=39356; /* name: [DND] Roar Quest Credit Bunny */
 UPDATE locales_creature SET name_loc4='[DND] Dance Quest Credit Bunny' WHERE entry=39361; /* name: [DND] Dance Quest Credit Bunny */
@@ -26907,6 +26920,7 @@ UPDATE locales_creature SET name_loc4='暴风城平民' WHERE entry=39686; /* na
 UPDATE locales_creature SET name_loc4='[DND] Quest Credit Bunny - Move 1' WHERE entry=39691; /* name: [DND] Quest Credit Bunny - Move 1 */
 UPDATE locales_creature SET name_loc4='[DND] Quest Credit Bunny - Move 2' WHERE entry=39692; /* name: [DND] Quest Credit Bunny - Move 2 */
 UPDATE locales_creature SET name_loc4='[DND] Quest Credit Bunny - Move 3' WHERE entry=39695; /* name: [DND] Quest Credit Bunny - Move 3 */
+UPDATE locales_creature SET name_loc4='收集机器人' WHERE entry=39696; /* name: Butcherbot */
 UPDATE locales_creature SET name_loc4='卡尔什·断钢' WHERE entry=39698; /* name: Karsh Steelbender */ /* subname: Twilight Armorer */
 UPDATE locales_creature SET name_loc4='如花' WHERE entry=39700; /* name: Beauty */
 UPDATE locales_creature SET name_loc4='[DND] Quest Credit Bunny - Attack' WHERE entry=39703; /* name: [DND] Quest Credit Bunny - Attack */
@@ -26938,6 +26952,7 @@ UPDATE locales_creature SET name_loc4='教徒艾格塔' WHERE entry=39758; /* na
 UPDATE locales_creature SET name_loc4='反坦克大炮' WHERE entry=39759; /* name: Tankbuster Cannon */
 UPDATE locales_creature SET name_loc4='教徒托卡' WHERE entry=39760; /* name: Cultist Tokka */
 UPDATE locales_creature SET name_loc4='教徒洛卡迦' WHERE entry=39763; /* name: Cultist Rokaga */
+UPDATE locales_creature SET name_loc4='暮光之眼' WHERE entry=39765; /* name: The Eye of Twilight */
 UPDATE locales_creature SET name_loc4='安拉斐特' WHERE entry=39788; /* name: Anraphet */
 UPDATE locales_creature SET name_loc4='Zarithrian Spawn Stalker' WHERE entry=39794; /* name: Zarithrian Spawn Stalker */
 UPDATE locales_creature SET name_loc4='苍穹魔仆' WHERE entry=39795; /* name: Celestial Familiar */
@@ -26971,6 +26986,7 @@ UPDATE locales_creature SET name_loc4='海里昂',subname_loc4='暮光毁灭者'
 UPDATE locales_creature SET name_loc4='死亡之翼',subname_loc4='死亡的化身' WHERE entry=39867; /* name: Deathwing */ /* subname: Aspect of Death */
 UPDATE locales_creature SET name_loc4='埃达尔拉' WHERE entry=39868; /* name: Adarrah */
 UPDATE locales_creature SET name_loc4='Cult Recruitment Credit' WHERE entry=39872; /* name: Cult Recruitment Credit */
+UPDATE locales_creature SET name_loc4='了不起的萨比诺',subname_loc4='大地之环' WHERE entry=39882; /* name: The Great Sambino */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc4='埃达尔拉' WHERE entry=39883; /* name: Adarrah */
 UPDATE locales_creature SET name_loc4='马克·菲尔森' WHERE entry=39885; /* name: Mack Fearsen */
 UPDATE locales_creature SET name_loc4='诺莫瑞根医疗兵' WHERE entry=39888; /* name: Gnomeregan Medic */
@@ -27022,6 +27038,7 @@ UPDATE locales_creature SET name_loc4='流星打击' WHERE entry=40041; /* name:
 UPDATE locales_creature SET name_loc4='流星打击' WHERE entry=40042; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc4='流星打击' WHERE entry=40043; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc4='流星打击' WHERE entry=40044; /* name: Meteor Strike */
+UPDATE locales_creature SET name_loc4='思科瑟什将军' WHERE entry=40051; /* name: General Skessesh */
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=40053; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc4='流星打击' WHERE entry=40055; /* name: Meteor Strike */
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=40060; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
@@ -27048,6 +27065,7 @@ UPDATE locales_creature SET name_loc4='末日预言者' WHERE entry=40124; /* na
 UPDATE locales_creature SET name_loc4='暴风城平民' WHERE entry=40125; /* name: Stormwind Citizen */
 UPDATE locales_creature SET name_loc4='维斯提亚·月矛' WHERE entry=40132; /* name: Vestia Moonspear */
 UPDATE locales_creature SET name_loc4='吞噬' WHERE entry=40135; /* name: Consumption */
+UPDATE locales_creature SET name_loc4='扭曲者维林尼亚斯' WHERE entry=40136; /* name: Verinias the Twisted */
 UPDATE locales_creature SET name_loc4='Stormwind City Guard (Corpse)' WHERE entry=40138; /* name: Stormwind City Guard (Corpse) */
 UPDATE locales_creature SET name_loc4='大德鲁伊范达尔·鹿盔' WHERE entry=40140; /* name: Arch Druid Fandral Staghelm */
 UPDATE locales_creature SET name_loc4='托姆恩的护盾' WHERE entry=40141; /* name: Tormun\'s Shield */
@@ -27056,6 +27074,7 @@ UPDATE locales_creature SET name_loc4='Halion Controller' WHERE entry=40146; /* 
 UPDATE locales_creature SET name_loc4='迦顿男爵' WHERE entry=40147; /* name: Baron Geddon */
 UPDATE locales_creature SET name_loc4='Combat Stalker' WHERE entry=40151; /* name: Combat Stalker */
 UPDATE locales_creature SET name_loc4='鼎鼎有名的佛罗佐',subname_loc4='冰冻宝珠商人' WHERE entry=40160; /* name: Frozo the Renowned */ /* subname: Frozen Orb Trader */
+UPDATE locales_creature SET name_loc4='深水领主金加塔尔' WHERE entry=40161; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc4='火焰旋风' WHERE entry=40164; /* name: Fire Cyclone */
 UPDATE locales_creature SET name_loc4='炽焰角鹰兽' WHERE entry=40165; /* name: Blazing Hippogryph */
 UPDATE locales_creature SET name_loc4='诺莫瑞根步行坦克' WHERE entry=40175; /* name: Gnomeregan Mechano-Tank */
@@ -27182,6 +27201,8 @@ UPDATE locales_creature SET name_loc4='齐尔迪伽',subname_loc4='沃金的鼓�
 UPDATE locales_creature SET name_loc4='扎拉赞恩' WHERE entry=40502; /* name: Zalazane */
 UPDATE locales_creature SET name_loc4='流沙' WHERE entry=40503; /* name: Quicksand */
 UPDATE locales_creature SET name_loc4='Explosion Bunny' WHERE entry=40506; /* name: Explosion Bunny */
+UPDATE locales_creature SET name_loc4='收集机器人' WHERE entry=40508; /* name: Butcherbot */
+UPDATE locales_creature SET name_loc4='深水领主金加塔尔' WHERE entry=40510; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc4='凝霜飞毯' WHERE entry=40533; /* name: Frosty Flying Carpet */
 UPDATE locales_creature SET name_loc4='红玉守护者' WHERE entry=40537; /* name: Ruby Guardian */
 UPDATE locales_creature SET name_loc4='甲虫' WHERE entry=40539; /* name: Beetle */
@@ -27191,6 +27212,7 @@ UPDATE locales_creature SET name_loc4='扎米克' WHERE entry=40556; /* name: Za
 UPDATE locales_creature SET name_loc4='托尔托拉之子' WHERE entry=40557; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc4='暮光新教徒' WHERE entry=40562; /* name: Twilight Initiate */
 UPDATE locales_creature SET name_loc4='傲慢的店主',subname_loc4='新潮服装设计师' WHERE entry=40572; /* name: Haughty Modiste */ /* subname: Fashion Designer */
+UPDATE locales_creature SET name_loc4='硬霸蝎' WHERE entry=40581; /* name: Gargantapid */
 UPDATE locales_creature SET name_loc4='孢子' WHERE entry=40585; /* name: Spore */
 UPDATE locales_creature SET name_loc4='纳兹夏尔女士' WHERE entry=40586; /* name: Lady Naz\'jar */
 UPDATE locales_creature SET name_loc4='迪尔格·奎克里弗',subname_loc4='屠夫' WHERE entry=40589; /* name: Dirge Quikcleave */ /* subname: Butcher */
@@ -27205,6 +27227,8 @@ UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大�
 UPDATE locales_creature SET name_loc4='骑士队长蒂麦尔·塞缇丝',subname_loc4='诺森德护甲军需官' WHERE entry=40606; /* name: Knight-Lieutenant T\'Maire Sydes */ /* subname: Northrend Armor Quartermaster */
 UPDATE locales_creature SET name_loc4='骑士队长蒂麦尔·塞缇丝',subname_loc4='诺森德护甲军需官' WHERE entry=40607; /* name: Knight-Lieutenant T\'Maire Sydes */ /* subname: Northrend Armor Quartermaster */
 UPDATE locales_creature SET name_loc4='[DND] Bunny' WHERE entry=40617; /* name: [DND] Bunny */
+UPDATE locales_creature SET name_loc4='毕业演说' WHERE entry=40618; /* name: Graduation Speech */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=40619; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='血瓣花朵' WHERE entry=40620; /* name: Bloodpetal Blossom */
 UPDATE locales_creature SET name_loc4='血瓣花朵' WHERE entry=40622; /* name: Bloodpetal Blossom */
 UPDATE locales_creature SET name_loc4='星界灵龙' WHERE entry=40624; /* name: Celestial Dragon */
@@ -27244,6 +27268,7 @@ UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大�
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=40746; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc4='马林·诺格弗格' WHERE entry=40763; /* name: Marin Noggenfogger */ /* subname: Baron of Gadgetzan */
 UPDATE locales_creature SET name_loc4='指挥官乌尔索克' WHERE entry=40765; /* name: Commander Ulthok */ /* subname: The Festering Prince */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=40772; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='塞纳留斯' WHERE entry=40773; /* name: Cenarius */
 UPDATE locales_creature SET name_loc4='翡翠幼龙' WHERE entry=40780; /* name: Emerald Drake */
 UPDATE locales_creature SET name_loc4='黑暗裂隙' WHERE entry=40784; /* name: Dark Fissure */
@@ -27265,6 +27290,7 @@ UPDATE locales_creature SET name_loc4='火元素图腾' WHERE entry=40830; /* na
 UPDATE locales_creature SET name_loc4='强力火元素' WHERE entry=40831; /* name: Greater Fire Elemental */ /* subname: Earthen Ring Shaman\'s Guardian */
 UPDATE locales_creature SET name_loc4='黛西',subname_loc4='调酒师' WHERE entry=40832; /* name: Daisy */ /* subname: Bartender */
 UPDATE locales_creature SET name_loc4='红玉龙兽' WHERE entry=40842; /* name: Ruby Drake */
+UPDATE locales_creature SET name_loc4='铸炉之主派伦迪乌斯' WHERE entry=40845; /* name: Forgemaster Pyrendius */
 UPDATE locales_creature SET name_loc4='火墙' WHERE entry=40859; /* name: Fire Wall */
 UPDATE locales_creature SET name_loc4='意识迷雾' WHERE entry=40861; /* name: Mind Fog */
 UPDATE locales_creature SET name_loc4='红玉巨龙' WHERE entry=40870; /* name: Ruby Dragon */
@@ -27289,10 +27315,12 @@ UPDATE locales_creature SET name_loc4='马克·菲尔森' WHERE entry=40983; /* 
 UPDATE locales_creature SET name_loc4='莫希斯·轻翼',subname_loc4='猛禽德鲁伊' WHERE entry=41003; /* name: Morthis Whisperwing */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc4='希萨莉·黑鸦',subname_loc4='猛禽德鲁伊' WHERE entry=41006; /* name: Thisalee Crow */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc4='猛禽德鲁伊' WHERE entry=41008; /* name: Druid of the Talon */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=41025; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='玛法里奥·怒风' WHERE entry=41032; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc4='扭曲之容' WHERE entry=41040; /* name: Twisted Visage */
 UPDATE locales_creature SET name_loc4='混沌爆裂' WHERE entry=41041; /* name: Chaos Blast */
 UPDATE locales_creature SET name_loc4='侏儒技师' WHERE entry=41046; /* name: Gnome Engineer */
+UPDATE locales_creature SET name_loc4='深水领主金加塔尔' WHERE entry=41049; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc4='沙怒饮血者' WHERE entry=41059; /* name: Sandfury Blood Drinker */
 UPDATE locales_creature SET name_loc4='沙怒巫医' WHERE entry=41065; /* name: Sandfury Witch Doctor */
 UPDATE locales_creature SET name_loc4='沙怒暗影猎手' WHERE entry=41066; /* name: Sandfury Shadowhunter */
@@ -27317,6 +27345,7 @@ UPDATE locales_creature SET name_loc4='霜鬃雪行者' WHERE entry=41122; /* na
 UPDATE locales_creature SET name_loc4='勇敢的强生' WHERE entry=41135; /* name: "Plucky" Johnson */
 UPDATE locales_creature SET name_loc4='管理员曼雷克',subname_loc4='蝙蝠管理员' WHERE entry=41142; /* name: Handler Marnlek */ /* subname: Bat Handler */
 UPDATE locales_creature SET name_loc4='虚空搜寻者' WHERE entry=41148; /* name: Void Seeker */
+UPDATE locales_creature SET name_loc4='杜隆格·怒视' WHERE entry=41151; /* name: Drungeld Glowerglare */
 UPDATE locales_creature SET name_loc4='混沌统治' WHERE entry=41168; /* name: Reign of Chaos */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=41172; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc4='瑞兹尼克' WHERE entry=41184; /* name: Riznek */
@@ -27366,6 +27395,7 @@ UPDATE locales_creature SET name_loc4='高地镰爪龙' WHERE entry=41401; /* na
 UPDATE locales_creature SET name_loc4='勘察员维尔加',subname_loc4='探险者协会' WHERE entry=41411; /* name: Prospector Whelgar */ /* subname: Explorers\' League */
 UPDATE locales_creature SET name_loc4='奥莫尔·铁衣' WHERE entry=41412; /* name: Ormer Ironbraid */
 UPDATE locales_creature SET name_loc4='麦琳·石纹',subname_loc4='探险者协会' WHERE entry=41413; /* name: Merrin Rockweaver */ /* subname: Explorers\' League */
+UPDATE locales_creature SET name_loc4='约尔拉·暗网' WHERE entry=41416; /* name: Yorla Darksnare */
 UPDATE locales_creature SET name_loc4='湿地鳄鱼' WHERE entry=41419; /* name: Wetlands Crocolisk */
 UPDATE locales_creature SET name_loc4='拉乌·峭壁信使' WHERE entry=41421; /* name: Rau Cliffrunner */
 UPDATE locales_creature SET name_loc4='蓝腮鱼人' WHERE entry=41425; /* name: Bluegill Murloc */
@@ -27382,6 +27412,7 @@ UPDATE locales_creature SET name_loc4='萨利亚' WHERE entry=41446; /* name: Th
 UPDATE locales_creature SET name_loc4='波兹恩' WHERE entry=41447; /* name: Bor\'zehn */
 UPDATE locales_creature SET name_loc4='纳格泽恩' WHERE entry=41448; /* name: Nag\'zehn */
 UPDATE locales_creature SET name_loc4='斯塔恩',subname_loc4='枪械和弓箭' WHERE entry=41452; /* name: Starn */ /* subname: Gunsmith & Bowyer */
+UPDATE locales_creature SET name_loc4='监督者埃卓凯丝' WHERE entry=41455; /* name: Overseer Idra\'kess */
 UPDATE locales_creature SET name_loc4='峭壁卫兵图林·长角' WHERE entry=41458; /* name: Cliffwatcher Longhorn */
 UPDATE locales_creature SET name_loc4='乱风岗卫士' WHERE entry=41468; /* name: Freewind Brave */
 UPDATE locales_creature SET name_loc4='法力犬' WHERE entry=41474; /* name: Manahound */
@@ -27390,7 +27421,9 @@ UPDATE locales_creature SET name_loc4='雪狼' WHERE entry=41478; /* name: Snow 
 UPDATE locales_creature SET name_loc4='大德鲁伊哈缪尔·符文图腾' WHERE entry=41480; /* name: Arch Druid Hamuul Runetotem */
 UPDATE locales_creature SET name_loc4='绿色守卫者雷希耶尔' WHERE entry=41503; /* name: Rethiel the Greenwarden */
 UPDATE locales_creature SET name_loc4='纳兹夏尔荣誉守卫' WHERE entry=41514; /* name: Naz\'jar Honor Guard */
+UPDATE locales_creature SET name_loc4='约尔拉·暗网' WHERE entry=41524; /* name: Yorla Darksnare */
 UPDATE locales_creature SET name_loc4='声纳脉冲' WHERE entry=41546; /* name: Sonar Pulse */
+UPDATE locales_creature SET name_loc4='杜隆格·怒视' WHERE entry=41553; /* name: Drungeld Glowerglare */
 UPDATE locales_creature SET name_loc4='邪恶的巴尔加拉斯' WHERE entry=41556; /* name: Balgaras the Foul */
 UPDATE locales_creature SET name_loc4='托尔托拉之子' WHERE entry=41557; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc4='斯托菲队长' WHERE entry=41559; /* name: Captain Stoutfist */
@@ -27398,6 +27431,7 @@ UPDATE locales_creature SET name_loc4='熔喉' WHERE entry=41570; /* name: Magma
 UPDATE locales_creature SET name_loc4='快速冻结' WHERE entry=41576; /* name: Flash Freeze */
 UPDATE locales_creature SET name_loc4='托尔托拉之子' WHERE entry=41581; /* name: Child of Tortolla */
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=41600; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
+UPDATE locales_creature SET name_loc4='费里隆·叶生' WHERE entry=41615; /* name: Ferilon Leafborn */
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=41618; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc4='大德鲁伊哈缪尔·符文图腾' WHERE entry=41630; /* name: Arch Druid Hamuul Runetotem */
 UPDATE locales_creature SET name_loc4='塞纳留斯' WHERE entry=41631; /* name: Cenarius */
@@ -27409,6 +27443,7 @@ UPDATE locales_creature SET name_loc4='大主教本尼迪塔斯' WHERE entry=416
 UPDATE locales_creature SET name_loc4='吉安娜·普罗德摩尔',subname_loc4='塞拉摩的统治者' WHERE entry=41710; /* name: Lady Jaina Proudmoore */ /* subname: Ruler of Theramore */
 UPDATE locales_creature SET name_loc4='军团士兵纳兹戈林' WHERE entry=41711; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc4='沙尘旋涡' WHERE entry=41730; /* name: Sand Vortex */
+UPDATE locales_creature SET name_loc4='监督者埃卓凯丝' WHERE entry=41731; /* name: Overseer Idra\'kess */
 UPDATE locales_creature SET name_loc4='瓦里安·乌瑞恩国王',subname_loc4='暴风城的王子' WHERE entry=41735; /* name: King Varian Wrynn */ /* subname: King of Stormwind */
 UPDATE locales_creature SET name_loc4='作战科多兽' WHERE entry=41742; /* name: War Kodo */
 UPDATE locales_creature SET name_loc4='军团士兵纳兹戈林' WHERE entry=41748; /* name: Legionnaire Nazgrim */
@@ -27470,6 +27505,8 @@ UPDATE locales_creature SET name_loc4='侏儒飞行器' WHERE entry=42016; /* na
 UPDATE locales_creature SET name_loc4='暴风城士兵' WHERE entry=42021; /* name: Stormwind Soldier */
 UPDATE locales_creature SET name_loc4='Plague Wagon Green' WHERE entry=42052; /* name: Chemical Wagon */
 UPDATE locales_creature SET name_loc4='纳兹夏尔荣誉守卫' WHERE entry=42065; /* name: Naz\'jar Honor Guard */
+UPDATE locales_creature SET name_loc4='深水领主金加塔尔' WHERE entry=42072; /* name: Fathom-Lord Zin\'jatar */
+UPDATE locales_creature SET name_loc4='深水领主金加塔尔' WHERE entry=42073; /* name: Fathom-Lord Zin\'jatar */
 UPDATE locales_creature SET name_loc4='深水猎手艾金图斯' WHERE entry=42074; /* name: Fathom-Stalker Azjentus */
 UPDATE locales_creature SET name_loc4='深水猎手艾金图斯' WHERE entry=42075; /* name: Fathom-Stalker Azjentus */
 UPDATE locales_creature SET name_loc4='纳兹夏尔女士' WHERE entry=42076; /* name: Lady Naz\'jar */
@@ -27512,6 +27549,7 @@ UPDATE locales_creature SET name_loc4='加尔鲁什·地狱咆哮',subname_loc4=
 UPDATE locales_creature SET name_loc4='加尔鲁什·地狱咆哮',subname_loc4='战歌远征军统帅' WHERE entry=42282; /* name: Garrosh Hellscream */ /* subname: Overlord of the Warsong Offensive */
 UPDATE locales_creature SET name_loc4='沃金' WHERE entry=42283; /* name: Vol\'jin */
 UPDATE locales_creature SET name_loc4='冬狼' WHERE entry=42290; /* name: Winter Wolf */
+UPDATE locales_creature SET name_loc4='卡西姆·夏利姆' WHERE entry=42298; /* name: Kasim Sharim */
 UPDATE locales_creature SET name_loc4='暴风城卫兵' WHERE entry=42304; /* name: Stormwind City Guard */
 UPDATE locales_creature SET name_loc4='北海海怪' WHERE entry=42305; /* name: North Sea Kraken */
 UPDATE locales_creature SET name_loc4='凡尔纳号' WHERE entry=42306; /* name: The Verne */
@@ -27556,6 +27594,8 @@ UPDATE locales_creature SET name_loc4='投网' WHERE entry=42570; /* name: Net *
 UPDATE locales_creature SET name_loc4='凯恩·血蹄',subname_loc4='大酋长' WHERE entry=42600; /* name: Cairne Bloodhoof */ /* subname: High Chieftain */
 UPDATE locales_creature SET name_loc4='雷克萨',subname_loc4='部落的勇士' WHERE entry=42602; /* name: Rexxar */ /* subname: Champion of the Horde */
 UPDATE locales_creature SET name_loc4='火舌图腾' WHERE entry=42605; /* name: Flametongue Totem */
+UPDATE locales_creature SET name_loc4='甘德朗达' WHERE entry=42609; /* name: Gan\'dranda */ /* subname: Revantusk General */
+UPDATE locales_creature SET name_loc4='索纳尔·雷破' WHERE entry=42610; /* name: Thornar Thunderclash */ /* subname: Wildhammer General */
 UPDATE locales_creature SET name_loc4='断齿长者' WHERE entry=42613; /* name: Elder Torntusk */
 UPDATE locales_creature SET name_loc4='西部荒野杂味炖肉' WHERE entry=42617; /* name: Westfall Stew */
 UPDATE locales_creature SET name_loc4='雷霆崖守卫' WHERE entry=42623; /* name: Bluffwatcher */
@@ -27563,6 +27603,7 @@ UPDATE locales_creature SET name_loc4='秘法师萨乌拉诺克' WHERE entry=426
 UPDATE locales_creature SET name_loc4='沙漠风暴' WHERE entry=42639; /* name: Sand Storm */
 UPDATE locales_creature SET name_loc4='断齿族长' WHERE entry=42642; /* name: Primal Torntusk */
 UPDATE locales_creature SET name_loc4='智者索拉留斯' WHERE entry=42651; /* name: Thoralius the Wise */
+UPDATE locales_creature SET name_loc4='詹格·斑皮' WHERE entry=42653; /* name: Jango Spothide */
 UPDATE locales_creature SET name_loc4='赫利克斯·破甲' WHERE entry=42655; /* name: Helix Gearbreaker */
 UPDATE locales_creature SET name_loc4='雇佣兵' WHERE entry=42656; /* name: Mercenary */
 UPDATE locales_creature SET name_loc4='纳兹夏尔荣誉守卫' WHERE entry=42670; /* name: Naz\'jar Honor Guard */
@@ -27580,8 +27621,8 @@ UPDATE locales_creature SET name_loc4='萨尔克·暴怒图腾' WHERE entry=4272
 UPDATE locales_creature SET name_loc4='能量发生器' WHERE entry=42733; /* name: Power Generator */
 UPDATE locales_creature SET name_loc4='鞭尾幼龙' WHERE entry=42736; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc4='爆裂之珠' WHERE entry=42743; /* name: Exploding Orb */
-UPDATE locales_creature SET name_loc4='丹努文队长' WHERE entry=42751; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
-UPDATE locales_creature SET name_loc4='哨兵加里安' WHERE entry=42752; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='丹努文队长',subname_loc4='月溪旅' WHERE entry=42751; /* name: Captain Danuvin */ /* subname: The Westfall Brigade */
+UPDATE locales_creature SET name_loc4='哨兵加里安',subname_loc4='月溪旅' WHERE entry=42752; /* name: Scout Galiaan */ /* subname: The Westfall Brigade */
 UPDATE locales_creature SET name_loc4='赫利克斯·破甲' WHERE entry=42753; /* name: Helix Gearbreaker */
 UPDATE locales_creature SET name_loc4='格拉布托克',subname_loc4='工头' WHERE entry=42755; /* name: Glubtok */ /* subname: The Foreman */
 UPDATE locales_creature SET name_loc4='邪恶镜像' WHERE entry=42761; /* name: Sinister Reflection */
@@ -27594,6 +27635,7 @@ UPDATE locales_creature SET name_loc4='麦格尼·铜须国王',subname_loc4='�
 UPDATE locales_creature SET name_loc4='穆拉丁·铜须' WHERE entry=42795; /* name: Muradin Bronzebeard */
 UPDATE locales_creature SET name_loc4='大工匠梅卡托克',subname_loc4='侏儒之王' WHERE entry=42797; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
 UPDATE locales_creature SET name_loc4='血领主曼多基尔' WHERE entry=42799; /* name: Bloodlord Mandokir */
+UPDATE locales_creature SET name_loc4='女祭司胡纳拉' WHERE entry=42812; /* name: Priestess Hu\'rala */
 UPDATE locales_creature SET name_loc4='不稳定的蘑菇' WHERE entry=42835; /* name: Unstable Shroom */
 UPDATE locales_creature SET name_loc4='觅血者前锋' WHERE entry=42837; /* name: Gurubashi Bat Rider */
 UPDATE locales_creature SET name_loc4='血领主曼多基尔' WHERE entry=42842; /* name: Bloodlord Mandokir */
@@ -27606,6 +27648,7 @@ UPDATE locales_creature SET name_loc4='恶魔卫士' WHERE entry=42874; /* name:
 UPDATE locales_creature SET name_loc4='守护者莫塔加亚' WHERE entry=42877; /* name: Morta\'gya the Keeper */
 UPDATE locales_creature SET name_loc4='龙卷风' WHERE entry=42895; /* name: Tornado */
 UPDATE locales_creature SET name_loc4='毒液炸弹' WHERE entry=42897; /* name: Poison Bomb */
+UPDATE locales_creature SET name_loc4='黑暗牧师玛尔纳' WHERE entry=42898; /* name: Darkcleric Marnal */
 UPDATE locales_creature SET name_loc4='Slime' WHERE entry=42902; /* name: Slime */
 UPDATE locales_creature SET name_loc4='守护者奇尔加' WHERE entry=42919; /* name: Qiaga the Keeper */
 UPDATE locales_creature SET name_loc4='毒浆' WHERE entry=42920; /* name: Poison Puddle */
@@ -27622,19 +27665,24 @@ UPDATE locales_creature SET name_loc4='坦扎尔' WHERE entry=42980; /* name: Ta
 UPDATE locales_creature SET name_loc4='图高尔' WHERE entry=42982; /* name: Turgore */
 UPDATE locales_creature SET name_loc4='沙德拉',subname_loc4='毒蜘蛛女王' WHERE entry=43007; /* name: Shadra */ /* subname: The Venom Queen */
 UPDATE locales_creature SET name_loc4='小鬼' WHERE entry=43014; /* name: Imp */
+UPDATE locales_creature SET name_loc4='黑暗牧师玛尔纳' WHERE entry=43018; /* name: Darkcleric Marnal */
 UPDATE locales_creature SET name_loc4='马克·菲尔森' WHERE entry=43022; /* name: Mack Fearsen */
 UPDATE locales_creature SET name_loc4='巴德' WHERE entry=43023; /* name: Budd */
 UPDATE locales_creature SET name_loc4='烈焰吐息' WHERE entry=43037; /* name: Flame Breath */
 UPDATE locales_creature SET name_loc4='埃达尔拉' WHERE entry=43051; /* name: Adarrah */
 UPDATE locales_creature SET name_loc4='森林捕猎者' WHERE entry=43084; /* name: Forest Stalker */
 UPDATE locales_creature SET name_loc4='地狱咆哮的先锋战士' WHERE entry=43090; /* name: Hellscream\'s Vanguard */
+UPDATE locales_creature SET name_loc4='混合大师加斯帕' WHERE entry=43097; /* name: Mixmaster Jasper */
+UPDATE locales_creature SET name_loc4='查巴尔' WHERE entry=43098; /* name: Chabal */
 UPDATE locales_creature SET name_loc4='军团士兵纳兹戈林' WHERE entry=43100; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc4='岩虾' WHERE entry=43102; /* name: Rock Lobster */
 UPDATE locales_creature SET name_loc4='科尔·铁眼' WHERE entry=43108; /* name: Kerr Ironsight */
 UPDATE locales_creature SET name_loc4='佩波' WHERE entry=43116; /* name: Pebble */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43135; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='弗拉加尔' WHERE entry=43156; /* name: Fraggar Thundermantle */
 UPDATE locales_creature SET name_loc4='多兰·刚翼' WHERE entry=43157; /* name: Doran Steelwing */
 UPDATE locales_creature SET name_loc4='沙普比克' WHERE entry=43161; /* name: Sharpbeak */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43184; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='工头奥斯洛' WHERE entry=43194; /* name: Foreman Oslow */
 UPDATE locales_creature SET name_loc4='岩皮' WHERE entry=43214; /* name: Slabhide */
 UPDATE locales_creature SET name_loc4='狮鹫管理员沙拉克·鹰斧' WHERE entry=43215; /* name: Gryphon Master Talonaxe */
@@ -27642,8 +27690,12 @@ UPDATE locales_creature SET name_loc4='熔岩裂缝' WHERE entry=43242; /* name:
 UPDATE locales_creature SET name_loc4='流亡者赞吉尔' WHERE entry=43245; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc4='流亡者赞吉尔' WHERE entry=43255; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc4='高阶祭司耶克里克' WHERE entry=43257; /* name: High Priestess Jeklik */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43272; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43274; /* name: Krakauer */
 UPDATE locales_creature SET name_loc4='水晶碎片' WHERE entry=43286; /* name: Crystal Shard */
 UPDATE locales_creature SET name_loc4='奇美隆' WHERE entry=43296; /* name: Chimaeron */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43303; /* name: Krakauer */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43305; /* name: Jorgensen */
 UPDATE locales_creature SET name_loc4='流亡者赞吉尔' WHERE entry=43322; /* name: Zanzil the Outcast */
 UPDATE locales_creature SET name_loc4='高阶祭司温诺希斯' WHERE entry=43323; /* name: High Priest Venoxis */
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=43324; /* name: Cho\'gall */
@@ -27658,8 +27710,18 @@ UPDATE locales_creature SET name_loc4='马洛拉克' WHERE entry=43404; /* name:
 UPDATE locales_creature SET name_loc4='火元素' WHERE entry=43406; /* name: Fire Elemental */
 UPDATE locales_creature SET name_loc4='艾卓曼德斯' WHERE entry=43407; /* name: Atramedes */
 UPDATE locales_creature SET name_loc4='被召唤的灼热图腾' WHERE entry=43423; /* name: Summoned Searing Totem */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43433; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43434; /* name: Krakauer */
 UPDATE locales_creature SET name_loc4='克伯鲁斯' WHERE entry=43438; /* name: Corborus */
 UPDATE locales_creature SET name_loc4='日光术' WHERE entry=43444; /* name: Solar Beam */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43446; /* name: Krakauer */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43447; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43449; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc4='颤地者特罗格佐尔' WHERE entry=43456; /* name: Troggzor the Earthinator */ /* subname: Stone Trogg Battle Leader */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43457; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43458; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43460; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43461; /* name: Krakauer */
 UPDATE locales_creature SET name_loc4='纳兹夏尔女士' WHERE entry=43468; /* name: Lady Naz\'jar */
 UPDATE locales_creature SET name_loc4='纳兹夏尔荣誉守卫' WHERE entry=43469; /* name: Naz\'jar Honor Guard */
 UPDATE locales_creature SET name_loc4='深渊触须' WHERE entry=43472; /* name: Abyssal Tentacle */
@@ -27667,8 +27729,14 @@ UPDATE locales_creature SET name_loc4='奉献' WHERE entry=43499; /* name: Conse
 UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大地之环' WHERE entry=43519; /* name: Erunak Stonespeaker */ /* subname: The Earthen Ring */
 UPDATE locales_creature SET name_loc4='军团士兵纳兹戈林' WHERE entry=43520; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc4='地狱咆哮的先锋战士' WHERE entry=43522; /* name: Hellscream\'s Vanguard */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43546; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='老滑膛' WHERE entry=43562; /* name: Ol\' Blasty */
 UPDATE locales_creature SET name_loc4='龙喉执行者' WHERE entry=43575; /* name: Dragonmaw Enforcer */
 UPDATE locales_creature SET name_loc4='火焰' WHERE entry=43585; /* name: Blaze */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43600; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43608; /* name: Krakauer */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43609; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43611; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='高阶预言者巴林姆' WHERE entry=43612; /* name: High Prophet Barim */
 UPDATE locales_creature SET name_loc4='锁喉' WHERE entry=43614; /* name: Lockmaw */
 UPDATE locales_creature SET name_loc4='纳兹夏尔荣誉守卫' WHERE entry=43620; /* name: Naz\'jar Honor Guard */
@@ -27687,6 +27755,7 @@ UPDATE locales_creature SET name_loc4='恐狼' WHERE entry=43704; /* name: Dire 
 UPDATE locales_creature SET name_loc4='上古之神的血' WHERE entry=43707; /* name: Blood of the Old God */
 UPDATE locales_creature SET name_loc4='源质畸体' WHERE entry=43735; /* name: Elementium Monstrosity */
 UPDATE locales_creature SET name_loc4='凶猛冲击' WHERE entry=43743; /* name: Thrashing Charge */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43744; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='藏宝海湾地精卫兵' WHERE entry=43760; /* name: Booty Bay Bruiser */
 UPDATE locales_creature SET name_loc4='摩本特·费尔' WHERE entry=43761; /* name: Morbent Fel */
 UPDATE locales_creature SET name_loc4='虚弱的摩本特·费尔' WHERE entry=43762; /* name: Weakened Morbent Fel */
@@ -27698,8 +27767,11 @@ UPDATE locales_creature SET name_loc4='塔胡·慧风',subname_loc4='牧师训�
 UPDATE locales_creature SET name_loc4='便携式世界毁灭者' WHERE entry=43800; /* name: Personal World Destroyer */
 UPDATE locales_creature SET name_loc4='天堂之怒' WHERE entry=43801; /* name: Heaven\'s Fury */
 UPDATE locales_creature SET name_loc4='塞拉赞恩' WHERE entry=43802; /* name: Therazane */ /* subname: The Stonemother */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=43812; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='黑石勇士' WHERE entry=43813; /* name: Blackrock Champion */
 UPDATE locales_creature SET name_loc4='忏悔' WHERE entry=43817; /* name: Repentance */
+UPDATE locales_creature SET name_loc4='约根森' WHERE entry=43827; /* name: Jorgensen */
+UPDATE locales_creature SET name_loc4='卡拉克尔' WHERE entry=43829; /* name: Krakauer */
 UPDATE locales_creature SET name_loc4='烈焰流放者' WHERE entry=43830; /* name: Burning Exile */
 UPDATE locales_creature SET name_loc4='军团士兵纳兹戈林' WHERE entry=43844; /* name: Legionnaire Nazgrim */
 UPDATE locales_creature SET name_loc4='玛法里奥·怒风' WHERE entry=43845; /* name: Malfurion Stormrage */
@@ -27728,12 +27800,17 @@ UPDATE locales_creature SET name_loc4='玉首蜥蜴' WHERE entry=43981; /* name:
 UPDATE locales_creature SET name_loc4='血领主曼多基尔' WHERE entry=43989; /* name: Bloodlord Mandokir */
 UPDATE locales_creature SET name_loc4='腐蚀' WHERE entry=43999; /* name: Corruption */
 UPDATE locales_creature SET name_loc4='纳兹夏尔女士' WHERE entry=44008; /* name: Lady Naz\'jar */
+UPDATE locales_creature SET name_loc4='女祭司萨阿莉亚' WHERE entry=44017; /* name: Priestess Thaalia */
+UPDATE locales_creature SET name_loc4='格哈利尼' WHERE entry=44021; /* name: Ghaliri */ /* subname: Emissary of Rastakhan */
 UPDATE locales_creature SET name_loc4='黑暗的造物' WHERE entry=44023; /* name: Darkened Creation */
 UPDATE locales_creature SET name_loc4='塞拉赞恩' WHERE entry=44025; /* name: Therazane */ /* subname: The Stonemother */
 UPDATE locales_creature SET name_loc4='龙喉萨满祭司' WHERE entry=44026; /* name: Dragonmaw Shaman */
 UPDATE locales_creature SET name_loc4='玛格曼达' WHERE entry=44031; /* name: Magmadar */
 UPDATE locales_creature SET name_loc4='萨尔',subname_loc4='酋长' WHERE entry=44033; /* name: Thrall */ /* subname: Warchief */
 UPDATE locales_creature SET name_loc4='黑暗的造物' WHERE entry=44045; /* name: Darkened Creation */
+UPDATE locales_creature SET name_loc4='梅维克' WHERE entry=44084; /* name: Maywiki */
+UPDATE locales_creature SET name_loc4='达斯克·“空瓶”·哥布菲兹',subname_loc4='探险者协会' WHERE entry=44099; /* name: Dask "The Flask" Gobfizzle */ /* subname: Explorers\' League */
+UPDATE locales_creature SET name_loc4='艾尔温·短麻',subname_loc4='探险者协会' WHERE entry=44112; /* name: Airwyn Bantamflax */ /* subname: Explorers\' League */
 UPDATE locales_creature SET name_loc4='艾拉',subname_loc4='材料商' WHERE entry=44115; /* name: Ella */ /* subname: Reagents */
 UPDATE locales_creature SET name_loc4='秘法师萨乌拉诺克' WHERE entry=44120; /* name: Sauranok the Mystic */
 UPDATE locales_creature SET name_loc4='玉首蜥蜴' WHERE entry=44138; /* name: Jadecrest Basilisk */
@@ -27819,6 +27896,7 @@ UPDATE locales_creature SET name_loc4='卡利夫·斯科比斯汀' WHERE entry=4
 UPDATE locales_creature SET name_loc4='无面者工兵' WHERE entry=44752; /* name: Faceless Sapper */
 UPDATE locales_creature SET name_loc4='安德雷·费尔比德' WHERE entry=44759; /* name: Andre Firebeard */
 UPDATE locales_creature SET name_loc4='斯派克' WHERE entry=44765; /* name: Spike */
+UPDATE locales_creature SET name_loc4='戈克雷什' WHERE entry=44771; /* name: Gor\'kresh */ /* subname: Disciple of Cho\'gall */
 UPDATE locales_creature SET name_loc4='沙普比克' WHERE entry=44776; /* name: Sharpbeak */
 UPDATE locales_creature SET name_loc4='亡灵侦察兵' WHERE entry=44790; /* name: Deathstalker */
 UPDATE locales_creature SET name_loc4='Training Dummy' WHERE entry=44794; /* name: Training Dummy */
@@ -27910,8 +27988,10 @@ UPDATE locales_creature SET name_loc4='巨魔大地图腾' WHERE entry=45216; /*
 UPDATE locales_creature SET name_loc4='巨魔火焰图腾' WHERE entry=45217; /* name: Troll Fire Totem */
 UPDATE locales_creature SET name_loc4='巨魔水图腾' WHERE entry=45218; /* name: Troll Water Totem */
 UPDATE locales_creature SET name_loc4='看护者斯密瑟斯' WHERE entry=45219; /* name: Caretaker Smithers */
+UPDATE locales_creature SET name_loc4='阿娜德尼' WHERE entry=45235; /* name: Aradne */
 UPDATE locales_creature SET name_loc4='轰炸' WHERE entry=45237; /* name: Bomb */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=45238; /* name: Harrison Jones */
+UPDATE locales_creature SET name_loc4='阿娜德尼' WHERE entry=45246; /* name: Aradne */
 UPDATE locales_creature SET name_loc4='佩波' WHERE entry=45247; /* name: Pebble */
 UPDATE locales_creature SET name_loc4='贸易大王加里维克斯',subname_loc4='<PH MODEL: TASK# 33666> Leader of the Bilgewater Cartel' WHERE entry=45250; /* name: Trade Prince Gallywix */ /* subname: <PH MODEL: TASK# 33666> Leader of the Bilgewater Cartel */
 UPDATE locales_creature SET name_loc4='吉恩·格雷迈恩' WHERE entry=45253; /* name: Genn Greymane */
@@ -27975,7 +28055,10 @@ UPDATE locales_creature SET name_loc4='阿尔古斯·海毕肯',subname_loc4='�
 UPDATE locales_creature SET name_loc4='荒芜犬' WHERE entry=45453; /* name: Blighthound */
 UPDATE locales_creature SET name_loc4='传送门' WHERE entry=45454; /* name: Portal */
 UPDATE locales_creature SET name_loc4='银色十字军' WHERE entry=45456; /* name: Argent Crusader */
+UPDATE locales_creature SET name_loc4='骨鸣响器' WHERE entry=45463; /* name: The Rattle of Bones */
+UPDATE locales_creature SET name_loc4='历史文书' WHERE entry=45466; /* name: The Writ of History */
 UPDATE locales_creature SET name_loc4='洞窟穴居人' WHERE entry=45467; /* name: Trogg Dweller */
+UPDATE locales_creature SET name_loc4='战争之鼓' WHERE entry=45468; /* name: The Drums of War */
 UPDATE locales_creature SET name_loc4='大地碎片' WHERE entry=45469; /* name: Earth Shards */
 UPDATE locales_creature SET name_loc4='重力碾压' WHERE entry=45476; /* name: Gravity Crush */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=45505; /* name: Harrison Jones */
@@ -27997,6 +28080,7 @@ UPDATE locales_creature SET name_loc4='高弗雷勋爵' WHERE entry=45622; /* na
 UPDATE locales_creature SET name_loc4='灰葬男爵' WHERE entry=45623; /* name: Baron Ashbury */
 UPDATE locales_creature SET name_loc4='沃登勋爵' WHERE entry=45624; /* name: Lord Walden */
 UPDATE locales_creature SET name_loc4='黑暗游侠' WHERE entry=45628; /* name: Dark Ranger */
+UPDATE locales_creature SET name_loc4='碎颅者魔山' WHERE entry=45644; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc4='督军扎伊拉' WHERE entry=45658; /* name: Warlord Zaela */
 UPDATE locales_creature SET name_loc4='麦格尼·铜须国王',subname_loc4='铁炉堡之王' WHERE entry=45666; /* name: King Magni Bronzebeard */ /* subname: Lord of Ironforge */
 UPDATE locales_creature SET name_loc4='大工匠梅卡托克',subname_loc4='侏儒之王' WHERE entry=45667; /* name: High Tinker Mekkatorque */ /* subname: King of Gnomes */
@@ -28007,7 +28091,9 @@ UPDATE locales_creature SET name_loc4='石语者埃鲁纳克',subname_loc4='大�
 UPDATE locales_creature SET name_loc4='潜伏风暴' WHERE entry=45704; /* name: Lurking Tempest */
 UPDATE locales_creature SET name_loc4='塔伦纳·射日者' WHERE entry=45729; /* name: Tarenar Sunstrike */
 UPDATE locales_creature SET name_loc4='吉德文·金须' WHERE entry=45730; /* name: Gidwin Goldbraids */
+UPDATE locales_creature SET name_loc4='圣物守护者莱利斯' WHERE entry=45734; /* name: Relios the Relic Keeper */
 UPDATE locales_creature SET name_loc4='维克斯图' WHERE entry=45741; /* name: Vex\'tul */
+UPDATE locales_creature SET name_loc4='冥界领主埃克斯拉尔' WHERE entry=45744; /* name: Ix\'lar the Underlord */
 UPDATE locales_creature SET name_loc4='露比' WHERE entry=45745; /* name: Ruby */
 UPDATE locales_creature SET name_loc4='闪电' WHERE entry=45754; /* name: Lightning */ /* subname: Thordun\'s Mount */
 UPDATE locales_creature SET name_loc4='奥术魔' WHERE entry=45766; /* name: Arcane Fiend */
@@ -28051,6 +28137,7 @@ UPDATE locales_creature SET name_loc4='加琳达' WHERE entry=45892; /* name: Ja
 UPDATE locales_creature SET name_loc4='坠天之星' WHERE entry=45932; /* name: Skyfall Star */
 UPDATE locales_creature SET name_loc4='菲奥拉' WHERE entry=45941; /* name: Fiona */
 UPDATE locales_creature SET name_loc4='库卡隆刺客' WHERE entry=45944; /* name: Kor\'kron Assassin */
+UPDATE locales_creature SET name_loc4='疯狂的拉里' WHERE entry=45948; /* name: Crazy Larry */
 UPDATE locales_creature SET name_loc4='帕米拉·雷德帕斯' WHERE entry=45951; /* name: Pamela Redpath */
 UPDATE locales_creature SET name_loc4='被辐射的穴居人' WHERE entry=45952; /* name: Irradiated Trogg */
 UPDATE locales_creature SET name_loc4='雷霆打击' WHERE entry=45954; /* name: Thunderstruck */
@@ -28063,6 +28150,7 @@ UPDATE locales_creature SET name_loc4='雷布拉特·碎地者',subname_loc4='�
 UPDATE locales_creature SET name_loc4='帕米拉·雷德帕斯' WHERE entry=45961; /* name: Pamela Redpath */
 UPDATE locales_creature SET name_loc4='维克斯图' WHERE entry=45962; /* name: Vex\'tul */
 UPDATE locales_creature SET name_loc4='维克斯图' WHERE entry=45963; /* name: Vex\'tul */
+UPDATE locales_creature SET name_loc4='碎颅者魔山' WHERE entry=45986; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc4='塞菲尔' WHERE entry=45991; /* name: Zephyr */
 UPDATE locales_creature SET name_loc4='瓦里昂娜' WHERE entry=45992; /* name: Valiona */
 UPDATE locales_creature SET name_loc4='瑟纳利昂' WHERE entry=45993; /* name: Theralion */
@@ -28094,7 +28182,11 @@ UPDATE locales_creature SET name_loc4='希尔瓦娜斯·风行者',subname_loc4=
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=46137; /* name: Cho\'gall */
 UPDATE locales_creature SET name_loc4='瓦里昂娜' WHERE entry=46147; /* name: Valiona */
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=46163; /* name: Cho\'gall */
+UPDATE locales_creature SET name_loc4='芭芭·沼酒' WHERE entry=46172; /* name: Baba Bogbrew */
 UPDATE locales_creature SET name_loc4='吉德文·金须' WHERE entry=46173; /* name: Gidwin Goldbraids */
+UPDATE locales_creature SET name_loc4='凯登·顿沃德' WHERE entry=46174; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=46175; /* name: Eoin Dunwald */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=46176; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc4='塔伦纳·射日者' WHERE entry=46178; /* name: Tarenar Sunstrike */
 UPDATE locales_creature SET name_loc4='浮冰' WHERE entry=46186; /* name: Ice Patch */
 UPDATE locales_creature SET name_loc4='吉德文·金须' WHERE entry=46191; /* name: Gidwin Goldbraids */
@@ -28137,6 +28229,7 @@ UPDATE locales_creature SET name_loc4='不稳定的接地场' WHERE entry=46492;
 UPDATE locales_creature SET name_loc4='督军哈萨尔' WHERE entry=46493; /* name: Warlord Halthar */
 UPDATE locales_creature SET name_loc4='霍格' WHERE entry=46500; /* name: Hogger */
 UPDATE locales_creature SET name_loc4='死亡之翼',subname_loc4='死亡的化身' WHERE entry=46502; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc4='UNUSED' WHERE entry=46510; /* name: UNUSED REUSE */
 UPDATE locales_creature SET name_loc4='骡子' WHERE entry=46518; /* name: Pack Mule */
 UPDATE locales_creature SET name_loc4='巴德' WHERE entry=46520; /* name: Budd */
 UPDATE locales_creature SET name_loc4='萨米尔' WHERE entry=46522; /* name: Samir */
@@ -28155,16 +28248,26 @@ UPDATE locales_creature SET name_loc4='哈考尔' WHERE entry=46545; /* name: Ha
 UPDATE locales_creature SET name_loc4='坦扎尔' WHERE entry=46547; /* name: Tanzar */
 UPDATE locales_creature SET name_loc4='库塞尔' WHERE entry=46548; /* name: Kurzel */
 UPDATE locales_creature SET name_loc4='暴风城卫兵' WHERE entry=46550; /* name: Stormwind City Guard */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=46553; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='康纳中尉' WHERE entry=46571; /* name: First Lieutenant Connor */
 UPDATE locales_creature SET name_loc4='邪鳍智者' WHERE entry=46573; /* name: Vile Fin Oracle */
 UPDATE locales_creature SET name_loc4='邪鳍潮行者' WHERE entry=46574; /* name: Vile Fin Tidehunter */
 UPDATE locales_creature SET name_loc4='末日教教徒' WHERE entry=46576; /* name: Doomsday Cultist */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=46583; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='诅咒教派入侵者' WHERE entry=46584; /* name: Cultist Infiltrator */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=46585; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='雷角中士',subname_loc4='征服军需官' WHERE entry=46594; /* name: Sergeant Thunderhorn */ /* subname: Conquest Quartermaster */
 UPDATE locales_creature SET name_loc4='血卫士扎尔什',subname_loc4='荣誉军需官' WHERE entry=46595; /* name: Blood Guard Zar\'shi */ /* subname: Honor Quartermaster */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=46615; /* name: Donnelly Dunwald */
+UPDATE locales_creature SET name_loc4='凯登·顿沃德' WHERE entry=46616; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc4='凯登·顿沃德' WHERE entry=46625; /* name: Cayden Dunwald */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=46626; /* name: Donnelly Dunwald */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=46627; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='Training Dummy' WHERE entry=46647; /* name: Training Dummy */
 UPDATE locales_creature SET name_loc4='预言者迦玛兰' WHERE entry=46656; /* name: Jammal\'an the Prophet */
 UPDATE locales_creature SET name_loc4='聚焦激光射线' WHERE entry=46669; /* name: Focused Laser */
+UPDATE locales_creature SET name_loc4='暮光神锤' WHERE entry=46717; /* name: The Hammer of Twilight */
+UPDATE locales_creature SET name_loc4='碎颅者魔山' WHERE entry=46732; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc4='冰雪风暴' WHERE entry=46734; /* name: Ice Storm */
 UPDATE locales_creature SET name_loc4='暴风城卫兵' WHERE entry=46745; /* name: Stormwind City Guard */
 UPDATE locales_creature SET name_loc4='奥拉基尔' WHERE entry=46753; /* name: Al\'Akir */
@@ -28201,6 +28304,7 @@ UPDATE locales_creature SET name_loc4='库德兰·蛮锤' WHERE entry=46895; /* 
 UPDATE locales_creature SET name_loc4='小翼' WHERE entry=46896; /* name: Lil\' Deathwing */
 UPDATE locales_creature SET name_loc4='督军扎伊拉' WHERE entry=46897; /* name: Warlord Zaela */
 UPDATE locales_creature SET name_loc4='魔化灯笼' WHERE entry=46898; /* name: Enchanted Lantern */
+UPDATE locales_creature SET name_loc4='碎颅者魔山' WHERE entry=46899; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=46900; /* name: Cho\'gall */
 UPDATE locales_creature SET name_loc4='熔火恶犬' WHERE entry=46910; /* name: Core Hound */
 UPDATE locales_creature SET name_loc4='熔岩奔腾者' WHERE entry=46911; /* name: Lava Surger */
@@ -28260,7 +28364,9 @@ UPDATE locales_creature SET name_loc4='镜像' WHERE entry=47243; /* name: Mirro
 UPDATE locales_creature SET name_loc4='镜像' WHERE entry=47244; /* name: Mirror Image */
 UPDATE locales_creature SET name_loc4='哥培尔' WHERE entry=47255; /* name: Gobbles */
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=47257; /* name: Cho\'gall */
+UPDATE locales_creature SET name_loc4='碎颅者魔山' WHERE entry=47260; /* name: Skullcrusher the Mountain */ /* subname: Chosen of Cho\'gall */
 UPDATE locales_creature SET name_loc4='暮光雏龙' WHERE entry=47265; /* name: Twilight Whelp */
+UPDATE locales_creature SET name_loc4='挖掘头目锡须' WHERE entry=47271; /* name: Dig-Boss Dinwhisker */
 UPDATE locales_creature SET name_loc4='被释放的幽灵' WHERE entry=47272; /* name: Released Spirit */
 UPDATE locales_creature SET name_loc4='希亚玛特' WHERE entry=47285; /* name: Siamat */ /* subname: Lord of the South Wind */
 UPDATE locales_creature SET name_loc4='P·哈里斯船长' WHERE entry=47287; /* name: Captain P. Harris */
@@ -28277,6 +28383,7 @@ UPDATE locales_creature SET name_loc4='布里维普',subname_loc4='冰淇淋商�
 UPDATE locales_creature SET name_loc4='克尔克斯克' WHERE entry=47388; /* name: Silithid Ravager */
 UPDATE locales_creature SET name_loc4='希亚玛特' WHERE entry=47451; /* name: Siamat */ /* subname: Lord of the South Wind */
 UPDATE locales_creature SET name_loc4='帕奥卡·迅山' WHERE entry=47471; /* name: Pao\'ka Swiftmountain */
+UPDATE locales_creature SET name_loc4='雪怪之王耶提玛斯' WHERE entry=47484; /* name: Yetimus the Yeti Lord */
 UPDATE locales_creature SET name_loc4='锐爪飞心' WHERE entry=47486; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc4='高级执行官达萨利亚' WHERE entry=47499; /* name: High Executor Darthalia */
 UPDATE locales_creature SET name_loc4='地狱冲击' WHERE entry=47501; /* name: Inferno Rush */
@@ -28285,6 +28392,8 @@ UPDATE locales_creature SET name_loc4='锐爪飞心' WHERE entry=47504; /* name:
 UPDATE locales_creature SET name_loc4='锐爪飞心' WHERE entry=47507; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc4='锐爪飞心' WHERE entry=47508; /* name: Heartrazor */
 UPDATE locales_creature SET name_loc4='斯瓦诺斯' WHERE entry=47544; /* name: Svarnos */
+UPDATE locales_creature SET name_loc4='拉沙科拉克' WHERE entry=47553; /* name: Rasha\'krak */ /* subname: Minion of Calcinder */
+UPDATE locales_creature SET name_loc4='无情者卡文' WHERE entry=47567; /* name: Kavem the Callous */
 UPDATE locales_creature SET name_loc4='拉克塔·风歌' WHERE entry=47580; /* name: Lakota Windsong */
 UPDATE locales_creature SET name_loc4='马迪亚斯·肖尔大师',subname_loc4='军情七处领袖' WHERE entry=47592; /* name: Master Mathias Shaw */ /* subname: Leader of SI:7 */
 UPDATE locales_creature SET name_loc4='阿莱克丝塔萨，生命的缚誓者',subname_loc4='巨龙的女王' WHERE entry=47603; /* name: Alexstrasza the Life-Binder */ /* subname: Queen of the Dragons */
@@ -28322,6 +28431,7 @@ UPDATE locales_creature SET name_loc4='玛加萨·恐怖图腾',subname_loc4='�
 UPDATE locales_creature SET name_loc4='“船长”曲奇' WHERE entry=47739; /* name: "Captain" Cookie */ /* subname: Defias Kingpin? */
 UPDATE locales_creature SET name_loc4='毒蛇' WHERE entry=47740; /* name: Viper */
 UPDATE locales_creature SET name_loc4='玛加萨·恐怖图腾',subname_loc4='巫婆长老' WHERE entry=47745; /* name: Magatha Grimtotem */ /* subname: Elder Crone */
+UPDATE locales_creature SET name_loc4='莫顿·焰星' WHERE entry=47779; /* name: Mouton Flamestar */
 UPDATE locales_creature SET name_loc4='看守者斯蒂沃特' WHERE entry=47781; /* name: Warden Stillwater */
 UPDATE locales_creature SET name_loc4='书记员赫拉斯·怀特斯蒂德' WHERE entry=47789; /* name: Clerk Horrace Whitesteed */
 UPDATE locales_creature SET name_loc4='波恩塞德镇长' WHERE entry=47790; /* name: Magistrate Burnside */
@@ -28333,6 +28443,7 @@ UPDATE locales_creature SET name_loc4='地狱巨犬' WHERE entry=47800; /* name:
 UPDATE locales_creature SET name_loc4='地狱火爪牙' WHERE entry=47802; /* name: Infernal */
 UPDATE locales_creature SET name_loc4='黑狼' WHERE entry=47808; /* name: Black Wolf */
 UPDATE locales_creature SET name_loc4='棕狼' WHERE entry=47809; /* name: Brown Wolf */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=47811; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='塔丝克' WHERE entry=47818; /* name: Tusker */ /* subname: Korla\'s Pet */
 UPDATE locales_creature SET name_loc4='伊利丹·怒风',subname_loc4='背叛者' WHERE entry=47819; /* name: Illidan Stormrage */ /* subname: The Betrayer */
 UPDATE locales_creature SET name_loc4='魔皇草' WHERE entry=47828; /* name: Mageroyal */
@@ -28372,6 +28483,7 @@ UPDATE locales_creature SET name_loc4='瓦里安·乌瑞恩国王',subname_loc4=
 UPDATE locales_creature SET name_loc4='强力火元素' WHERE entry=47992; /* name: Greater Fire Elemental */
 UPDATE locales_creature SET name_loc4='强力土元素' WHERE entry=47993; /* name: Greater Earth Elemental */
 UPDATE locales_creature SET name_loc4='死亡之翼',subname_loc4='死亡的化身' WHERE entry=48005; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc4='熔岩领主法萨扎尔' WHERE entry=48015; /* name: Magmalord Falthazar */
 UPDATE locales_creature SET name_loc4='暮光精华' WHERE entry=48018; /* name: Twilight Essence */
 UPDATE locales_creature SET name_loc4='埃达尔拉' WHERE entry=48028; /* name: Adarrah */
 UPDATE locales_creature SET name_loc4='埃达尔拉' WHERE entry=48030; /* name: Adarrah */
@@ -28390,8 +28502,10 @@ UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=48082; /* 
 UPDATE locales_creature SET name_loc4='看守者斯蒂沃特' WHERE entry=48103; /* name: Warden Stillwater */
 UPDATE locales_creature SET name_loc4='奥弗' WHERE entry=48104; /* name: Augh */ /* subname: Lost City Tour Guide */
 UPDATE locales_creature SET name_loc4='洛斯贝格海鸥' WHERE entry=48107; /* name: Rustberg Gull */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=48109; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='顾问萨洛法斯',subname_loc4='食物和饮料' WHERE entry=48125; /* name: Advisor Sarophas */ /* subname: Food & Drink */
 UPDATE locales_creature SET name_loc4='赫尔库拉' WHERE entry=48129; /* name: Helcular */
+UPDATE locales_creature SET name_loc4='索基佐格将军' WHERE entry=48133; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc4='玛法里奥·怒风' WHERE entry=48134; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc4='泰兰德·语风' WHERE entry=48135; /* name: Tyrande Whisperwind */
 UPDATE locales_creature SET name_loc4='古加尔' WHERE entry=48142; /* name: Cho\'gall */
@@ -28409,10 +28523,12 @@ UPDATE locales_creature SET name_loc4='克尔克斯克' WHERE entry=48178; /* na
 UPDATE locales_creature SET name_loc4='闪光湖蜗牛' WHERE entry=48182; /* name: Shimmershell Snail */
 UPDATE locales_creature SET name_loc4='鲸鲨' WHERE entry=48185; /* name: Whale Shark */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=48186; /* name: Harrison Jones */
+UPDATE locales_creature SET name_loc4='骨鸣响器' WHERE entry=48208; /* name: The Rattle of Bones */
 UPDATE locales_creature SET name_loc4='范达尔·雷矛',subname_loc4='雷矛将军' WHERE entry=48219; /* name: Vanndar Stormpike */ /* subname: Stormpike General */
 UPDATE locales_creature SET name_loc4='巴琳达·斯通赫尔斯',subname_loc4='雷矛上尉' WHERE entry=48223; /* name: Captain Balinda Stonehearth */ /* subname: Stormpike Captain */
 UPDATE locales_creature SET name_loc4='狗头人掘地工' WHERE entry=48229; /* name: Kobold Digger */
 UPDATE locales_creature SET name_loc4='犰狳幼崽' WHERE entry=48242; /* name: Armadillo Pup */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=48246; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='古拉克·石拳',subname_loc4='部落大使' WHERE entry=48264; /* name: Golluck Rockfist */ /* subname: Horde Ambassador */
 UPDATE locales_creature SET name_loc4='劳莉耶尔·图布雷',subname_loc4='联盟大使' WHERE entry=48265; /* name: Lauriel Trueblade */ /* subname: Alliance Ambassador */
 UPDATE locales_creature SET name_loc4='迪菲亚火炮' WHERE entry=48266; /* name: Defias Cannon */
@@ -28422,10 +28538,16 @@ UPDATE locales_creature SET name_loc4='地精工匠' WHERE entry=48280; /* name:
 UPDATE locales_creature SET name_loc4='神秘的肉' WHERE entry=48297; /* name: Mystery Meat */
 UPDATE locales_creature SET name_loc4='圆髻' WHERE entry=48301; /* name: Bun */
 UPDATE locales_creature SET name_loc4='Training Dummy' WHERE entry=48304; /* name: Training Dummy */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=48306; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc4='索基佐格将军' WHERE entry=48316; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc4='原始巨兽' WHERE entry=48320; /* name: Primordial Behemoth */
+UPDATE locales_creature SET name_loc4='沼桨弹头' WHERE entry=48324; /* name: The Bogpaddle Bullet */
 UPDATE locales_creature SET name_loc4='自由的飓风' WHERE entry=48334; /* name: Dust Devil */
 UPDATE locales_creature SET name_loc4='克罗苏斯' WHERE entry=48344; /* name: Kroshius */ /* subname: Herald of the Legion\'s Fall */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=48345; /* name: John J. Keeshan */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=48346; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='库德兰·蛮锤' WHERE entry=48365; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc4='索基佐格将军' WHERE entry=48372; /* name: General Thorg\'izog */
 UPDATE locales_creature SET name_loc4='翻滚岩灵' WHERE entry=48376; /* name: Rumbling Rockling */
 UPDATE locales_creature SET name_loc4='呼啸风灵' WHERE entry=48377; /* name: Swirling Stormling */
 UPDATE locales_creature SET name_loc4='涡流水灵' WHERE entry=48378; /* name: Whirling Waveling */
@@ -28496,6 +28618,7 @@ UPDATE locales_creature SET name_loc4='天堂炽焰' WHERE entry=48907; /* name:
 UPDATE locales_creature SET name_loc4='蛮锤狮鹫幼崽' WHERE entry=48915; /* name: Wildhammer Gryphon Hatchling */
 UPDATE locales_creature SET name_loc4='冰锥' WHERE entry=48916; /* name: Icicle */
 UPDATE locales_creature SET name_loc4='高山野兔' WHERE entry=48935; /* name: Alpine Hare */
+UPDATE locales_creature SET name_loc4='沼桨弹头' WHERE entry=48950; /* name: The Bogpaddle Bullet */
 UPDATE locales_creature SET name_loc4='辐射蟑螂' WHERE entry=48956; /* name: Irradiated Roach */
 UPDATE locales_creature SET name_loc4='火焰绽放' WHERE entry=48957; /* name: Fire Blossom */
 UPDATE locales_creature SET name_loc4='冰霜绽放' WHERE entry=48958; /* name: Frost Blossom */
@@ -28507,7 +28630,9 @@ UPDATE locales_creature SET name_loc4='加尔范上尉',subname_loc4='霜狼上�
 UPDATE locales_creature SET name_loc4='迷你页岩蛛' WHERE entry=48982; /* name: Tiny Shale Spider */
 UPDATE locales_creature SET name_loc4='喷泉' WHERE entry=48983; /* name: Geyser */
 UPDATE locales_creature SET name_loc4='赛场主管科鲁克莱德' WHERE entry=48996; /* name: Race Master Kronkrider */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=49013; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='克利夫·桑德玛尔' WHERE entry=49015; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=49017; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc4='库德兰·蛮锤' WHERE entry=49026; /* name: Kurdran Wildhammer */
 UPDATE locales_creature SET name_loc4='蛮锤狮鹫' WHERE entry=49031; /* name: Wildhammer Gryphon */
 UPDATE locales_creature SET name_loc4='水桶' WHERE entry=49036; /* name: Water Barrel */
@@ -28517,6 +28642,7 @@ UPDATE locales_creature SET name_loc4='赫利克斯的雇员' WHERE entry=49136;
 UPDATE locales_creature SET name_loc4='赫利克斯的雇员' WHERE entry=49137; /* name: Helix\' Crew */
 UPDATE locales_creature SET name_loc4='赫利克斯的雇员' WHERE entry=49138; /* name: Helix\' Crew */
 UPDATE locales_creature SET name_loc4='赫利克斯的雇员' WHERE entry=49139; /* name: Helix\' Crew */
+UPDATE locales_creature SET name_loc4='老帕特锐' WHERE entry=49147; /* name: Old Puttery */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=49151; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc4='弗比德',subname_loc4='裁判员' WHERE entry=49157; /* name: Fobeed */ /* subname: Race Announcer */
 UPDATE locales_creature SET name_loc4='祖祖比',subname_loc4='裁判员' WHERE entry=49158; /* name: Zuzubee */ /* subname: Race Announcer */
@@ -28538,11 +28664,15 @@ UPDATE locales_creature SET name_loc4='野生狮鹫' WHERE entry=49251; /* name:
 UPDATE locales_creature SET name_loc4='血毒' WHERE entry=49264; /* name: Bloodvenom */
 UPDATE locales_creature SET name_loc4='水晶碎片' WHERE entry=49267; /* name: Crystal Shard */
 UPDATE locales_creature SET name_loc4='库德兰·蛮锤' WHERE entry=49270; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=49276; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='克利夫·桑德玛尔' WHERE entry=49278; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=49314; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc4='布莱恩·铜须' WHERE entry=49351; /* name: Brann Bronzebeard */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=49353; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc4='库德兰·蛮锤' WHERE entry=49358; /* name: Kurdran Wildhammer */
+UPDATE locales_creature SET name_loc4='伊欧因·顿沃德' WHERE entry=49364; /* name: Eoin Dunwald */
 UPDATE locales_creature SET name_loc4='克利夫·桑德玛尔' WHERE entry=49367; /* name: Cliff Thundermar */
+UPDATE locales_creature SET name_loc4='东尼利·顿沃德' WHERE entry=49369; /* name: Donnelly Dunwald */
 UPDATE locales_creature SET name_loc4='卡拉兹工坊飞艇' WHERE entry=49373; /* name: Krazzworks Zeppelin */
 UPDATE locales_creature SET name_loc4='涡流蒸汽' WHERE entry=49388; /* name: Swirling Vapor */
 UPDATE locales_creature SET name_loc4='布兹' WHERE entry=49411; /* name: Boots */
@@ -28558,6 +28688,7 @@ UPDATE locales_creature SET name_loc4='烈焰风暴' WHERE entry=49432; /* name:
 UPDATE locales_creature SET name_loc4='芬克·恩霍尔' WHERE entry=49444; /* name: Finkle Einhorn */
 UPDATE locales_creature SET name_loc4='伊瑟拉' WHERE entry=49446; /* name: Ysera */
 UPDATE locales_creature SET name_loc4='打火钥匙' WHERE entry=49447; /* name: Ignition */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=49448; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='戈德林' WHERE entry=49450; /* name: Goldrinn */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=49459; /* name: Harrison Jones */
 UPDATE locales_creature SET name_loc4='哈里森·琼斯' WHERE entry=49460; /* name: Harrison Jones */
@@ -28682,6 +28813,7 @@ UPDATE locales_creature SET name_loc4='塞勒纳' WHERE entry=50355; /* name: Se
 UPDATE locales_creature SET name_loc4='易西斯' WHERE entry=50358; /* name: Aethis */
 UPDATE locales_creature SET name_loc4='乌戈拉克斯' WHERE entry=50359; /* name: Urgolax */
 UPDATE locales_creature SET name_loc4='死亡之翼',subname_loc4='死亡的化身' WHERE entry=50369; /* name: Deathwing */ /* subname: Aspect of Death */
+UPDATE locales_creature SET name_loc4='阿娜德尼' WHERE entry=50372; /* name: Aradne */
 UPDATE locales_creature SET name_loc4='愤怒之土' WHERE entry=50376; /* name: Angered Earth */
 UPDATE locales_creature SET name_loc4='兰德鲁的小拆' WHERE entry=50384; /* name: Landro\'s Lil\' XT */
 UPDATE locales_creature SET name_loc4='束缚烈焰' WHERE entry=50417; /* name: Bound Flames */
@@ -28741,6 +28873,7 @@ UPDATE locales_creature SET name_loc4='盲眼守卫奥杜' WHERE entry=50857; /*
 UPDATE locales_creature SET name_loc4='微光精龙' WHERE entry=50859; /* name: Glimmer */
 UPDATE locales_creature SET name_loc4='屠夫拉佐克劳' WHERE entry=50869; /* name: Razorclaw the Butcher */
 UPDATE locales_creature SET name_loc4='利齿' WHERE entry=50911; /* name: Sharptooth */
+UPDATE locales_creature SET name_loc4='薇儿外婆' WHERE entry=50913; /* name: Grandma Wahl */
 UPDATE locales_creature SET name_loc4='狼之鬼灵' WHERE entry=50923; /* name: Lupine Spectre */
 UPDATE locales_creature SET name_loc4='军马' WHERE entry=50935; /* name: Charger */
 UPDATE locales_creature SET name_loc4='络腮胡' WHERE entry=50964; /* name: Chops */
@@ -28982,6 +29115,7 @@ UPDATE locales_creature SET name_loc4='古拉巴什狂暴者' WHERE entry=52077;
 UPDATE locales_creature SET name_loc4='蛮锤哨兵' WHERE entry=52084; /* name: Wildhammer Sentry */
 UPDATE locales_creature SET name_loc4='拉扎什蝰蛇' WHERE entry=52085; /* name: Razzashi Adder */
 UPDATE locales_creature SET name_loc4='哈卡巫医' WHERE entry=52086; /* name: Hakkari Witch Doctor */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=52134; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='玛法里奥·怒风' WHERE entry=52135; /* name: Malfurion Stormrage */
 UPDATE locales_creature SET name_loc4='古拉巴什猎头者' WHERE entry=52136; /* name: Gurubashi Headhunter */
 UPDATE locales_creature SET name_loc4='巫毒之魂' WHERE entry=52137; /* name: Voodoo Spirit */
@@ -29041,6 +29175,7 @@ UPDATE locales_creature SET name_loc4='克拉兹克' WHERE entry=52297; /* name:
 UPDATE locales_creature SET name_loc4='埃尔加丁爵士' WHERE entry=52298; /* name: Sir S. J. Erlgadin */
 UPDATE locales_creature SET name_loc4='高阶祭司温诺希斯' WHERE entry=52301; /* name: High Priest Venoxis */
 UPDATE locales_creature SET name_loc4='奥根' WHERE entry=52304; /* name: Ohgan */
+UPDATE locales_creature SET name_loc4='玛乌提' WHERE entry=52313; /* name: Mauti */
 UPDATE locales_creature SET name_loc4='痛苦泪池' WHERE entry=52320; /* name: Pool of Acrid Tears */
 UPDATE locales_creature SET name_loc4='毁灭猛击' WHERE entry=52324; /* name: Devastating Slam */
 UPDATE locales_creature SET name_loc4='古拉巴什饮血者' WHERE entry=52325; /* name: Gurubashi Blood Drinker */
@@ -29057,6 +29192,7 @@ UPDATE locales_creature SET name_loc4='风险投资公司苦工' WHERE entry=523
 UPDATE locales_creature SET name_loc4='风险投资公司雇佣兵' WHERE entry=52357; /* name: Venture Co. Mercenary */
 UPDATE locales_creature SET name_loc4='欧库塔尔' WHERE entry=52363; /* name: Occu\'thar */
 UPDATE locales_creature SET name_loc4='风筝龙' WHERE entry=52367; /* name: Dragon Kite */
+UPDATE locales_creature SET name_loc4='玛乌提' WHERE entry=52372; /* name: Mauti */
 UPDATE locales_creature SET name_loc4='猎豹幼崽' WHERE entry=52374; /* name: Panther Cub */
 UPDATE locales_creature SET name_loc4='土堆' WHERE entry=52378; /* name: Dirt Mound */
 UPDATE locales_creature SET name_loc4='高阶祭司基尔娜拉' WHERE entry=52390; /* name: High Priestess Kilnara */
@@ -29116,6 +29252,8 @@ UPDATE locales_creature SET name_loc4='阿曼尼劫持者' WHERE entry=52638; /*
 UPDATE locales_creature SET name_loc4='赞达拉精神医师' WHERE entry=52667; /* name: Zandalar Headshrinker */
 UPDATE locales_creature SET name_loc4='麦托克劳' WHERE entry=52669; /* name: Matoclaw */
 UPDATE locales_creature SET name_loc4='贝丝缇拉克' WHERE entry=52675; /* name: Beth\'tilac */ /* subname: The Red Widow */
+UPDATE locales_creature SET name_loc4='查巴尔' WHERE entry=52684; /* name: Chabal */
+UPDATE locales_creature SET name_loc4='梅维克' WHERE entry=52685; /* name: Maywiki */
 UPDATE locales_creature SET name_loc4='海加尔幼熊' WHERE entry=52688; /* name: Hyjal Bear Cub */
 UPDATE locales_creature SET name_loc4='全知者阿塔比姆' WHERE entry=52689; /* name: Al\'tabim the All-Seeing */
 UPDATE locales_creature SET name_loc4='盲眼法希尔' WHERE entry=52690; /* name: Falthir the Sightless */
@@ -29159,6 +29297,7 @@ UPDATE locales_creature SET name_loc4='死亡之翼' WHERE entry=52869; /* name:
 UPDATE locales_creature SET name_loc4='鞭尾幼龙' WHERE entry=52877; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc4='鞭尾幼龙' WHERE entry=52894; /* name: Lashtail Hatchling */
 UPDATE locales_creature SET name_loc4='莫希斯·轻翼',subname_loc4='猛禽德鲁伊' WHERE entry=52901; /* name: Morthis Whisperwing */ /* subname: Druid of the Talon */
+UPDATE locales_creature SET name_loc4='指挥官加洛德·影歌' WHERE entry=52902; /* name: Commander Jarod Shadowsong */
 UPDATE locales_creature SET name_loc4='希萨莉·黑鸦',subname_loc4='猛禽德鲁伊' WHERE entry=52907; /* name: Thisalee Crow */ /* subname: Druid of the Talon */
 UPDATE locales_creature SET name_loc4='德尔德伦·鸦榆' WHERE entry=52921; /* name: Deldren Ravenelm */
 UPDATE locales_creature SET name_loc4='沃金' WHERE entry=52924; /* name: Vol\'jin */
@@ -29251,9 +29390,11 @@ UPDATE locales_creature SET name_loc4='巨龙之怒，泰蕾苟萨的寄魂杖' 
 UPDATE locales_creature SET name_loc4='塔琳德拉' WHERE entry=53424; /* name: Tarindrella */
 UPDATE locales_creature SET name_loc4='布罗尔·熊皮' WHERE entry=53426; /* name: Broll Bearmantle */
 UPDATE locales_creature SET name_loc4='萨萨里安' WHERE entry=53427; /* name: Thassarian */
+UPDATE locales_creature SET name_loc4='约翰·J·基沙恩' WHERE entry=53428; /* name: John J. Keeshan */
 UPDATE locales_creature SET name_loc4='“怪医”克斯宾' WHERE entry=53429; /* name: "Doc" Cogspin */
 UPDATE locales_creature SET name_loc4='镜像' WHERE entry=53438; /* name: Mirror Image */
 UPDATE locales_creature SET name_loc4='肯维雷' WHERE entry=53441; /* name: Kin\'weelay */
+UPDATE locales_creature SET name_loc4='女祭司胡纳拉' WHERE entry=53442; /* name: Priestess Hu\'rala */
 UPDATE locales_creature SET name_loc4='图拉克·符文图腾' WHERE entry=53447; /* name: Turak Runetotem */
 UPDATE locales_creature SET name_loc4='绿色气球' WHERE entry=53453; /* name: Green Balloon */
 UPDATE locales_creature SET name_loc4='黄色气球' WHERE entry=53454; /* name: Yellow Balloon */
@@ -29263,7 +29404,7 @@ UPDATE locales_creature SET name_loc4='暗月气球' WHERE entry=53457; /* name:
 UPDATE locales_creature SET name_loc4='炽炎之热' WHERE entry=53473; /* name: Blazing Heat */
 UPDATE locales_creature SET name_loc4='希萨莉·黑鸦' WHERE entry=53481; /* name: Thisalee Crow */
 UPDATE locales_creature SET name_loc4='熔火流星' WHERE entry=53489; /* name: Molten Meteor */
-UPDATE locales_creature SET name_loc4='贝尔洛克' WHERE entry=53494; /* name: Baleroc */ /* subname: The Gatekeeper */
+UPDATE locales_creature SET name_loc4='贝尔洛克',subname_loc4='护门人' WHERE entry=53494; /* name: Baleroc */ /* subname: The Gatekeeper */
 UPDATE locales_creature SET name_loc4='熔火巨石' WHERE entry=53496; /* name: Molten Boulder */
 UPDATE locales_creature SET name_loc4='熔火巨石' WHERE entry=53497; /* name: Molten Boulder */
 UPDATE locales_creature SET name_loc4='熔火巨石' WHERE entry=53498; /* name: Molten Boulder */
@@ -29278,6 +29419,7 @@ UPDATE locales_creature SET name_loc4='肥硕的熔岩虫' WHERE entry=53520; /*
 UPDATE locales_creature SET name_loc4='阿格娜' WHERE entry=53536; /* name: Aggra */
 UPDATE locales_creature SET name_loc4='萨尔' WHERE entry=53537; /* name: Thrall */
 UPDATE locales_creature SET name_loc4='炽炎之能' WHERE entry=53554; /* name: Blazing Power */
+UPDATE locales_creature SET name_loc4='女祭司萨阿莉亚' WHERE entry=53556; /* name: Priestess Thaalia */
 UPDATE locales_creature SET name_loc4='羽月哨兵' WHERE entry=53562; /* name: Feathermoon Sentinel */
 UPDATE locales_creature SET name_loc4='月光林地守卫' WHERE entry=53563; /* name: Moonglade Warden */
 UPDATE locales_creature SET name_loc4='拉扎什毒蛇' WHERE entry=53569; /* name: Razzashi Serpent */
@@ -29379,7 +29521,7 @@ UPDATE locales_creature SET name_loc4='火山' WHERE entry=54071; /* name: Volca
 UPDATE locales_creature SET name_loc4='萨纳斯' WHERE entry=54072; /* name: Sanath Lim-yo */ /* subname: Servant of Archmage Xylem */
 UPDATE locales_creature SET name_loc4='诱捕根须' WHERE entry=54074; /* name: Entrapping Roots */
 UPDATE locales_creature SET name_loc4='拉格纳罗斯' WHERE entry=54081; /* name: Ragnaros */
-UPDATE locales_creature SET name_loc4='贝尔洛克' WHERE entry=54085; /* name: Baleroc */ /* subname: The Gatekeeper */
+UPDATE locales_creature SET name_loc4='贝尔洛克',subname_loc4='护门人' WHERE entry=54085; /* name: Baleroc */ /* subname: The Gatekeeper */
 UPDATE locales_creature SET name_loc4='贝丝缇拉克' WHERE entry=54089; /* name: Beth\'tilac */ /* subname: The Red Widow */
 UPDATE locales_creature SET name_loc4='雷奥利斯领主' WHERE entry=54093; /* name: Lord Rhyolith */
 UPDATE locales_creature SET name_loc4='奥利瑟拉佐尔' WHERE entry=54097; /* name: Alysrazor */
@@ -29680,6 +29822,7 @@ UPDATE locales_creature SET name_loc4='地狱巨犬' WHERE entry=56001; /* name:
 UPDATE locales_creature SET name_loc4='恶魔卫士' WHERE entry=56002; /* name: Felguard */
 UPDATE locales_creature SET name_loc4='克鲁·粗线' WHERE entry=56025; /* name: Cro Threadstrong */
 UPDATE locales_creature SET name_loc4='达尔玛里' WHERE entry=56026; /* name: Darmari */
+UPDATE locales_creature SET name_loc4='风暴先驱埃尔林' WHERE entry=56027; /* name: Stormherald Eljrrin */
 UPDATE locales_creature SET name_loc4='暗月豹幼崽' WHERE entry=56031; /* name: Darkmoon Cub */
 UPDATE locales_creature SET name_loc4='地狱火爪牙' WHERE entry=56036; /* name: Infernal */
 UPDATE locales_creature SET name_loc4='奥术之球' WHERE entry=56077; /* name: Arcane Sphere */

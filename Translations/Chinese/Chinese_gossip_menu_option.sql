@@ -2899,6 +2899,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc4='艾泽拉斯英雄传' W
 UPDATE locales_gossip_menu_option SET option_text_loc4='穿越黑暗之门' WHERE menu_id=9197 AND id=1; /* option_text: Through the Dark Portal */
 UPDATE locales_gossip_menu_option SET option_text_loc4='背叛者的仆从' WHERE menu_id=9197 AND id=4; /* option_text: Servants of the Betrayer */
 UPDATE locales_gossip_menu_option SET option_text_loc4='猎杀伊利丹' WHERE menu_id=9197 AND id=5; /* option_text: Hunt for Illidan */
+UPDATE locales_gossip_menu_option SET option_text_loc4='战争之鼓' WHERE menu_id=9197 AND id=6; /* option_text: The Drums of War */
 UPDATE locales_gossip_menu_option SET option_text_loc4='荣耀之地' WHERE menu_id=9197 AND id=8; /* option_text: Fields of honor */
 UPDATE locales_gossip_menu_option SET option_text_loc4='让我看看你的货物。' WHERE menu_id=9198 AND id=0; /* option_text: Let me browse your goods. */
 UPDATE locales_gossip_menu_option SET option_text_loc4='你是谁？' WHERE menu_id=9199 AND id=0; /* option_text: Who are you? */
