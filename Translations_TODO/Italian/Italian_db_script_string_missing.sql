@@ -40,8 +40,8 @@ UPDATE trans_words SET content_loc9='Take a stone from the table. Presently You 
 UPDATE trans_words SET content_loc9='%s appeals to the mighty armies of the Scourge!' WHERE word_id = 8717;
 UPDATE trans_words SET content_loc9='Zug zug! Happy to help!' WHERE word_id = 7065;
 UPDATE trans_words SET content_loc9='Perhaps so, but it\'s only a matter of time until we break back into Ulduar. Any luck finding a way to teleport inside?' WHERE word_id = 8130;
-UPDATE trans_words SET content_loc9='Thank you, $r! Your service to the Mag\'har will not be forgotten.' WHERE word_id = 8103;
-UPDATE trans_words SET content_loc9='Hear ye, denizens of Tanaris! Let it be known $n is an exalted member of the Mithril Order. A blacksmith of honor, dedication, and infinite patience. Three cheers for $n!' WHERE word_id = 6979;
+UPDATE trans_words SET content_loc9='Thank you, $R! Your service to the Mag\'har will not be forgotten.' WHERE word_id = 8103;
+UPDATE trans_words SET content_loc9='Hear ye, denizens of Tanaris! Let it be known $N is an exalted member of the Mithril Order. A blacksmith of honor, dedication, and infinite patience. Three cheers for $N!' WHERE word_id = 6979;
 UPDATE trans_words SET content_loc9='Peace and patience be with you, $N. Remain strong always.' WHERE word_id = 6978;
 UPDATE trans_words SET content_loc9='Until we meet again, brave one.' WHERE word_id = 6958;
 UPDATE trans_words SET content_loc9='None at all. I suspect it has something to do with that giant mechanical construct that our scouts spotted in front of the gate.' WHERE word_id = 8131;
@@ -65,11 +65,11 @@ UPDATE trans_words SET content_loc9='These aren\'t Shango\'s tracks.' WHERE word
 UPDATE trans_words SET content_loc9='Follow, $N. I will soon begin the summoning...' WHERE word_id = 6954;
 UPDATE trans_words SET content_loc9='Please, mortal, seek out Magister Hathorel in Dalaran. He might be able to negotiate with the Silver Covenant for access to the book.' WHERE word_id = 8712;
 UPDATE trans_words SET content_loc9='No! I beg you! Please don\'t kill me!' WHERE word_id = 7760;
-UPDATE trans_words SET content_loc9='You can\'t possibly mean to.... I\'ll write you up for this, $c!' WHERE word_id = 7763;
+UPDATE trans_words SET content_loc9='You can\'t possibly mean to.... I\'ll write you up for this, $C!' WHERE word_id = 7763;
 UPDATE trans_words SET content_loc9='What do you mean my time has come?! I\'ll kill you where you stand!' WHERE word_id = 7761;
 UPDATE trans_words SET content_loc9='Be sure to read over the notes in my journal. You will find them to be invaluable in overcoming the tower\'s defenses' WHERE word_id = 8711;
+UPDATE trans_words SET content_loc9='Whoops!' WHERE word_id = 6951;
 UPDATE trans_words SET content_loc9='That\'s interesting...' WHERE word_id = 6949;
-UPDATE trans_words SET content_loc9='I need to consult Noram and Horatio.' WHERE word_id = 6950;
 UPDATE trans_words SET content_loc9='%s begins a spell of summoning...' WHERE word_id = 6959;
 UPDATE trans_words SET content_loc9='Be patient $N. The torch is almost complete.' WHERE word_id = 6948;
 UPDATE trans_words SET content_loc9='It is done...' WHERE word_id = 6960;
@@ -93,7 +93,7 @@ UPDATE trans_words SET content_loc9='We will suffer no demon\'s servant in our l
 UPDATE trans_words SET content_loc9='Ribbit! No!! This cannot...ribbit...be! You have duped me with...ribbit...your foul trickery! Ribbit!' WHERE word_id = 7429;
 UPDATE trans_words SET content_loc9='Hey there, Belm! Give me a mug of Thunder Ale, and one for my good friend!' WHERE word_id = 8699;
 UPDATE trans_words SET content_loc9='As will we all.' WHERE word_id = 8698;
-UPDATE trans_words SET content_loc9='The invisibility liquor is ready for you, $n.' WHERE word_id = 7005;
+UPDATE trans_words SET content_loc9='The invisibility liquor is ready for you, $N.' WHERE word_id = 7005;
 UPDATE trans_words SET content_loc9='$N may have found the remains of a prismatic blade, Kalecgos. Will you offer your help to our visitor?' WHERE word_id = 8696;
 UPDATE trans_words SET content_loc9='You believe our allies will not be able to control the power of the swords?' WHERE word_id = 8697;
 UPDATE trans_words SET content_loc9='Mortal champions have long used these weapons to combat evil. I see no reason to keep the swords from them in this battle.' WHERE word_id = 8695;
@@ -136,6 +136,7 @@ UPDATE trans_words SET content_loc9='The enemy won`t pass!' WHERE word_id = 8679
 UPDATE trans_words SET content_loc9='When my change will come.. there is my wife and children...' WHERE word_id = 8680;
 UPDATE trans_words SET content_loc9='Meal, drinks!' WHERE word_id = 8677;
 UPDATE trans_words SET content_loc9='Darnassus is under reliable protection!' WHERE word_id = 8678;
+UPDATE trans_words SET content_loc9='Fuud!' WHERE word_id = 8675;
 UPDATE trans_words SET content_loc9='Ironforge is under reliable protection!' WHERE word_id = 8676;
 UPDATE trans_words SET content_loc9='How can anyone live like this!?' WHERE word_id = 8674;
 UPDATE trans_words SET content_loc9='This must be fixed!' WHERE word_id = 8673;
@@ -154,7 +155,7 @@ UPDATE trans_words SET content_loc9='Tanaris is our lend !! ZZzzZZ' WHERE word_i
 UPDATE trans_words SET content_loc9='Prizes! Get your prizes right here! Get over here and turn in your Darkmoon Faire Prize Tickets for valuable prizes!' WHERE word_id = 7471;
 UPDATE trans_words SET content_loc9='Come speak with me, and what once was cloudy shall become crystal clear.' WHERE word_id = 7472;
 UPDATE trans_words SET content_loc9='Think I\'m starting to wear a rut in the paving stones' WHERE word_id = 8662;
-UPDATE trans_words SET content_loc9='As if I don\'t have better things to do in my old age than carry buckets of water' WHERE word_id = 8660;
+UPDATE trans_words SET content_loc9='As if I don\'t have better things to do in my old age than carry buckets of water.' WHERE word_id = 5745;
 UPDATE trans_words SET content_loc9='Where\'s the water, Emma? Get the water, Emma?' WHERE word_id = 8661;
 UPDATE trans_words SET content_loc9='If\'n it weren\'t fer me, that lot wouldn\'t know what water looks like.' WHERE word_id = 8659;
 UPDATE trans_words SET content_loc9='Deja vu. For a moment, I thought I was back home... before the plague' WHERE word_id = 8658;
@@ -173,6 +174,7 @@ UPDATE trans_words SET content_loc9='I think i see something.' WHERE word_id = 7
 UPDATE trans_words SET content_loc9='I hope that was a fish!' WHERE word_id = 7103;
 UPDATE trans_words SET content_loc9='Worm goes on the hook, hook goes in the water, Fish is in the water, our fish.' WHERE word_id = 7104;
 UPDATE trans_words SET content_loc9='Can you imagine?' WHERE word_id = 7105;
+UPDATE trans_words SET content_loc9='Wow.' WHERE word_id = 7107;
 UPDATE trans_words SET content_loc9='My father says that\'s just a story.' WHERE word_id = 7108;
 UPDATE trans_words SET content_loc9='That\'s neat.' WHERE word_id = 7109;
 UPDATE trans_words SET content_loc9='I\'ll never stop. Never...' WHERE word_id = 7533;
@@ -202,7 +204,6 @@ UPDATE trans_words SET content_loc9='Right. We just busted our tails to haul all
 UPDATE trans_words SET content_loc9='The wind speaks of our enemies\' movements, Ashyen. The Naga will attack again.' WHERE word_id = 7479;
 UPDATE trans_words SET content_loc9='Very well. When that decision is made, I will be ready. Let us hope it won\'t be too late.' WHERE word_id = 7480;
 UPDATE trans_words SET content_loc9='I\'m up to looking into that bounty after this shift.' WHERE word_id = 7486;
-UPDATE trans_words SET content_loc9='You want to go do the bounty off of this wanted poster after this shift is over?' WHERE word_id = 7487;
 UPDATE trans_words SET content_loc9='Be the first on your block to own the incredible Electrostatic Maculation Blaster!' WHERE word_id = 6156;
 UPDATE trans_words SET content_loc9='Derived from cutting edge Shattered Hand Offensive military technology, it blasts away stubborn stains with ease!' WHERE word_id = 7532;
 UPDATE trans_words SET content_loc9='Wine stains, grass stains, even pet stains are no match for the Electrostatic Maculation Blaster!' WHERE word_id = 6154;
@@ -232,23 +233,9 @@ UPDATE trans_words SET content_loc9='Come to me true believers, and see what the
 UPDATE trans_words SET content_loc9='I WILL DESTROY YOU ALL' WHERE word_id = 8638;
 UPDATE trans_words SET content_loc9='NOBODY WILL GET THROUGH ME' WHERE word_id = 7548;
 UPDATE trans_words SET content_loc9='The longer you wait, the less future you have for me to foretell.' WHERE word_id = 7547;
-UPDATE trans_words SET content_loc9='The Scourge are a blemish upon these pristine lands. By the might of my creators, I will crush every last one of their decrepit bones under my heel.
-
-I want to stop the Scourge as much as you do. How can I help?' WHERE word_id = 8637;
-UPDATE trans_words SET content_loc9='The titans did not create life overnight. The process was gradual and required a great deal of experimentation and iteration.
-
-It is for that reason that highly protected places such as Sholazar Basin exist.
-
-To ensure the safety of their experimentation sites, the titans created a defense mechanism. Its destructive force is unparalleled however, and I will reveal no more unless you swear your fealty to my cause.
-
-You can trust me. I am no friend of the Lich King\'s.' WHERE word_id = 8636;
-UPDATE trans_words SET content_loc9='It borders on sacrilege that these secrets be revealed to a mortal such as yourself, but I have little choice.
-
-Ever since Freya, daughter of the titans, left me here I\'ve had but one task and I cannot fail. Life must be protected at any cost.
-
-There is a waygate that links this place with another very much like this one. It is there that the weapon we seek can be found.
-
-I will not fail.' WHERE word_id = 8635;
+UPDATE trans_words SET content_loc9='The Scourge are a blemish upon these pristine lands. By the might of my creators, I will crush every last one of their decrepit bones under my heel.$BI want to stop the Scourge as much as you do. How can I help?' WHERE word_id = 8637;
+UPDATE trans_words SET content_loc9='The titans did not create life overnight. The process was gradual and required a great deal of experimentation and iteration.$BIt is for that reason that highly protected places such as Sholazar Basin exist.$BTo ensure the safety of their experimentation sites, the titans created a defense mechanism. Its destructive force is unparalleled however, and I will reveal no more unless you swear your fealty to my cause.$BYou can trust me. I am no friend of the Lich King\'s.' WHERE word_id = 8636;
+UPDATE trans_words SET content_loc9='It borders on sacrilege that these secrets be revealed to a mortal such as yourself, but I have little choice.$B$BEver since Freya, daughter of the titans, left me here I\'ve had but one task and I cannot fail.  Life must be protected at any cost.$B$BThere is a waygate that links this place with another very much like this one.  It is there that the weapon we seek can be found.' WHERE word_id = 199276;
 UPDATE trans_words SET content_loc9='Take a Candle of Beckoning from this crate, $N.' WHERE word_id = 7691;
 UPDATE trans_words SET content_loc9='I. . .I. . .don\'t. . .feel. . .right. . .' WHERE word_id = 6981;
 UPDATE trans_words SET content_loc9='My mind. . .my flesh. . .I\'m. . .rotting. . . .!' WHERE word_id = 6980;
@@ -275,7 +262,6 @@ UPDATE trans_words SET content_loc9='... oops.' WHERE word_id = 7421;
 UPDATE trans_words SET content_loc9='Hey $N! Don\'t forget to grab a crate, a manual and a command stick!' WHERE word_id = 6985;
 UPDATE trans_words SET content_loc9='Thank you again for your aid. May the wind always be at your back during your travels.' WHERE word_id = 7705;
 UPDATE trans_words SET content_loc9='%s listens to $N\'s plea.' WHERE word_id = 6987;
-UPDATE trans_words SET content_loc9='You were right to come. My wisdom will be yours.' WHERE word_id = 6986;
 UPDATE trans_words SET content_loc9='%s creates his toxin...' WHERE word_id = 6989;
 UPDATE trans_words SET content_loc9='There we are, $N. The toxin is ready.' WHERE word_id = 6988;
 UPDATE trans_words SET content_loc9='%s fills a container with the toxin.' WHERE word_id = 6990;
@@ -283,11 +269,13 @@ UPDATE trans_words SET content_loc9='The toxin is ready, $N.' WHERE word_id = 72
 UPDATE trans_words SET content_loc9='Okay, crew. Get to work on getting these bones installed.' WHERE word_id = 6991;
 UPDATE trans_words SET content_loc9='%s snorts a speck of dream dust up his nose...' WHERE word_id = 7001;
 UPDATE trans_words SET content_loc9='%s is dazed...' WHERE word_id = 7000;
+UPDATE trans_words SET content_loc9='ACHOO!' WHERE word_id = 6999;
 UPDATE trans_words SET content_loc9='Wow! $N, that dream dust is powerful stuff!' WHERE word_id = 7217;
 UPDATE trans_words SET content_loc9='%s takes big swig of ale.' WHERE word_id = 6997;
 UPDATE trans_words SET content_loc9='That was refreshing. Now there\'s information that needs to be told...' WHERE word_id = 6996;
 UPDATE trans_words SET content_loc9='I believe the Forsaken are misleading the allies of the Horde... wait... I feel so... dizzy...' WHERE word_id = 6995;
 UPDATE trans_words SET content_loc9='%s writhes in pain.' WHERE word_id = 7219;
+UPDATE trans_words SET content_loc9='AAAAAAAAAAAAAAAARGH!' WHERE word_id = 7220;
 UPDATE trans_words SET content_loc9='Hmm... I wonder...' WHERE word_id = 7937;
 UPDATE trans_words SET content_loc9='Now, where is it?' WHERE word_id = 7938;
 UPDATE trans_words SET content_loc9='Stupid mages... always using the last of a reagent and never replacing it.' WHERE word_id = 7939;
@@ -300,7 +288,7 @@ UPDATE trans_words SET content_loc9='Freedom at last! I must return to Warsong H
 UPDATE trans_words SET content_loc9='I am forever indebted to you, friend.' WHERE word_id = 7896;
 UPDATE trans_words SET content_loc9='Thank you, friend.' WHERE word_id = 7895;
 UPDATE trans_words SET content_loc9='You have my thanks, stranger.' WHERE word_id = 7898;
-UPDATE trans_words SET content_loc9='This is great news! Your efforts have indeed saved us, $n!' WHERE word_id = 8633;
+UPDATE trans_words SET content_loc9='This is great news! Your efforts have indeed saved us, $N!' WHERE word_id = 8633;
 UPDATE trans_words SET content_loc9='I feel... different.' WHERE word_id = 8632;
 UPDATE trans_words SET content_loc9='No more mister nice wolvar!' WHERE word_id = 8631;
 UPDATE trans_words SET content_loc9='Rageclaw free! Troll die now!' WHERE word_id = 8626;
@@ -346,6 +334,9 @@ UPDATE trans_words SET content_loc9='Yes ma\'am, business is brisk!' WHERE word_
 UPDATE trans_words SET content_loc9='Thanks for the cheese!' WHERE word_id = 7028;
 UPDATE trans_words SET content_loc9='Time to get back to the shop:' WHERE word_id = 8605;
 UPDATE trans_words SET content_loc9='I\'m back!' WHERE word_id = 7030;
+UPDATE trans_words SET content_loc9='YEEOOWCH!' WHERE word_id = 8603;
+UPDATE trans_words SET content_loc9='AYYYIEEE!' WHERE word_id = 8604;
+UPDATE trans_words SET content_loc9='AAAAHHH!' WHERE word_id = 8602;
 UPDATE trans_words SET content_loc9='I\'m not afraid of anything -- bring it on!' WHERE word_id = 7774;
 UPDATE trans_words SET content_loc9='Arise from the earth, my brothers!' WHERE word_id = 7757;
 UPDATE trans_words SET content_loc9='Our iron masters have a mission for us!' WHERE word_id = 7758;
@@ -356,7 +347,6 @@ UPDATE trans_words SET content_loc9='Well, then how, yes? I will not surrender w
 UPDATE trans_words SET content_loc9='Spirits of Water, I give you praise, and I beg of you a favour. You have heard $N\'s pleas, and I trust his inent is noble. Please, will you aid us?' WHERE word_id = 7572;
 UPDATE trans_words SET content_loc9='Thank you great spirit. Thank you!' WHERE word_id = 6973;
 UPDATE trans_words SET content_loc9='Ma reth bromo zoln kilagrin dra ma zoern tu ko fraht ka tadrom Ma krin drinor zaln dirnor Ma krin kan aasrugel korsul' WHERE word_id = 7031;
-UPDATE trans_words SET content_loc9='Fragment analysis underway.' WHERE word_id = 8596;
 UPDATE trans_words SET content_loc9='Object identified: Val\'anyr, hammer of ancient kings.' WHERE word_id = 8597;
 UPDATE trans_words SET content_loc9='Created by the titans themselves, Val\'anyr was given to the first earthen king, Urel Stoneheart. With the hammer he was to create and give life to the rest of his brethren.' WHERE word_id = 8598;
 UPDATE trans_words SET content_loc9='Val\'anyr was shattered during the first war between the earthen and the iron dwarves. The weapon\'s remnants were believed lost in the conflict.' WHERE word_id = 8595;
@@ -444,7 +434,7 @@ UPDATE trans_words SET content_loc9='Thank you, $N. It looks like they\'re going
 UPDATE trans_words SET content_loc9='I have an idea. Let\'s plant this shard in the ground and see what happens.' WHERE word_id = 7722;
 UPDATE trans_words SET content_loc9='The evil emanating from the crystal shard has lured one of the colossi. Put it down quick!' WHERE word_id = 7723;
 UPDATE trans_words SET content_loc9='There, it is completed.' WHERE word_id = 7724;
-UPDATE trans_words SET content_loc9='$r, do you know who Kolphis Darkscale is?' WHERE word_id = 7725;
+UPDATE trans_words SET content_loc9='$R, do you know who Kolphis Darkscale is?' WHERE word_id = 7725;
 UPDATE trans_words SET content_loc9='Yes, he\'s second-in-command of the wyrmcult at the Blackwing Coven to the west.' WHERE word_id = 7726;
 UPDATE trans_words SET content_loc9='The arakkoa are hidden... everywhere!' WHERE word_id = 7727;
 UPDATE trans_words SET content_loc9='Rest now, Adaris. You need to recover your strength.' WHERE word_id = 7728;
@@ -469,12 +459,12 @@ UPDATE trans_words SET content_loc9='%s smells the meat, awakens from his slumbe
 UPDATE trans_words SET content_loc9='What do they expect, making the bats come in at that angle? Broken necks and gamey bat stew, that\'s what they get.' WHERE word_id = 6883;
 UPDATE trans_words SET content_loc9='I wonder how many reinforcements need to suffer injury before they allows us to chop down these idiotic trees. They\'re costing us a fortune in bats. Maybe I\'ll rig a harness or two...' WHERE word_id = 8519;
 UPDATE trans_words SET content_loc9='DARKSHIRE...I HUNGER!!' WHERE word_id = 7571;
-UPDATE trans_words SET content_loc9='Beware, $n! Look to the west!' WHERE word_id = 7234;
-UPDATE trans_words SET content_loc9='Careful here, $c. These trolls killed their own snake god!' WHERE word_id = 8517;
+UPDATE trans_words SET content_loc9='Beware, $N! Look to the west!' WHERE word_id = 7234;
+UPDATE trans_words SET content_loc9='Careful here, $C. These trolls killed their own snake god!' WHERE word_id = 8517;
 UPDATE trans_words SET content_loc9='See you around.' WHERE word_id = 8514;
 UPDATE trans_words SET content_loc9='Right. I\'d better get back to the sergeant then.' WHERE word_id = 8515;
-UPDATE trans_words SET content_loc9='Thanks, $c.' WHERE word_id = 8516;
-UPDATE trans_words SET content_loc9='Thank you, $r. I will take this miserable cur from you now.' WHERE word_id = 7732;
+UPDATE trans_words SET content_loc9='Thanks, $C.' WHERE word_id = 8516;
+UPDATE trans_words SET content_loc9='Thank you, $R. I will take this miserable cur from you now.' WHERE word_id = 7732;
 UPDATE trans_words SET content_loc9='Raliq teach you lesson now!' WHERE word_id = 7436;
 UPDATE trans_words SET content_loc9='F\'woooroonn! Coosh\'coosh pay nothing! Die!' WHERE word_id = 7434;
 UPDATE trans_words SET content_loc9='I choose the third option: KILLING YOU!' WHERE word_id = 7435;
@@ -490,7 +480,7 @@ UPDATE trans_words SET content_loc9='The anguish of ten-thousand years awaits an
 UPDATE trans_words SET content_loc9='If you think I\'ll betray my friend that easily, think again! Face me, you scoundrel!' WHERE word_id = 7767;
 UPDATE trans_words SET content_loc9='Thank you for freeing me, $N! I\'m going to make my way to Shattrath!' WHERE word_id = 8504;
 UPDATE trans_words SET content_loc9='It\'s good to finally see you, courier. Krasus has entrusted us with one of the few remaining copies of Ancient Dragonforged Blades.' WHERE word_id = 8505;
-UPDATE trans_words SET content_loc9='[Furbolg] Thank you, $n!' WHERE word_id = 7628;
+UPDATE trans_words SET content_loc9='[Furbolg] Thank you, $N!' WHERE word_id = 7628;
 UPDATE trans_words SET content_loc9='[Furbolg] The prophecy is true!' WHERE word_id = 7629;
 UPDATE trans_words SET content_loc9='[Furbolg] Those remaining at Stillpine Hold will welcome you as a hero!' WHERE word_id = 7631;
 UPDATE trans_words SET content_loc9='[Furbolg] The Stillpine furbolgs will not soon forget your bravery!' WHERE word_id = 7630;
@@ -513,7 +503,6 @@ UPDATE trans_words SET content_loc9='My soul has been wracked with unbearable an
 UPDATE trans_words SET content_loc9='I recall clearly the gleam of pride in his eye as he stood before me, eager to defeat the enemies of the Light...' WHERE word_id = 8486;
 UPDATE trans_words SET content_loc9='Eager to defend his people, no matter the cost.' WHERE word_id = 8485;
 UPDATE trans_words SET content_loc9='It is this memory of Arthas that I choose to keep in my heart.' WHERE word_id = 8483;
-UPDATE trans_words SET content_loc9='I shall always be in your debt, friend.' WHERE word_id = 8484;
 UPDATE trans_words SET content_loc9='Thank you.' WHERE word_id = 8482;
 UPDATE trans_words SET content_loc9='Oh, lad...' WHERE word_id = 8480;
 UPDATE trans_words SET content_loc9='How I miss those endless days in Lordaeron...' WHERE word_id = 8481;
@@ -558,7 +547,6 @@ UPDATE trans_words SET content_loc9='Hmmm... I think I need better bait. I\'ll c
 UPDATE trans_words SET content_loc9='Quillboar scraps! These should do the trick. Fish love Quillboar.' WHERE word_id = 7283;
 UPDATE trans_words SET content_loc9='Caught one! I\'ll see if any of the guards are hungry. Come on Fang!' WHERE word_id = 7284;
 UPDATE trans_words SET content_loc9='I caught a fish if you are hungry...' WHERE word_id = 7285;
-UPDATE trans_words SET content_loc9='A nice catch it is at that! You bring honor to the Horde boy, We thank you!' WHERE word_id = 7286;
 UPDATE trans_words SET content_loc9='Would you like something more to eat sir?' WHERE word_id = 7514;
 UPDATE trans_words SET content_loc9='More bread boy!' WHERE word_id = 7512;
 UPDATE trans_words SET content_loc9='Right away sir.' WHERE word_id = 7513;
@@ -574,7 +562,6 @@ UPDATE trans_words SET content_loc9='This is a shiney rock. I\'ll put it in my b
 UPDATE trans_words SET content_loc9='I bet my friend Gruk would like this rock for the spear he is making! It\'s very sharp... I hope he likes it.' WHERE word_id = 7293;
 UPDATE trans_words SET content_loc9='There... That should be enough rocks to make a necklace. I should probably get home now anyway.' WHERE word_id = 7294;
 UPDATE trans_words SET content_loc9='You\'ll pay for this insult, $R!' WHERE word_id = 8463;
-UPDATE trans_words SET content_loc9='Your body is mine! Our fates are forever intertwined!' WHERE word_id = 7595;
 UPDATE trans_words SET content_loc9='The Argent Crusade invites you to test your skills in honorable combat against other heroes of Azeroth at the Argent Tournament.' WHERE word_id = 8462;
 UPDATE trans_words SET content_loc9='The champions of the world\'s great nations have gathered at the Argent Tournament Grounds in northeastern Icecrown to face all challengers.' WHERE word_id = 8461;
 UPDATE trans_words SET content_loc9='You\'re late, overseer.' WHERE word_id = 8459;
@@ -583,7 +570,6 @@ UPDATE trans_words SET content_loc9='Tell your rune-smiths to continue convertin
 UPDATE trans_words SET content_loc9='If the stone giants interfere with our work at Ulduar, I will hold you and your thane responsible. Mortals must not be allowed to come to the aid of the giants.' WHERE word_id = 8457;
 UPDATE trans_words SET content_loc9='Return to your duties, overseer. Be certain to impress upon your workers the urgency of their tasks.' WHERE word_id = 8456;
 UPDATE trans_words SET content_loc9='So the oracle has decided to aid you, outlander. Very well, I will offer you what i know.' WHERE word_id = 8454;
-UPDATE trans_words SET content_loc9='Your companion seeks the shardhorn patriarch Farunn, who holds himself aloof from his brothers.' WHERE word_id = 8455;
 UPDATE trans_words SET content_loc9='Farunn walks the lands north of what your people call the Bittertide Falls. You will find him alone, but you will see her requires no defenders.' WHERE word_id = 8453;
 UPDATE trans_words SET content_loc9='Return to your companion. Tell him to go forth and claim his prize in Farunn.' WHERE word_id = 8452;
 UPDATE trans_words SET content_loc9='Once he has done so, tell him to leave this land in peace. He does not belong here.' WHERE word_id = 8450;
@@ -613,7 +599,6 @@ UPDATE trans_words SET content_loc9='The Lorehammer ist reacting. This must be f
 UPDATE trans_words SET content_loc9='The Lorehammer is silent. This isn\'t from Stormhoof\'s time.' WHERE word_id = 7788;
 UPDATE trans_words SET content_loc9='Good luck... You\'ll need it!' WHERE word_id = 7793;
 UPDATE trans_words SET content_loc9='May the best win!' WHERE word_id = 7794;
-UPDATE trans_words SET content_loc9='You will not defeat me!' WHERE word_id = 7795;
 UPDATE trans_words SET content_loc9='You\'re not worthy of Thorim!' WHERE word_id = 7796;
 UPDATE trans_words SET content_loc9='Scrying upon many insignificant situations within Icecrown,$B you stumble upon something interesting...' WHERE word_id = 7798;
 UPDATE trans_words SET content_loc9='The cultist practically sputters.' WHERE word_id = 7799;
@@ -622,7 +607,6 @@ UPDATE trans_words SET content_loc9='There is word from Jotunheim. The sleep-wat
 UPDATE trans_words SET content_loc9='Describe this vrykul. What does he look like?' WHERE word_id = 6887;
 UPDATE trans_words SET content_loc9='Look like, my lady? A vrykul, I suppose. They did not actually show him to me. Ever since The Shadow Vault....' WHERE word_id = 6889;
 UPDATE trans_words SET content_loc9='I am not interested in excuses. Perhaps they gave you a name?' WHERE word_id = 6920;
-UPDATE trans_words SET content_loc9='A name? Oh, yes, the name! I believe it was Iskalder.' WHERE word_id = 6890;
 UPDATE trans_words SET content_loc9='Iskalder? You fool! Have you no idea who that is? He\'s only the greatest vrykul warrior who ever lived!' WHERE word_id = 6921;
 UPDATE trans_words SET content_loc9='Return to Jotunheim and tell them to keep him asleep until I arrive. I will judge this vrykul with my own eyes.' WHERE word_id = 6922;
 UPDATE trans_words SET content_loc9='Right away, my lady.' WHERE word_id = 6888;
@@ -635,6 +619,7 @@ UPDATE trans_words SET content_loc9='%s laughs.' WHERE word_id = 688;
 UPDATE trans_words SET content_loc9='Does it frighten you to know that there are those that would serve the Legion with such devotion as to remain unwavering citizens of your pointless civilizations until called upon?' WHERE word_id = 7800;
 UPDATE trans_words SET content_loc9='Live in fear, die by the will of Kael\'thas... It\'s all the same.' WHERE word_id = 7801;
 UPDATE trans_words SET content_loc9='And now, I cut you!' WHERE word_id = 7802;
+UPDATE trans_words SET content_loc9='DIE!' WHERE word_id = 7803;
 UPDATE trans_words SET content_loc9='%s picks up the naga flag.' WHERE word_id = 7609;
 UPDATE trans_words SET content_loc9='We will not fail!' WHERE word_id = 6268;
 UPDATE trans_words SET content_loc9='%s places the crate of parts on the ground.' WHERE word_id = 7425;
@@ -659,10 +644,11 @@ UPDATE trans_words SET content_loc9='$N, please come to me. I\'m here in Zim\'To
 UPDATE trans_words SET content_loc9='I am the herald of Mechazod. You will be decursed!' WHERE word_id = 8439;
 UPDATE trans_words SET content_loc9='Your meddling is at an end. Mechazod will relieve your curse once I am done with you.' WHERE word_id = 8436;
 UPDATE trans_words SET content_loc9='ED-210 online!' WHERE word_id = 8437;
+UPDATE trans_words SET content_loc9='Twonky!' WHERE word_id = 8438;
 UPDATE trans_words SET content_loc9='Soaring construction vibrates.' WHERE word_id = 8434;
 UPDATE trans_words SET content_loc9='You hear a low guttural growl somewhere.' WHERE word_id = 8435;
 UPDATE trans_words SET content_loc9='Victory or death! For the Horde!' WHERE word_id = 8433;
-UPDATE trans_words SET content_loc9='Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen! ' WHERE word_id = 6937;
+UPDATE trans_words SET content_loc9='Honor your heroes! On this day, they have dealt a great blow against one of our most hated enemies! The false Warchief, Rend Blackhand, has fallen!' WHERE word_id = 6937;
 UPDATE trans_words SET content_loc9='Be bathed in my power! Drink in my might! Battle for the glory of the Horde!' WHERE word_id = 6936;
 UPDATE trans_words SET content_loc9='Go swiftly $N. My fate is in your hands.' WHERE word_id = 7069;
 UPDATE trans_words SET content_loc9='Wait, $N!!! It looks like we\'re going to need some help here...' WHERE word_id = 6957;
@@ -670,7 +656,7 @@ UPDATE trans_words SET content_loc9='%s begins to dance.' WHERE word_id = 7932;
 UPDATE trans_words SET content_loc9='Hahah! $N, you make quite a partner!' WHERE word_id = 7933;
 UPDATE trans_words SET content_loc9='Have you freed Drull yet? I don\'t know where he\'s being held.' WHERE word_id = 7438;
 UPDATE trans_words SET content_loc9='I will only slow you down, but no pink-skinned humans will keep me from freedom!' WHERE word_id = 7437;
-UPDATE trans_words SET content_loc9='Do not burden A\'dal with mundane questions, $r. This being\'s will is all that keeps our enemies from crushing this city.' WHERE word_id = 7739;
+UPDATE trans_words SET content_loc9='Do not burden A\'dal with mundane questions, $R. This being\'s will is all that keeps our enemies from crushing this city.' WHERE word_id = 7739;
 UPDATE trans_words SET content_loc9='Up here on the hill, $N.' WHERE word_id = 7740;
 UPDATE trans_words SET content_loc9='Let me help you with those.' WHERE word_id = 7278;
 UPDATE trans_words SET content_loc9='Drink this, it will help.' WHERE word_id = 7279;
@@ -686,6 +672,7 @@ UPDATE trans_words SET content_loc9='If this is right, we don\'t have long! Oh w
 UPDATE trans_words SET content_loc9='This is the last time that I buy second-hand equipment from ethereal' WHERE word_id = 7466;
 UPDATE trans_words SET content_loc9='I brought you a housewarming gift, Jarl.' WHERE word_id = 7454;
 UPDATE trans_words SET content_loc9='Go on, open it. I think you\'ll like it.' WHERE word_id = 7455;
+UPDATE trans_words SET content_loc9='Jarl?' WHERE word_id = 7451;
 UPDATE trans_words SET content_loc9='Unless it\'s something I can eat, I don\'t want it.' WHERE word_id = 7452;
 UPDATE trans_words SET content_loc9='Jarl, you haven\'t been yourself ever since I arrived. What\'s going on?' WHERE word_id = 7450;
 UPDATE trans_words SET content_loc9='Nothing. Wanna help me whip up some frog leg stew?' WHERE word_id = 7449;
@@ -700,7 +687,7 @@ UPDATE trans_words SET content_loc9='Well done Edward and Tyler. You are progres
 UPDATE trans_words SET content_loc9='Thank you for saving me, $N! My father will be delighted!' WHERE word_id = 7805;
 UPDATE trans_words SET content_loc9='Are YOU the one who interrupted my dinner? Well, are you?' WHERE word_id = 7750;
 UPDATE trans_words SET content_loc9='You\'re too ugly and scrawny to be a female yeti! And now you\'re making me mad...' WHERE word_id = 7751;
-UPDATE trans_words SET content_loc9='Thank again, $n.  Now I\'ll just wait here until it\'s safe to leave.' WHERE word_id = 7752;
+UPDATE trans_words SET content_loc9='Thank again, $N.  Now I\'ll just wait here until it\'s safe to leave.' WHERE word_id = 7752;
 UPDATE trans_words SET content_loc9='The failed concoction spills on the floor and appears to come to life!' WHERE word_id = 7745;
 UPDATE trans_words SET content_loc9='The mixture! It moves!' WHERE word_id = 7747;
 UPDATE trans_words SET content_loc9='Steady your hand, you fool! Those are rare components you\'re spilling on the floor!' WHERE word_id = 7748;
@@ -759,7 +746,7 @@ UPDATE trans_words SET content_loc9='...the deserters seek a Theramore where cit
 UPDATE trans_words SET content_loc9='That\'s the funniest thing I\'ve read in a long time. You\'ve just made my day!' WHERE word_id = 8097;
 UPDATE trans_words SET content_loc9='This... this is a joke, right?' WHERE word_id = 8098;
 UPDATE trans_words SET content_loc9='The sound of hurrying feet rang the cave.' WHERE word_id = 8428;
-UPDATE trans_words SET content_loc9='Spirits watch over you, $r!' WHERE word_id = 8427;
+UPDATE trans_words SET content_loc9='Spirits watch over you, $R!' WHERE word_id = 8427;
 UPDATE trans_words SET content_loc9='Many Thanks, hero!' WHERE word_id = 8104;
 UPDATE trans_words SET content_loc9='I can\'t believe it! I\'m free to go!' WHERE word_id = 8425;
 UPDATE trans_words SET content_loc9='Time to hightail it! Thanks, friend!' WHERE word_id = 8426;
@@ -775,7 +762,7 @@ UPDATE trans_words SET content_loc9='Thank you, $C.' WHERE word_id = 8415;
 UPDATE trans_words SET content_loc9='They\'re killing the prisoners! Hurry, help the others.' WHERE word_id = 8416;
 UPDATE trans_words SET content_loc9='I knew I shouldn\'t have come to the tournament!' WHERE word_id = 8414;
 UPDATE trans_words SET content_loc9='I thought I\'d never make it out of here alive.' WHERE word_id = 8413;
-UPDATE trans_words SET content_loc9='Foolish $c, you cannot stop the Kvaldir!' WHERE word_id = 8411;
+UPDATE trans_words SET content_loc9='Foolish $C, you cannot stop the Kvaldir!' WHERE word_id = 8411;
 UPDATE trans_words SET content_loc9='Who disturbs my slumber? That spear... I still carry the scar!' WHERE word_id = 8412;
 UPDATE trans_words SET content_loc9='He cannot be defeated.' WHERE word_id = 8409;
 UPDATE trans_words SET content_loc9='The relic burns to nothing. The memories it held are now your own. This city was destroyed by a being not of this world.' WHERE word_id = 8410;
@@ -787,12 +774,11 @@ UPDATE trans_words SET content_loc9='Help us, outsider.' WHERE word_id = 8404;
 UPDATE trans_words SET content_loc9='The relic crumbles to dust. A vision of eight Dark Iron dwarves performing some sort of ritual fills your head.' WHERE word_id = 8405;
 UPDATE trans_words SET content_loc9='%s flies up over trees, having released from Terokk\'s influence.' WHERE word_id = 8406;
 UPDATE trans_words SET content_loc9='You will not stop the Frost Lord from entering this world, mortal. The Tidehunter\'s might will crush that of Ragnaros once and for all, leaving your land a frozen paradise!' WHERE word_id = 8397;
-UPDATE trans_words SET content_loc9='Thank you, $r. I will join your struggle against the stormforged.' WHERE word_id = 8398;
+UPDATE trans_words SET content_loc9='Thank you, $R. I will join your struggle against the stormforged.' WHERE word_id = 8398;
 UPDATE trans_words SET content_loc9='Does not compute. Unit malfunctioning. Directive: shut down.' WHERE word_id = 8399;
 UPDATE trans_words SET content_loc9='Free again? Keeper Mimir\'s work awaits.' WHERE word_id = 8400;
 UPDATE trans_words SET content_loc9='New directive: assist in the defeat of the iron dwarves.' WHERE word_id = 8401;
 UPDATE trans_words SET content_loc9='Insolent fool! You thought to steal Zelemar\'s blood? You shall pay with your own!' WHERE word_id = 6519;
-UPDATE trans_words SET content_loc9='Fools. Obsidion! Rise, and destroy the interlopers!' WHERE word_id = 8396;
 UPDATE trans_words SET content_loc9='Get him out of there!' WHERE word_id = 924;
 UPDATE trans_words SET content_loc9='Perhaps Ograbisi will use your head as a tiny little hat when I\'m through with you.' WHERE word_id = 7356;
 UPDATE trans_words SET content_loc9='Where I come from, you get shanked for opening another inmate\'s cell door!' WHERE word_id = 7357;
@@ -806,7 +792,7 @@ UPDATE trans_words SET content_loc9='Why do you do this? Did I somehow wrong you
 UPDATE trans_words SET content_loc9='Ah, I see it now in your mind. This is the work of one of my former students... Mehlar Dawnblade. It is sad to know that his heart has turned so dark.' WHERE word_id = 7810;
 UPDATE trans_words SET content_loc9='Return to him. Return to Mehlor and tell him that I forgive him and that I understand why he believes what he does.' WHERE word_id = 7811;
 UPDATE trans_words SET content_loc9='I can only hope that he will see the Light and instead turn his energies to restoring once-beautiful Quel\'Thalas.' WHERE word_id = 7812;
-UPDATE trans_words SET content_loc9='Stonemasons. . .errr. . Defias be warned: The rusty anchor sinks tonight.' WHERE word_id = 7570;
+UPDATE trans_words SET content_loc9='Stonemasons. . .errr. . Defias be warned:  The rusty anchor sinks tonight.' WHERE word_id = 7226;
 UPDATE trans_words SET content_loc9='The boss wants all hands on high alert. The rusty anchor sinks tonight.' WHERE word_id = 7225;
 UPDATE trans_words SET content_loc9='Phew! There\'s my lucky hat. I\'ve been looking for it everywhere.' WHERE word_id = 7564;
 UPDATE trans_words SET content_loc9='I don\'t know what I was thinking, going out without my sword. I would\'ve put it on if I\'d seen it here...' WHERE word_id = 7565;
@@ -865,8 +851,8 @@ UPDATE trans_words SET content_loc9='In their initial assault I caught a glimpse
 UPDATE trans_words SET content_loc9='I know not the extent of their plans heroes, but I know this: they cannot be allowed to succeed!' WHERE word_id = 4078;
 UPDATE trans_words SET content_loc9='Thank you for freeing us, mortals. Beware, the Blue Flight is alerted to your presence. Even now, Malygos sends Varos Cloudstrider and his ring guardians to defend the Oculus. You will need our help to stand a chance.' WHERE word_id = 8107;
 UPDATE trans_words SET content_loc9='Intruders, your victory will be short-lived. I am Commander Varos Cloudstrider. My drakes control the skies and protect this conduit. I will see to it personally that the Oculus does not fall into your hands!' WHERE word_id = 8108;
-UPDATE trans_words SET content_loc9='The trickster Mage-Lord Urom protects the third ring. He will appear alone and defenseless, but do not be fooled by appearances! Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures. Seek him out above.' WHERE word_id = 8109;
-UPDATE trans_words SET content_loc9='Your greatest challenge lies ahead. Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring.' WHERE word_id = 8110;
+UPDATE trans_words SET content_loc9='The trickster Mage-Lord Urom protects the third ring.  He will appear alone and defenseless, but do not be fooled by appearances!  Urom is a powerful conjurer who commands a menagerie of Phantasmal creatures.  Seek him out above.' WHERE word_id = 203113;
+UPDATE trans_words SET content_loc9='Your greatest challenge lies ahead.  Ley-Guardian Eregos is a Blue dragon of immense power. You will find him flying above the uppermost ring.' WHERE word_id = 197511;
 UPDATE trans_words SET content_loc9='They who dine on lost souls know only hunger.' WHERE word_id = 8111;
 UPDATE trans_words SET content_loc9='Gaze into the void. It is the perpetuity in which they dwell.' WHERE word_id = 8112;
 UPDATE trans_words SET content_loc9='They drink your fear: it is the blood of life.' WHERE word_id = 8113;
@@ -924,6 +910,7 @@ UPDATE trans_words SET content_loc9='GET UP YOU ROTTEN PIECE OF TRASH! GET UP BE
 UPDATE trans_words SET content_loc9='%s regains consciousness.' WHERE word_id = 8029;
 UPDATE trans_words SET content_loc9='I\'m listening..' WHERE word_id = 8030;
 UPDATE trans_words SET content_loc9='Do not beat the Coilsssskaarrr commander anymore, orc! I will tell you! The cipherrr... It is hidden in one of the chests at Coilssskarrr Point... The naga there hold the keysss...' WHERE word_id = 8031;
+UPDATE trans_words SET content_loc9='COILSSSKARRR!' WHERE word_id = 8032;
 UPDATE trans_words SET content_loc9='What is it that you want from me, shaman?' WHERE word_id = 6330;
 UPDATE trans_words SET content_loc9='Do you not have eyes? Did you not see the demons on our very doorstep? I do not have the soldiers to spare!' WHERE word_id = 6329;
 UPDATE trans_words SET content_loc9='Pray to your gods, shaman. Perhaps they will come to your aid. The Horde, however, cannot...' WHERE word_id = 8035;
@@ -986,12 +973,10 @@ UPDATE trans_words SET content_loc9='That\'s it! That\'s what you were waiting f
 UPDATE trans_words SET content_loc9='hits the twisted claws.' WHERE word_id = 8393;
 UPDATE trans_words SET content_loc9='I had arranged for a secret summit between Warchief Thrall and King Wyrnn, here in Theramore.' WHERE word_id = 8394;
 UPDATE trans_words SET content_loc9='The king was to travel here by ship, in secret. But the ship never arrived, and King Wrynn disappeared.' WHERE word_id = 8392;
-UPDATE trans_words SET content_loc9='Your help enabled us to connect the Defias to the mastermind behind the abduction, 
-Onyxia, who was posing as a member of the royal court.' WHERE word_id = 8391;
+UPDATE trans_words SET content_loc9='Your help enabled us to connect the Defias to the mastermind behind the abduction, $BOnyxia, who was posing as a member of the royal court.' WHERE word_id = 8391;
 UPDATE trans_words SET content_loc9='Meanwhile, the king managed to escape his captors, and returned to Stormwind to deal with Onyxia.' WHERE word_id = 8390;
-UPDATE trans_words SET content_loc9='I will send word that you have discovered the link to the Defias. 
-I was a fool to think them broken with the defeat of Edwin Vancleef, and King Wrynn will want to make an example of all who remain."' WHERE word_id = 8389;
-UPDATE trans_words SET content_loc9='Among the skulls no Yenniku, $n. This is great for easing me.' WHERE word_id = 8387;
+UPDATE trans_words SET content_loc9='I will send word that you have discovered the link to the Defias. $BI was a fool to think them broken with the defeat of Edwin Vancleef, and King Wrynn will want to make an example of all who remain."' WHERE word_id = 8389;
+UPDATE trans_words SET content_loc9='Among the skulls no Yenniku, $N. This is great for easing me.' WHERE word_id = 8387;
 UPDATE trans_words SET content_loc9='What is the force passes through me? Maybe it is the power of shamanism, which talked about Tor\'gan? ..' WHERE word_id = 8388;
 UPDATE trans_words SET content_loc9='Amazing! I feel re-born. To force me to come back!' WHERE word_id = 8386;
 UPDATE trans_words SET content_loc9='Thank you, $N.' WHERE word_id = 7003;
@@ -1032,7 +1017,6 @@ UPDATE trans_words SET content_loc9='The North Wind is the ancient enemy of the 
 UPDATE trans_words SET content_loc9='They would rather die than bow before the North Wind. Something is amiss here.' WHERE word_id = 7777;
 UPDATE trans_words SET content_loc9='The Lorehammer...' WHERE word_id = 7778;
 UPDATE trans_words SET content_loc9='It confirms our suspicions. The threads of time have been severed and rewoven in the wrong pattern. But, how?' WHERE word_id = 7779;
-UPDATE trans_words SET content_loc9=' Oh, these are sticky! I wonder how they shoot the webbing?' WHERE word_id = 8355;
 UPDATE trans_words SET content_loc9='ACK! Oh no, I webbed myself! It\'s sticky. MY HAIR!' WHERE word_id = 8354;
 UPDATE trans_words SET content_loc9='Do not worry, buddy. Rokhan take care of everything. Nowhere it is no getting away.' WHERE word_id = 8353;
 UPDATE trans_words SET content_loc9='Spirits heard us! You feel, $N?' WHERE word_id = 8351;
@@ -1086,8 +1070,8 @@ UPDATE trans_words SET content_loc9='Damn you vile Fel orcs! Let your mind absor
 UPDATE trans_words SET content_loc9='Sneak?! What do you think we are, marmots?' WHERE word_id = 8136;
 UPDATE trans_words SET content_loc9='We\'re hunting an old god, Brann.' WHERE word_id = 8137;
 UPDATE trans_words SET content_loc9='Fine. If our allies are going to be the ones getting their hands dirty, we\'ll leave it to them to decide how to proceed.' WHERE word_id = 8138;
-UPDATE trans_words SET content_loc9='What... What did you just do, $n?! Brann! Braaaaannn!' WHERE word_id = 8139;
-UPDATE trans_words SET content_loc9='Brann! $n just activated the orbital defense system! If we don\'t get out of here soon, we\'re going to be toast!' WHERE word_id = 8140;
+UPDATE trans_words SET content_loc9='What... What did you just do, $N?! Brann! Braaaaannn!' WHERE word_id = 8139;
+UPDATE trans_words SET content_loc9='Brann! $N just activated the orbital defense system! If we don\'t get out of here soon, we\'re going to be toast!' WHERE word_id = 8140;
 UPDATE trans_words SET content_loc9='Pentarus, you heard the man. Have your mages release the shield and let these brave souls through!' WHERE word_id = 8141;
 UPDATE trans_words SET content_loc9='Of course, Brann: We will have the shield down momentarily.' WHERE word_id = 8142;
 UPDATE trans_words SET content_loc9='Okay! Let\'s move out. Get into your machines; I\'ll speak to you from here via the radio.' WHERE word_id = 8143;
@@ -1167,7 +1151,7 @@ UPDATE trans_words SET content_loc9='Finally we have the parts to repair the Spi
 UPDATE trans_words SET content_loc9='Well, a little tweak here, a little set up here ...' WHERE word_id = 8768;
 UPDATE trans_words SET content_loc9='And you - Spirit Gnomregan!' WHERE word_id = 8769;
 UPDATE trans_words SET content_loc9='You can use it, but do not complain: after repair of the seats can stick teeth of a saw or something like that. What I had - all went to work.' WHERE word_id = 8770;
-UPDATE trans_words SET content_loc9='It\'s those blasted iron dwarves again! Somehow, they found him before we did. ' WHERE word_id = 8771;
+UPDATE trans_words SET content_loc9='It\'s those blasted iron dwarves again! Somehow, they found him before we did.' WHERE word_id = 8771;
 UPDATE trans_words SET content_loc9='They\'re not going to give up until they find him. We can\'t allow that to happen, $N, and Brann knows it.' WHERE word_id = 8772;
 UPDATE trans_words SET content_loc9='There are some rather cryptic instructions in this note. Brann must\'ve had some kind of backup plan, but he can\'t keep evading capture forever...' WHERE word_id = 8773;
 UPDATE trans_words SET content_loc9='It\'s up to you to find him before the irons do!' WHERE word_id = 8774;
@@ -1197,7 +1181,7 @@ UPDATE trans_words SET content_loc9='At least we would not be around to have to 
 UPDATE trans_words SET content_loc9='But isn\'t that what caused the initial problems with Adept Syleria\'s magical formula?' WHERE word_id = 7121;
 UPDATE trans_words SET content_loc9='I suppose that could work, if we had twenty people to cast it with.' WHERE word_id = 7124;
 UPDATE trans_words SET content_loc9='But what if the resulting frequency shift were to send magical feedback up the flows?' WHERE word_id = 7122;
-UPDATE trans_words SET content_loc9='When the positively aligned energies collide with the negatively charged energies, they don`t negate one another.' WHERE word_id = 7525;
+UPDATE trans_words SET content_loc9='When the positively aligned energies collide with the negatively charged energies, they don\'t negate one another.' WHERE word_id = 7127;
 UPDATE trans_words SET content_loc9='That will unbalance the magical focus, though, and cause a reverse vibration in the ether.' WHERE word_id = 7120;
 UPDATE trans_words SET content_loc9='But wouldn`t that mean crossing the streams? Isn`t that really bad?' WHERE word_id = 7526;
 UPDATE trans_words SET content_loc9='Why can\'t we just shift the array to compensate for the variance in the flux?' WHERE word_id = 7132;
