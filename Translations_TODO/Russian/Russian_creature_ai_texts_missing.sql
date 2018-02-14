@@ -6,8 +6,8 @@ UPDATE trans_words SET content_loc8='Such a waste.' WHERE word_id = 3078;
 UPDATE trans_words SET content_loc8='Get it while it\'s hot!' WHERE word_id = 5895;
 UPDATE trans_words SET content_loc8='The falcon is vaniquished, doomed never to rise again! Your quest is futile!' WHERE word_id = 6552;
 UPDATE trans_words SET content_loc8='Your corpse will nourish the soil!' WHERE word_id = 3070;
-UPDATE trans_words SET content_loc8='%s faces southeast and whimpers before looking back at you. ' WHERE word_id = 5788;
-UPDATE trans_words SET content_loc8='Wait... WAIT! What is it that you want to know? I know you\'re the $c named $N.' WHERE word_id = 6692;
+UPDATE trans_words SET content_loc8='%s faces southeast and whimpers before looking back at you.' WHERE word_id = 5788;
+UPDATE trans_words SET content_loc8='Wait... WAIT! What is it that you want to know? I know you\'re the $C named $N.' WHERE word_id = 6692;
 UPDATE trans_words SET content_loc8='Never underestimate the other ethereal\'s greed.' WHERE word_id = 6162;
 UPDATE trans_words SET content_loc8='%s attacks Karang\'s Banner!' WHERE word_id = 5624;
 UPDATE trans_words SET content_loc8='%s shimmers and becomes intangible.' WHERE word_id = 6159;
@@ -17,7 +17,7 @@ UPDATE trans_words SET content_loc8='I\'m flesh and blood again! Thank you!' WHE
 UPDATE trans_words SET content_loc8='Welcome to the world of the unliving!' WHERE word_id = 6747;
 UPDATE trans_words SET content_loc8='%s grabs the back of his neck and his eyes go wide.' WHERE word_id = 5609;
 UPDATE trans_words SET content_loc8='Off with you, $N.' WHERE word_id = 6126;
-UPDATE trans_words SET content_loc8='Move along, $c.' WHERE word_id = 6125;
+UPDATE trans_words SET content_loc8='Move along, $C.' WHERE word_id = 6125;
 UPDATE trans_words SET content_loc8='Looks like today was the wrong day to quit mana tapping...' WHERE word_id = 6110;
 UPDATE trans_words SET content_loc8='Oh, would you please stop checking your nails and spanking yourself, for one moment? Really, no one cares!' WHERE word_id = 6098;
 UPDATE trans_words SET content_loc8='Are you hungry? I\'m hungry. I just can\'t stand the thought of cured ham steak from Thultash again. If only we could get some of that succulent roasted quail!' WHERE word_id = 6097;
@@ -36,11 +36,11 @@ UPDATE trans_words SET content_loc8='T\'chali\'s Voodoo Brewery has the best bre
 UPDATE trans_words SET content_loc8='Whoah! Walk by again girl!' WHERE word_id = 6080;
 UPDATE trans_words SET content_loc8='Hey, hey sweet thing! Looking good!' WHERE word_id = 6078;
 UPDATE trans_words SET content_loc8='Hey, hey! Nice build you got there honey!' WHERE word_id = 6077;
-UPDATE trans_words SET content_loc8='Hey tough stuff! Hey, $c! Do you like money? I\'m loaded! How about you come over here and check out my gold coins?' WHERE word_id = 6075;
+UPDATE trans_words SET content_loc8='Hey tough stuff! Hey, $C! Do you like money? I\'m loaded! How about you come over here and check out my gold coins?' WHERE word_id = 6075;
 UPDATE trans_words SET content_loc8='The Dark Lady fought as many as she could, but in the end... I hope she survived. Please help!' WHERE word_id = 6770;
-UPDATE trans_words SET content_loc8='This will teach you to lay off the herb, $r.' WHERE word_id = 5600;
+UPDATE trans_words SET content_loc8='This will teach you to lay off the herb, $R.' WHERE word_id = 5600;
 UPDATE trans_words SET content_loc8='The Scarlet Crusade shall not fail in it\'s mission!' WHERE word_id = 5591;
-UPDATE trans_words SET content_loc8='The Agamand Mills is held by the Scourge, $c. Join us!' WHERE word_id = 5587;
+UPDATE trans_words SET content_loc8='The Agamand Mills is held by the Scourge, $C. Join us!' WHERE word_id = 5587;
 UPDATE trans_words SET content_loc8='You are in the presence of a god!' WHERE word_id = 5575;
 UPDATE trans_words SET content_loc8='%s seems to no longer be able to cast spells...' WHERE word_id = 5570;
 UPDATE trans_words SET content_loc8='Come on! These jokes are epic!' WHERE word_id = 6058;
@@ -63,8 +63,7 @@ UPDATE trans_words SET content_loc8='Silithid Creeper lays an egg!' WHERE word_i
 UPDATE trans_words SET content_loc8='Silithid Creeper Egg begins to crack and open...' WHERE word_id = 5528;
 UPDATE trans_words SET content_loc8='Silithid Creeper Egg splits open!' WHERE word_id = 5530;
 UPDATE trans_words SET content_loc8='Your pathetic attempt to escape will be short lived, Gorefiend. Let the boy go and submit! Even with your armour and weapons, you cannot defeat the ancients!' WHERE word_id = 6536;
-UPDATE trans_words SET content_loc8='My minions...
-The time for conquest approaches quickly. The rebels of Lordaeron are small, and weak, and know not the joy of serving our Lich King. Make ready for battle, my creations. We will drive our foes from Silverpine, then bring the very tides of war to their very capital! Death, and praise the Lich King! ' WHERE word_id = 6933;
+UPDATE trans_words SET content_loc8='My minions...$BThe time for conquest approaches quickly. The rebels of Lordaeron are small, and weak, and know not the joy of serving our Lich King. Make ready for battle, my creations. We will drive our foes from Silverpine, then bring the very tides of war to their very capital! Death, and praise the Lich King!' WHERE word_id = 6933;
 UPDATE trans_words SET content_loc8='Who offended altar Goc!' WHERE word_id = 6901;
 UPDATE trans_words SET content_loc8='said a deep, chilling voice ...' WHERE word_id = 6906;
 UPDATE trans_words SET content_loc8='Little- $R is not able to raise a spear. Gore to raise the spear!' WHERE word_id = 6899;

@@ -220,7 +220,7 @@ UPDATE trans_words SET content_loc8='Theramore Skinning' WHERE word_id = 127676;
 UPDATE trans_words SET content_loc8='Theramore Tailoring' WHERE word_id = 127677;
 UPDATE trans_words SET content_loc8='Flight Master of Orgrimmar' WHERE word_id = 127635;
 UPDATE trans_words SET content_loc8='Embassy of the Horde' WHERE word_id = 127636;
-UPDATE trans_words SET content_loc8='Orgrimmar: ' WHERE word_id = 127634;
+UPDATE trans_words SET content_loc8='Orgrimmar:' WHERE word_id = 127634;
 UPDATE trans_words SET content_loc8='Orgrimmar: The auction house' WHERE word_id = 127633;
 UPDATE trans_words SET content_loc8='Stable Master of Orgrimmar' WHERE word_id = 127639;
 UPDATE trans_words SET content_loc8='Orgrimmar: Portals' WHERE word_id = 127637;
