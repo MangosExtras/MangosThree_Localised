@@ -626,7 +626,7 @@ UPDATE trans_words SET content_loc5='Guns Darkmoon Faire' WHERE word_id = 127632
 UPDATE trans_words SET content_loc5='Flight Master of Orgrimmar' WHERE word_id = 127635;
 UPDATE trans_words SET content_loc5='Embassy of the Horde' WHERE word_id = 127636;
 UPDATE trans_words SET content_loc5='Orgrimmar Inn' WHERE word_id = 127208;
-UPDATE trans_words SET content_loc5='Orgrimmar: ' WHERE word_id = 127634;
+UPDATE trans_words SET content_loc5='Orgrimmar:' WHERE word_id = 127634;
 UPDATE trans_words SET content_loc5='Orgrimmar: The auction house' WHERE word_id = 127633;
 UPDATE trans_words SET content_loc5='Orgrimmar Eastern Zeppelin Tower' WHERE word_id = 127252;
 UPDATE trans_words SET content_loc5='Stable Master of Orgrimmar' WHERE word_id = 127639;
