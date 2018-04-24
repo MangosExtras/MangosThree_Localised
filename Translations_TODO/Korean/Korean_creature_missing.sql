@@ -159,7 +159,7 @@ UPDATE locales_creature SET name_loc1='Glomp',subname_loc1='The Treasurer' WHERE
 UPDATE locales_creature SET name_loc1='Lieutenant Pyre',subname_loc1='Northwatch Expeditionary Unit' WHERE entry=34752;
 UPDATE locales_creature SET name_loc1='Lieutenant Buckland',subname_loc1='Northwatch Expeditionary Unit' WHERE entry=34753;
 UPDATE locales_creature SET name_loc1='Chief Engineer Foote',subname_loc1='Northwatch Expeditionary Unit' WHERE entry=34754;
-UPDATE locales_creature SET name_loc1='Limpet Mine',subname_loc1='Swim Away!' WHERE entry=34767;
+UPDATE locales_creature SET subname_loc1='Swim Away!' WHERE entry=34767;
 UPDATE locales_creature SET name_loc1='Chef Toofus',subname_loc1='Southsea Pirates' WHERE entry=34804;
 UPDATE locales_creature SET name_loc1='Megs Dreadshredder',subname_loc1='Marketing Rep' WHERE entry=34874;
 UPDATE locales_creature SET name_loc1='Guardsman Belothiel',subname_loc1='Head of the City Watch' WHERE entry=34939;
@@ -189,13 +189,11 @@ UPDATE locales_creature SET name_loc1='Ogre Minion',subname_loc1='Servant of Kor
 UPDATE locales_creature SET name_loc1='Gwen Armstead (Personal Invisibility)',subname_loc1='Mayor of Grimmburg' WHERE entry=36328;
 UPDATE locales_creature SET name_loc1='Krennan Aranas',subname_loc1='Royal Chemist' WHERE entry=36331;
 UPDATE locales_creature SET name_loc1='Sassy Hardwrench',subname_loc1='Your Former Executive Assistant' WHERE entry=36425;
-UPDATE locales_creature SET name_loc1='Brett "Coins" McQuid',subname_loc1='Recovered Supplies' WHERE entry=36427;
 UPDATE locales_creature SET name_loc1='Sally "Salvager" Sandscrew',subname_loc1='Slightly Damp Salvage' WHERE entry=36430;
 UPDATE locales_creature SET name_loc1='Chawg',subname_loc1='Armor Vendor' WHERE entry=36432;
 UPDATE locales_creature SET name_loc1='Gwen Armstead',subname_loc1='Mayor of Duskhaven' WHERE entry=36452;
 UPDATE locales_creature SET name_loc1='Chawg',subname_loc1='Armor Vendor' WHERE entry=36464;
 UPDATE locales_creature SET name_loc1='Chawg',subname_loc1='Armor Vendor' WHERE entry=36465;
-UPDATE locales_creature SET name_loc1='Brett "Coins" McQuid',subname_loc1='Recovered Supplies' WHERE entry=36466;
 UPDATE locales_creature SET name_loc1='Sally "Salvager" Sandscrew',subname_loc1='Slightly Damp Salvage' WHERE entry=36467;
 UPDATE locales_creature SET name_loc1='Bastia',subname_loc1='Kilag Gorefang\'s Pet' WHERE entry=36578;
 UPDATE locales_creature SET name_loc1='Bastia',subname_loc1='Kilag Gorefang\'s Pet' WHERE entry=36585;
@@ -275,7 +273,6 @@ UPDATE locales_creature SET name_loc1='Zar\'jira',subname_loc1='The Sea Witch' W
 UPDATE locales_creature SET name_loc1='Maximillian of Northshire',subname_loc1='Knight-Errant' WHERE entry=38343;
 UPDATE locales_creature SET name_loc1='Pimento',subname_loc1='Maximillian\'s Steed' WHERE entry=38373;
 UPDATE locales_creature SET name_loc1='Janice Mattingly',subname_loc1='Supply Officer' WHERE entry=38380;
-UPDATE locales_creature SET name_loc1='Brett "Coins" McQuid',subname_loc1='Recovered Supplies' WHERE entry=38381;
 UPDATE locales_creature SET name_loc1='Sassy Hardwrench',subname_loc1='Your Former Executive Assistant' WHERE entry=38387;
 UPDATE locales_creature SET name_loc1='Megs Dreadshredder',subname_loc1='Marketing Rep' WHERE entry=38432;
 UPDATE locales_creature SET name_loc1='Morakki',subname_loc1='Captain of the Watch' WHERE entry=38442;
@@ -401,7 +398,7 @@ UPDATE locales_creature SET name_loc1='Neptool',subname_loc1='Rockpool Chief' WH
 UPDATE locales_creature SET name_loc1='Delber Cranktoggle',subname_loc1='Covert Operations Technician' WHERE entry=41363;
 UPDATE locales_creature SET name_loc1='Lady Sira\'kess',subname_loc1='Mistress of the Tides' WHERE entry=41456;
 UPDATE locales_creature SET name_loc1='Donald Dealright',subname_loc1='Trader' WHERE entry=41490;
-UPDATE locales_creature SET name_loc1='Deepseeker Crab',subname_loc1='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
+UPDATE locales_creature SET subname_loc1='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
 UPDATE locales_creature SET name_loc1='Calamoth Ashbeard',subname_loc1='Herald of the Twilight\'s Hammer' WHERE entry=41522;
 UPDATE locales_creature SET name_loc1='Thargas Anvilmar',subname_loc1='Defender of Thandol Span' WHERE entry=41560;
 UPDATE locales_creature SET name_loc1='Fathom-Caller Azrajar',subname_loc1='General of the Front' WHERE entry=41590;
