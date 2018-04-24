@@ -302,7 +302,6 @@ UPDATE trans_words SET content_loc9='This ore can only have been created by a po
 UPDATE trans_words SET content_loc9='Access denied?!' WHERE word_id = 8621;
 UPDATE trans_words SET content_loc9='Further information can only be accessed from the archives within Ulduar, by order of Keeper Loken.' WHERE word_id = 8622;
 UPDATE trans_words SET content_loc9='But one thing is for certain: this plate\'s size, thickness, and bolt holes point to a use as armor for a colossal structure.' WHERE word_id = 8619;
-UPDATE trans_words SET content_loc9='Directive completed. Returning to standby mode.' WHERE word_id = 8620;
 UPDATE trans_words SET content_loc9='I... I can understand you now! Well, now that we can talk to each other, you have some explaining to do!' WHERE word_id = 8615;
 UPDATE trans_words SET content_loc9='How did you get my communicator from the Explorers\' League?' WHERE word_id = 8616;
 UPDATE trans_words SET content_loc9='You have my thanks for dispatching the iron dwarves. But why would the Horde have an interest in me?' WHERE word_id = 8617;
@@ -619,7 +618,6 @@ UPDATE trans_words SET content_loc9='%s laughs.' WHERE word_id = 688;
 UPDATE trans_words SET content_loc9='Does it frighten you to know that there are those that would serve the Legion with such devotion as to remain unwavering citizens of your pointless civilizations until called upon?' WHERE word_id = 7800;
 UPDATE trans_words SET content_loc9='Live in fear, die by the will of Kael\'thas... It\'s all the same.' WHERE word_id = 7801;
 UPDATE trans_words SET content_loc9='And now, I cut you!' WHERE word_id = 7802;
-UPDATE trans_words SET content_loc9='DIE!' WHERE word_id = 7803;
 UPDATE trans_words SET content_loc9='%s picks up the naga flag.' WHERE word_id = 7609;
 UPDATE trans_words SET content_loc9='We will not fail!' WHERE word_id = 6268;
 UPDATE trans_words SET content_loc9='%s places the crate of parts on the ground.' WHERE word_id = 7425;
@@ -704,7 +702,6 @@ UPDATE trans_words SET content_loc9='%s begins to manipulate the Stone of Relu o
 UPDATE trans_words SET content_loc9='Who hath summoned forth Aman?' WHERE word_id = 7166;
 UPDATE trans_words SET content_loc9='Ah, I see you toil with relics of the past.' WHERE word_id = 7167;
 UPDATE trans_words SET content_loc9='Be warned that even your creators are fallible.' WHERE word_id = 7168;
-UPDATE trans_words SET content_loc9='Digging too deep into your past might bring an abrupt end to your future.' WHERE word_id = 7169;
 UPDATE trans_words SET content_loc9='Aman dissipates before your eyes.' WHERE word_id = 7998;
 UPDATE trans_words SET content_loc9='Ah, that sure does hit the spot! I think i\'ll get myself a couple more...can you watch these barrels for me, $N?' WHERE word_id = 7084;
 UPDATE trans_words SET content_loc9='How goes the barrel watching...?' WHERE word_id = 7083;
@@ -924,7 +921,6 @@ UPDATE trans_words SET content_loc9='Crate? I didn\'t send you a crate, Jovaan. 
 UPDATE trans_words SET content_loc9='If you want the key, you\'ll have to catch me!' WHERE word_id = 7197;
 UPDATE trans_words SET content_loc9='Chase me if you dare! I run without a care!' WHERE word_id = 7198;
 UPDATE trans_words SET content_loc9='Why would you ever want to harm me!? Come. Friends we can be!' WHERE word_id = 7199;
-UPDATE trans_words SET content_loc9='DIE?! You make Pusillin cry!' WHERE word_id = 7200;
 UPDATE trans_words SET content_loc9='Say hello to my little friends!' WHERE word_id = 7201;
 UPDATE trans_words SET content_loc9='Oh no! Here they come!' WHERE word_id = 7207;
 UPDATE trans_words SET content_loc9='Ok, here I go!' WHERE word_id = 7206;
@@ -1083,7 +1079,6 @@ UPDATE trans_words SET content_loc9='I\'ll head back to the Archivum and see if 
 UPDATE trans_words SET content_loc9='The temperature is 122 degrees Kraklenheit.' WHERE word_id = 8783;
 UPDATE trans_words SET content_loc9='The temperature is 9280 degrees Kraklenheit! That\'s HOT!' WHERE word_id = 8784;
 UPDATE trans_words SET content_loc9='Wow, it\'s 3 degrees Kraklenheit.  Keep Looking.' WHERE word_id = 8785;
-UPDATE trans_words SET content_loc9='DING! 428,000 degrees Kraklenheit, exactly! Well, approximately. Almost. Somewhere around there...' WHERE word_id = 8786;
 UPDATE trans_words SET content_loc9='It\'s 428,000 degrees Kraklenheit... What\'s happening, hot stuff?' WHERE word_id = 8787;
 UPDATE trans_words SET content_loc9='Measuring by Kraklenheit, it is 428,000 dewgrees! That\'s Krakley!' WHERE word_id = 8788;
 UPDATE trans_words SET content_loc9='Hey! Stop rooting around in my cellar! Clear out!' WHERE word_id = 8149;

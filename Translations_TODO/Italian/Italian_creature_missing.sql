@@ -1048,7 +1048,7 @@ UPDATE locales_creature SET name_loc9='Fenthwick',subname_loc9='Rogue Trainer' W
 UPDATE locales_creature SET name_loc9='Tynnus Venomsprout',subname_loc9='Shady Dealer' WHERE entry=5169;
 UPDATE locales_creature SET name_loc9='Hjoldir Stoneblade',subname_loc9='Blade Merchant' WHERE entry=5170;
 UPDATE locales_creature SET name_loc9='Thistleheart',subname_loc9='Warlock Trainer' WHERE entry=5171;
-UPDATE locales_creature SET name_loc9='Briarthorn',subname_loc9='Warlock Trainer' WHERE entry=5172;
+UPDATE locales_creature SET subname_loc9='Warlock Trainer' WHERE entry=5172;
 UPDATE locales_creature SET name_loc9='Alexander Calder',subname_loc9='Warlock Trainer' WHERE entry=5173;
 UPDATE locales_creature SET name_loc9='Springspindle Fizzlegear',subname_loc9='Engineering Trainer' WHERE entry=5174;
 UPDATE locales_creature SET name_loc9='Tally Berryfizz',subname_loc9='Alchemy Trainer' WHERE entry=5177;
@@ -1381,7 +1381,6 @@ UPDATE locales_creature SET name_loc9='Grunt Gargal',subname_loc9='Kargath Exped
 UPDATE locales_creature SET name_loc9='Scarshield Legionnaire',subname_loc9='Scarshield Legion' WHERE entry=9097;
 UPDATE locales_creature SET name_loc9='Scarshield Spellbinder',subname_loc9='Scarshield Legion' WHERE entry=9098;
 UPDATE locales_creature SET name_loc9='Sraaz',subname_loc9='Pie Vendor' WHERE entry=9099;
-UPDATE locales_creature SET name_loc9='Eridan Bluewind',subname_loc9='Emerald Circle' WHERE entry=9116;
 UPDATE locales_creature SET name_loc9='J.D. Collie',subname_loc9='Marshal Expeditions' WHERE entry=9117;
 UPDATE locales_creature SET name_loc9='Jazzrik',subname_loc9='Blacksmithing Supplies' WHERE entry=9179;
 UPDATE locales_creature SET name_loc9='Scarshield Warlock',subname_loc9='Scarshield Legion' WHERE entry=9257;
@@ -1398,8 +1397,6 @@ UPDATE locales_creature SET name_loc9='Spark Nilminer',subname_loc9='Marshal Exp
 UPDATE locales_creature SET name_loc9='Scarshield Worg',subname_loc9='Scarshield Legion' WHERE entry=9416;
 UPDATE locales_creature SET name_loc9='Frenzied Black Drake',subname_loc9='Cyrus\'s Minion' WHERE entry=9461;
 UPDATE locales_creature SET name_loc9='Golhine the Hooded',subname_loc9='Druid Trainer' WHERE entry=9465;
-UPDATE locales_creature SET name_loc9='Arathandris Silversky',subname_loc9='Emerald Circle' WHERE entry=9528;
-UPDATE locales_creature SET name_loc9='Maybess Riverbreeze',subname_loc9='Emerald Circle' WHERE entry=9529;
 UPDATE locales_creature SET name_loc9='High Executioner Nuzrak',subname_loc9='Kargath Expeditionary Force' WHERE entry=9538;
 UPDATE locales_creature SET name_loc9='Shadow of Lexlort',subname_loc9='Kargath Expeditionary Force' WHERE entry=9539;
 UPDATE locales_creature SET name_loc9='Cawind Trueaim',subname_loc9='Gunsmith & Bowyer' WHERE entry=9548;
@@ -1490,16 +1487,11 @@ UPDATE locales_creature SET name_loc9='Summoned Blackhand Veteran',subname_loc9=
 UPDATE locales_creature SET name_loc9='Blackhand Dragon Handler',subname_loc9='Blackhand Legion' WHERE entry=10742;
 UPDATE locales_creature SET name_loc9='Royal Overseer Bauhaus',subname_loc9='Undercity Census' WHERE entry=10781;
 UPDATE locales_creature SET name_loc9='Royal Factor Bathrilor',subname_loc9='Stormwind Census' WHERE entry=10782;
-UPDATE locales_creature SET name_loc9='Orb of Deception',subname_loc9='Orc Male' WHERE entry=10783;
+UPDATE locales_creature SET subname_loc9='Orc Male' WHERE entry=10783;
 UPDATE locales_creature SET name_loc9='Warosh',subname_loc9='The Cursed' WHERE entry=10799;
 UPDATE locales_creature SET name_loc9='Deathspeaker Selendre',subname_loc9='Cult of the Damned' WHERE entry=10827;
 UPDATE locales_creature SET name_loc9='Blackhand Armorsmith',subname_loc9='Blackhand Legion' WHERE entry=10898;
 UPDATE locales_creature SET name_loc9='Goraluk Anvilcrack',subname_loc9='Blackhand Legion Armorsmith' WHERE entry=10899;
-UPDATE locales_creature SET name_loc9='Kelek Skykeeper',subname_loc9='Emerald Circle' WHERE entry=10920;
-UPDATE locales_creature SET name_loc9='Taronn Redfeather',subname_loc9='Emerald Circle' WHERE entry=10921;
-UPDATE locales_creature SET name_loc9='Greta Mosshoof',subname_loc9='Emerald Circle' WHERE entry=10922;
-UPDATE locales_creature SET name_loc9='Tenell Leafrunner',subname_loc9='Emerald Circle' WHERE entry=10923;
-UPDATE locales_creature SET name_loc9='Ivy Leafrunner',subname_loc9='Emerald Circle' WHERE entry=10924;
 UPDATE locales_creature SET name_loc9='Dargh Trueaim',subname_loc9='Hunter Trainer' WHERE entry=10930;
 UPDATE locales_creature SET name_loc9='Quixxil',subname_loc9='Marshal Expeditions' WHERE entry=10977;
 UPDATE locales_creature SET name_loc9='Twizwick Sprocketgrind',subname_loc9='Engineering Trainer' WHERE entry=10993;
@@ -1549,7 +1541,6 @@ UPDATE locales_creature SET name_loc9='Nixxrak',subname_loc9='Heavy Armor Mercha
 UPDATE locales_creature SET name_loc9='Blixxrak',subname_loc9='Light Armor Merchant' WHERE entry=11183;
 UPDATE locales_creature SET name_loc9='Wixxrak',subname_loc9='Weaponsmith & Gunsmith' WHERE entry=11184;
 UPDATE locales_creature SET name_loc9='Evie Whirlbrew',subname_loc9='Alchemy Supplies' WHERE entry=11188;
-UPDATE locales_creature SET subname_loc9='The Butcher' WHERE entry=11261;
 UPDATE locales_creature SET name_loc9='Joseph Dirte',subname_loc9='Waste Management' WHERE entry=11316;
 UPDATE locales_creature SET name_loc9='Sandfury Speaker',subname_loc9='Sandfury Troll Ambassador' WHERE entry=11387;
 UPDATE locales_creature SET name_loc9='Witherbark Speaker',subname_loc9='Witherbark Troll Ambassador' WHERE entry=11388;
@@ -1828,7 +1819,7 @@ UPDATE locales_creature SET subname_loc9='Coin of Ancestry Collector' WHERE entr
 UPDATE locales_creature SET name_loc9='Fariel Starsong',subname_loc9='Coin of Ancestry Collector' WHERE entry=15909;
 UPDATE locales_creature SET name_loc9='Mmmrrrggglll',subname_loc9='Grimscale Chieftain' WHERE entry=15937;
 UPDATE locales_creature SET name_loc9='World Master Tailoring Trainer',subname_loc9='Tailoring Trainer' WHERE entry=16000;
-UPDATE locales_creature SET name_loc9='Vicious Gladiator\'s Gavel',subname_loc9='Exotic Reagent Merchant' WHERE entry=16015;
+UPDATE locales_creature SET subname_loc9='Exotic Reagent Merchant' WHERE entry=16015;
 UPDATE locales_creature SET name_loc9='Boorana Thunderhoof',subname_loc9='Panda Cub Caretaker' WHERE entry=16019;
 UPDATE locales_creature SET name_loc9='Allenya Moonshadow',subname_loc9='Panda Cub Caretaker' WHERE entry=16023;
 UPDATE locales_creature SET name_loc9='Highlord Mograine',subname_loc9='The Ashbringer' WHERE entry=16062;
@@ -2322,7 +2313,7 @@ UPDATE locales_creature SET name_loc9='Orgatha',subname_loc9='Axesmith' WHERE en
 UPDATE locales_creature SET name_loc9='Sagan',subname_loc9='Ravandwyr\'s Familiar' WHERE entry=19482;
 UPDATE locales_creature SET name_loc9='Custodian Dieworth',subname_loc9='Keeper of Kirin\'Var' WHERE entry=19488;
 UPDATE locales_creature SET name_loc9='World Flying Mount Trainer',subname_loc9='Horse Riding Trainer' WHERE entry=19490;
-UPDATE locales_creature SET name_loc9='Aledar\'s Battlestar',subname_loc9='Phoenix God' WHERE entry=19514;
+UPDATE locales_creature SET subname_loc9='Phoenix God' WHERE entry=19514;
 UPDATE locales_creature SET subname_loc9='Phoenix God' WHERE entry=19514;
 UPDATE locales_creature SET name_loc9='Lelagar',subname_loc9='Blacksmithing Supplies' WHERE entry=19520;
 UPDATE locales_creature SET name_loc9='Arrond',subname_loc9='Tailoring Supplies' WHERE entry=19521;
@@ -2358,7 +2349,7 @@ UPDATE locales_creature SET subname_loc9='Ruffian' WHERE entry=19720;
 UPDATE locales_creature SET name_loc9='Haris Nachosis',subname_loc9='Socialite' WHERE entry=19721;
 UPDATE locales_creature SET name_loc9='Muheru the Weaver',subname_loc9='Tailoring Supplies' WHERE entry=19722;
 UPDATE locales_creature SET name_loc9='"Epic" Malone',subname_loc9='Ruffian' WHERE entry=19725;
-UPDATE locales_creature SET name_loc9='Creepjacker',subname_loc9='Ruffian' WHERE entry=19726;
+UPDATE locales_creature SET subname_loc9='Ruffian' WHERE entry=19726;
 UPDATE locales_creature SET name_loc9='Mama Wheeler',subname_loc9='B.O.O.M. Mech Tech' WHERE entry=19728;
 UPDATE locales_creature SET name_loc9='Toban',subname_loc9='Apprentice Jewelcrafter' WHERE entry=19774;
 UPDATE locales_creature SET name_loc9='Kalinda',subname_loc9='Jewelcrafting Trainer' WHERE entry=19775;
@@ -2897,7 +2888,6 @@ UPDATE locales_creature SET name_loc9='Big Zokk Torquewrench',subname_loc9='Aren
 UPDATE locales_creature SET name_loc9='Squire Walter',subname_loc9='Gryan\'s Squire' WHERE entry=26371;
 UPDATE locales_creature SET name_loc9='Evee Copperspring',subname_loc9='Arena Vendor' WHERE entry=26378;
 UPDATE locales_creature SET name_loc9='Lak\'tuk',subname_loc9='Suffering' WHERE entry=26380;
-UPDATE locales_creature SET name_loc9='Gar\'mak',subname_loc9='Anguish' WHERE entry=26381;
 UPDATE locales_creature SET name_loc9='Balfour Blackblade',subname_loc9='Reagents and Poisons' WHERE entry=26382;
 UPDATE locales_creature SET name_loc9='Grikkin Copperspring',subname_loc9='Arena Vendor' WHERE entry=26383;
 UPDATE locales_creature SET name_loc9='Frixee Brasstumbler',subname_loc9='Arena Vendor' WHERE entry=26384;
@@ -2918,7 +2908,6 @@ UPDATE locales_creature SET name_loc9='Griselda',subname_loc9='Hugh\'s Pet' WHER
 UPDATE locales_creature SET name_loc9='Doctor Sintar Malefious',subname_loc9='Grand Apothecary' WHERE entry=26505;
 UPDATE locales_creature SET name_loc9='Jennings',subname_loc9='Doctor Malefious\' Assistant' WHERE entry=26506;
 UPDATE locales_creature SET name_loc9='Tu\'u\'gwar',subname_loc9='"He Who Plays With Food"' WHERE entry=26510;
-UPDATE locales_creature SET name_loc9='Kili\'ua',subname_loc9='The Flesh of "Two Huge Pincers"' WHERE entry=26521;
 UPDATE locales_creature SET name_loc9='Uther the Lightbringer',subname_loc9='Knight of the Silver Hand' WHERE entry=26528;
 UPDATE locales_creature SET name_loc9='Greeb Ramrocket',subname_loc9='Borean Tundra Zeppelin Master' WHERE entry=26537;
 UPDATE locales_creature SET name_loc9='Nargo Screwbore',subname_loc9='Durotar Zeppelin Master' WHERE entry=26538;
@@ -3121,7 +3110,6 @@ UPDATE locales_creature SET name_loc9='Purkom',subname_loc9='Venture Coin Vendor
 UPDATE locales_creature SET name_loc9='"Grizzly" D. Adams',subname_loc9='Venture Coin Vendor' WHERE entry=27760;
 UPDATE locales_creature SET name_loc9='Nalice',subname_loc9='Ambassador of the Black Dragonflight' WHERE entry=27765;
 UPDATE locales_creature SET name_loc9='Lord Itharius',subname_loc9='Ambassador of the Green Dragonflight' WHERE entry=27785;
-UPDATE locales_creature SET name_loc9='Ysera',subname_loc9='The Dreamer' WHERE entry=27789;
 UPDATE locales_creature SET name_loc9='Lauriel Trueblade',subname_loc9='Alliance Ambassador' WHERE entry=27803;
 UPDATE locales_creature SET name_loc9='Golluck Rockfist',subname_loc9='Horde Ambassador' WHERE entry=27804;
 UPDATE locales_creature SET name_loc9='Plunderbeard',subname_loc9='7th Legion' WHERE entry=27828;
@@ -3705,7 +3693,6 @@ UPDATE locales_creature SET name_loc9='Tomarrek',subname_loc9='Armor Vendor' WHE
 UPDATE locales_creature SET subname_loc9='Grand Champion of Thunder Bluff' WHERE entry=33403;
 UPDATE locales_creature SET name_loc9='Sir Wendell Balfour',subname_loc9='Knight of Stormwind' WHERE entry=33439;
 UPDATE locales_creature SET name_loc9='Gorick Guzzledraught',subname_loc9='Dark Iron Spy' WHERE entry=33456;
-UPDATE locales_creature SET name_loc9='Ysera',subname_loc9='The Dreamer' WHERE entry=33495;
 UPDATE locales_creature SET name_loc9='Maloric',subname_loc9='The Black Knight\'s Squire' WHERE entry=33498;
 UPDATE locales_creature SET name_loc9='Neltharion',subname_loc9='The Earthwarder' WHERE entry=33523;
 UPDATE locales_creature SET name_loc9='Malygos',subname_loc9='The Spell-Weaver' WHERE entry=33535;
@@ -3832,7 +3819,7 @@ UPDATE locales_creature SET name_loc9='Sergeant Thunderhorn',subname_loc9='Appre
 UPDATE locales_creature SET name_loc9='Sergeant Thunderhorn',subname_loc9='Apprentice Armor Quartermaster' WHERE entry=34038;
 UPDATE locales_creature SET name_loc9='Lady Palanseer',subname_loc9='Jewelcrafting Quartermaster' WHERE entry=34039;
 UPDATE locales_creature SET name_loc9='Lady Palanseer',subname_loc9='Jewelcrafting Quartermaster' WHERE entry=34040;
-UPDATE locales_creature SET name_loc9='Phantom Ghostfish',subname_loc9='Designer Extraordinaire' WHERE entry=34042;
+UPDATE locales_creature SET subname_loc9='Designer Extraordinaire' WHERE entry=34042;
 UPDATE locales_creature SET name_loc9='Lady Palanseer',subname_loc9='Jewelcrafting Quartermaster' WHERE entry=34043;
 UPDATE locales_creature SET name_loc9='Doris Chiltonius',subname_loc9='Veteran Armor Quartermaster' WHERE entry=34058;
 UPDATE locales_creature SET name_loc9='Doris Chiltonius',subname_loc9='Veteran Armor Quartermaster' WHERE entry=34059;
@@ -3934,7 +3921,7 @@ UPDATE locales_creature SET name_loc9='Lieutenant Buckland',subname_loc9='Northw
 UPDATE locales_creature SET name_loc9='Chief Engineer Foote',subname_loc9='Northwatch Expeditionary Unit' WHERE entry=34754;
 UPDATE locales_creature SET name_loc9='Zelli Hotnozzle',subname_loc9='Thunder Bluff Zeppelin Master' WHERE entry=34765;
 UPDATE locales_creature SET name_loc9='Krendle Bigpockets',subname_loc9='Orgrimmar Zeppelin Master' WHERE entry=34766;
-UPDATE locales_creature SET name_loc9='Limpet Mine',subname_loc9='Swim Away!' WHERE entry=34767;
+UPDATE locales_creature SET subname_loc9='Swim Away!' WHERE entry=34767;
 UPDATE locales_creature SET name_loc9='Vasarin Redmorn',subname_loc9='Sunreavers Quartermaster' WHERE entry=34772;
 UPDATE locales_creature SET name_loc9='Ranisa Whitebough',subname_loc9='Pilgrim\'s Bounty Vendor' WHERE entry=34783;
 UPDATE locales_creature SET name_loc9='Alnar Whitebough',subname_loc9='Cooking Trainer' WHERE entry=34785;
@@ -4035,7 +4022,6 @@ UPDATE locales_creature SET name_loc9='Valiant Bressia',subname_loc9='Triumphant
 UPDATE locales_creature SET name_loc9='Aspirant Forudir',subname_loc9='Triumphant Armor Vendor' WHERE entry=35579;
 UPDATE locales_creature SET name_loc9='Aspirant Naradiel',subname_loc9='Triumphant Armor Vendor' WHERE entry=35580;
 UPDATE locales_creature SET name_loc9='Risen Champion',subname_loc9='Black Knight\'s Minion' WHERE entry=35590;
-UPDATE locales_creature SET name_loc9='Brassbolt Mechawrench',subname_loc9='Steam-Powered Auctioneer' WHERE entry=35594;
 UPDATE locales_creature SET name_loc9='Archmage Selwyn',subname_loc9='Mennar Academy' WHERE entry=35595;
 UPDATE locales_creature SET name_loc9='Arcanist Iramhir',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35596;
 UPDATE locales_creature SET name_loc9='Magistrix Aldessia',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35597;
@@ -4045,7 +4031,6 @@ UPDATE locales_creature SET name_loc9='Arcanist Laniria',subname_loc9='Wintergra
 UPDATE locales_creature SET name_loc9='Arcanist Nazalia',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35601;
 UPDATE locales_creature SET name_loc9='Magister Savarin',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35602;
 UPDATE locales_creature SET name_loc9='Magister Dalhyr',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35603;
-UPDATE locales_creature SET name_loc9='Reginald Arcfire',subname_loc9='Steam-Powered Auctioneer' WHERE entry=35607;
 UPDATE locales_creature SET name_loc9='Magistrix Erembria',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35611;
 UPDATE locales_creature SET name_loc9='Magistrix Caradess',subname_loc9='Wintergrasp Battle-Mage' WHERE entry=35612;
 UPDATE locales_creature SET subname_loc9='Grand Champion of Undercity' WHERE entry=35617;
@@ -4116,13 +4101,11 @@ UPDATE locales_creature SET name_loc9='Nyrill',subname_loc9='Xylem\'s Apprentice
 UPDATE locales_creature SET name_loc9='Tex Vortacoil',subname_loc9='Reagents' WHERE entry=36375;
 UPDATE locales_creature SET name_loc9='Fib Gyrojolt',subname_loc9='Xylem\'s Apprentice' WHERE entry=36376;
 UPDATE locales_creature SET name_loc9='Sassy Hardwrench',subname_loc9='Your Former Executive Assistant' WHERE entry=36425;
-UPDATE locales_creature SET name_loc9='Brett "Coins" McQuid',subname_loc9='Recovered Supplies' WHERE entry=36427;
 UPDATE locales_creature SET name_loc9='Sally "Salvager" Sandscrew',subname_loc9='Slightly Damp Salvage' WHERE entry=36430;
 UPDATE locales_creature SET name_loc9='Chawg',subname_loc9='Armor Vendor' WHERE entry=36432;
 UPDATE locales_creature SET name_loc9='Gwen Armstead',subname_loc9='Mayor of Duskhaven' WHERE entry=36452;
 UPDATE locales_creature SET name_loc9='Chawg',subname_loc9='Armor Vendor' WHERE entry=36464;
 UPDATE locales_creature SET name_loc9='Chawg',subname_loc9='Armor Vendor' WHERE entry=36465;
-UPDATE locales_creature SET name_loc9='Brett "Coins" McQuid',subname_loc9='Recovered Supplies' WHERE entry=36466;
 UPDATE locales_creature SET name_loc9='Sally "Salvager" Sandscrew',subname_loc9='Slightly Damp Salvage' WHERE entry=36467;
 UPDATE locales_creature SET name_loc9='Ick',subname_loc9='Krick\'s Minion' WHERE entry=36476;
 UPDATE locales_creature SET name_loc9='Soulguard Watchman',subname_loc9='Cult of the Damned' WHERE entry=36478;
@@ -4356,7 +4339,6 @@ UPDATE locales_creature SET name_loc9='Snivel Rustrocket',subname_loc9='Venture 
 UPDATE locales_creature SET name_loc9='Maximillian of Northshire',subname_loc9='Knight-Errant' WHERE entry=38343;
 UPDATE locales_creature SET name_loc9='Pimento',subname_loc9='Maximillian\'s Steed' WHERE entry=38373;
 UPDATE locales_creature SET name_loc9='Janice Mattingly',subname_loc9='Supply Officer' WHERE entry=38380;
-UPDATE locales_creature SET name_loc9='Brett "Coins" McQuid',subname_loc9='Recovered Supplies' WHERE entry=38381;
 UPDATE locales_creature SET name_loc9='Sassy Hardwrench',subname_loc9='Your Former Executive Assistant' WHERE entry=38387;
 UPDATE locales_creature SET name_loc9='Cult Fanatic (1)',subname_loc9='Cult of the Damned' WHERE entry=38393;
 UPDATE locales_creature SET name_loc9='Deformed Fanatic (1)',subname_loc9='Cult of the Damned' WHERE entry=38395;
@@ -4601,7 +4583,7 @@ UPDATE locales_creature SET name_loc9='Starn',subname_loc9='Gunsmith & Bowyer' W
 UPDATE locales_creature SET name_loc9='Lady Sira\'kess',subname_loc9='Mistress of the Tides' WHERE entry=41456;
 UPDATE locales_creature SET name_loc9='Donald Dealright',subname_loc9='Trader' WHERE entry=41490;
 UPDATE locales_creature SET name_loc9='Poppy',subname_loc9='Engineer' WHERE entry=41493;
-UPDATE locales_creature SET name_loc9='Deepseeker Crab',subname_loc9='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
+UPDATE locales_creature SET subname_loc9='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
 UPDATE locales_creature SET name_loc9='Calamoth Ashbeard',subname_loc9='Herald of the Twilight\'s Hammer' WHERE entry=41522;
 UPDATE locales_creature SET name_loc9='Thargas Anvilmar',subname_loc9='Defender of Thandol Span' WHERE entry=41560;
 UPDATE locales_creature SET name_loc9='Aryenda',subname_loc9='Flight Master' WHERE entry=41580;
@@ -5214,12 +5196,10 @@ UPDATE locales_creature SET name_loc9='Archmage Pratt',subname_loc9='Arcane Refo
 UPDATE locales_creature SET name_loc9='Enchantress Fira',subname_loc9='Arcane Reforger' WHERE entry=47588;
 UPDATE locales_creature SET name_loc9='Enchantress Herim',subname_loc9='Arcane Reforger' WHERE entry=47589;
 UPDATE locales_creature SET name_loc9='Alexstrasza the Life-Binder',subname_loc9='Queen of the Dragons' WHERE entry=47603;
-UPDATE locales_creature SET name_loc9='Farlus Wildheart',subname_loc9='Emerald Circle' WHERE entry=47617;
 UPDATE locales_creature SET name_loc9='Torth',subname_loc9='The Ravenous' WHERE entry=47658;
 UPDATE locales_creature SET name_loc9='Torth',subname_loc9='The Ravenous' WHERE entry=47669;
 UPDATE locales_creature SET name_loc9='Lady Ironpants',subname_loc9='Archaeology Trainer' WHERE entry=47683;
 UPDATE locales_creature SET name_loc9='King Phaoris',subname_loc9='Ruler of Ramkahen' WHERE entry=47684;
-UPDATE locales_creature SET name_loc9='Kelnir Leafsong',subname_loc9='Emerald Circle' WHERE entry=47696;
 UPDATE locales_creature SET name_loc9='Villainous Evil Squirrel',subname_loc9='Moustache Twirler Extraordinare' WHERE entry=47713;
 UPDATE locales_creature SET name_loc9='Magatha Grimtotem',subname_loc9='Elder Crone' WHERE entry=47718;
 UPDATE locales_creature SET name_loc9='Alexis Torry',subname_loc9='Alchemy Supplies' WHERE entry=47719;
@@ -5245,7 +5225,6 @@ UPDATE locales_creature SET name_loc9='[UNUSED]Brivelthwerp',subname_loc9='Ice C
 UPDATE locales_creature SET name_loc9='Doug Deepdown',subname_loc9='Flight Master' WHERE entry=47927;
 UPDATE locales_creature SET name_loc9='Asaq',subname_loc9='Royal Envoy' WHERE entry=47930;
 UPDATE locales_creature SET name_loc9='Fergus Gravelsmash',subname_loc9='Blacksmithing Supplies' WHERE entry=47937;
-UPDATE locales_creature SET name_loc9='Whisperwind Healer',subname_loc9='Emerald Circle' WHERE entry=48007;
 UPDATE locales_creature SET name_loc9='Johnny Awesome',subname_loc9='Uber Town' WHERE entry=48021;
 UPDATE locales_creature SET name_loc9='Thrall',subname_loc9='Earthen Ring' WHERE entry=48051;
 UPDATE locales_creature SET name_loc9='Artie Steelbolt',subname_loc9='Blacksmithing Supplies' WHERE entry=48057;
@@ -5256,7 +5235,6 @@ UPDATE locales_creature SET name_loc9='Muln Earthfury',subname_loc9='Earthen Rin
 UPDATE locales_creature SET name_loc9='Augh',subname_loc9='Lost City Tour Guide' WHERE entry=48104;
 UPDATE locales_creature SET name_loc9='Juliette',subname_loc9='Speedbarge Rugrat' WHERE entry=48113;
 UPDATE locales_creature SET name_loc9='Raphael',subname_loc9='Speedbarge Rugrat' WHERE entry=48114;
-UPDATE locales_creature SET name_loc9='Isural Forestsworn',subname_loc9='Emerald Circle' WHERE entry=48126;
 UPDATE locales_creature SET name_loc9='Kasha',subname_loc9='Orkus\' Faithful Steed' WHERE entry=48217;
 UPDATE locales_creature SET name_loc9='Kingslayer Orkus',subname_loc9='Red Like My Rage' WHERE entry=48218;
 UPDATE locales_creature SET name_loc9='Vanndar Stormpike',subname_loc9='Stormpike General' WHERE entry=48219;
@@ -5274,9 +5252,7 @@ UPDATE locales_creature SET name_loc9='Hans Oreflight',subname_loc9='Flight Mast
 UPDATE locales_creature SET name_loc9='Grimly Singefeather',subname_loc9='Flight Master' WHERE entry=48321;
 UPDATE locales_creature SET name_loc9='General Umbriss (1)',subname_loc9='Servant of Deathwing' WHERE entry=48337;
 UPDATE locales_creature SET name_loc9='Mine Bunny',subname_loc9='Refreshments' WHERE entry=48338;
-UPDATE locales_creature SET name_loc9='Elessa Starbreeze',subname_loc9='Emerald Circle' WHERE entry=48339;
 UPDATE locales_creature SET name_loc9='Kroshius',subname_loc9='Herald of the Legion\'s Fall' WHERE entry=48344;
-UPDATE locales_creature SET name_loc9='Hurak Wildhorn',subname_loc9='Emerald Circle' WHERE entry=48349;
 UPDATE locales_creature SET name_loc9='Mine Bunny',subname_loc9='Refreshments' WHERE entry=48351;
 UPDATE locales_creature SET name_loc9='Karosh',subname_loc9='Armorsmith' WHERE entry=48356;
 UPDATE locales_creature SET name_loc9='Shambling Assistant',subname_loc9='Calder\'s Zombie Servant' WHERE entry=48388;
@@ -5289,14 +5265,12 @@ UPDATE locales_creature SET name_loc9='Captain Balinda Stonehearth',subname_loc9
 UPDATE locales_creature SET name_loc9='Ozumat',subname_loc9='Fiend of the Dark Below' WHERE entry=48416;
 UPDATE locales_creature SET subname_loc9='No. 2' WHERE entry=48427;
 UPDATE locales_creature SET subname_loc9='No. 2' WHERE entry=48429;
-UPDATE locales_creature SET name_loc9='Tender Puregrove',subname_loc9='Emerald Circle' WHERE entry=48459;
 UPDATE locales_creature SET name_loc9='Drizle',subname_loc9='Timbermaw Cub' WHERE entry=48460;
 UPDATE locales_creature SET name_loc9='Ferli',subname_loc9='Timbermaw Cub' WHERE entry=48461;
 UPDATE locales_creature SET name_loc9='Kingslayer Orkus',subname_loc9='Red Like My Rage' WHERE entry=48468;
 UPDATE locales_creature SET name_loc9='Fez Hobnob',subname_loc9='Public Relations' WHERE entry=48469;
 UPDATE locales_creature SET name_loc9='Kingslayer Orkus',subname_loc9='Red Like My Rage' WHERE entry=48470;
 UPDATE locales_creature SET name_loc9='Drizle',subname_loc9='Timbermaw Cub' WHERE entry=48481;
-UPDATE locales_creature SET name_loc9='Whisperwind Druid',subname_loc9='Emerald Circle' WHERE entry=48487;
 UPDATE locales_creature SET name_loc9='Kingslayer Orkus',subname_loc9='Red Like My Rage' WHERE entry=48503;
 UPDATE locales_creature SET name_loc9='Captain Balinda Stonehearth',subname_loc9='Stormpike Captain' WHERE entry=48507;
 UPDATE locales_creature SET name_loc9='Vanndar Stormpike',subname_loc9='Stormpike General' WHERE entry=48508;
@@ -5677,7 +5651,6 @@ UPDATE locales_creature SET name_loc9='Randah Songhorn',subname_loc9='Guild Vend
 UPDATE locales_creature SET name_loc9='Velia Moonbow',subname_loc9='Guild Vendor' WHERE entry=51504;
 UPDATE locales_creature SET name_loc9='Mirla Silverblaze',subname_loc9='Guild Vendor' WHERE entry=51512;
 UPDATE locales_creature SET name_loc9='Dustan',subname_loc9='Specialty Alchemy Vendor' WHERE entry=51550;
-UPDATE locales_creature SET name_loc9='Emerald Druid',subname_loc9='Emerald Circle' WHERE entry=51610;
 UPDATE locales_creature SET name_loc9='Lady Gurga',subname_loc9='Diva' WHERE entry=51615;
 UPDATE locales_creature SET name_loc9='Groopy',subname_loc9='Little Monster' WHERE entry=51616;
 UPDATE locales_creature SET name_loc9='Prezy',subname_loc9='Grand Jester' WHERE entry=51618;
@@ -5691,7 +5664,6 @@ UPDATE locales_creature SET name_loc9='Mogh the Dead',subname_loc9='Skullsplitte
 UPDATE locales_creature SET name_loc9='Tsul\'Kalu',subname_loc9='The Earth Spirit' WHERE entry=51661;
 UPDATE locales_creature SET name_loc9='Mahamba',subname_loc9='The Water Spirit' WHERE entry=51662;
 UPDATE locales_creature SET name_loc9='Pogeyan',subname_loc9='The Fire Spirit' WHERE entry=51663;
-UPDATE locales_creature SET name_loc9='Andalar Shadevale',subname_loc9='Emerald Circle' WHERE entry=51664;
 UPDATE locales_creature SET name_loc9='Bronjahm (1)',subname_loc9='Godfather of Souls' WHERE entry=51723;
 UPDATE locales_creature SET name_loc9='Lasha Gearwheel',subname_loc9='Resort Director' WHERE entry=51733;
 UPDATE locales_creature SET name_loc9='Gordon Tramsay',subname_loc9='Head Chef' WHERE entry=51734;
@@ -5968,7 +5940,6 @@ UPDATE locales_creature SET name_loc9='Zina Sharpworth',subname_loc9='Game Token
 UPDATE locales_creature SET name_loc9='Astrid Langstrump',subname_loc9='Mountain Horse Handler' WHERE entry=55285;
 UPDATE locales_creature SET name_loc9='Carl Goodup',subname_loc9='Balloon Vendor' WHERE entry=55305;
 UPDATE locales_creature SET name_loc9='Trixi Sharpworth',subname_loc9='Game Tokens' WHERE entry=55339;
-UPDATE locales_creature SET name_loc9='Ysera',subname_loc9='The Dreamer' WHERE entry=55393;
 UPDATE locales_creature SET name_loc9='Alexstrasza',subname_loc9='The Life-Binder' WHERE entry=55394;
 UPDATE locales_creature SET name_loc9='Neltharion',subname_loc9='The Earth-Warder' WHERE entry=55400;
 UPDATE locales_creature SET name_loc9='Korgol Crushskull',subname_loc9='The Pit Master' WHERE entry=55402;

@@ -5,15 +5,10 @@ UPDATE locales_gossip_menu_option SET option_text_loc9='Here\'s a gold, buy your
 UPDATE locales_gossip_menu_option SET option_text_loc9='Purchase a Dual Talent Specialization.',box_text_loc9='Are you sure you wish to purchase a Dual Talent Specialization?' WHERE menu_id=10371 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='I no longer wish to gain experience.',box_text_loc9='Are you certain you wish to stop gaining experience?' WHERE menu_id=10638 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='May bee a couple copper will loosen your toungue. Now tell me, did you se who killed the Furlbrows?',box_text_loc9='Are you sure you want to give this hobo money?' WHERE menu_id=11635 AND id=1;
-UPDATE locales_gossip_menu_option SET option_text_loc9='Abandon Imp',box_text_loc9='Are you sure you want to pay to abandon your minion?' WHERE menu_id=12670 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc9='Abandon Voidwalker',box_text_loc9='Are you sure you want to pay to abandon your minion?' WHERE menu_id=12670 AND id=1;
-UPDATE locales_gossip_menu_option SET option_text_loc9='Abandon Succubus',box_text_loc9='Are you sure you want to pay to abandon your minion?' WHERE menu_id=12670 AND id=2;
-UPDATE locales_gossip_menu_option SET option_text_loc9='Abandon Felguard',box_text_loc9='Are you sure you want to pay to abandon your minion?' WHERE menu_id=12670 AND id=4;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Whatever, Duncan.  Grab a mop and get to work.',box_text_loc9='Will you pay "Pretty Boy" Duncan 1 gold to swab the decks for you?' WHERE menu_id=12723 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Journey to the fair will cost you',box_text_loc9='Journey to the fair will cost you' WHERE menu_id=12992 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Journey to the fair will cost you',box_text_loc9='Journey to the fair will cost you' WHERE menu_id=13124 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='You may begin your ritual, we will defend you.',box_text_loc9='Do you want to start the encounter?' WHERE menu_id=13322 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc9='Teleport me to the cannon.',box_text_loc9='Teleportation to the cannon will cost:' WHERE menu_id=13352 AND id=0;
-UPDATE locales_gossip_menu_option SET option_text_loc9='<Pay 10 000 gold.>',box_text_loc9='Do you want to pay?' WHERE menu_id=57800 AND id=0;
 
 SET NAMES 'latin1';
