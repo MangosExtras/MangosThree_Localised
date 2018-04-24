@@ -2809,6 +2809,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc5='艾澤拉斯的英雄' W
 UPDATE locales_gossip_menu_option SET option_text_loc5='通過黑暗之門' WHERE menu_id=9197 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc5='背叛者之奴' WHERE menu_id=9197 AND id=4;
 UPDATE locales_gossip_menu_option SET option_text_loc5='獵殺伊利丹' WHERE menu_id=9197 AND id=5;
+UPDATE locales_gossip_menu_option SET option_text_loc5='戰爭之鼓' WHERE menu_id=9197 AND id=6;
 UPDATE locales_gossip_menu_option SET option_text_loc5='榮譽原野' WHERE menu_id=9197 AND id=8;
 UPDATE locales_gossip_menu_option SET option_text_loc5='讓我看看你的貨物。' WHERE menu_id=9198 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc5='你是誰?' WHERE menu_id=9199 AND id=0;
