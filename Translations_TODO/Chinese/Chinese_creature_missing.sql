@@ -10,7 +10,6 @@ UPDATE locales_creature SET name_loc4='Placeholder - Fargodeep Mine',subname_loc
 UPDATE locales_creature SET name_loc4='[UNUSED] Aunt Bethda',subname_loc4='<Needs Texture>' WHERE entry=298;
 UPDATE locales_creature SET name_loc4='Harl Cutter',subname_loc4='Woodcrafting Supplies' WHERE entry=841;
 UPDATE locales_creature SET name_loc4='Spawn Test One',subname_loc4='TEST MOB' WHERE entry=953;
-UPDATE locales_creature SET subname_loc4='UNUSED' WHERE entry=1066;
 UPDATE locales_creature SET name_loc4='Kubb',subname_loc4='Master of Meats and Fishes' WHERE entry=1425;
 UPDATE locales_creature SET name_loc4='[UNUSED] Grummar Thunk',subname_loc4='Fletching Supplies' WHERE entry=1455;
 UPDATE locales_creature SET name_loc4='[UNUSED] Coleman Mills',subname_loc4='NEEDS MODEL' WHERE entry=1659;
@@ -30,9 +29,6 @@ UPDATE locales_creature SET name_loc4='Gosh-Haldir',subname_loc4='The Clutch Mot
 UPDATE locales_creature SET subname_loc4='Envoy of Zanzil' WHERE entry=2530;
 UPDATE locales_creature SET name_loc4='Port Master Szik',subname_loc4='Boat Vendor' WHERE entry=2662;
 UPDATE locales_creature SET subname_loc4='PH MODEL WIP' WHERE entry=2694;
-UPDATE locales_creature SET name_loc4='Felhunter Trainer',subname_loc4='UNUSED' WHERE entry=2702;
-UPDATE locales_creature SET subname_loc4='UNUSED' WHERE entry=2709;
-UPDATE locales_creature SET name_loc4='Voidwalker Trainer',subname_loc4='UNUSED' WHERE entry=2710;
 UPDATE locales_creature SET subname_loc4='Crocilisk Trainer' WHERE entry=2876;
 UPDATE locales_creature SET name_loc4='[UNUSED] [PH] Monster Slayer Trainer',subname_loc4='Monster Slayer Trainer' WHERE entry=2883;
 UPDATE locales_creature SET name_loc4='[PH] Alliance Magic Skills Trainer',subname_loc4='Magic Skill Trainer *Temp*' WHERE entry=2896;
@@ -59,15 +55,11 @@ UPDATE locales_creature SET name_loc4='World Boar Trainer',subname_loc4='Boar Pe
 UPDATE locales_creature SET name_loc4='World Cat Trainer',subname_loc4='Cat Pet Trainer' WHERE entry=5003;
 UPDATE locales_creature SET name_loc4='World Crawler Trainer',subname_loc4='Crawler Pet Trainer' WHERE entry=5004;
 UPDATE locales_creature SET name_loc4='World Crocodile Trainer',subname_loc4='Crocodile Pet Trainer' WHERE entry=5005;
-UPDATE locales_creature SET name_loc4='World Felhunter Trainer',subname_loc4='UNUSED' WHERE entry=5007;
 UPDATE locales_creature SET name_loc4='World Gorilla Trainer',subname_loc4='Gorilla Pet Trainer' WHERE entry=5008;
 UPDATE locales_creature SET name_loc4='World Horse Trainer',subname_loc4='Horse Pet Trainer' WHERE entry=5009;
-UPDATE locales_creature SET name_loc4='World Imp Trainer',subname_loc4='UNUSED' WHERE entry=5010;
 UPDATE locales_creature SET name_loc4='World Scorpid Trainer',subname_loc4='Scorpid Pet Trainer' WHERE entry=5012;
 UPDATE locales_creature SET name_loc4='World Spider Trainer',subname_loc4='Spider Pet Trainer' WHERE entry=5013;
-UPDATE locales_creature SET name_loc4='World Succubus Trainer',subname_loc4='UNUSED' WHERE entry=5014;
 UPDATE locales_creature SET name_loc4='World Tallstrider Trainer',subname_loc4='Tallstrider Pet Trainer' WHERE entry=5015;
-UPDATE locales_creature SET name_loc4='World Voidwalker Trainer',subname_loc4='UNUSED' WHERE entry=5016;
 UPDATE locales_creature SET name_loc4='World Turtle Trainer',subname_loc4='Turtle Pet Trainer' WHERE entry=5017;
 UPDATE locales_creature SET name_loc4='World Portal: Darnassus Trainer',subname_loc4='Portal: Darnassus Trainer' WHERE entry=5018;
 UPDATE locales_creature SET name_loc4='World Portal: Ironforge Trainer',subname_loc4='Portal: Ironforge Trainer' WHERE entry=5019;
@@ -230,7 +222,7 @@ UPDATE locales_creature SET name_loc4='Glomp',subname_loc4='The Treasurer' WHERE
 UPDATE locales_creature SET name_loc4='Lieutenant Pyre',subname_loc4='Northwatch Expeditionary Unit' WHERE entry=34752;
 UPDATE locales_creature SET name_loc4='Lieutenant Buckland',subname_loc4='Northwatch Expeditionary Unit' WHERE entry=34753;
 UPDATE locales_creature SET name_loc4='Chief Engineer Foote',subname_loc4='Northwatch Expeditionary Unit' WHERE entry=34754;
-UPDATE locales_creature SET name_loc4='Limpet Mine',subname_loc4='Swim Away!' WHERE entry=34767;
+UPDATE locales_creature SET subname_loc4='Swim Away!' WHERE entry=34767;
 UPDATE locales_creature SET name_loc4='Chef Toofus',subname_loc4='Southsea Pirates' WHERE entry=34804;
 UPDATE locales_creature SET name_loc4='Megs Dreadshredder',subname_loc4='Marketing Rep' WHERE entry=34874;
 UPDATE locales_creature SET name_loc4='Guardsman Belothiel',subname_loc4='Head of the City Watch' WHERE entry=34939;
@@ -261,13 +253,11 @@ UPDATE locales_creature SET name_loc4='Ogre Minion',subname_loc4='Servant of Kor
 UPDATE locales_creature SET name_loc4='Gwen Armstead (Personal Invisibility)',subname_loc4='Mayor of Grimmburg' WHERE entry=36328;
 UPDATE locales_creature SET name_loc4='Krennan Aranas',subname_loc4='Royal Chemist' WHERE entry=36331;
 UPDATE locales_creature SET name_loc4='Sassy Hardwrench',subname_loc4='Your Former Executive Assistant' WHERE entry=36425;
-UPDATE locales_creature SET name_loc4='Brett "Coins" McQuid',subname_loc4='Recovered Supplies' WHERE entry=36427;
 UPDATE locales_creature SET name_loc4='Sally "Salvager" Sandscrew',subname_loc4='Slightly Damp Salvage' WHERE entry=36430;
 UPDATE locales_creature SET name_loc4='Chawg',subname_loc4='Armor Vendor' WHERE entry=36432;
 UPDATE locales_creature SET name_loc4='Gwen Armstead',subname_loc4='Mayor of Duskhaven' WHERE entry=36452;
 UPDATE locales_creature SET name_loc4='Chawg',subname_loc4='Armor Vendor' WHERE entry=36464;
 UPDATE locales_creature SET name_loc4='Chawg',subname_loc4='Armor Vendor' WHERE entry=36465;
-UPDATE locales_creature SET name_loc4='Brett "Coins" McQuid',subname_loc4='Recovered Supplies' WHERE entry=36466;
 UPDATE locales_creature SET name_loc4='Sally "Salvager" Sandscrew',subname_loc4='Slightly Damp Salvage' WHERE entry=36467;
 UPDATE locales_creature SET name_loc4='Bastia',subname_loc4='Kilag Gorefang\'s Pet' WHERE entry=36578;
 UPDATE locales_creature SET name_loc4='Bastia',subname_loc4='Kilag Gorefang\'s Pet' WHERE entry=36585;
@@ -347,7 +337,6 @@ UPDATE locales_creature SET name_loc4='Zar\'jira',subname_loc4='The Sea Witch' W
 UPDATE locales_creature SET name_loc4='Maximillian of Northshire',subname_loc4='Knight-Errant' WHERE entry=38343;
 UPDATE locales_creature SET name_loc4='Pimento',subname_loc4='Maximillian\'s Steed' WHERE entry=38373;
 UPDATE locales_creature SET name_loc4='Janice Mattingly',subname_loc4='Supply Officer' WHERE entry=38380;
-UPDATE locales_creature SET name_loc4='Brett "Coins" McQuid',subname_loc4='Recovered Supplies' WHERE entry=38381;
 UPDATE locales_creature SET name_loc4='Sassy Hardwrench',subname_loc4='Your Former Executive Assistant' WHERE entry=38387;
 UPDATE locales_creature SET name_loc4='Megs Dreadshredder',subname_loc4='Marketing Rep' WHERE entry=38432;
 UPDATE locales_creature SET name_loc4='Morakki',subname_loc4='Captain of the Watch' WHERE entry=38442;
@@ -474,7 +463,7 @@ UPDATE locales_creature SET name_loc4='Neptool',subname_loc4='Rockpool Chief' WH
 UPDATE locales_creature SET name_loc4='Delber Cranktoggle',subname_loc4='Covert Operations Technician' WHERE entry=41363;
 UPDATE locales_creature SET name_loc4='Lady Sira\'kess',subname_loc4='Mistress of the Tides' WHERE entry=41456;
 UPDATE locales_creature SET name_loc4='Donald Dealright',subname_loc4='Trader' WHERE entry=41490;
-UPDATE locales_creature SET name_loc4='Deepseeker Crab',subname_loc4='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
+UPDATE locales_creature SET subname_loc4='Idra\'kess Harpooner\'s Pet' WHERE entry=41520;
 UPDATE locales_creature SET name_loc4='Calamoth Ashbeard',subname_loc4='Herald of the Twilight\'s Hammer' WHERE entry=41522;
 UPDATE locales_creature SET name_loc4='Thargas Anvilmar',subname_loc4='Defender of Thandol Span' WHERE entry=41560;
 UPDATE locales_creature SET name_loc4='Fathom-Caller Azrajar',subname_loc4='General of the Front' WHERE entry=41590;

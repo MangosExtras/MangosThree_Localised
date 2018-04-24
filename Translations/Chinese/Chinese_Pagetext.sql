@@ -913,7 +913,7 @@ UPDATE locales_page_text SET text_loc4='虽然大地的孩子对於邪恶的密�
 UPDATE locales_page_text SET text_loc4='塞纳留斯告诉大地的孩子如何与树林进行沟通。舒哈鲁成了德鲁伊，他们使用各种魔法来呵护这片土地的健康。塞纳留斯和数代舒哈鲁一起狩猎，共同保护这片土地免受潜伏在地下的邪恶力量的伤害。' WHERE entry=2310;
 UPDATE locales_page_text SET text_loc4='这块完整的翼手龙骨骼是从遥远的安戈洛环形山运回来的。根据骨架的结构判断，其特殊的基因还从未改变过。这块骨架在该地区的特殊土壤中可以保存近乎无限长的时间。' WHERE entry=2311;
 UPDATE locales_page_text SET text_loc4='这具完整的翼手龙骨骸是从遥远的安戈洛环形山发掘出来的。根据骨骸的结构来看，显然这种特殊的生物从未在我们的时代出现过。在安戈洛尔环形山的特殊土壤中，这副骨骸可以永远地保存下去。' WHERE entry=2350;
-UPDATE locales_page_text SET text_loc4='达隆郡的历史$B$B达隆郡是一座位於罗德隆南部山脉中的村庄，这个名字来源於其西面的达隆米尔湖。镇中的居民朴实而又勤劳，达隆郡在罗德隆历史上一直都是默默无闻的，直到第二次恶魔战争的开始。$B$B在战斗期间，无数英雄从这里诞生，无数英雄在这里陨落。' WHERE entry=2371;
+UPDATE locales_page_text SET text_loc4='达隆郡年记$B$B达隆郡是个座落於罗德隆南部山麓中的村庄，村名是以西面的达隆米尔湖来命名的。镇中的居民朴实而又勤劳，达隆郡在罗德隆历史上一直都是默默无闻的，直到第二次恶魔战争的开始。$B$B在战斗期间，无数英雄从这里诞生并陨落。' WHERE entry=2371;
 UPDATE locales_page_text SET text_loc4='达隆郡的战斗$B$B达隆郡的战斗发生在第二次恶魔战争的中期。那时，天谴军团的力量在罗德隆的土地上横行肆虐，达隆郡与联盟主力部队的联系被切断，但是镇中有一支驻军，包括一队白银之手的圣骑士，以及由约瑟夫·雷德帕斯所领导的当地民兵。' WHERE entry=2372;
 UPDATE locales_page_text SET text_loc4='天谴军团的第一次攻击仅仅是试探性的。小队的骷髅和殭屍在小镇周边徘徊，并被很轻易地击败了。 $B$B但是防御部队的坚毅并没有让亡灵退却，它们继续疯狂地进行攻击，一波接一波的亡灵部队接踵而来，与达隆郡的防卫者激烈交战。' WHERE entry=2373;
 UPDATE locales_page_text SET text_loc4='战斗继续着，雷德帕斯队长率领民兵英勇奋战。如果不是队长被死亡骑士玛杜克的黑暗魔法控制的话，这场战斗有可能获胜的。$B$B在战斗中，玛杜克骑马来到雷德帕斯面前，他使用黑暗魔法撕碎了雷德帕斯的意志，将他的灵魂扭曲成了一个邪恶的阴影。' WHERE entry=2375;
@@ -1020,6 +1020,7 @@ UPDATE locales_page_text SET text_loc4='『杀戮者』索伦诺尔:$B$B『杀�
 UPDATE locales_page_text SET text_loc4='『末日使者』阿托留斯:$B$B冬泉谷中的那些被阿托留斯接触过的生物全都被他毁灭了。找到他，杀死他。' WHERE entry=2674;
 UPDATE locales_page_text SET text_loc4='猎人，你要多加小心，那些恶魔都不会贸然行事。如果它们觉得自己没有绝对的胜算，就会选择逃跑。$B$B你一定要独自行动。' WHERE entry=2675;
 UPDATE locales_page_text SET text_loc4='<HTML><BODY><H1 align="center">联盟军阶' WHERE entry=2676;
+UPDATE locales_page_text SET text_loc4='<HTML><BODY><BR/><BR/><P align="left">长眠于此的是霜狼氏族的第一任酋长，我们敬仰的部落酋长索尔的父亲 - 杜洛坦。他被那些想要让我们永远受到奴役的同胞背叛。杜洛坦为了我们的自由而献出了自己的生命，我们敬仰他，以及他留给我们的珍贵遗产，他伟大的儿子。</P><BR/><P align="left">德雷克塔尔，霜狼氏族的先知</P></BODY></HTML>' WHERE entry=2677;
 UPDATE locales_page_text SET text_loc4='仪式道具$B$B在开始任务之前，你必须拥有以下魔法道具:$B$B耶维尔的瓶子$B一块黑色磁石$B克索诺斯雕纹$B我的仆人戈瑟奇会为你提供这些道具，但是你得付钱。如果你还没有集齐所有的道具，就不要试图开始仪式。每件道具都是必需的。$B$B在下一页，我将描述道具的使用方法。' WHERE entry=2692;
 UPDATE locales_page_text SET text_loc4='强力召唤法阵$B$B必须在魔法强大的地方创造出强力召唤法阵。在埃德萨拉斯的废墟深处，就有这样一块地方，也叫做厄运之槌。在埃德萨拉斯关押着拥有强大力量的生物，伊莫塔尔。创造法阵的地方就在关押他的监狱底座上。$B$B杀进厄运之槌吧，取回耶维尔的瓶子。' WHERE entry=2693;
 UPDATE locales_page_text SET text_loc4='铃铛、车轮和蜡烛$B$B释放耶维尔之後，他将布置铃铛、车轮和蜡烛，为你构建法阵。仪式随即开始，你必须保持警惕，这些道具会引导出强大的魔法能量，而且很容易失效。在整个仪式失败之前，你必须快速使用黑色磁石来重新启动失效的道具。$B$B如果三件道具都失效的话，仪式也就失败了，你就不得不从头再来。' WHERE entry=2694;
