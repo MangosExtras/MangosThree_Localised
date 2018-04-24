@@ -1534,8 +1534,10 @@ UPDATE locales_page_text SET text_loc3='<HTML>
 </HTML>' WHERE entry=2676;
 UPDATE locales_page_text SET text_loc3='<HTML>
 <BODY>
-<H1 align="center">MILITÄRISCHE RÄNGE DER HORDE</H1><BR/>
-<P align="center">OFFIZIERE</P><BR/>
+<H1 align="center">MILITÄRISCHE RÄNGE DER HORDE</H1>
+<BR/>
+<P align="center">OFFIZIERE</P>
+<BR/>
 <P align="center">Oberster Kriegsfürst</P>
 <P align="center">Kriegsfürst</P>
 <P align="center">Kriegsherr</P>
@@ -1544,8 +1546,10 @@ UPDATE locales_page_text SET text_loc3='<HTML>
 <P align="center">Klinge der Horde</P>
 <P align="center">Zornbringer</P>
 <P align="center">Blutgardist</P>
-<P align="center">Steingardist</P><BR/>
-<P align="center">SOLDATEN</P><BR/>
+<P align="center">Steingardist</P>
+<BR/>
+<P align="center">SOLDATEN</P>
+<BR/>
 <P align="center">Rottenmeister</P>
 <P align="center">Schlachtrufer</P>
 <P align="center">Waffenträger</P>
