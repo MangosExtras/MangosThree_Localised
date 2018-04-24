@@ -2812,6 +2812,7 @@ UPDATE locales_gossip_menu_option SET option_text_loc7='Héroes de Azeroth' WHER
 UPDATE locales_gossip_menu_option SET option_text_loc7='A través de El Portal Oscuro' WHERE menu_id=9197 AND id=1;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Servidores de El Traidor' WHERE menu_id=9197 AND id=4;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Caza de Illidan' WHERE menu_id=9197 AND id=5;
+UPDATE locales_gossip_menu_option SET option_text_loc7='Los tambores de guerra' WHERE menu_id=9197 AND id=6;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Campos de Honor' WHERE menu_id=9197 AND id=8;
 UPDATE locales_gossip_menu_option SET option_text_loc7='Deja que eche un vistazo a tus mercancías.' WHERE menu_id=9198 AND id=0;
 UPDATE locales_gossip_menu_option SET option_text_loc7='¿Quién eres?' WHERE menu_id=9199 AND id=0;
