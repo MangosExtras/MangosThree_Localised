@@ -2069,6 +2069,7 @@ UPDATE locales_creature SET name_loc4='乔治·坎达特',subname_loc4='制皮�
 UPDATE locales_creature SET name_loc4='雷克奇兹',subname_loc4='制皮供应商' WHERE entry=2699;
 UPDATE locales_creature SET name_loc4='尼艾丝队长' WHERE entry=2700;
 UPDATE locales_creature SET name_loc4='火烟食人魔' WHERE entry=2701;
+UPDATE locales_creature SET name_loc4='' WHERE entry=2702;
 UPDATE locales_creature SET name_loc4='森古' WHERE entry=2703;
 UPDATE locales_creature SET name_loc4='哈纳什',subname_loc4='武器大师' WHERE entry=2704;
 UPDATE locales_creature SET name_loc4='布鲁米·比格尔' WHERE entry=2705;
@@ -2076,6 +2077,7 @@ UPDATE locales_creature SET name_loc4='托尔甘' WHERE entry=2706;
 UPDATE locales_creature SET name_loc4='沙德拉',subname_loc4='毒蜘蛛女王' WHERE entry=2707;
 UPDATE locales_creature SET name_loc4='大法师马林' WHERE entry=2708;
 UPDATE locales_creature SET name_loc4='小鬼训练师' WHERE entry=2709;
+UPDATE locales_creature SET name_loc4='' WHERE entry=2710;
 UPDATE locales_creature SET name_loc4='费恩·奥德利克' WHERE entry=2711;
 UPDATE locales_creature SET name_loc4='奎艾' WHERE entry=2712;
 UPDATE locales_creature SET name_loc4='基恩洛' WHERE entry=2713;
@@ -3969,7 +3971,11 @@ UPDATE locales_creature SET name_loc4='',subname_loc4='钓鱼训练师' WHERE en
 UPDATE locales_creature SET name_loc4='',subname_loc4='草药学训练师' WHERE entry=4998;
 UPDATE locales_creature SET name_loc4='',subname_loc4='采矿训练师' WHERE entry=4999;
 UPDATE locales_creature SET name_loc4='World Bear Trainer',subname_loc4='猎人野兽训练师' WHERE entry=5000;
+UPDATE locales_creature SET name_loc4='' WHERE entry=5007;
+UPDATE locales_creature SET name_loc4='' WHERE entry=5010;
 UPDATE locales_creature SET name_loc4='',subname_loc4='迅猛龙训练师' WHERE entry=5011;
+UPDATE locales_creature SET name_loc4='' WHERE entry=5014;
+UPDATE locales_creature SET name_loc4='' WHERE entry=5016;
 UPDATE locales_creature SET name_loc4='',subname_loc4='急救训练师' WHERE entry=5024;
 UPDATE locales_creature SET name_loc4='',subname_loc4='兽栏管理员' WHERE entry=5026;
 UPDATE locales_creature SET name_loc4='[PH] Mogu Pain Barrier' WHERE entry=5027;

@@ -587,7 +587,7 @@ UPDATE locales_creature SET name_loc3='Sagepaw',subname_loc3='Mosshide Chieftan'
 UPDATE locales_creature SET name_loc3='Isha Gloomaxe',subname_loc3='Grimtotem Chief' WHERE entry=45387;
 UPDATE locales_creature SET subname_loc3='Associate Troggwhacker' WHERE entry=45398;
 UPDATE locales_creature SET name_loc3='Ibdil the Mender',subname_loc3='Repairs' WHERE entry=45407;
-UPDATE locales_creature SET name_loc3='D\'lom the Collector',subname_loc3='Therazane Quartermaster' WHERE entry=45408;
+UPDATE locales_creature SET subname_loc3='Therazane Quartermaster' WHERE entry=45408;
 UPDATE locales_creature SET name_loc3='Elder Stormhoof',subname_loc3='Grimtotem Chief' WHERE entry=45410;
 UPDATE locales_creature SET subname_loc3='Grimtotem Chief' WHERE entry=45418;
 UPDATE locales_creature SET subname_loc3='Chief of all Darkcloud Grimtotem Chiefs' WHERE entry=45438;
