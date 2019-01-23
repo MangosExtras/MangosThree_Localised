@@ -23643,7 +23643,7 @@ UPDATE locales_creature SET name_loc3='',subname_loc3='Priesterlehrer' WHERE ent
 UPDATE locales_creature SET name_loc3='',subname_loc3='Magierlehrerin' WHERE entry=38246;
 UPDATE locales_creature SET name_loc3='',subname_loc3='Jägerlehrer' WHERE entry=38247;
 UPDATE locales_creature SET name_loc3='Durchbohrender Speer' WHERE entry=38248;
-UPDATE locales_creature SET name_loc3='Dieser Pfad der Zeit befindet sich in größter Unordnung! Wir haben einige unserer Agenten hereingeschickt, um die Ordnung wiederherzustellen. Die mir zur Verfügung stehenden Informationen weisen darauf hin, dass Thralls Freiheit in Gefahr ist. Eine finstere Vereinigung, bekannt als der ewige Drachenschwarm, versucht seine Flucht zu verhindern. Ich befürchte, dass ohne Unterstützung von außen, alles verloren ist.' WHERE entry=38252;
+UPDATE locales_creature SET name_loc3='"Lindwurm"' WHERE entry=38252;
 UPDATE locales_creature SET name_loc3='Unbesiegbar' WHERE entry=38260;
 UPDATE locales_creature SET name_loc3='',subname_loc3='Der Zirkel des Cenarius' WHERE entry=38263;
 UPDATE locales_creature SET name_loc3='Transformierter dunkler Runenriese' WHERE entry=38264;

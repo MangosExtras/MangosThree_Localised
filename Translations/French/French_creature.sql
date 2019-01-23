@@ -24166,7 +24166,6 @@ UPDATE locales_creature SET name_loc2='',subname_loc2='Maître des prêtres' WHE
 UPDATE locales_creature SET name_loc2='',subname_loc2='Maître des mages' WHERE entry=38246;
 UPDATE locales_creature SET name_loc2='',subname_loc2='Maître des chasseurs' WHERE entry=38247;
 UPDATE locales_creature SET name_loc2='Lance de perforation' WHERE entry=38248;
-UPDATE locales_creature SET name_loc2='Cette route du temps est en grand péril ! Nous avons maintenant des agents à l\'intérieur qui tentent de rétablir l\'ordre. D\'après mes sources, la liberté de Thrall est en danger. Une organisation maléfique connue sous le nom de Vol Infini tente d\'empêcher son évasion. Je crains que sans une aide extérieure, tout sera perdu.' WHERE entry=38252;
 UPDATE locales_creature SET name_loc2='',subname_loc2='Le Cercle cénarien' WHERE entry=38263;
 UPDATE locales_creature SET name_loc2='Transformation de géant sombre-rune' WHERE entry=38264;
 UPDATE locales_creature SET name_loc2='',subname_loc2='Reine des Couvegivres' WHERE entry=38265;
