@@ -4640,7 +4640,6 @@ UPDATE locales_quest SET RequestItemsText_loc8='Have you become accustomed to my
 UPDATE locales_quest SET offerrewardtext_loc8='<Debaar accepts the sandfern fronds from you and starts bending them around your body.>$B$BYes, this should work. Stand still! We\'ll make a bush of you yet.' WHERE entry=12560;
 UPDATE locales_quest SET offerrewardtext_loc8='Excellent work, $Gsir:ma\'am;!$B$BI\'ll see to it that the commander is apprised of your mission results.' WHERE entry=12562;
 UPDATE locales_quest SET offerrewardtext_loc8='<If Zim\'Abwa could move his face, Zim\'Abwa would make a vicious grin.>' WHERE entry=12565;
-UPDATE locales_quest SET offerrewardtext_loc8='<You sense Zim\'Abwa\'s approval. Somehow you know that Zim\'Abwa wants more tribute!>' WHERE entry=12567;
 UPDATE locales_quest SET offerrewardtext_loc8='You help us? You welcome then, $N.' WHERE entry=12570;
 UPDATE locales_quest SET RequestItemsText_loc8='Who you? You stink of puppy-men.' WHERE entry=12570;
 UPDATE locales_quest SET offerrewardtext_loc8='Snake gone?$B$BGood $R. We thank you.' WHERE entry=12571;
@@ -6609,7 +6608,6 @@ UPDATE locales_quest SET offerrewardtext_loc8='You\'ve really saved my skin, $N.
 UPDATE locales_quest SET RequestItemsText_loc8='Have you brought the solid zephyrites I need?' WHERE entry=25105;
 UPDATE locales_quest SET offerrewardtext_loc8='My father would be proud of you, $N. Now, to get this flying machine up and about again...' WHERE entry=25106;
 UPDATE locales_quest SET offerrewardtext_loc8='This is truly incredible. The hieroglyphs are undoubtedly titan, but the markings below it... Some of these characters resemble ancient Kaldorei writings. And you say the antechamber was covered in hieroglyphs? You\'ve made a find more monumental than any riches, $N. Please, take whatever reward you prefer.' WHERE entry=25107;
-UPDATE locales_quest SET offerrewardtext_loc8=' Aye, it\'s for the best I suppose.' WHERE entry=25108;
 UPDATE locales_quest SET offerrewardtext_loc8=' Huh... what? Who?' WHERE entry=25109;
 UPDATE locales_quest SET offerrewardtext_loc8='Alchemists pay through the nose for these things. Sure, maybe I tell some of them they\'re dragon parts, but that ain\'t my problem, right?' WHERE entry=25111;
 UPDATE locales_quest SET offerrewardtext_loc8='Nice going, kid. Didn\'t lose any fingers? Good, we can get some more work for you then.' WHERE entry=25112;
@@ -8285,7 +8283,6 @@ UPDATE locales_quest SET offerrewardtext_loc8='Well, it sounds like they\'re cer
 UPDATE locales_quest SET offerrewardtext_loc8='That\'s much more like it!  Now my lumberjacks can get to work again. Nice riding out there, $N.  You cut a pretty impressive silhouette on that mustang.' WHERE entry=27001;
 UPDATE locales_quest SET offerrewardtext_loc8='$N.  It is truly a pleasure. I know you are young, and still training, but I\'ve had my eye on you.  We among the Argent Crusade are always looking for promising new recruits, and you have indeed shown great promise.  I have no immediate tasks for you, but merely wished to meet you in person, and see for myself what type of $R you really were. For the time being, the amenities of Hearthglen are yours to enjoy.  I look forward to our next meeting, $N.  You are dismissed.' WHERE entry=27002;
 UPDATE locales_quest SET offerrewardtext_loc8='Smells like someone else was in this cell recently. Gross!' WHERE entry=27003;
-UPDATE locales_quest SET offerrewardtext_loc8=' But... but, this is just gibberish! What does this even say? What language is that?' WHERE entry=27004;
 UPDATE locales_quest SET offerrewardtext_loc8=' This is just gibberish! What does this even say? What language is that?' WHERE entry=27005;
 UPDATE locales_quest SET offerrewardtext_loc8='A waygate?! The culties dug up a Titan waygate?' WHERE entry=27006;
 UPDATE locales_quest SET offerrewardtext_loc8='This is the place.  Our scouts confirmed the presence of high-ranking Twilight officers nearby as well as potential trogg hunting parties. Be on the lookout, $N.' WHERE entry=27007;
@@ -8659,7 +8656,6 @@ UPDATE locales_quest SET offerrewardtext_loc8='I haven\'t worked with the Sunwal
 UPDATE locales_quest SET offerrewardtext_loc8='Ah, you must be the $C Loganaar was talking about. It is a pleasure to finally meet you, $N. I\'ve often heard members of the circle describe you as a talented and promising $C and I\'m heartened to see their estimations were correct.' WHERE entry=27404;
 UPDATE locales_quest SET offerrewardtext_loc8='Forward Commander Onslaught fought until the bitter end, $N. It took a pack of bloodthirsty worgen to finally bring him down. We must not let his death, or the death of all of our soldiers in Gilneas, go in vain. Our mission MUST succeed. Now I will reveal to you why we are here.' WHERE entry=27405;
 UPDATE locales_quest SET offerrewardtext_loc8='Here we are, $N. He is a little rotted, but no worse for the wear. We must hurry before the Alliance finds us!' WHERE entry=27406;
-UPDATE locales_quest SET offerrewardtext_loc8=' Brogg pleased with these feathers. Very strong magic. Brogg not know what raptors do to give feathers power, but raptor feathers always best for ritual.' WHERE entry=27407;
 UPDATE locales_quest SET offerrewardtext_loc8='\'Twas a perilous affair, no doubt, collecting all of these hearts and tongues. I shall delve into the depths of the arcane to trace the origin of the black menace which has descended upon our former home.' WHERE entry=27414;
 UPDATE locales_quest SET offerrewardtext_loc8='Splendid! It will be sometime before Onyxia can produce more eggs. On behalf of my people, I thank you, $N. I have asked much of you so far. Perhaps you can do the Stonemaul Clan one last service. Mok\'Morokk is not fit to lead us. Tharg would make an excellent leader but is hindered by his injuries and age. Drive Mok\'Morokk from this place by force. Only then can we appoint a new leader to return us to our proper home in the south.' WHERE entry=27415;
 UPDATE locales_quest SET offerrewardtext_loc8='Why you tell me \'bout dragons? Me no like dragons. Me like it here. No dragons here.' WHERE entry=27416;
