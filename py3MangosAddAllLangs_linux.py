@@ -52,7 +52,7 @@ selectSqlType = input("select you sql type Number(1=mysql, 2=mariaDB) (enter: 1 
 sqlHost = input("database connect Address is(like: 192.168.1.1 or 127.0.0.1) : ")
 sqlPort = input("database connect Port is(like: 3306) : ")
 sqlUserName = input("database connect UserName is(like: mangos or root) : ")
-three_worldDBName = input("input worldDB in SQL's name(like: zero_world or mangos0)  : ")
+three_worldDBName = input("input worldDB in SQL's name(like: three_world or mangos3)  : ")
 
 if len(path) < 2 or len(selectSqlType) == 0 or len(sqlHost) == 0 or len(sqlPort) == 0 or len(sqlUserName) == 0 or len(three_worldDBName) == 0:
     raise TypeError("all select must enter")
