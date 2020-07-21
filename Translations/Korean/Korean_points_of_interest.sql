@@ -341,7 +341,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc1`='팩스턴 간터' WHER
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='얄 해머스톤' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='다르나서스 경매장' WHERE `entry`=1123;
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='다르나서스 은행' WHERE `entry`=1124;
-UPDATE `locales_points_of_interest` SET `icon_name_loc1`='루테란 마을' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='다르나서스 길드 사무소' WHERE `entry`=1127;
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='다르나서스 여관' WHERE `entry`=1128;
 UPDATE `locales_points_of_interest` SET `icon_name_loc1`='다르나서스 우체통' WHERE `entry`=1129;

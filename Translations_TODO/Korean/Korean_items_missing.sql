@@ -972,9 +972,9 @@ UPDATE `locales_item` SET `description_loc1`='Counts as an Air, Earth, Fire, and
 UPDATE `locales_item` SET `description_loc1`='Fel energy pervades the space around the rune.' WHERE `entry`=32642;
 UPDATE `locales_item` SET `description_loc1`='Who knows what\'s inside?' WHERE `entry`=32777;
 UPDATE `locales_item` SET `description_loc1`='INSERT IGNORE INTO nearest energy receptacle.' WHERE `entry`=32902;
-UPDATE `locales_item` SET `name_loc1`='Test_Ears_Hidden(builtByBlue)',`description_loc1`='hides ears for testing' WHERE `entry`=33073;
+UPDATE `locales_item` SET `description_loc1`='hides ears for testing' WHERE `entry`=33073;
 UPDATE `locales_item` SET `name_loc1`='Test_Eyes_Hidden(builtByBlue)',`description_loc1`='hides eyes for testing' WHERE `entry`=33074;
-UPDATE `locales_item` SET `name_loc1`='Test_NoseAndEars_Hidden(builtByBlue)',`description_loc1`='hides nose and ears for testing' WHERE `entry`=33075;
+UPDATE `locales_item` SET `description_loc1`='hides nose and ears for testing' WHERE `entry`=33075;
 UPDATE `locales_item` SET `description_loc1`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `entry`=33078;
 UPDATE `locales_item` SET `description_loc1`='This spongy ring is surprisingly durable.' WHERE `entry`=33097;
 UPDATE `locales_item` SET `description_loc1`='Teaches you how to permanently enchant a cloak to increase Agility and dodge rating by 8.' WHERE `entry`=33149;
