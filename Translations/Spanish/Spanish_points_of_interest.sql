@@ -183,7 +183,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Granis Hachaveloz' WHE
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Tognus Fuegosílex' WHERE `entry`=1115;
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Yarr Martillal' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Casa de subastas: Darnassus' WHERE `entry`=1123;
-UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Aldea Rut\'theran' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Ilyenia Fuegolunar' WHERE `entry`=1131;
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Templo de la Luna' WHERE `entry`=1135;
 UPDATE `locales_points_of_interest` SET `icon_name_loc6`='Bancal del Guerrero' WHERE `entry`=1137;
