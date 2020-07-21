@@ -272,7 +272,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Tognus Funkenfeuer' WH
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Yarr Hammerstein' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Auktionshaus Darnassus' WHERE `entry`=1123;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Bank von Darnassus' WHERE `entry`=1124;
-UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Rut\'theran' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gildenmeister von Darnassus' WHERE `entry`=1127;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Gasthaus von Darnassus' WHERE `entry`=1128;
 UPDATE `locales_points_of_interest` SET `icon_name_loc3`='Briefkasten von Darnassus' WHERE `entry`=1129;
