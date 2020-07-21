@@ -374,7 +374,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Стальгорнск
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Ярр Камнедроб' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Аукционный дом Дарнасса' WHERE `entry`=1123;
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Дарнас: банк' WHERE `entry`=1124;
-UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Деревня Рут\'теран' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Дарнас: регистрация гильдий' WHERE `entry`=1127;
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Дарнасская таверна' WHERE `entry`=1128;
 UPDATE `locales_points_of_interest` SET `icon_name_loc8`='Дарнас: почта' WHERE `entry`=1129;
