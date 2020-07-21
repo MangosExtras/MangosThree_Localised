@@ -236,7 +236,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Tognus Flammesilex' WH
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Yarr Martèlepierre' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Hôtel des ventes de Darnassus' WHERE `entry`=1123;
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='banque de Darnassus' WHERE `entry`=1124;
-UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Rut\'theran' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Maître de la guilde Darnassus' WHERE `entry`=1127;
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Boîte aux lettres Darnassus' WHERE `entry`=1129;
 UPDATE `locales_points_of_interest` SET `icon_name_loc2`='Ilyenia Lunéclat' WHERE `entry`=1131;
