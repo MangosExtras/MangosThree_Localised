@@ -3861,9 +3861,9 @@ UPDATE `locales_item` SET `name_loc9`='Soulbound Test Gem',`description_loc9`='M
 UPDATE `locales_item` SET `description_loc9`='A strong, braided leather rope suitable for capturing large creatures.' WHERE `entry`=33069;
 UPDATE `locales_item` SET `description_loc9`='The nearly rancid remains from a recent hunting trip.' WHERE `entry`=33070;
 UPDATE `locales_item` SET `description_loc9`='These arms and armor match the style of those found at the Shady Rest Inn, but haven\'t seen battle.' WHERE `entry`=33071;
-UPDATE `locales_item` SET `name_loc9`='Test_Ears_Hidden(builtByBlue)',`description_loc9`='hides ears for testing' WHERE `entry`=33073;
+UPDATE `locales_item` SET `description_loc9`='hides ears for testing' WHERE `entry`=33073;
 UPDATE `locales_item` SET `name_loc9`='Test_Eyes_Hidden(builtByBlue)',`description_loc9`='hides eyes for testing' WHERE `entry`=33074;
-UPDATE `locales_item` SET `name_loc9`='Test_NoseAndEars_Hidden(builtByBlue)',`description_loc9`='hides nose and ears for testing' WHERE `entry`=33075;
+UPDATE `locales_item` SET `description_loc9`='hides nose and ears for testing' WHERE `entry`=33075;
 UPDATE `locales_item` SET `description_loc9`='Counts as an Air, Earth, Fire, and Water totem.' WHERE `entry`=33078;
 UPDATE `locales_item` SET `description_loc9`='This doesn\'t do a body good....' WHERE `entry`=33083;
 UPDATE `locales_item` SET `description_loc9`='Ammonia, uric, phosphoric, oxalic, and carbonic acids. Mmm, all the good stuff!' WHERE `entry`=33084;

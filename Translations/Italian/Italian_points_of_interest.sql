@@ -183,7 +183,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Merci di Pelle di Fine
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Vestiario di Stonebrow' WHERE `entry`=1101;
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Distilleria Birratuono' WHERE `entry`=1102;
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Casa d\'Aste di Darnassus' WHERE `entry`=1123;
-UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Rut\'theran' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Mastro di Guerra di Darnassus' WHERE `entry`=1132;
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Tempio della Luna' WHERE `entry`=1135;
 UPDATE `locales_points_of_interest` SET `icon_name_loc9`='Terrazza dei Guerrieri' WHERE `entry`=1137;
