@@ -255,7 +255,6 @@ UPDATE `locales_points_of_interest` SET `icon_name_loc4`='萨姆诺·普尔' WHE
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='帕克斯顿·冈特尔' WHERE `entry`=1119;
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='亚尔·锤石' WHERE `entry`=1122;
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='达纳苏斯拍卖行' WHERE `entry`=1123;
-UPDATE `locales_points_of_interest` SET `icon_name_loc4`='鲁瑟兰村' WHERE `entry`=1125;
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='阿拉辛' WHERE `entry`=1130;
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='伊琳尼雅·月火' WHERE `entry`=1131;
 UPDATE `locales_points_of_interest` SET `icon_name_loc4`='月神殿' WHERE `entry`=1135;
