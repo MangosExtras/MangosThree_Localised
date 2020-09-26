@@ -3,6 +3,5 @@ SET NAMES 'utf8';
 UPDATE `locales_creature` SET `name_loc8`='Waypoint (Only GM can see it)',`subname_loc8`='Visual' WHERE `entry`=1;
 UPDATE `locales_creature` SET `subname_loc8`='The Head of The Black Flight' WHERE `entry`=11583;
 UPDATE `locales_creature` SET `name_loc8`='Bristlepine',`subname_loc8`='PH MODEL: TASK 20039' WHERE `entry`=27681;
-UPDATE `locales_creature` SET `subname_loc8`='Don Carlos\' Pet' WHERE `entry`=28168;
 
 SET NAMES 'latin1';
