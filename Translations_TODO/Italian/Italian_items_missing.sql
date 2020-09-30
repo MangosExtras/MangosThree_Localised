@@ -18167,7 +18167,6 @@ UPDATE `trans_words` SET `content_loc9`='Art Template Plate Belt - Plate RaidWar
 UPDATE `trans_words` SET `content_loc9`='Of COURSE it\'s venison, sweetling. What ELSE would it be?!' WHERE `word_id`=71407; -- locales_item - description : entry=75027
 UPDATE `trans_words` SET `content_loc9`='Hee! Hee hee hee! Heee-he- *hack* *cough* Ahem. Hee!' WHERE `word_id`=71409; -- locales_item - description : entry=75028
 UPDATE `trans_words` SET `content_loc9`='BEARD-basted...? I meant BEER-basted, hee-hee.' WHERE `word_id`=71411; -- locales_item - description : entry=75029
-UPDATE `trans_words` SET `content_loc9`='Breaded, bite-sized, and mechanically inclined. I mean, processed!' WHERE `word_id`=71413; -- locales_item - description : entry=75030
 UPDATE `trans_words` SET `content_loc9`='Steamed buns. Or dumplings, rather, hee hee!' WHERE `word_id`=71415; -- locales_item - description : entry=75031
 UPDATE `trans_words` SET `content_loc9`='THERE\'S the beef, sweetling. Hee!' WHERE `word_id`=71417; -- locales_item - description : entry=75032
 UPDATE `trans_words` SET `content_loc9`='From those rough, brutish Durotar swine, hee hee! And gull eggs.' WHERE `word_id`=71419; -- locales_item - description : entry=75033
