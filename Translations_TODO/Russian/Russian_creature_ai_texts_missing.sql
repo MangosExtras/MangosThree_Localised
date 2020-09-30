@@ -7,34 +7,17 @@ UPDATE `trans_words` SET `content_loc8`='Get it while it\'s hot!' WHERE `word_id
 UPDATE `trans_words` SET `content_loc8`='The falcon is vaniquished, doomed never to rise again! Your quest is futile!' WHERE `word_id` = 6552; -- creature_ai_texts - content : entry=-242
 UPDATE `trans_words` SET `content_loc8`='%s\'s death cry has stirred the nearby silithid hive.' WHERE `word_id` = 5892; -- creature_ai_texts - content : entry=-344
 UPDATE `trans_words` SET `content_loc8`='%s\'s death cry has stirred the nearby silithid hive.' WHERE `word_id` = 5892; -- creature_ai_texts - content : entry=-345
-UPDATE `trans_words` SET `content_loc8`='Your corpse will nourish the soil!' WHERE `word_id` = 3070; -- creature_ai_texts - content : entry=-428
-UPDATE `trans_words` SET `content_loc8`='Wait... WAIT! What is it that you want to know? I know you\'re the $C named $N.' WHERE `word_id` = 6692; -- creature_ai_texts - content : entry=-803
-UPDATE `trans_words` SET `content_loc8`='Never underestimate the other ethereal\'s greed.' WHERE `word_id` = 6162; -- creature_ai_texts - content : entry=-816
 UPDATE `trans_words` SET `content_loc8`='%s attacks Karang\'s Banner!' WHERE `word_id` = 5624; -- creature_ai_texts - content : entry=-828
-UPDATE `trans_words` SET `content_loc8`='%s shimmers and becomes intangible.' WHERE `word_id` = 6159; -- creature_ai_texts - content : entry=-830
-UPDATE `trans_words` SET `content_loc8`='Hey, harbringer, how\'s that research coming along? There might be an Ultra-Kinetic Waffle Iron in it for you if you\'re prompt with the results!' WHERE `word_id` = 6158; -- creature_ai_texts - content : entry=-831
-UPDATE `trans_words` SET `content_loc8`='The soldiers are spreading panic with rumors of bad food. Neighbors are accusing one another of poison. The city will fall into bedlam!' WHERE `word_id` = 6735; -- creature_ai_texts - content : entry=-878
-UPDATE `trans_words` SET `content_loc8`='I\'m flesh and blood again! Thank you!' WHERE `word_id` = 6744; -- creature_ai_texts - content : entry=-887
-UPDATE `trans_words` SET `content_loc8`='Welcome to the world of the unliving!' WHERE `word_id` = 6747; -- creature_ai_texts - content : entry=-890
-UPDATE `trans_words` SET `content_loc8`='%s grabs the back of his neck and his eyes go wide.' WHERE `word_id` = 5609; -- creature_ai_texts - content : entry=-934
 UPDATE `trans_words` SET `content_loc8`='Off with you, $N.' WHERE `word_id` = 6126; -- creature_ai_texts - content : entry=-936
 UPDATE `trans_words` SET `content_loc8`='Move along, $C.' WHERE `word_id` = 6125; -- creature_ai_texts - content : entry=-937
-UPDATE `trans_words` SET `content_loc8`='Looks like today was the wrong day to quit mana tapping...' WHERE `word_id` = 6110; -- creature_ai_texts - content : entry=-963
-UPDATE `trans_words` SET `content_loc8`='Oh, would you please stop checking your nails and spanking yourself, for one moment? Really, no one cares!' WHERE `word_id` = 6098; -- creature_ai_texts - content : entry=-976
-UPDATE `trans_words` SET `content_loc8`='Avuun dares to oppose me? I will crush him! When I am done with the draenei, they\'ll wish that they were Lost Ones!' WHERE `word_id` = 6095; -- creature_ai_texts - content : entry=-979
 UPDATE `trans_words` SET `content_loc8`='Are They all.... Dead?' WHERE `word_id` = 5607; -- creature_ai_texts - content : entry=-981
 UPDATE `trans_words` SET `content_loc8`='Mistress!! They seek to destroy your work!' WHERE `word_id` = 5603; -- creature_ai_texts - content : entry=-985
 UPDATE `trans_words` SET `content_loc8`='.. the hunter will become the hunted.' WHERE `word_id` = 6769; -- creature_ai_texts - content : entry=-996
-UPDATE `trans_words` SET `content_loc8`='Whoah! Walk by again girl!' WHERE `word_id` = 6080; -- creature_ai_texts - content : entry=-1005
-UPDATE `trans_words` SET `content_loc8`='Hey, hey sweet thing! Looking good!' WHERE `word_id` = 6078; -- creature_ai_texts - content : entry=-1007
-UPDATE `trans_words` SET `content_loc8`='Hey, hey! Nice build you got there honey!' WHERE `word_id` = 6077; -- creature_ai_texts - content : entry=-1008
 UPDATE `trans_words` SET `content_loc8`='The Dark Lady fought as many as she could, but in the end... I hope she survived. Please help!' WHERE `word_id` = 6770; -- creature_ai_texts - content : entry=-1011
-UPDATE `trans_words` SET `content_loc8`='This will teach you to lay off the herb, $R.' WHERE `word_id` = 5600; -- creature_ai_texts - content : entry=-1019
 UPDATE `trans_words` SET `content_loc8`='The Scarlet Crusade shall not fail in it\'s mission!' WHERE `word_id` = 5591; -- creature_ai_texts - content : entry=-1030
 UPDATE `trans_words` SET `content_loc8`='The Agamand Mills is held by the Scourge, $C. Join us!' WHERE `word_id` = 5587; -- creature_ai_texts - content : entry=-1034
 UPDATE `trans_words` SET `content_loc8`='You are in the presence of a god!' WHERE `word_id` = 5575; -- creature_ai_texts - content : entry=-1048
 UPDATE `trans_words` SET `content_loc8`='%s seems to no longer be able to cast spells...' WHERE `word_id` = 5570; -- creature_ai_texts - content : entry=-1058
-UPDATE `trans_words` SET `content_loc8`='They dont\'t know where to store the leftovers!' WHERE `word_id` = 6017; -- creature_ai_texts - content : entry=-1117
 UPDATE `trans_words` SET `content_loc8`='Wow! The laughs dont\'t drop very often here, do they?' WHERE `word_id` = 6016; -- creature_ai_texts - content : entry=-1118
 UPDATE `trans_words` SET `content_loc8`='%s\'s death cry has stirred the nearby silithid hive.' WHERE `word_id` = 5892; -- creature_ai_texts - content : entry=-1147
 UPDATE `trans_words` SET `content_loc8`='Azeroth has cowered too long under our shadow! Now, feel the power of the Burning Crusade, and despair!' WHERE `word_id` = 5998; -- creature_ai_texts - content : entry=-1206
@@ -44,14 +27,11 @@ UPDATE `trans_words` SET `content_loc8`='Where? Where are the Shards! You cannot
 UPDATE `trans_words` SET `content_loc8`='Your world will die, mortals! Your doom is now at hand!' WHERE `word_id` = 5994; -- creature_ai_texts - content : entry=-1210
 UPDATE `trans_words` SET `content_loc8`='Your own strength feeds me!' WHERE `word_id` = 5993; -- creature_ai_texts - content : entry=-1211
 UPDATE `trans_words` SET `content_loc8`='Ha! This place is not yet worthy of my infliction.' WHERE `word_id` = 5992; -- creature_ai_texts - content : entry=-1212
-UPDATE `trans_words` SET `content_loc8`='Skywing! I will free you from your curse over my dead body!' WHERE `word_id` = 5984; -- creature_ai_texts - content : entry=-1220
 UPDATE `trans_words` SET `content_loc8`='Cabal Summoner summons a Cabal Deathsworn to his aid!' WHERE `word_id` = 5969; -- creature_ai_texts - content : entry=-1247
 UPDATE `trans_words` SET `content_loc8`='Cabal Summoner summons a Cabal Acolyte to his aid!' WHERE `word_id` = 5968; -- creature_ai_texts - content : entry=-1248
 UPDATE `trans_words` SET `content_loc8`='Foolish mortal, you serve me now!' WHERE `word_id` = 5545; -- creature_ai_texts - content : entry=-1295
 UPDATE `trans_words` SET `content_loc8`='At last, it ends...' WHERE `word_id` = 5542; -- creature_ai_texts - content : entry=-1298
 UPDATE `trans_words` SET `content_loc8`='Silithid Creeper lays an egg!' WHERE `word_id` = 5529; -- creature_ai_texts - content : entry=-1317
-UPDATE `trans_words` SET `content_loc8`='Silithid Creeper Egg begins to crack and open...' WHERE `word_id` = 5528; -- creature_ai_texts - content : entry=-1318
-UPDATE `trans_words` SET `content_loc8`='Silithid Creeper Egg splits open!' WHERE `word_id` = 5530; -- creature_ai_texts - content : entry=-1319
 UPDATE `trans_words` SET `content_loc8`='Your pathetic attempt to escape will be short lived, Gorefiend. Let the boy go and submit! Even with your armour and weapons, you cannot defeat the ancients!' WHERE `word_id` = 6536; -- creature_ai_texts - content : entry=-1320
 UPDATE `trans_words` SET `content_loc8`='My minions...$B$BThe time for conquest approaches quickly. The rebels of Lordaeron are small, and weak, and know not the joy of serving our Lich King. Make ready for battle, my creations. We will drive our foes from Silverpine, then bring the very tides of war to their very capital! Death, and praise the Lich King!' WHERE `word_id` = 268211; -- creature_ai_texts - content : entry=-10001
 UPDATE `trans_words` SET `content_loc8`='Who offended altar Goc!' WHERE `word_id` = 6901; -- creature_ai_texts - content : entry=-205551
