@@ -2,30 +2,15 @@
 SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc2`='There\'s something else here, too. After a discription of a bloody battle and the downfall of the raven, there\'s a prophecy. Anzu will haunt the dreams of his enemies, twisting them to affect a return to this world...' WHERE `word_id` = 7582; -- db_script_string - content : entry=2000000002
 UPDATE `trans_words` SET `content_loc2`='It\'s all here... how the raven\'s followers captured and subdued the sprints of rivals, trapping them forever within stone statues! The tablet even mentions the raven god\'s name -- Anzu. I\'d thought it was lost to history!' WHERE `word_id` = 7581; -- db_script_string - content : entry=2000000003
-UPDATE `trans_words` SET `content_loc2`='Well, that should do it. Come now, back to the shop to finish our business!' WHERE `word_id` = 6976; -- db_script_string - content : entry=2000000011
-UPDATE `trans_words` SET `content_loc2`='Follow me, good $C. I\'ll have your barding done faster than I could down a Dwarven stout. Mmmm... stout.' WHERE `word_id` = 6975; -- db_script_string - content : entry=2000000012
-UPDATE `trans_words` SET `content_loc2`='Thank you great spirit. Thank you!' WHERE `word_id` = 6973; -- db_script_string - content : entry=2000000016
 UPDATE `trans_words` SET `content_loc2`='Lovely song, ain\'t it?' WHERE `word_id` = 8725; -- db_script_string - content : entry=2000000021
 UPDATE `trans_words` SET `content_loc2`='I think, I\'ll be able to get to Brackenwall. The cargo they carried to the top of the towers. Be careful!' WHERE `word_id` = 8726; -- db_script_string - content : entry=2000000022
 UPDATE `trans_words` SET `content_loc2`='Spirits of Water, I give you praise, and I beg of you a favour. You have heard $N\'s pleas, and I trust his inent is noble. Please, will you aid us?' WHERE `word_id` = 7572; -- db_script_string - content : entry=2000000026
 UPDATE `trans_words` SET `content_loc2`='And who do we have here? No doubt th... crzzzk ...ade this communication I give you greetings fro... psshzzzk... Azure Watch.' WHERE `word_id` = 8722; -- db_script_string - content : entry=2000000030
 UPDATE `trans_words` SET `content_loc2`='Take a stone from the table. Presently You will need it for your quest.' WHERE `word_id` = 8718; -- db_script_string - content : entry=2000000036
-UPDATE `trans_words` SET `content_loc2`='Hear ye, denizens of Tanaris! Let it be known $N is an exalted member of the Mithril Order. A blacksmith of honor, dedication, and infinite patience. Three cheers for $N!' WHERE `word_id` = 6979; -- db_script_string - content : entry=2000000041
-UPDATE `trans_words` SET `content_loc2`='Thank you again, $N. This rare earth will be very helpful in my experiments.' WHERE `word_id` = 6965; -- db_script_string - content : entry=2000000049
-UPDATE `trans_words` SET `content_loc2`='Well, ok. I am now sending people . We need find and help him.' WHERE `word_id` = 6942; -- db_script_string - content : entry=2000000050
-UPDATE `trans_words` SET `content_loc2`='You know where he is?' WHERE `word_id` = 6941; -- db_script_string - content : entry=2000000051
-UPDATE `trans_words` SET `content_loc2`='Volcor was gone?' WHERE `word_id` = 6940; -- db_script_string - content : entry=2000000052
-UPDATE `trans_words` SET `content_loc2`='What happens?' WHERE `word_id` = 6939; -- db_script_string - content : entry=2000000053
 UPDATE `trans_words` SET `content_loc2`='Approach, newbie!' WHERE `word_id` = 8715; -- db_script_string - content : entry=2000000054
 UPDATE `trans_words` SET `content_loc2`='Hm...You are not too bad!' WHERE `word_id` = 8716; -- db_script_string - content : entry=2000000055
-UPDATE `trans_words` SET `content_loc2`='Here\'s a beacon, $N. Keep it to yourself, if you\'re gonna find mutilated things that we need.' WHERE `word_id` = 7059; -- db_script_string - content : entry=2000000056
 UPDATE `trans_words` SET `content_loc2`='Please, mortal, speak with Arcanist Tubalin in Dalaran. He may be able to negotiate with the Sunreavers for access to the book.' WHERE `word_id` = 8714; -- db_script_string - content : entry=2000000057
-UPDATE `trans_words` SET `content_loc2`='Follow, $N. I will soon begin the summoning...' WHERE `word_id` = 6954; -- db_script_string - content : entry=2000000062
 UPDATE `trans_words` SET `content_loc2`='Be sure to read over the notes in my journal. You will find them to be invaluable in overcoming the tower\'s defenses' WHERE `word_id` = 8711; -- db_script_string - content : entry=2000000067
-UPDATE `trans_words` SET `content_loc2`='That\'s interesting...' WHERE `word_id` = 6949; -- db_script_string - content : entry=2000000069
-UPDATE `trans_words` SET `content_loc2`='I need to consult Noram and Horatio.' WHERE `word_id` = 6950; -- db_script_string - content : entry=2000000070
-UPDATE `trans_words` SET `content_loc2`='Be patient $N. The torch is almost complete.' WHERE `word_id` = 6948; -- db_script_string - content : entry=2000000072
-UPDATE `trans_words` SET `content_loc2`='Hello Grimclaw' WHERE `word_id` = 6938; -- db_script_string - content : entry=2000000076
 UPDATE `trans_words` SET `content_loc2`='So, we\'ll see ... If I am not mistaken, it ... Hmm ...' WHERE `word_id` = 8710; -- db_script_string - content : entry=2000000077
 UPDATE `trans_words` SET `content_loc2`='Ah, yes. Loken I know well.' WHERE `word_id` = 8709; -- db_script_string - content : entry=2000000078
 UPDATE `trans_words` SET `content_loc2`='It was he who commanded the children of iron in their war against us.' WHERE `word_id` = 8708; -- db_script_string - content : entry=2000000080
@@ -40,7 +25,6 @@ UPDATE `trans_words` SET `content_loc2`='No! Get away from me! Help!' WHERE `wor
 UPDATE `trans_words` SET `content_loc2`='[PH] Greetings, $N.' WHERE `word_id` = 8690; -- db_script_string - content : entry=2000000107
 UPDATE `trans_words` SET `content_loc2`='Tonga Runetotem inspects the snapjaw shells...' WHERE `word_id` = 7698; -- db_script_string - content : entry=2000000108
 UPDATE `trans_words` SET `content_loc2`='Strange. Very strange...' WHERE `word_id` = 7700; -- db_script_string - content : entry=2000000110
-UPDATE `trans_words` SET `content_loc2`='Zarlman Two-Moons begins chanting as he mixes the well stones and ambercom before the Tribal Fire.' WHERE `word_id` = 7345; -- db_script_string - content : entry=2000000112
 UPDATE `trans_words` SET `content_loc2`='I... We are powerless. Illidan found and delivered unto the Dragonmaw their leader - Zuluhed. This orc was the one responsible for the capture and incarceration of Alexstrasza. How could we fight against such power?' WHERE `word_id` = 8689; -- db_script_string - content : entry=2000000116
 UPDATE `trans_words` SET `content_loc2`='And even more!' WHERE `word_id` = 7598; -- db_script_string - content : entry=2000000118
 UPDATE `trans_words` SET `content_loc2`='Look out! More are coming!' WHERE `word_id` = 7597; -- db_script_string - content : entry=2000000119
@@ -72,10 +56,6 @@ UPDATE `trans_words` SET `content_loc2`='Where\'s the water, Emma? Get the water
 UPDATE `trans_words` SET `content_loc2`='If\'n it weren\'t fer me, that lot wouldn\'t know what water looks like.' WHERE `word_id` = 8659; -- db_script_string - content : entry=2000000162
 UPDATE `trans_words` SET `content_loc2`='Deja vu. For a moment, I thought I was back home... before the plague' WHERE `word_id` = 8658; -- db_script_string - content : entry=2000000163
 UPDATE `trans_words` SET `content_loc2`='Yer wearin down, princess, I can sense it!' WHERE `word_id` = 7530; -- db_script_string - content : entry=2000000165
-UPDATE `trans_words` SET `content_loc2`='I swear, people have actualy seen them. Pandaren really do exist!!' WHERE `word_id` = 7096; -- db_script_string - content : entry=2000000169
-UPDATE `trans_words` SET `content_loc2`='You know why Orcs eyes glow red? It\'s because they drink blood!' WHERE `word_id` = 7097; -- db_script_string - content : entry=2000000170
-UPDATE `trans_words` SET `content_loc2`='And that\'s how Lother killed thirty six orcs with his bare hands!' WHERE `word_id` = 7099; -- db_script_string - content : entry=2000000172
-UPDATE `trans_words` SET `content_loc2`='Worm goes on the hook, hook goes in the water, Fish is in the water, our fish.' WHERE `word_id` = 7104; -- db_script_string - content : entry=2000000177
 UPDATE `trans_words` SET `content_loc2`='Hello, Charys. Here my list, can you find me all that, and especially the last ingredient?' WHERE `word_id` = 8657; -- db_script_string - content : entry=2000000184
 UPDATE `trans_words` SET `content_loc2`='Of course, Paige. But be nice.' WHERE `word_id` = 8656; -- db_script_string - content : entry=2000000185
 UPDATE `trans_words` SET `content_loc2`='Thank you, Charys. Let us go Paige, my angel.' WHERE `word_id` = 8652; -- db_script_string - content : entry=2000000186
@@ -113,34 +93,19 @@ UPDATE `trans_words` SET `content_loc2`='I WILL DESTROY YOU ALL' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='NOBODY WILL GET THROUGH ME' WHERE `word_id` = 7548; -- db_script_string - content : entry=2000000239
 UPDATE `trans_words` SET `content_loc2`='The Scourge are a blemish upon these pristine lands. By the might of my creators, I will crush every last one of their decrepit bones under my heel.$B$BI want to stop the Scourge as much as you do. How can I help?' WHERE `word_id` = 268232; -- db_script_string - content : entry=2000000241
 UPDATE `trans_words` SET `content_loc2`='The titans did not create life overnight. The process was gradual and required a great deal of experimentation and iteration.$B$BIt is for that reason that highly protected places such as Sholazar Basin exist.$B$BTo ensure the safety of their experimentation sites, the titans created a defense mechanism. Its destructive force is unparalleled however, and I will reveal no more unless you swear your fealty to my cause.$B$BYou can trust me. I am no friend of the Lich King\'s.' WHERE `word_id` = 268231; -- db_script_string - content : entry=2000000242
-UPDATE `trans_words` SET `content_loc2`='My mind. . .my flesh. . .I\'m. . .rotting. . . .!' WHERE `word_id` = 6980; -- db_script_string - content : entry=2000000246
 UPDATE `trans_words` SET `content_loc2`='I raise my brew and hope to be rid of the likes of you! Cheers, you no good scoundrel, $N!' WHERE `word_id` = 7690; -- db_script_string - content : entry=2000000247
-UPDATE `trans_words` SET `content_loc2`='Onu studies the parchment from the Twilight Tome...' WHERE `word_id` = 6983; -- db_script_string - content : entry=2000000249
-UPDATE `trans_words` SET `content_loc2`='Onu is struck by unleashed magic!' WHERE `word_id` = 6982; -- db_script_string - content : entry=2000000250
-UPDATE `trans_words` SET `content_loc2`='Terenthis begins to cast a spell as you take the cloak from him.' WHERE `word_id` = 7067; -- db_script_string - content : entry=2000000252
 UPDATE `trans_words` SET `content_loc2`='Greatmother Hawkwind gestures to the pitcher of water sitting on the edge of the well.' WHERE `word_id` = 7687; -- db_script_string - content : entry=2000000254
-UPDATE `trans_words` SET `content_loc2`='Glowing Soulgem bursts open!' WHERE `word_id` = 6967; -- db_script_string - content : entry=2000000256
 UPDATE `trans_words` SET `content_loc2`='Sarath fades into the mist...' WHERE `word_id` = 7427; -- db_script_string - content : entry=2000000258
 UPDATE `trans_words` SET `content_loc2`='Ok, let\'s get started!' WHERE `word_id` = 7422; -- db_script_string - content : entry=2000000266
-UPDATE `trans_words` SET `content_loc2`='You were right to come. My wisdom will be yours.' WHERE `word_id` = 6986; -- db_script_string - content : entry=2000000271
-UPDATE `trans_words` SET `content_loc2`='There we are, $N. The toxin is ready.' WHERE `word_id` = 6988; -- db_script_string - content : entry=2000000273
-UPDATE `trans_words` SET `content_loc2`='Wow! $N, that dream dust is powerful stuff!' WHERE `word_id` = 7217; -- db_script_string - content : entry=2000000280
-UPDATE `trans_words` SET `content_loc2`='I believe the Forsaken are misleading the allies of the Horde... wait... I feel so... dizzy...' WHERE `word_id` = 6995; -- db_script_string - content : entry=2000000283
 UPDATE `trans_words` SET `content_loc2`='This is great news! Your efforts have indeed saved us, $N!' WHERE `word_id` = 8633; -- db_script_string - content : entry=2000000298
 UPDATE `trans_words` SET `content_loc2`='We have a winner! $N is the Master Angler!' WHERE `word_id` = 8627; -- db_script_string - content : entry=2000000302
 UPDATE `trans_words` SET `content_loc2`='Beginning analysis...' WHERE `word_id` = 8629; -- db_script_string - content : entry=2000000304
 UPDATE `trans_words` SET `content_loc2`='The ore used in this sample originated deep wihin the crust of Azeroth and was recently unearthed.' WHERE `word_id` = 8625; -- db_script_string - content : entry=2000000306
 UPDATE `trans_words` SET `content_loc2`='This ore can only have been created by a powerful, malevolent force. Attempting to access databanks for more information...' WHERE `word_id` = 8623; -- db_script_string - content : entry=2000000308
 UPDATE `trans_words` SET `content_loc2`='Speak to the commander at your post, lad, and persuade him to abandon Vor\'takh\'s foolish plan.' WHERE `word_id` = 8609; -- db_script_string - content : entry=2000000320
-UPDATE `trans_words` SET `content_loc2`='Corbett, dear. Harlan needs a load of knitted shirts and pants as soon as we can manage.' WHERE `word_id` = 7010; -- db_script_string - content : entry=2000000323
 UPDATE `trans_words` SET `content_loc2`='My pleasure, sugar drop. I\'ll be back soon:' WHERE `word_id` = 8608; -- db_script_string - content : entry=2000000325
-UPDATE `trans_words` SET `content_loc2`='Ahh, much appreciated, Corbett. We\'ll get these on the racks immediately.' WHERE `word_id` = 7019; -- db_script_string - content : entry=2000000332
 UPDATE `trans_words` SET `content_loc2`='Glad to see you\'re doing so well, Harlan. And I hope to see you again soon:' WHERE `word_id` = 8607; -- db_script_string - content : entry=2000000333
-UPDATE `trans_words` SET `content_loc2`='Well, I am off than. Take care, Harlan!' WHERE `word_id` = 7021; -- db_script_string - content : entry=2000000334
 UPDATE `trans_words` SET `content_loc2`='Now for that snack:' WHERE `word_id` = 8606; -- db_script_string - content : entry=2000000335
-UPDATE `trans_words` SET `content_loc2`='Hullo, Trias clan! A ball of your smoked mozzarella, if you please!' WHERE `word_id` = 7023; -- db_script_string - content : entry=2000000336
-UPDATE `trans_words` SET `content_loc2`='Good day. Elling! Hullo Elaine! Let me have a wheel of blue cheese, eh?' WHERE `word_id` = 7024; -- db_script_string - content : entry=2000000337
-UPDATE `trans_words` SET `content_loc2`='Hi Corbett! Here, you go! I trust business is faring well at your clothier shop...?' WHERE `word_id` = 7026; -- db_script_string - content : entry=2000000339
 UPDATE `trans_words` SET `content_loc2`='Time to get back to the shop:' WHERE `word_id` = 8605; -- db_script_string - content : entry=2000000342
 UPDATE `trans_words` SET `content_loc2`='AYYYIEEE!' WHERE `word_id` = 8604; -- db_script_string - content : entry=2000000345
 UPDATE `trans_words` SET `content_loc2`='AAAAHHH!' WHERE `word_id` = 8602; -- db_script_string - content : entry=2000000346
@@ -148,7 +113,6 @@ UPDATE `trans_words` SET `content_loc2`='Do come to an end this foolish farce ..
 UPDATE `trans_words` SET `content_loc2`='You do not know with whom you deal, $C! You play with death!' WHERE `word_id` = 8601; -- db_script_string - content : entry=2000000352
 UPDATE `trans_words` SET `content_loc2`='Well, then how, yes? I will not surrender without a fight!' WHERE `word_id` = 8599; -- db_script_string - content : entry=2000000353
 UPDATE `trans_words` SET `content_loc2`='Spirits of Water, I give you praise, and I beg of you a favour. You have heard $N\'s pleas, and I trust his inent is noble. Please, will you aid us?' WHERE `word_id` = 7572; -- db_script_string - content : entry=2000000354
-UPDATE `trans_words` SET `content_loc2`='Thank you great spirit. Thank you!' WHERE `word_id` = 6973; -- db_script_string - content : entry=2000000355
 UPDATE `trans_words` SET `content_loc2`='Probability of successful repair by ordinary means available in this world is close to nil. Please hold while theoretical means analyzed.' WHERE `word_id` = 8594; -- db_script_string - content : entry=2000000361
 UPDATE `trans_words` SET `content_loc2`='Watcher\'s powers augmented by presence of Elder servants.' WHERE `word_id` = 8591; -- db_script_string - content : entry=2000000364
 UPDATE `trans_words` SET `content_loc2`='Analyzing Elder Brightleaf enhancement. Persistent area defenses powered by solar amplification.' WHERE `word_id` = 8590; -- db_script_string - content : entry=2000000365
@@ -176,7 +140,6 @@ UPDATE `trans_words` SET `content_loc2`='Thank you. I thought I was going to die
 UPDATE `trans_words` SET `content_loc2`='Perry Gatner! What an act! The cantina is open all night long, so please, stay and enjoy yourselves!' WHERE `word_id` = 7550; -- db_script_string - content : entry=2000000457
 UPDATE `trans_words` SET `content_loc2`='Who? The Tauren Chieftains! What? A live performance. Where? The World\'s End Tavern! When? The top of the hour! BE THERE!' WHERE `word_id` = 7439; -- db_script_string - content : entry=2000000461
 UPDATE `trans_words` SET `content_loc2`='I wonder how many reinforcements need to suffer injury before they allows us to chop down these idiotic trees. They\'re costing us a fortune in bats. Maybe I\'ll rig a harness or two...' WHERE `word_id` = 8519; -- db_script_string - content : entry=2000000469
-UPDATE `trans_words` SET `content_loc2`='Beware $N! Look to the west!' WHERE `word_id` = 724; -- db_script_string - content : entry=2000000472
 UPDATE `trans_words` SET `content_loc2`='<Harry takes the crystal from you and gently pats it.>' WHERE `word_id` = 8512; -- db_script_string - content : entry=2000000482
 UPDATE `trans_words` SET `content_loc2`='Oh my precious! Did the big, mean whale hurt you? It\'ll be ok. I\'ll never let you out of my sight again!' WHERE `word_id` = 8513; -- db_script_string - content : entry=2000000483
 UPDATE `trans_words` SET `content_loc2`='<Harry looks up at you.>' WHERE `word_id` = 8511; -- db_script_string - content : entry=2000000484
@@ -185,9 +148,6 @@ UPDATE `trans_words` SET `content_loc2`='What\'s this!' WHERE `word_id` = 8503; 
 UPDATE `trans_words` SET `content_loc2`='He... he kept it? All this time, he kept it!' WHERE `word_id` = 8502; -- db_script_string - content : entry=2000000498
 UPDATE `trans_words` SET `content_loc2`='I knew!' WHERE `word_id` = 8500; -- db_script_string - content : entry=2000000499
 UPDATE `trans_words` SET `content_loc2`='Leave me.' WHERE `word_id` = 8491; -- db_script_string - content : entry=2000000508
-UPDATE `trans_words` SET `content_loc2`='Go, my servant. Send word of Stonetalon to Apothecary Zamah.' WHERE `word_id` = 7051; -- db_script_string - content : entry=2000000543
-UPDATE `trans_words` SET `content_loc2`='Yes you may, Okla. But do not stray too far from home.' WHERE `word_id` = 7288; -- db_script_string - content : entry=2000000571
-UPDATE `trans_words` SET `content_loc2`='This is a shiney rock. I\'ll put it in my bucket. Ok, I just need a few more...' WHERE `word_id` = 7292; -- db_script_string - content : entry=2000000575
 UPDATE `trans_words` SET `content_loc2`='Your body is mine! Our fates are forever intertwined!' WHERE `word_id` = 7595; -- db_script_string - content : entry=2000000579
 UPDATE `trans_words` SET `content_loc2`='Farunn walks the lands north of what your people call the Bittertide Falls. You will find him alone, but you will see her requires no defenders.' WHERE `word_id` = 8453; -- db_script_string - content : entry=2000000589
 UPDATE `trans_words` SET `content_loc2`='Thank you, mortal, for freeing me from this curse. I beg you, take this blade' WHERE `word_id` = 8445; -- db_script_string - content : entry=2000000603
@@ -195,7 +155,6 @@ UPDATE `trans_words` SET `content_loc2`='As soon as the neutralizing agent is mi
 UPDATE `trans_words` SET `content_loc2`='The Lorehammer ist reacting. This must be from Stormhoof\'s time.' WHERE `word_id` = 7787; -- db_script_string - content : entry=2000000614
 UPDATE `trans_words` SET `content_loc2`='Iskalder? You fool! Have you no idea who that is? He\'s only the greatest vrykul warrior who ever lived!' WHERE `word_id` = 6921; -- db_script_string - content : entry=2000000629
 UPDATE `trans_words` SET `content_loc2`='Anaya\'s soft voice trails away into the mists. "Know that I love you always..."' WHERE `word_id` = 7428; -- db_script_string - content : entry=2000000655
-UPDATE `trans_words` SET `content_loc2`='Thank you, $N. And luck to you.' WHERE `word_id` = 7184; -- db_script_string - content : entry=2000000657
 UPDATE `trans_words` SET `content_loc2`='Soaring construction vibrates.' WHERE `word_id` = 8434; -- db_script_string - content : entry=2000000667
 UPDATE `trans_words` SET `content_loc2`='You hear a low guttural growl somewhere.' WHERE `word_id` = 8435; -- db_script_string - content : entry=2000000668
 UPDATE `trans_words` SET `content_loc2`='Oh sweet, delicious, spotted eggs - you will be mine...' WHERE `word_id` = 7573; -- db_script_string - content : entry=2000000684
@@ -222,17 +181,10 @@ UPDATE `trans_words` SET `content_loc2`='The relic emits a white hot arc of flam
 UPDATE `trans_words` SET `content_loc2`='Help us, outsider.' WHERE `word_id` = 8404; -- db_script_string - content : entry=2000000794
 UPDATE `trans_words` SET `content_loc2`='The relic crumbles to dust. A vision of eight Dark Iron dwarves performing some sort of ritual fills your head.' WHERE `word_id` = 8405; -- db_script_string - content : entry=2000000795
 UPDATE `trans_words` SET `content_loc2`='Fools. Obsidion! Rise, and destroy the interlopers!' WHERE `word_id` = 8396; -- db_script_string - content : entry=2000000803
-UPDATE `trans_words` SET `content_loc2`='Ograbisi needs new hat.' WHERE `word_id` = 7360; -- db_script_string - content : entry=2000000807
 UPDATE `trans_words` SET `content_loc2`='Damnit. How are we ever going to make it through their security measures?' WHERE `word_id` = 8003; -- db_script_string - content : entry=2000000812
 UPDATE `trans_words` SET `content_loc2`='Why do you do this? Did I somehow wrong you in life?' WHERE `word_id` = 7809; -- db_script_string - content : entry=2000000813
 UPDATE `trans_words` SET `content_loc2`='Ah, I see it now in your mind. This is the work of one of my former students... Mehlar Dawnblade. It is sad to know that his heart has turned so dark.' WHERE `word_id` = 7810; -- db_script_string - content : entry=2000000814
 UPDATE `trans_words` SET `content_loc2`='Return to him. Return to Mehlor and tell him that I forgive him and that I understand why he believes what he does.' WHERE `word_id` = 7811; -- db_script_string - content : entry=2000000815
-UPDATE `trans_words` SET `content_loc2`='The boss wants all hands on high alert. The rusty anchor sinks tonight.' WHERE `word_id` = 7225; -- db_script_string - content : entry=2000000818
-UPDATE `trans_words` SET `content_loc2`='Grimclaw roars at Terenthis to get his attention.' WHERE `word_id` = 7194; -- db_script_string - content : entry=2000000825
-UPDATE `trans_words` SET `content_loc2`='Grimclaw begins to moan and roar at Terenthis while stomping his paws on the ground.' WHERE `word_id` = 7191; -- db_script_string - content : entry=2000000827
-UPDATE `trans_words` SET `content_loc2`='Terenthis begins to cast a spell on Grimclaw.' WHERE `word_id` = 7189; -- db_script_string - content : entry=2000000829
-UPDATE `trans_words` SET `content_loc2`='Grimclaw roars at Terenthis more, but this time the druid seems to understand the bear.' WHERE `word_id` = 7187; -- db_script_string - content : entry=2000000831
-UPDATE `trans_words` SET `content_loc2`='Grimclaw roars in acknowledgement at Terenthis.' WHERE `word_id` = 7185; -- db_script_string - content : entry=2000000833
 UPDATE `trans_words` SET `content_loc2`='How dare you take my eye! I will crush your soul and feed it to my blind and wimpering imps!' WHERE `word_id` = 8009; -- db_script_string - content : entry=2000000840
 UPDATE `trans_words` SET `content_loc2`='Come to my lair, whelp! Come to me and pay for your insolecne!' WHERE `word_id` = 8010; -- db_script_string - content : entry=2000000841
 UPDATE `trans_words` SET `content_loc2`='Where do you think you are going soldier? Those are fatal wounds you\'ve got there. Now, get back in tent and let the nurse treat you!' WHERE `word_id` = 7505; -- db_script_string - content : entry=2000000862
@@ -246,13 +198,9 @@ UPDATE `trans_words` SET `content_loc2`='Thank you for freeing us, mortals. Bewa
 UPDATE `trans_words` SET `content_loc2`='I thank you, $N. And my brother thanks you.' WHERE `word_id` = 8280; -- db_script_string - content : entry=2000000886
 UPDATE `trans_words` SET `content_loc2`='Release me immediatley or face my wrath!' WHERE `word_id` = 8059; -- db_script_string - content : entry=2000000890
 UPDATE `trans_words` SET `content_loc2`='I\'m listening..' WHERE `word_id` = 8030; -- db_script_string - content : entry=2000000936
-UPDATE `trans_words` SET `content_loc2`='Oh no! Here they come!' WHERE `word_id` = 7207; -- db_script_string - content : entry=2000000955
-UPDATE `trans_words` SET `content_loc2`='What? How dare you say that to me?!?' WHERE `word_id` = 7205; -- db_script_string - content : entry=2000000957
-UPDATE `trans_words` SET `content_loc2`='Who dares step into my domain! Come! Come, and be consumed!' WHERE `word_id` = 7203; -- db_script_string - content : entry=2000000960
 UPDATE `trans_words` SET `content_loc2`='How dare you trifle with my playthings!' WHERE `word_id` = 6543; -- db_script_string - content : entry=2000000968
 UPDATE `trans_words` SET `content_loc2`='The orcs in my citadel will drink your blood and dovour you!' WHERE `word_id` = 8034; -- db_script_string - content : entry=2000000969
 UPDATE `trans_words` SET `content_loc2`='Think of your younglings, Gul\'dan! You will destroy us all!' WHERE `word_id` = 8044; -- db_script_string - content : entry=2000000978
-UPDATE `trans_words` SET `content_loc2`='I shall use this time wisely, milord. Thank you.' WHERE `word_id` = 7235; -- db_script_string - content : entry=2000000990
 UPDATE `trans_words` SET `content_loc2`='hits the twisted claws.' WHERE `word_id` = 8393; -- db_script_string - content : entry=2000000999
 UPDATE `trans_words` SET `content_loc2`='I had arranged for a secret summit between Warchief Thrall and King Wyrnn, here in Theramore.' WHERE `word_id` = 8394; -- db_script_string - content : entry=2000001000
 UPDATE `trans_words` SET `content_loc2`='I will send word that you have discovered the link to the Defias. $B$BI was a fool to think them broken with the defeat of Edwin Vancleef, and King Wrynn will want to make an example of all who remain."' WHERE `word_id` = 268229; -- db_script_string - content : entry=2000001004
@@ -360,17 +308,12 @@ UPDATE `trans_words` SET `content_loc2`='Only if we did not follow the proper in
 UPDATE `trans_words` SET `content_loc2`='Only if we did not follow the proper initialization procedures.' WHERE `word_id` = 7524; -- db_script_string - content : entry=2000005152
 UPDATE `trans_words` SET `content_loc2`='Only if we did not follow the proper initialization procedures.' WHERE `word_id` = 7524; -- db_script_string - content : entry=2000005153
 UPDATE `trans_words` SET `content_loc2`='At least we would not be around to have to clean it up.' WHERE `word_id` = 7523; -- db_script_string - content : entry=2000005154
-UPDATE `trans_words` SET `content_loc2`='But isn\'t that what caused the initial problems with Adept Syleria\'s magical formula?' WHERE `word_id` = 7121; -- db_script_string - content : entry=2000005155
 UPDATE `trans_words` SET `content_loc2`='But wouldn`t that mean crossing the streams? Isn`t that really bad?' WHERE `word_id` = 7526; -- db_script_string - content : entry=2000005160
-UPDATE `trans_words` SET `content_loc2`='But isn\'t that what caused the initial problems with Adept Syleria\'s magical formula?' WHERE `word_id` = 7121; -- db_script_string - content : entry=2000005162
 UPDATE `trans_words` SET `content_loc2`='But wouldn`t that mean crossing the streams? Isn`t that really bad?' WHERE `word_id` = 7526; -- db_script_string - content : entry=2000005165
-UPDATE `trans_words` SET `content_loc2`='But isn\'t that what caused the initial problems with Adept Syleria\'s magical formula?' WHERE `word_id` = 7121; -- db_script_string - content : entry=2000005166
 UPDATE `trans_words` SET `content_loc2`='Wow, all this for a love potion. Hope he is worth it.' WHERE `word_id` = 7527; -- db_script_string - content : entry=2000005171
 UPDATE `trans_words` SET `content_loc2`='The Portal will shift slightly. At this point if you cast a binding cantrip you will solidify it in place.' WHERE `word_id` = 7528; -- db_script_string - content : entry=2000005173
 UPDATE `trans_words` SET `content_loc2`='Wow, all this for a love potion. Hope he is worth it.' WHERE `word_id` = 7527; -- db_script_string - content : entry=2000005174
 UPDATE `trans_words` SET `content_loc2`='Wow, all this for a love potion. Hope he is worth it.' WHERE `word_id` = 7527; -- db_script_string - content : entry=2000005179
-UPDATE `trans_words` SET `content_loc2`='Ask me how you can get a free drink at the Blue Recluse!' WHERE `word_id` = 7149; -- db_script_string - content : entry=2000005191
-UPDATE `trans_words` SET `content_loc2`='Ask me how you can get a free drink at the Blue Recluse!' WHERE `word_id` = 7149; -- db_script_string - content : entry=2000005197
 UPDATE `trans_words` SET `content_loc2`='We will act when we know what we need, old friend. The druids have proven wise and capable of making their own decisions.' WHERE `word_id` = 7942; -- db_script_string - content : entry=2000005247
 UPDATE `trans_words` SET `content_loc2`='You need to do what? All this science. I don\'t understand... Look, this is just my job, five days a week.' WHERE `word_id` = 7945; -- db_script_string - content : entry=2000005250
 UPDATE `trans_words` SET `content_loc2`='Hold your tongue, knave! Do not dare use that tone with a priestess of the Light!' WHERE `word_id` = 7968; -- db_script_string - content : entry=2000005273
