@@ -378,7 +378,6 @@ UPDATE `trans_words` SET `content_loc3`='Misha Tor\'kren' WHERE `word_id`=74883;
 UPDATE `trans_words` SET `content_loc3`='Vel\'rin Fang' WHERE `word_id`=74884; -- locales_creature - name : entry=3194
 UPDATE `trans_words` SET `content_loc3`='Eric\'s AAA Special Vendor' WHERE `word_id`=82370; -- locales_creature - name : entry=3200
 UPDATE `trans_words` SET `content_loc3`='Scott Mercer' WHERE `word_id`=91871; -- locales_creature - name : entry=3201
-UPDATE `trans_words` SET `content_loc3`='Fizzle Darkclaw' WHERE `word_id`=102102; -- locales_creature - name : entry=3203
 UPDATE `trans_words` SET `content_loc3`='Gazz\'uz' WHERE `word_id`=74891; -- locales_creature - name : entry=3204
 UPDATE `trans_words` SET `content_loc3`='Zalazane' WHERE `word_id`=74892; -- locales_creature - name : entry=3205
 UPDATE `trans_words` SET `content_loc3`='Margoz' WHERE `word_id`=74895; -- locales_creature - name : entry=3208
@@ -13334,7 +13333,6 @@ UPDATE `trans_words` SET `content_loc3`='Donnelly Dunwald' WHERE `word_id`=10852
 UPDATE `trans_words` SET `content_loc3`='Eoin Dunwald' WHERE `word_id`=108525; -- locales_creature - name : entry=46627
 UPDATE `trans_words` SET `content_loc3`='Flynn Dunwald' WHERE `word_id`=108501; -- locales_creature - name : entry=46628
 UPDATE `trans_words` SET `content_loc3`='Butchered Drake' WHERE `word_id`=108820; -- locales_creature - name : entry=46629
-UPDATE `trans_words` SET `content_loc3`='Accursed Longshoreman' WHERE `word_id`=108821; -- locales_creature - name : entry=46630
 UPDATE `trans_words` SET `content_loc3`='Darren\'s Test Guild Standard' WHERE `word_id`=108822; -- locales_creature - name : entry=46631
 UPDATE `trans_words` SET `content_loc3`='Arrested Cultist Delivery Credit' WHERE `word_id`=108823; -- locales_creature - name : entry=46635
 UPDATE `trans_words` SET `content_loc3`='Auctioneer Drezbit' WHERE `word_id`=108824; -- locales_creature - name : entry=46637

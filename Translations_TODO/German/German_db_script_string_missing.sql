@@ -168,7 +168,6 @@ UPDATE `trans_words` SET `content_loc3`='We believed that the Sanctum was well f
 UPDATE `trans_words` SET `content_loc3`='We did not stand a chance. As my brethren perished around me, I managed to retreat hear and bar the entrance.' WHERE `word_id` = 4074; -- db_script_string - content : entry=2000000871
 UPDATE `trans_words` SET `content_loc3`='The commander of the forces on the ground here is a cruel brute named Zarithrian. But I fear there are greater powers at work.' WHERE `word_id` = 4076; -- db_script_string - content : entry=2000000873
 UPDATE `trans_words` SET `content_loc3`='Thank you for freeing us, mortals. Beware, the Blue Flight is alerted to your presence. Even now, Malygos sends Varos Cloudstrider and his ring guardians to defend the Oculus. You will need our help to stand a chance.' WHERE `word_id` = 8107; -- db_script_string - content : entry=2000000876
-UPDATE `trans_words` SET `content_loc3`='I thank you, $N. And my brother thanks you.' WHERE `word_id` = 8280; -- db_script_string - content : entry=2000000886
 UPDATE `trans_words` SET `content_loc3`='%s is chasing you!' WHERE `word_id` = 4035; -- db_script_string - content : entry=2000000887
 UPDATE `trans_words` SET `content_loc3`='Release me immediatley or face my wrath!' WHERE `word_id` = 8059; -- db_script_string - content : entry=2000000890
 UPDATE `trans_words` SET `content_loc3`='I\'m listening..' WHERE `word_id` = 8030; -- db_script_string - content : entry=2000000936

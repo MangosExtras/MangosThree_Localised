@@ -2380,6 +2380,7 @@ UPDATE `locales_creature` SET `name_loc3`='Fanatiker der Brennenden Klinge' WHER
 UPDATE `locales_creature` SET `name_loc3`='Lehrling der Brennenden Klinge' WHERE `entry`=3198;
 UPDATE `locales_creature` SET `name_loc3`='Kultist der Brennenden Klinge' WHERE `entry`=3199;
 UPDATE `locales_creature` SET `name_loc3`='[UNUSED] JoshTest',`subname_loc3`='NSCTEST' WHERE `entry`=3202;
+UPDATE `locales_creature` SET `name_loc3`='Zischel Dunkelklaue' WHERE `entry`=3203;
 UPDATE `locales_creature` SET `name_loc3`='Voodootroll' WHERE `entry`=3206;
 UPDATE `locales_creature` SET `name_loc3`='Verhexter Troll' WHERE `entry`=3207;
 UPDATE `locales_creature` SET `name_loc3`='Kriegerheldin Windfeder' WHERE `entry`=3209;
@@ -22298,7 +22299,7 @@ UPDATE `locales_creature` SET `subname_loc3`='Die Zephyr' WHERE `entry`=34730;
 UPDATE `locales_creature` SET `name_loc3`='Dunkler Ritualist',`subname_loc3`='Kult der Verdammten' WHERE `entry`=34734;
 UPDATE `locales_creature` SET `name_loc3`='Grab des Schwarzen Ritters' WHERE `entry`=34735;
 UPDATE `locales_creature` SET `name_loc3`='Belagerungsmaschine der Horde' WHERE `entry`=34742;
-UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Südmeerfreibeuter' WHERE `entry`=34750;
+UPDATE `locales_creature` SET `name_loc3`='Käpt\'n Garvey',`subname_loc3`='Südmeerfreibeuter' WHERE `entry`=34750;
 UPDATE `locales_creature` SET `name_loc3`='Verteidigungsrausch' WHERE `entry`=34758;
 UPDATE `locales_creature` SET `name_loc3`='Zelli Heißdüse',`subname_loc3`='Zeppelinmeisterin von Donnerfels' WHERE `entry`=34765;
 UPDATE `locales_creature` SET `name_loc3`='Krendel Großtasch',`subname_loc3`='Zeppelinmeister von Orgrimmar' WHERE `entry`=34766;
@@ -25694,6 +25695,7 @@ UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Bankier' WHERE `ent
 UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Bankier' WHERE `entry`=46620;
 UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Bankier' WHERE `entry`=46621;
 UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Bankier' WHERE `entry`=46622;
+UPDATE `locales_creature` SET `name_loc3`='Verfluchter Küstenfischer' WHERE `entry`=46630;
 UPDATE `locales_creature` SET `name_loc3`='',`subname_loc3`='Gastwirt' WHERE `entry`=46642;
 UPDATE `locales_creature` SET `name_loc3`='Trainingsattrappe' WHERE `entry`=46647;
 UPDATE `locales_creature` SET `name_loc3`='Jammal\'an der Prophet' WHERE `entry`=46656;

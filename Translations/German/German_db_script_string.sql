@@ -711,6 +711,7 @@ UPDATE `db_script_string` SET `content_loc3`='Sie trinken Eure Furcht: es ist da
 UPDATE `db_script_string` SET `content_loc3`='Sie sind das Wispern im fröstelnden Wind.' WHERE `entry`=2000000883;
 UPDATE `db_script_string` SET `content_loc3`='Sie sterben nicht; sie leben nicht. Sie stehen außerhalb des Kreislaufs.' WHERE `entry`=2000000884;
 UPDATE `db_script_string` SET `content_loc3`='Wo einer fällt, werden viele seinen Platz einnehmen.' WHERE `entry`=2000000885;
+UPDATE `db_script_string` SET `content_loc3`='Ich danke Euch, $N. Und mein Bruder dankt Euch.' WHERE `entry`=2000000886;
 UPDATE `db_script_string` SET `content_loc3`='Wir werden uns eines Tages wiedersehen.' WHERE `entry`=2000000888;
 UPDATE `db_script_string` SET `content_loc3`='Die Verkörperung des Todes wurde ein weiteres Mal auf die Welt losgelassen! Teron Blutschatten ist zurückgekehrt...' WHERE `entry`=2000000889;
 UPDATE `db_script_string` SET `content_loc3`='Diese Zelle wird mich nicht lange aufhalten. Ich werde mir Illidans Kopf holen, so oder so.' WHERE `entry`=2000000891;

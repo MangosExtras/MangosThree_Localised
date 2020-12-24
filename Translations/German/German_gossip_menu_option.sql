@@ -529,6 +529,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich bin mir absolut 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Auktionshaus' WHERE `menu_id`=3127 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Bank' WHERE `menu_id`=3127 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Gasthaus' WHERE `menu_id`=3127 AND `id`=2;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=3130 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Eridan, ich habe die Flöte der Urtume verloren und benötige Ersatz.' WHERE `menu_id`=3142 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=3161 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=3162 AND `id`=0;
@@ -3287,6 +3288,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Süßes oder Saures!
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte etwas von Euch kaufen.' WHERE `menu_id`=9480 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Zeigt mir, was Ihr zu verkaufen habt, Fallensteller.' WHERE `menu_id`=9484 AND `id`=1;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was könnt Ihr mir über Loken und die Eisenzwerge erzählen?' WHERE `menu_id`=9485 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=9487 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Habt Ihr irgendwelche Dinge, die ich ausprobieren kann?' WHERE `menu_id`=9488 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Benutzt das Plumpsklo.' WHERE `menu_id`=9492 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Ich möchte ein wenig in Euren Waren stöbern.' WHERE `menu_id`=9495 AND `id`=0;
@@ -4820,6 +4822,7 @@ UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wie hat er denn die 
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='<Zurück>' WHERE `menu_id`=50008 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Es tut gut zu sehen, wie die Brennende Klinge dort das Szepter übernimmt, wo der Schattenrat einst versagt hat.' WHERE `menu_id`=50010 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Die Sengende Klinge ist also entbehrlich?' WHERE `menu_id`=50011 AND `id`=0;
+UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wenn es irgendetwas gibt, das Ich für Euch tun kann...' WHERE `menu_id`=50012 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Öffnet bitte die Tür zum Hof.' WHERE `menu_id`=50151 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Wer ist der kopflose Reiter?' WHERE `menu_id`=50169 AND `id`=0;
 UPDATE `locales_gossip_menu_option` SET `option_text_loc3`='Was für Rollen?' WHERE `menu_id`=50260 AND `id`=0;
