@@ -10,8 +10,6 @@ UPDATE `trans_words`SET `content_loc2`='I wish to unlearn Gnomish engineer.' WHE
 UPDATE `trans_words`SET `content_loc2`='Do you really want to unlearn your engineer specialty and lose all associated recipes?' WHERE `word_id`=129278; -- locales_gossip_menu_option - box_text : menu_id=7058-id=2
 UPDATE `trans_words`SET `content_loc2`='I wish to unlearn Goblin engineer.' WHERE `word_id`=129279; -- locales_gossip_menu_option - option_text : menu_id=7058-id=3
 UPDATE `trans_words`SET `content_loc2`='Do you really want to unlearn your engineer specialty and lose all associated recipes?' WHERE `word_id`=129278; -- locales_gossip_menu_option - box_text : menu_id=7058-id=3
-UPDATE `trans_words`SET `content_loc2`='Purchase a Dual Talent Specialization.' WHERE `word_id`=129155; -- locales_gossip_menu_option - option_text : menu_id=10371-id=0
-UPDATE `trans_words`SET `content_loc2`='Are you sure you wish to purchase a Dual Talent Specialization?' WHERE `word_id`=129156; -- locales_gossip_menu_option - box_text : menu_id=10371-id=0
 UPDATE `trans_words`SET `content_loc2`='Ask about the orphan.' WHERE `word_id`=129590; -- locales_gossip_menu_option - option_text : menu_id=10502-id=0
 UPDATE `trans_words`SET `content_loc2`='You may choose to care for an Oracle orphan or a frenzyheart orphan. But you will not be able help both.' WHERE `word_id`=129591; -- locales_gossip_menu_option - box_text : menu_id=10502-id=0
 UPDATE `trans_words`SET `content_loc2`='May bee a couple copper will loosen your toungue. Now tell me, did you se who killed the Furlbrows?' WHERE `word_id`=129732; -- locales_gossip_menu_option - option_text : menu_id=11635-id=1
@@ -20,7 +18,5 @@ UPDATE `trans_words`SET `content_loc2`='Journey to the fair will cost you' WHERE
 UPDATE `trans_words`SET `content_loc2`='Journey to the fair will cost you' WHERE `word_id`=129961; -- locales_gossip_menu_option - box_text : menu_id=12992-id=0
 UPDATE `trans_words`SET `content_loc2`='Journey to the fair will cost you' WHERE `word_id`=129961; -- locales_gossip_menu_option - option_text : menu_id=13124-id=0
 UPDATE `trans_words`SET `content_loc2`='Journey to the fair will cost you' WHERE `word_id`=129961; -- locales_gossip_menu_option - box_text : menu_id=13124-id=0
-UPDATE `trans_words`SET `content_loc2`='<Pay 10 000 gold.>' WHERE `word_id`=130013; -- locales_gossip_menu_option - option_text : menu_id=57800-id=0
-UPDATE `trans_words`SET `content_loc2`='Do you want to pay?' WHERE `word_id`=130014; -- locales_gossip_menu_option - box_text : menu_id=57800-id=0
 
 SET NAMES 'latin1';

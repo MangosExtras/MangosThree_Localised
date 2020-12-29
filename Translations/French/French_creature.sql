@@ -10534,6 +10534,7 @@ UPDATE `locales_creature` SET `name_loc2`='Capitaine Korfang' WHERE `entry`=1759
 UPDATE `locales_creature` SET `name_loc2`='Péon mâche-les-os' WHERE `entry`=17595;
 UPDATE `locales_creature` SET `name_loc2`='Lieutenant des Flammes infernales' WHERE `entry`=17596;
 UPDATE `locales_creature` SET `name_loc2`='[PH] Capitaine Lévidence Junior' WHERE `entry`=17597;
+UPDATE `locales_creature` SET `subname_loc2`='Vendeur de munitions' WHERE `entry`=17598;
 UPDATE `locales_creature` SET `name_loc2`='Cartographe draeneï' WHERE `entry`=17600;
 UPDATE `locales_creature` SET `name_loc2`='Elekk de bât' WHERE `entry`=17601;
 UPDATE `locales_creature` SET `name_loc2`='Petit Chaperon rouge (transformation)' WHERE `entry`=17602;
@@ -25732,6 +25733,7 @@ UPDATE `locales_creature` SET `name_loc2`='Fontaine de lumière (1)' WHERE `entr
 UPDATE `locales_creature` SET `name_loc2`='Lance du khan des Kolkar' WHERE `entry`=36142;
 UPDATE `locales_creature` SET `name_loc2`='Centaure kolkar' WHERE `entry`=36144;
 UPDATE `locales_creature` SET `subname_loc2`='Chef de guerre' WHERE `entry`=36145;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Recherche animale' WHERE `entry`=36146;
 UPDATE `locales_creature` SET `name_loc2`='[DND] Marin abandonné' WHERE `entry`=36148;
 UPDATE `locales_creature` SET `name_loc2`='Navigateur Taylor' WHERE `entry`=36151;
 UPDATE `locales_creature` SET `name_loc2`='Navigateur Saracen' WHERE `entry`=36152;
@@ -26759,7 +26761,7 @@ UPDATE `locales_creature` SET `name_loc2`='Adhérent du culte' WHERE `entry`=379
 UPDATE `locales_creature` SET `name_loc2`='Valithria Marcherêve' WHERE `entry`=37950;
 UPDATE `locales_creature` SET `name_loc2`='Reine de sang Lana\'thel' WHERE `entry`=37955;
 UPDATE `locales_creature` SET `name_loc2`='Bloodtalon corrompu' WHERE `entry`=37961;
-UPDATE `locales_creature` SET `name_loc2`='Rukshan' WHERE `entry`=37962;
+UPDATE `locales_creature` SET `name_loc2`='Rukshan',`subname_loc2`='Apprenti de Zalazane' WHERE `entry`=37962;
 UPDATE `locales_creature` SET `name_loc2`='[DND] Invocateur Love Boat 02' WHERE `entry`=37964;
 UPDATE `locales_creature` SET `name_loc2`='Commandant d\'argent' WHERE `entry`=37965;
 UPDATE `locales_creature` SET `name_loc2`='Canot de l\'amour de Fossoyeuse' WHERE `entry`=37966;
@@ -27526,6 +27528,7 @@ UPDATE `locales_creature` SET `name_loc2`='Mécano-tank canardeur' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc2`='Mécano-tank éjecteur' WHERE `entry`=39715;
 UPDATE `locales_creature` SET `name_loc2`='Mécano-tank mobile' WHERE `entry`=39716;
 UPDATE `locales_creature` SET `name_loc2`='Mécano-tank canardeur' WHERE `entry`=39717;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=39718;
 UPDATE `locales_creature` SET `name_loc2`='Pluie astrale' WHERE `entry`=39720;
 UPDATE `locales_creature` SET `name_loc2`='Appel céleste' WHERE `entry`=39721;
 UPDATE `locales_creature` SET `name_loc2`='Voile du ciel' WHERE `entry`=39722;
@@ -27600,6 +27603,7 @@ UPDATE `locales_creature` SET `name_loc2`='Médecin de Gnomeregan' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Le Marteau du crépuscule' WHERE `entry`=39890;
 UPDATE `locales_creature` SET `name_loc2`='Sectateur de l\'apocalypse' WHERE `entry`=39891;
 UPDATE `locales_creature` SET `name_loc2`='[DEPRECATED 4.x] Jawn Haute-mesa' WHERE `entry`=39893;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Apprenti Hexxer' WHERE `entry`=39894;
 UPDATE `locales_creature` SET `name_loc2`='[DEPRECATED 4.x] Kanati Nuage-Gris' WHERE `entry`=39895;
 UPDATE `locales_creature` SET `name_loc2`='Yéti griffe farouche' WHERE `entry`=39896;
 UPDATE `locales_creature` SET `name_loc2`='[INUTILISÉ] Shyn',`subname_loc2`='Maître des coursiers du vent' WHERE `entry`=39898;
@@ -27862,6 +27866,7 @@ UPDATE `locales_creature` SET `name_loc2`='Ouf d\'Alexstrasza' WHERE `entry`=404
 UPDATE `locales_creature` SET `name_loc2`='[DEPRECATED 4.x] Razzeric' WHERE `entry`=40487;
 UPDATE `locales_creature` SET `name_loc2`='Œuf de vol dragon noir' WHERE `entry`=40490;
 UPDATE `locales_creature` SET `subname_loc2`='Tambour de guerre de Vol\'jin' WHERE `entry`=40492;
+UPDATE `locales_creature` SET `subname_loc2`='Ancien des arcanes' WHERE `entry`=40493;
 UPDATE `locales_creature` SET `name_loc2`='Raptor chiné cosmétique' WHERE `entry`=40495;
 UPDATE `locales_creature` SET `name_loc2`='Apprenti d\'Estulan' WHERE `entry`=40496;
 UPDATE `locales_creature` SET `name_loc2`='Apprenti d\'Estulan' WHERE `entry`=40497;
@@ -28858,6 +28863,7 @@ UPDATE `locales_creature` SET `name_loc2`='Guerrier Azsh\'ir' WHERE `entry`=4347
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de vol' WHERE `entry`=43481;
 UPDATE `locales_creature` SET `name_loc2`='Guerrier axébite' WHERE `entry`=43482;
 UPDATE `locales_creature` SET `name_loc2`='Croissance fongique II' WHERE `entry`=43484;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures d\'alchimie' WHERE `entry`=43485;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `entry`=43487;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=43493;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des écuries' WHERE `entry`=43494;
@@ -29127,6 +29133,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des guerrie
 UPDATE `locales_creature` SET `subname_loc2`='Maître des guerriers' WHERE `entry`=44129;
 UPDATE `locales_creature` SET `name_loc2`='Drake en pierre de cristalphère' WHERE `entry`=44137;
 UPDATE `locales_creature` SET `name_loc2`='Basilic jadecrête' WHERE `entry`=44138;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archigéomancien' WHERE `entry`=44143;
 UPDATE `locales_creature` SET `subname_loc2`='Ligue des explorateurs' WHERE `entry`=44155;
 UPDATE `locales_creature` SET `name_loc2`='Mannequin d\'entraînement' WHERE `entry`=44171;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `entry`=44177;
@@ -29158,7 +29165,11 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de vol' WHE
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `entry`=44235;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Serveuse' WHERE `entry`=44236;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `entry`=44237;
+UPDATE `locales_creature` SET `subname_loc2`='Formateur en archéologie' WHERE `entry`=44238;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Étudiant en archéologie' WHERE `entry`=44239;
 UPDATE `locales_creature` SET `name_loc2`='Hippogriffe d\'Argent' WHERE `entry`=44240;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Étudiant en archéologie' WHERE `entry`=44241;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Étudiant en archéologie' WHERE `entry`=44243;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des faucons-dragons' WHERE `entry`=44244;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Intendant des emblèmes de vaillance' WHERE `entry`=44245;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Intendant des emblèmes de justice' WHERE `entry`=44246;
@@ -29167,6 +29178,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des chasseu
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des chasseurs' WHERE `entry`=44250;
 UPDATE `locales_creature` SET `subname_loc2`='Maître des écuries' WHERE `entry`=44251;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des écuries' WHERE `entry`=44252;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Familier d\'Alma' WHERE `entry`=44256;
 UPDATE `locales_creature` SET `name_loc2`='Gyreworm colossal' WHERE `entry`=44258;
 UPDATE `locales_creature` SET `name_loc2`='Bluegill représentant' WHERE `entry`=44263;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `entry`=44267;
@@ -29186,6 +29198,7 @@ UPDATE `locales_creature` SET `subname_loc2`='Prince de Hurlevent' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=44294;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=44296;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=44297;
+UPDATE `locales_creature` SET `subname_loc2`='Vendeur d\'alcool' WHERE `entry`=44299;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=44300;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures d\'artisanat' WHERE `entry`=44301;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures générales' WHERE `entry`=44302;
@@ -29263,6 +29276,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de vol' WHE
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de vol' WHERE `entry`=44410;
 UPDATE `locales_creature` SET `name_loc2`='Baron Geddon Avertissement Déclencheur' WHERE `entry`=44412;
 UPDATE `locales_creature` SET `name_loc2`='Traqueur des fonds Azjentus' WHERE `entry`=44413;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Ancien' WHERE `entry`=44415;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Nourriture & boissons' WHERE `entry`=44417;
 UPDATE `locales_creature` SET `name_loc2`='Araignée de schiste cramoisi' WHERE `entry`=44425;
 UPDATE `locales_creature` SET `name_loc2`='Ouvrier de l\'Alliance' WHERE `entry`=44433;
@@ -29524,6 +29538,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des prêtre
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des démonistes' WHERE `entry`=45138;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des portails' WHERE `entry`=45139;
 UPDATE `locales_creature` SET `name_loc2`='Image clonée' WHERE `entry`=45144;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Forgeron d\'Argent' WHERE `entry`=45148;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Veste en tissu' WHERE `entry`=45149;
 UPDATE `locales_creature` SET `name_loc2`='Coffre fermé' WHERE `entry`=45164;
 UPDATE `locales_creature` SET `name_loc2`='Kurdran Marteau-Hardi' WHERE `entry`=45167;
@@ -30226,6 +30241,7 @@ UPDATE `locales_creature` SET `name_loc2`='Artiste en herbe' WHERE `entry`=47187
 UPDATE `locales_creature` SET `name_loc2`='Starlette en herbe' WHERE `entry`=47189;
 UPDATE `locales_creature` SET `name_loc2`='Gloubbels' WHERE `entry`=47191;
 UPDATE `locales_creature` SET `name_loc2`='Mouton' WHERE `entry`=47194;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archigéomancien' WHERE `entry`=47195;
 UPDATE `locales_creature` SET `name_loc2`='[INUTILISÉ] Le coffre-fort du roi' WHERE `entry`=47198;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='La Croisade d\'argent' WHERE `entry`=47200;
 UPDATE `locales_creature` SET `name_loc2`='Oeuf de rampant' WHERE `entry`=47203;
@@ -30274,6 +30290,7 @@ UPDATE `locales_creature` SET `name_loc2`='Balles Bigblast',`subname_loc2`='Four
 UPDATE `locales_creature` SET `name_loc2`='Arcaniste Delaris',`subname_loc2`='Les Bien-nés' WHERE `entry`=47341;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures de pêche' WHERE `entry`=47343;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures d\'herboriste' WHERE `entry`=47345;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47346;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures d\'artisanat' WHERE `entry`=47347;
 UPDATE `locales_creature` SET `name_loc2`='Démonet' WHERE `entry`=47360;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Le Reliquaire' WHERE `entry`=47361;
@@ -30284,6 +30301,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Aubergiste' WHERE `
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des écuries' WHERE `entry`=47368;
 UPDATE `locales_creature` SET `name_loc2`='Lapin de couverture' WHERE `entry`=47379;
 UPDATE `locales_creature` SET `name_loc2`='Crédit nain cranky' WHERE `entry`=47381;
+UPDATE `locales_creature` SET `subname_loc2`='Formateur en archéologie' WHERE `entry`=47382;
 UPDATE `locales_creature` SET `name_loc2`='[DEPRECATED 4.0] Bravorton',`subname_loc2`='Marchand de glaces' WHERE `entry`=47383;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de métier' WHERE `entry`=47384;
 UPDATE `locales_creature` SET `name_loc2`='Ainamiss la reine des ruches' WHERE `entry`=47386;
@@ -30338,7 +30356,18 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Nourriture & boisso
 UPDATE `locales_creature` SET `name_loc2`='Capitaine Keyton' WHERE `entry`=47554;
 UPDATE `locales_creature` SET `name_loc2`='Bébé' WHERE `entry`=47565;
 UPDATE `locales_creature` SET `name_loc2`='Kavem le Cruel' WHERE `entry`=47567;
-UPDATE `locales_creature` SET `name_loc2`='Boduro le chercheur' WHERE `entry`=47575;
+UPDATE `locales_creature` SET `subname_loc2`='Formateur en archéologie' WHERE `entry`=47568;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47569;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47570;
+UPDATE `locales_creature` SET `subname_loc2`='Formateur en archéologie' WHERE `entry`=47571;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47572;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47573;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47574;
+UPDATE `locales_creature` SET `name_loc2`='Boduro le chercheur',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47575;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47576;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47577;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47578;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47579;
 UPDATE `locales_creature` SET `name_loc2`='[DEPRECATED 4.x] Lakota Chant-du-Vent' WHERE `entry`=47580;
 UPDATE `locales_creature` SET `name_loc2`='Archimage Aranhir Starsinger',`subname_loc2`='Reforger des Arcanes' WHERE `entry`=47581;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Reforger des Arcanes' WHERE `entry`=47582;
@@ -30383,6 +30412,7 @@ UPDATE `locales_creature` SET `name_loc2`='Rat des quais' WHERE `entry`=47667;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Nourriture & boissons' WHERE `entry`=47668;
 UPDATE `locales_creature` SET `name_loc2`='Mouette de Rouillemont' WHERE `entry`=47680;
 UPDATE `locales_creature` SET `name_loc2`='Chat insolent' WHERE `entry`=47682;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=47683;
 UPDATE `locales_creature` SET `name_loc2`='' WHERE `entry`=47686;
 UPDATE `locales_creature` SET `name_loc2`='Chaton de Winna' WHERE `entry`=47687;
 UPDATE `locales_creature` SET `name_loc2`='Officier Connelly' WHERE `entry`=47688;
@@ -30919,6 +30949,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures d\'herb
 UPDATE `locales_creature` SET `subname_loc2`='Fournitures générales' WHERE `entry`=49435;
 UPDATE `locales_creature` SET `name_loc2`='Brett le bombardier' WHERE `entry`=49439;
 UPDATE `locales_creature` SET `name_loc2`='Capitaine Whumphrus' WHERE `entry`=49440;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archéologue aventurier' WHERE `entry`=49442;
 UPDATE `locales_creature` SET `name_loc2`='Contact' WHERE `entry`=49447;
 UPDATE `locales_creature` SET `name_loc2`='Le commandant Jarod Chantelombre' WHERE `entry`=49448;
 UPDATE `locales_creature` SET `name_loc2`='Commandant Schnottz' WHERE `entry`=49465;
@@ -31001,6 +31032,7 @@ UPDATE `locales_creature` SET `name_loc2`='Jeune araignée de la pénombre' WHER
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Forge' WHERE `entry`=49695;
 UPDATE `locales_creature` SET `subname_loc2`='Sous chef' WHERE `entry`=49701;
 UPDATE `locales_creature` SET `subname_loc2`='Fournitures d\'ingénieur et de mineur' WHERE `entry`=49702;
+UPDATE `locales_creature` SET `subname_loc2`='Fournitures de calligraphie et d\'alchimie' WHERE `entry`=49703;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des cuisiniers' WHERE `entry`=49704;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures de tailleur' WHERE `entry`=49705;
 UPDATE `locales_creature` SET `name_loc2`='Gravillon' WHERE `entry`=49706;
@@ -31247,11 +31279,11 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Commerce d\'éclats
 UPDATE `locales_creature` SET `name_loc2`='Babble Cultiste' WHERE `entry`=50135;
 UPDATE `locales_creature` SET `subname_loc2`='Maître des druides' WHERE `entry`=50136;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des druides' WHERE `entry`=50137;
-UPDATE `locales_creature` SET `name_loc2`='Expert d\'enchères Kalaren' WHERE `entry`=50139;
+UPDATE `locales_creature` SET `name_loc2`='Expert d\'enchères Kalaren',`subname_loc2`='Commissaire-priseur de l\'alliance' WHERE `entry`=50139;
 UPDATE `locales_creature` SET `name_loc2`='Commissaire-priseur Lyrsara' WHERE `entry`=50140;
 UPDATE `locales_creature` SET `name_loc2`='Rat nourri au cadavre' WHERE `entry`=50141;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des démonistes' WHERE `entry`=50142;
-UPDATE `locales_creature` SET `name_loc2`='Commissaire-priseur Itoran' WHERE `entry`=50143;
+UPDATE `locales_creature` SET `name_loc2`='Commissaire-priseur Itoran',`subname_loc2`='Commissaire-priseur de l\'alliance' WHERE `entry`=50143;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des chasseurs' WHERE `entry`=50144;
 UPDATE `locales_creature` SET `name_loc2`='Commissaire-priseur Braku' WHERE `entry`=50145;
 UPDATE `locales_creature` SET `name_loc2`='Fallanos Agatian',`subname_loc2`='Commerce d\'éclats' WHERE `entry`=50146;
@@ -31286,6 +31318,7 @@ UPDATE `locales_creature` SET `name_loc2`='Al\'akir, test de portée de combat (
 UPDATE `locales_creature` SET `name_loc2`='Al\'akir, test de portée de combat (3)' WHERE `entry`=50232;
 UPDATE `locales_creature` SET `name_loc2`='Lapin noir évêque évêque' WHERE `entry`=50246;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître de métier' WHERE `entry`=50247;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Fournitures de calligraphie et d\'alchimie' WHERE `entry`=50248;
 UPDATE `locales_creature` SET `name_loc2`='chameau' WHERE `entry`=50249;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Banquier' WHERE `entry`=50252;
 UPDATE `locales_creature` SET `name_loc2`='Capitaine Taylor' WHERE `entry`=50259;
@@ -31543,6 +31576,7 @@ UPDATE `locales_creature` SET `name_loc2`='Portail du Crépuscule' WHERE `entry`
 UPDATE `locales_creature` SET `name_loc2`='Coursier du vent d\'Orgrimmar' WHERE `entry`=51346;
 UPDATE `locales_creature` SET `name_loc2`='Alexstrasza la Lieuse-de-vie',`subname_loc2`='Reine des dragons' WHERE `entry`=51354;
 UPDATE `locales_creature` SET `name_loc2`='Aile de mort',`subname_loc2`='Aspect de la Mort' WHERE `entry`=51355;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Active la rencontre Nefarian si le test est activé' WHERE `entry`=51367;
 UPDATE `locales_creature` SET `name_loc2`='Eclaireur cénarien Jalia' WHERE `entry`=51375;
 UPDATE `locales_creature` SET `name_loc2`='Loup Ignoble' WHERE `entry`=51378;
 UPDATE `locales_creature` SET `name_loc2`='Surveillant kor\'\'kron' WHERE `entry`=51381;
@@ -31618,6 +31652,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des chamans
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Maître des chamans' WHERE `entry`=51640;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Vendeuse d\'eau' WHERE `entry`=51648;
 UPDATE `locales_creature` SET `name_loc2`='Bébé sélénien' WHERE `entry`=51649;
+UPDATE `locales_creature` SET `name_loc2`='' WHERE `entry`=51654;
 UPDATE `locales_creature` SET `name_loc2`='Poulet des fourrés' WHERE `entry`=51657;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Féticheur du clan casse-crâne' WHERE `entry`=51658;
 UPDATE `locales_creature` SET `name_loc2`='Moine écarlate' WHERE `entry`=51659;
@@ -31757,6 +31792,7 @@ UPDATE `locales_creature` SET `name_loc2`='Jeune ours noir' WHERE `entry`=51973;
 UPDATE `locales_creature` SET `name_loc2`='Factionnaire d\'argent',`subname_loc2`='La Croisade d\'argent' WHERE `entry`=51986;
 UPDATE `locales_creature` SET `name_loc2`='Directrice de l\'orphelinat Rossignol' WHERE `entry`=51988;
 UPDATE `locales_creature` SET `name_loc2`='Directrice de l\'orphelinat Plainteguerre' WHERE `entry`=51989;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=51997;
 UPDATE `locales_creature` SET `subname_loc2`='Maître des voleurs' WHERE `entry`=51998;
 UPDATE `locales_creature` SET `name_loc2`='Sentinelle d\'Astranaar' WHERE `entry`=52000;
 UPDATE `locales_creature` SET `name_loc2`='Capitaine Jake Sones' WHERE `entry`=52015;
@@ -31946,7 +31982,7 @@ UPDATE `locales_creature` SET `name_loc2`='Sergent Corne-Tonnerre',`subname_loc2
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Ancien de la guerre' WHERE `entry`=52551;
 UPDATE `locales_creature` SET `name_loc2`='[DND] Balayage à la bombe - Nettoyage - Crédit de quête' WHERE `entry`=52553;
 UPDATE `locales_creature` SET `name_loc2`='Seigneur Rhyolith' WHERE `entry`=52558;
-UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure' WHERE `entry`=52571;
+UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=52571;
 UPDATE `locales_creature` SET `name_loc2`='Orphelin orc' WHERE `entry`=52578;
 UPDATE `locales_creature` SET `name_loc2`='Ouvrière braisetoile' WHERE `entry`=52581;
 UPDATE `locales_creature` SET `name_loc2`='Volcan' WHERE `entry`=52582;
@@ -32178,6 +32214,7 @@ UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Instructeur de mont
 UPDATE `locales_creature` SET `name_loc2`='Drake Bleu' WHERE `entry`=53408;
 UPDATE `locales_creature` SET `name_loc2`='Sulfuras, Main de Ragnaros' WHERE `entry`=53419;
 UPDATE `locales_creature` SET `name_loc2`='Sulfuras, Main de Ragnaros' WHERE `entry`=53420;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Formateur en archéologie' WHERE `entry`=53421;
 UPDATE `locales_creature` SET `name_loc2`='Courroux du dragon, le Repos de Tarecgosa' WHERE `entry`=53422;
 UPDATE `locales_creature` SET `name_loc2`='Broll Mantelours' WHERE `entry`=53426;
 UPDATE `locales_creature` SET `name_loc2`='« Doc » Girodent' WHERE `entry`=53429;
@@ -32330,6 +32367,9 @@ UPDATE `locales_creature` SET `name_loc2`='Gart Cours-la-Brume' WHERE `entry`=53
 UPDATE `locales_creature` SET `name_loc2`='Mardant Chênefort' WHERE `entry`=53842;
 UPDATE `locales_creature` SET `name_loc2`='Célestine de la moisson' WHERE `entry`=53844;
 UPDATE `locales_creature` SET `name_loc2`='Gart Cours-la-Brume' WHERE `entry`=53845;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=53856;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=53857;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=53858;
 UPDATE `locales_creature` SET `name_loc2`='Lapin d\'enfer rampant' WHERE `entry`=53862;
 UPDATE `locales_creature` SET `name_loc2`='Ancien seigneur du Feu' WHERE `entry`=53864;
 UPDATE `locales_creature` SET `name_loc2`='Cénarius' WHERE `entry`=53872;
@@ -32380,8 +32420,12 @@ UPDATE `locales_creature` SET `name_loc2`='Tourbillon tourbillonnant' WHERE `ent
 UPDATE `locales_creature` SET `name_loc2`='Elfe de sang enfant 00' WHERE `entry`=54002;
 UPDATE `locales_creature` SET `name_loc2`='Elfe de sang enfant 01' WHERE `entry`=54003;
 UPDATE `locales_creature` SET `name_loc2`='Capitaine Saynna Stormrunner' WHERE `entry`=54012;
-UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure' WHERE `entry`=54015;
+UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=54015;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=54016;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=54017;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=54018;
 UPDATE `locales_creature` SET `name_loc2`='Druide Captif du Talon' WHERE `entry`=54019;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Étudiant en archéologie' WHERE `entry`=54021;
 UPDATE `locales_creature` SET `name_loc2`='Ancien protecteur d\'Hyjal' WHERE `entry`=54024;
 UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Ancien du savoir' WHERE `entry`=54025;
 UPDATE `locales_creature` SET `name_loc2`='Mini Tarecgosa' WHERE `entry`=54027;
@@ -32405,9 +32449,10 @@ UPDATE `locales_creature` SET `name_loc2`='Sanath Lim-Yo' WHERE `entry`=54072;
 UPDATE `locales_creature` SET `name_loc2`='Racines piégeuses' WHERE `entry`=54074;
 UPDATE `locales_creature` SET `subname_loc2`='Le gardien de la porte' WHERE `entry`=54085;
 UPDATE `locales_creature` SET `name_loc2`='Seigneur Rhyolith' WHERE `entry`=54093;
-UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure' WHERE `entry`=54101;
+UPDATE `locales_creature` SET `name_loc2`='Chambellan Forteramure',`subname_loc2`='Archidruide de la Flamme' WHERE `entry`=54101;
 UPDATE `locales_creature` SET `name_loc2`='Archidruide Hamuul Totem-Runique' WHERE `entry`=54109;
 UPDATE `locales_creature` SET `name_loc2`='Malfurion Hurlorage' WHERE `entry`=54110;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='Étudiant en archéologie' WHERE `entry`=54118;
 UPDATE `locales_creature` SET `name_loc2`='Écho de Sylvanas' WHERE `entry`=54123;
 UPDATE `locales_creature` SET `name_loc2`='Coursier du vent fauve' WHERE `entry`=54126;
 UPDATE `locales_creature` SET `name_loc2`='Flammeffroi' WHERE `entry`=54127;
@@ -32452,7 +32497,8 @@ UPDATE `locales_creature` SET `name_loc2`='Roussigouille',`subname_loc2`='Seigne
 UPDATE `locales_creature` SET `name_loc2`='Astrylien' WHERE `entry`=54262;
 UPDATE `locales_creature` SET `name_loc2`='Câlins' WHERE `entry`=54268;
 UPDATE `locales_creature` SET `name_loc2`='<Extérieur> Garl Grimgrizzle' WHERE `entry`=54269;
-UPDATE `locales_creature` SET `name_loc2`='Bubulle' WHERE `entry`=54272;
+UPDATE `locales_creature` SET `name_loc2`='Bubulle',`subname_loc2`='<Familier du chasseur>' WHERE `entry`=54272;
+UPDATE `locales_creature` SET `name_loc2`='',`subname_loc2`='<Serviteur du démoniste>' WHERE `entry`=54273;
 UPDATE `locales_creature` SET `name_loc2`='Addition d\'ashtongue' WHERE `entry`=54275;
 UPDATE `locales_creature` SET `name_loc2`='Serpent cinderslither' WHERE `entry`=54276;
 UPDATE `locales_creature` SET `name_loc2`='Hunaka Sabot-Vert' WHERE `entry`=54279;

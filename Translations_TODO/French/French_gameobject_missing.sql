@@ -2,11 +2,9 @@
 SET NAMES 'utf8';
 UPDATE `trans_words` SET `content_loc2`='izebize' WHERE `word_id` = 120907; -- locales_gameobject - name : entry=4
 UPDATE `trans_words` SET `content_loc2`='Eliza\'s Tombstone' WHERE `word_id` = 114195; -- locales_gameobject - name : entry=37
-UPDATE `trans_words` SET `content_loc2`='Captain Sanders Chest' WHERE `word_id` = 114196; -- locales_gameobject - name : entry=38
 UPDATE `trans_words` SET `content_loc2`='Mound of loose dirt' WHERE `word_id` = 114200; -- locales_gameobject - name : entry=59
 UPDATE `trans_words` SET `content_loc2`='DM starter' WHERE `word_id` = 120984; -- locales_gameobject - name : entry=1338
 UPDATE `trans_words` SET `content_loc2`='TDM starter and ender' WHERE `word_id` = 120985; -- locales_gameobject - name : entry=1339
-UPDATE `trans_words` SET `content_loc2`='Corpse Laden Boat' WHERE `word_id` = 114268; -- locales_gameobject - name : entry=1593
 UPDATE `trans_words` SET `content_loc2`='Stanley\'s Dish' WHERE `word_id` = 114297; -- locales_gameobject - name : entry=1720
 UPDATE `trans_words` SET `content_loc2`='Missing!' WHERE `word_id` = 120888; -- locales_gameobject - name : entry=1726
 UPDATE `trans_words` SET `content_loc2`='Smoldering Fire' WHERE `word_id` = 114328; -- locales_gameobject - name : entry=2004
@@ -18,14 +16,11 @@ UPDATE `trans_words` SET `content_loc2`='Mage Quarters' WHERE `word_id` = 114373
 UPDATE `trans_words` SET `content_loc2`='Pillar of Diamond' WHERE `word_id` = 114423; -- locales_gameobject - name : entry=2842
 UPDATE `trans_words` SET `content_loc2`='Pillar of Opal' WHERE `word_id` = 114425; -- locales_gameobject - name : entry=2848
 UPDATE `trans_words` SET `content_loc2`='Pillar of Amethyst' WHERE `word_id` = 114427; -- locales_gameobject - name : entry=2858
-UPDATE `trans_words` SET `content_loc2`='Benedict\'s Chest' WHERE `word_id` = 114459; -- locales_gameobject - name : entry=3239
 UPDATE `trans_words` SET `content_loc2`='Longtoo - Teapee' WHERE `word_id` = 114461; -- locales_gameobject - name : entry=3265
 UPDATE `trans_words` SET `content_loc2`='Drizzlik\'s Emporium' WHERE `word_id` = 114487; -- locales_gameobject - name : entry=3767
 UPDATE `trans_words` SET `content_loc2`='Fragile - Do Not Drop' WHERE `word_id` = 114488; -- locales_gameobject - name : entry=3768
 UPDATE `trans_words` SET `content_loc2`='Red Raptor Nest' WHERE `word_id` = 114516; -- locales_gameobject - name : entry=6906
-UPDATE `trans_words` SET `content_loc2`='Blue Raptor Nest' WHERE `word_id` = 114517; -- locales_gameobject - name : entry=6907
 UPDATE `trans_words` SET `content_loc2`='Yellow Raptor Nest' WHERE `word_id` = 114518; -- locales_gameobject - name : entry=6908
-UPDATE `trans_words` SET `content_loc2`='Cat Figurine Trap' WHERE `word_id` = 117014; -- locales_gameobject - name : entry=12653
 UPDATE `trans_words` SET `content_loc2`='Graveyard Banner' WHERE `word_id` = 114539; -- locales_gameobject - name : entry=13756
 UPDATE `trans_words` SET `content_loc2`='Target' WHERE `word_id` = 114541; -- locales_gameobject - name : entry=13952
 UPDATE `trans_words` SET `content_loc2`='The Lay of Ameth\'Aran' WHERE `word_id` = 24268; -- locales_gameobject - name : entry=17188
@@ -45,9 +40,6 @@ UPDATE `trans_words` SET `content_loc2`='Stand up Torch' WHERE `word_id` = 11455
 UPDATE `trans_words` SET `content_loc2`='Stand up Torch' WHERE `word_id` = 114559; -- locales_gameobject - name : entry=18060
 UPDATE `trans_words` SET `content_loc2`='Stand up Torch' WHERE `word_id` = 114559; -- locales_gameobject - name : entry=18061
 UPDATE `trans_words` SET `content_loc2`='Stand up Torch' WHERE `word_id` = 114559; -- locales_gameobject - name : entry=18062
-UPDATE `trans_words` SET `content_loc2`='Chapel' WHERE `word_id` = 117038; -- locales_gameobject - name : entry=19001
-UPDATE `trans_words` SET `content_loc2`='Barn' WHERE `word_id` = 117039; -- locales_gameobject - name : entry=19002
-UPDATE `trans_words` SET `content_loc2`='Barracks' WHERE `word_id` = 117040; -- locales_gameobject - name : entry=19003
 UPDATE `trans_words` SET `content_loc2`='House' WHERE `word_id` = 117041; -- locales_gameobject - name : entry=19006
 UPDATE `trans_words` SET `content_loc2`='Townhall without Wall' WHERE `word_id` = 117046; -- locales_gameobject - name : entry=19012
 UPDATE `trans_words` SET `content_loc2`='Hut' WHERE `word_id` = 117047; -- locales_gameobject - name : entry=19013
@@ -60,7 +52,6 @@ UPDATE `trans_words` SET `content_loc2`='Wall Piece 3' WHERE `word_id` = 117052;
 UPDATE `trans_words` SET `content_loc2`='Wall Piece with Stairs' WHERE `word_id` = 117053; -- locales_gameobject - name : entry=19034
 UPDATE `trans_words` SET `content_loc2`='WallPost' WHERE `word_id` = 117054; -- locales_gameobject - name : entry=19035
 UPDATE `trans_words` SET `content_loc2`='WallPost' WHERE `word_id` = 117054; -- locales_gameobject - name : entry=19036
-UPDATE `trans_words` SET `content_loc2`='Abbey' WHERE `word_id` = 117055; -- locales_gameobject - name : entry=19039
 UPDATE `trans_words` SET `content_loc2`='Oil Plataform' WHERE `word_id` = 117056; -- locales_gameobject - name : entry=19040
 UPDATE `trans_words` SET `content_loc2`='Prison Headquarters' WHERE `word_id` = 117057; -- locales_gameobject - name : entry=19041
 UPDATE `trans_words` SET `content_loc2`='Prison House' WHERE `word_id` = 117058; -- locales_gameobject - name : entry=19042
@@ -73,44 +64,16 @@ UPDATE `trans_words` SET `content_loc2`='Human PvP Barracks City' WHERE `word_id
 UPDATE `trans_words` SET `content_loc2`='Duskwood World Tree' WHERE `word_id` = 117065; -- locales_gameobject - name : entry=19051
 UPDATE `trans_words` SET `content_loc2`='Troll Ziggurat' WHERE `word_id` = 117066; -- locales_gameobject - name : entry=19052
 UPDATE `trans_words` SET `content_loc2`='Zul\'Gurub Piece' WHERE `word_id` = 117067; -- locales_gameobject - name : entry=19053
-UPDATE `trans_words` SET `content_loc2`='Aliancce Shrine' WHERE `word_id` = 117068; -- locales_gameobject - name : entry=19054
-UPDATE `trans_words` SET `content_loc2`='Abbey Gate' WHERE `word_id` = 117069; -- locales_gameobject - name : entry=19055
-UPDATE `trans_words` SET `content_loc2`='Bridge 2' WHERE `word_id` = 117070; -- locales_gameobject - name : entry=19056
-UPDATE `trans_words` SET `content_loc2`='Bridge' WHERE `word_id` = 117071; -- locales_gameobject - name : entry=19057
-UPDATE `trans_words` SET `content_loc2`='Bridge 3' WHERE `word_id` = 117072; -- locales_gameobject - name : entry=19058
 UPDATE `trans_words` SET `content_loc2`='Stormwind Valley of Heroes Bridge' WHERE `word_id` = 117073; -- locales_gameobject - name : entry=19059
 UPDATE `trans_words` SET `content_loc2`='Stormwind Valley of Heroes Gate' WHERE `word_id` = 117074; -- locales_gameobject - name : entry=19060
 UPDATE `trans_words` SET `content_loc2`='Horde Shrine' WHERE `word_id` = 117075; -- locales_gameobject - name : entry=19061
 UPDATE `trans_words` SET `content_loc2`='Ironfoot Bridge' WHERE `word_id` = 117076; -- locales_gameobject - name : entry=19062
-UPDATE `trans_words` SET `content_loc2`='Bridge 2' WHERE `word_id` = 117070; -- locales_gameobject - name : entry=19063
-UPDATE `trans_words` SET `content_loc2`='Bamboo House' WHERE `word_id` = 117077; -- locales_gameobject - name : entry=19064
 UPDATE `trans_words` SET `content_loc2`='Stranglethorn Arena' WHERE `word_id` = 117078; -- locales_gameobject - name : entry=19065
-UPDATE `trans_words` SET `content_loc2`='Blackrock' WHERE `word_id` = 117079; -- locales_gameobject - name : entry=19066
-UPDATE `trans_words` SET `content_loc2`='Blackrock Lower Guild' WHERE `word_id` = 117080; -- locales_gameobject - name : entry=19067
-UPDATE `trans_words` SET `content_loc2`='Blackrock Lower Instance' WHERE `word_id` = 117081; -- locales_gameobject - name : entry=19068
-UPDATE `trans_words` SET `content_loc2`='Blackrock Upper Guild' WHERE `word_id` = 117082; -- locales_gameobject - name : entry=19069
-UPDATE `trans_words` SET `content_loc2`='Blackrock Upper Instance' WHERE `word_id` = 117083; -- locales_gameobject - name : entry=19070
 UPDATE `trans_words` SET `content_loc2`='Nefarian\'s Balcony' WHERE `word_id` = 117084; -- locales_gameobject - name : entry=19071
-UPDATE `trans_words` SET `content_loc2`='Deadmines Part 1' WHERE `word_id` = 117085; -- locales_gameobject - name : entry=19072
-UPDATE `trans_words` SET `content_loc2`='Deadmines Part 2' WHERE `word_id` = 117086; -- locales_gameobject - name : entry=19073
-UPDATE `trans_words` SET `content_loc2`='Deadmines Part 3' WHERE `word_id` = 117087; -- locales_gameobject - name : entry=19074
-UPDATE `trans_words` SET `content_loc2`='Deadmines Part 4' WHERE `word_id` = 117088; -- locales_gameobject - name : entry=19075
 UPDATE `trans_words` SET `content_loc2`='Karazhan Future Tower Instance' WHERE `word_id` = 117089; -- locales_gameobject - name : entry=19076
 UPDATE `trans_words` SET `content_loc2`='Kharazan Actual Tower (no instance)' WHERE `word_id` = 117090; -- locales_gameobject - name : entry=19077
 UPDATE `trans_words` SET `content_loc2`='The Stockades' WHERE `word_id` = 117091; -- locales_gameobject - name : entry=19078
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Entrance' WHERE `word_id` = 117095; -- locales_gameobject - name : entry=19082
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Arm 1' WHERE `word_id` = 117096; -- locales_gameobject - name : entry=19083
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Arm 2' WHERE `word_id` = 117097; -- locales_gameobject - name : entry=19084
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Arm 3' WHERE `word_id` = 117098; -- locales_gameobject - name : entry=19085
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Quiraj' WHERE `word_id` = 117099; -- locales_gameobject - name : entry=19086
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Quiraj Entrance' WHERE `word_id` = 117100; -- locales_gameobject - name : entry=19087
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Quiraj Door' WHERE `word_id` = 117101; -- locales_gameobject - name : entry=19088
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Quiraj Border of Door' WHERE `word_id` = 117102; -- locales_gameobject - name : entry=19089
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Quiraj Walls' WHERE `word_id` = 117103; -- locales_gameobject - name : entry=19090
-UPDATE `trans_words` SET `content_loc2`='Blackfathom Instance' WHERE `word_id` = 117105; -- locales_gameobject - name : entry=19092
 UPDATE `trans_words` SET `content_loc2`='Old Blackfathom Facade' WHERE `word_id` = 117106; -- locales_gameobject - name : entry=19093
-UPDATE `trans_words` SET `content_loc2`='Dire Maul Back Entrance' WHERE `word_id` = 117107; -- locales_gameobject - name : entry=19095
-UPDATE `trans_words` SET `content_loc2`='Dire Maul Instance' WHERE `word_id` = 117108; -- locales_gameobject - name : entry=19096
 UPDATE `trans_words` SET `content_loc2`='Maraudon Intance' WHERE `word_id` = 117110; -- locales_gameobject - name : entry=19098
 UPDATE `trans_words` SET `content_loc2`='Onyxia\'s Lair Piece' WHERE `word_id` = 117112; -- locales_gameobject - name : entry=19100
 UPDATE `trans_words` SET `content_loc2`='Razorfen Downs Intance' WHERE `word_id` = 117115; -- locales_gameobject - name : entry=19104
@@ -136,14 +99,6 @@ UPDATE `trans_words` SET `content_loc2`='Stratholme Part' WHERE `word_id` = 1171
 UPDATE `trans_words` SET `content_loc2`='Stratholme Part 2' WHERE `word_id` = 117137; -- locales_gameobject - name : entry=19127
 UPDATE `trans_words` SET `content_loc2`='Stratholme Part 3' WHERE `word_id` = 117138; -- locales_gameobject - name : entry=19128
 UPDATE `trans_words` SET `content_loc2`='Stratholme Part 4' WHERE `word_id` = 117139; -- locales_gameobject - name : entry=19129
-UPDATE `trans_words` SET `content_loc2`='Animal Den' WHERE `word_id` = 117141; -- locales_gameobject - name : entry=19131
-UPDATE `trans_words` SET `content_loc2`='Anvilmar Pass' WHERE `word_id` = 117142; -- locales_gameobject - name : entry=19132
-UPDATE `trans_words` SET `content_loc2`='Barrow Dens' WHERE `word_id` = 117143; -- locales_gameobject - name : entry=19133
-UPDATE `trans_words` SET `content_loc2`='Corrupted Barrow Dens' WHERE `word_id` = 117144; -- locales_gameobject - name : entry=19134
-UPDATE `trans_words` SET `content_loc2`='Barrow Dens 2' WHERE `word_id` = 117145; -- locales_gameobject - name : entry=19135
-UPDATE `trans_words` SET `content_loc2`='Barrow Dens 3' WHERE `word_id` = 117146; -- locales_gameobject - name : entry=19136
-UPDATE `trans_words` SET `content_loc2`='Barrow Dens 4' WHERE `word_id` = 117147; -- locales_gameobject - name : entry=19137
-UPDATE `trans_words` SET `content_loc2`='Corrupted Barrow Dens 2' WHERE `word_id` = 117148; -- locales_gameobject - name : entry=19138
 UPDATE `trans_words` SET `content_loc2`='Ice Den' WHERE `word_id` = 117149; -- locales_gameobject - name : entry=19139
 UPDATE `trans_words` SET `content_loc2`='Jungle Den' WHERE `word_id` = 117150; -- locales_gameobject - name : entry=19140
 UPDATE `trans_words` SET `content_loc2`='Mushroom Den' WHERE `word_id` = 117151; -- locales_gameobject - name : entry=19141
@@ -155,14 +110,6 @@ UPDATE `trans_words` SET `content_loc2`='Tunnel Cave to Cave' WHERE `word_id` = 
 UPDATE `trans_words` SET `content_loc2`='Tunnel Cave to Cave (Ice)' WHERE `word_id` = 117157; -- locales_gameobject - name : entry=19147
 UPDATE `trans_words` SET `content_loc2`='Tunnel Cave to Cave Large' WHERE `word_id` = 117158; -- locales_gameobject - name : entry=19148
 UPDATE `trans_words` SET `content_loc2`='Tunnel Cave to Cave (Warm)' WHERE `word_id` = 117159; -- locales_gameobject - name : entry=19149
-UPDATE `trans_words` SET `content_loc2`='Alterac Valley Entrance' WHERE `word_id` = 117160; -- locales_gameobject - name : entry=19150
-UPDATE `trans_words` SET `content_loc2`='Alterac Valley Entrance (Snow)' WHERE `word_id` = 117161; -- locales_gameobject - name : entry=19151
-UPDATE `trans_words` SET `content_loc2`='Crypt 2' WHERE `word_id` = 117163; -- locales_gameobject - name : entry=19153
-UPDATE `trans_words` SET `content_loc2`='Crypt 3' WHERE `word_id` = 117164; -- locales_gameobject - name : entry=19154
-UPDATE `trans_words` SET `content_loc2`='Crypt 4' WHERE `word_id` = 117165; -- locales_gameobject - name : entry=19155
-UPDATE `trans_words` SET `content_loc2`='Crypt 5 (Undead Starting Crypt)' WHERE `word_id` = 117166; -- locales_gameobject - name : entry=19156
-UPDATE `trans_words` SET `content_loc2`='Crypt School' WHERE `word_id` = 117167; -- locales_gameobject - name : entry=19157
-UPDATE `trans_words` SET `content_loc2`='Crypt Simple Entrance' WHERE `word_id` = 117168; -- locales_gameobject - name : entry=19158
 UPDATE `trans_words` SET `content_loc2`='Large Tunnel' WHERE `word_id` = 117169; -- locales_gameobject - name : entry=19159
 UPDATE `trans_words` SET `content_loc2`='Medium Tunnel' WHERE `word_id` = 117170; -- locales_gameobject - name : entry=19160
 UPDATE `trans_words` SET `content_loc2`='Medium Tunnel (Snow)' WHERE `word_id` = 117171; -- locales_gameobject - name : entry=19161
@@ -237,7 +184,6 @@ UPDATE `trans_words` SET `content_loc2`='Pirate Ship' WHERE `word_id` = 117240; 
 UPDATE `trans_words` SET `content_loc2`='Pirate Ship 2' WHERE `word_id` = 117241; -- locales_gameobject - name : entry=19231
 UPDATE `trans_words` SET `content_loc2`='Ruined Fortress' WHERE `word_id` = 117242; -- locales_gameobject - name : entry=19232
 UPDATE `trans_words` SET `content_loc2`='Ruined Keep' WHERE `word_id` = 117243; -- locales_gameobject - name : entry=19233
-UPDATE `trans_words` SET `content_loc2`='Crypt Intance' WHERE `word_id` = 117244; -- locales_gameobject - name : entry=19234
 UPDATE `trans_words` SET `content_loc2`='Spidermane' WHERE `word_id` = 117245; -- locales_gameobject - name : entry=19235
 UPDATE `trans_words` SET `content_loc2`='Furbolg Cave' WHERE `word_id` = 117246; -- locales_gameobject - name : entry=19236
 UPDATE `trans_words` SET `content_loc2`='Scarley Monastery' WHERE `word_id` = 117247; -- locales_gameobject - name : entry=19238
@@ -248,41 +194,24 @@ UPDATE `trans_words` SET `content_loc2`='Igloo' WHERE `word_id` = 117251; -- loc
 UPDATE `trans_words` SET `content_loc2`='Igloo 2' WHERE `word_id` = 117252; -- locales_gameobject - name : entry=19244
 UPDATE `trans_words` SET `content_loc2`='Igloo 3' WHERE `word_id` = 117253; -- locales_gameobject - name : entry=19245
 UPDATE `trans_words` SET `content_loc2`='Igloo 4' WHERE `word_id` = 117254; -- locales_gameobject - name : entry=19246
-UPDATE `trans_words` SET `content_loc2`='Desert Building' WHERE `word_id` = 117255; -- locales_gameobject - name : entry=19247
-UPDATE `trans_words` SET `content_loc2`='Desert Building 2' WHERE `word_id` = 117256; -- locales_gameobject - name : entry=19248
-UPDATE `trans_words` SET `content_loc2`='Desert Building 3' WHERE `word_id` = 117257; -- locales_gameobject - name : entry=19249
-UPDATE `trans_words` SET `content_loc2`='Desert Building 4' WHERE `word_id` = 117258; -- locales_gameobject - name : entry=19250
 UPDATE `trans_words` SET `content_loc2`='Laboratory' WHERE `word_id` = 117259; -- locales_gameobject - name : entry=19251
 UPDATE `trans_words` SET `content_loc2`='Naga Pagoda' WHERE `word_id` = 117260; -- locales_gameobject - name : entry=19252
 UPDATE `trans_words` SET `content_loc2`='House' WHERE `word_id` = 117041; -- locales_gameobject - name : entry=19253
-UPDATE `trans_words` SET `content_loc2`='Abbey' WHERE `word_id` = 117055; -- locales_gameobject - name : entry=19254
 UPDATE `trans_words` SET `content_loc2`='Druid Tower' WHERE `word_id` = 117261; -- locales_gameobject - name : entry=19255
 UPDATE `trans_words` SET `content_loc2`='Guard Tower' WHERE `word_id` = 114649; -- locales_gameobject - name : entry=19256
 UPDATE `trans_words` SET `content_loc2`='Giant Moonwell' WHERE `word_id` = 117262; -- locales_gameobject - name : entry=19259
 UPDATE `trans_words` SET `content_loc2`='Outpost' WHERE `word_id` = 117263; -- locales_gameobject - name : entry=19261
 UPDATE `trans_words` SET `content_loc2`='Small House' WHERE `word_id` = 117264; -- locales_gameobject - name : entry=19262
-UPDATE `trans_words` SET `content_loc2`='Blackrock Barracks' WHERE `word_id` = 117265; -- locales_gameobject - name : entry=19264
-UPDATE `trans_words` SET `content_loc2`='Barracks' WHERE `word_id` = 117040; -- locales_gameobject - name : entry=19265
-UPDATE `trans_words` SET `content_loc2`='Barracks (Swamp of Sorrows)' WHERE `word_id` = 117266; -- locales_gameobject - name : entry=19266
-UPDATE `trans_words` SET `content_loc2`='Blackrock Blacksmith' WHERE `word_id` = 117267; -- locales_gameobject - name : entry=19267
-UPDATE `trans_words` SET `content_loc2`='Blacksmith (Swamp of Sorrows)' WHERE `word_id` = 117268; -- locales_gameobject - name : entry=19269
-UPDATE `trans_words` SET `content_loc2`='Blackrock Fortress' WHERE `word_id` = 117269; -- locales_gameobject - name : entry=19270
 UPDATE `trans_words` SET `content_loc2`='Fortress' WHERE `word_id` = 117270; -- locales_gameobject - name : entry=19271
 UPDATE `trans_words` SET `content_loc2`='Fortress (Swamp of Sorrows)' WHERE `word_id` = 117271; -- locales_gameobject - name : entry=19272
-UPDATE `trans_words` SET `content_loc2`='Blackrock Great Hall' WHERE `word_id` = 117272; -- locales_gameobject - name : entry=19273
 UPDATE `trans_words` SET `content_loc2`='Great Hall' WHERE `word_id` = 117273; -- locales_gameobject - name : entry=19274
 UPDATE `trans_words` SET `content_loc2`='Great Hall (Swamp of Sorrows)' WHERE `word_id` = 117274; -- locales_gameobject - name : entry=19275
-UPDATE `trans_words` SET `content_loc2`='Blackrock Hut' WHERE `word_id` = 117275; -- locales_gameobject - name : entry=19276
 UPDATE `trans_words` SET `content_loc2`='Hut' WHERE `word_id` = 117047; -- locales_gameobject - name : entry=19277
-UPDATE `trans_words` SET `content_loc2`='Blackrock Kennel' WHERE `word_id` = 117276; -- locales_gameobject - name : entry=19279
 UPDATE `trans_words` SET `content_loc2`='Kennel' WHERE `word_id` = 117277; -- locales_gameobject - name : entry=19280
 UPDATE `trans_words` SET `content_loc2`='Kennel (Swamp of Sorrows)' WHERE `word_id` = 117278; -- locales_gameobject - name : entry=19281
-UPDATE `trans_words` SET `content_loc2`='Blackrock Mage Tower' WHERE `word_id` = 117279; -- locales_gameobject - name : entry=19282
-UPDATE `trans_words` SET `content_loc2`='Blackrock House' WHERE `word_id` = 117280; -- locales_gameobject - name : entry=19285
 UPDATE `trans_words` SET `content_loc2`='House' WHERE `word_id` = 117041; -- locales_gameobject - name : entry=19286
 UPDATE `trans_words` SET `content_loc2`='House (Swamp of Sorrows)' WHERE `word_id` = 117281; -- locales_gameobject - name : entry=19287
 UPDATE `trans_words` SET `content_loc2`='Tower (Swamp of Sorrows)' WHERE `word_id` = 117283; -- locales_gameobject - name : entry=19290
-UPDATE `trans_words` SET `content_loc2`='Blackrock Tower Small' WHERE `word_id` = 117284; -- locales_gameobject - name : entry=19291
 UPDATE `trans_words` SET `content_loc2`='House Tower Small' WHERE `word_id` = 117285; -- locales_gameobject - name : entry=19292
 UPDATE `trans_words` SET `content_loc2`='Zeppelin House' WHERE `word_id` = 117286; -- locales_gameobject - name : entry=19293
 UPDATE `trans_words` SET `content_loc2`='Druid Tent' WHERE `word_id` = 117287; -- locales_gameobject - name : entry=19294
@@ -293,7 +222,6 @@ UPDATE `trans_words` SET `content_loc2`='Hut 2' WHERE `word_id` = 117048; -- loc
 UPDATE `trans_words` SET `content_loc2`='Tepee' WHERE `word_id` = 117290; -- locales_gameobject - name : entry=19299
 UPDATE `trans_words` SET `content_loc2`='Longhouse' WHERE `word_id` = 117291; -- locales_gameobject - name : entry=19301
 UPDATE `trans_words` SET `content_loc2`='Shaman Tent' WHERE `word_id` = 117292; -- locales_gameobject - name : entry=19302
-UPDATE `trans_words` SET `content_loc2`='Blackrock Troll Burrow' WHERE `word_id` = 117293; -- locales_gameobject - name : entry=19303
 UPDATE `trans_words` SET `content_loc2`='Troll Burrow (Swamp of Sorrows)' WHERE `word_id` = 117294; -- locales_gameobject - name : entry=19304
 UPDATE `trans_words` SET `content_loc2`='Troll Burrow' WHERE `word_id` = 117295; -- locales_gameobject - name : entry=19305
 UPDATE `trans_words` SET `content_loc2`='Troll Hotel' WHERE `word_id` = 117296; -- locales_gameobject - name : entry=19306
@@ -302,12 +230,8 @@ UPDATE `trans_words` SET `content_loc2`='Troll Shopping Mall' WHERE `word_id` = 
 UPDATE `trans_words` SET `content_loc2`='Troll Hut Desert' WHERE `word_id` = 117299; -- locales_gameobject - name : entry=19309
 UPDATE `trans_words` SET `content_loc2`='Troll Hut' WHERE `word_id` = 117300; -- locales_gameobject - name : entry=19311
 UPDATE `trans_words` SET `content_loc2`='Troll Hut Small' WHERE `word_id` = 117301; -- locales_gameobject - name : entry=19312
-UPDATE `trans_words` SET `content_loc2`='Bridge' WHERE `word_id` = 117071; -- locales_gameobject - name : entry=19313
 UPDATE `trans_words` SET `content_loc2`='Durotar Rooted Rock' WHERE `word_id` = 117302; -- locales_gameobject - name : entry=19314
 UPDATE `trans_words` SET `content_loc2`='Theramore Docks' WHERE `word_id` = 117303; -- locales_gameobject - name : entry=19316
-UPDATE `trans_words` SET `content_loc2`='Bridge' WHERE `word_id` = 117071; -- locales_gameobject - name : entry=19317
-UPDATE `trans_words` SET `content_loc2`='Bridge' WHERE `word_id` = 117071; -- locales_gameobject - name : entry=19318
-UPDATE `trans_words` SET `content_loc2`='Bridge' WHERE `word_id` = 117071; -- locales_gameobject - name : entry=19320
 UPDATE `trans_words` SET `content_loc2`='Monster Machine' WHERE `word_id` = 117305; -- locales_gameobject - name : entry=19322
 UPDATE `trans_words` SET `content_loc2`='Wheel Plataform' WHERE `word_id` = 117306; -- locales_gameobject - name : entry=19323
 UPDATE `trans_words` SET `content_loc2`='Everlook Walls' WHERE `word_id` = 117307; -- locales_gameobject - name : entry=19325
@@ -338,9 +262,6 @@ UPDATE `trans_words` SET `content_loc2`='Upper Mesa 5' WHERE `word_id` = 117330;
 UPDATE `trans_words` SET `content_loc2`='Warrior Mesa' WHERE `word_id` = 117331; -- locales_gameobject - name : entry=19351
 UPDATE `trans_words` SET `content_loc2`='Warrior Mesa 1' WHERE `word_id` = 117332; -- locales_gameobject - name : entry=19352
 UPDATE `trans_words` SET `content_loc2`='Winterspring Cave' WHERE `word_id` = 117333; -- locales_gameobject - name : entry=19353
-UPDATE `trans_words` SET `content_loc2`='Barracks (snow)' WHERE `word_id` = 117334; -- locales_gameobject - name : entry=19355
-UPDATE `trans_words` SET `content_loc2`='Barracks' WHERE `word_id` = 117040; -- locales_gameobject - name : entry=19356
-UPDATE `trans_words` SET `content_loc2`='Blacksmith (snow)' WHERE `word_id` = 117335; -- locales_gameobject - name : entry=19357
 UPDATE `trans_words` SET `content_loc2`='Griffon Aviary' WHERE `word_id` = 117336; -- locales_gameobject - name : entry=19359
 UPDATE `trans_words` SET `content_loc2`='Guard Tower' WHERE `word_id` = 114649; -- locales_gameobject - name : entry=19360
 UPDATE `trans_words` SET `content_loc2`='Inn (snow)' WHERE `word_id` = 117337; -- locales_gameobject - name : entry=19361
@@ -348,12 +269,9 @@ UPDATE `trans_words` SET `content_loc2`='Stable (snow)' WHERE `word_id` = 117338
 UPDATE `trans_words` SET `content_loc2`='Tower (snow)' WHERE `word_id` = 117339; -- locales_gameobject - name : entry=19364
 UPDATE `trans_words` SET `content_loc2`='Tavern (snow)' WHERE `word_id` = 117340; -- locales_gameobject - name : entry=19366
 UPDATE `trans_words` SET `content_loc2`='Tavern' WHERE `word_id` = 117341; -- locales_gameobject - name : entry=19367
-UPDATE `trans_words` SET `content_loc2`='Dark Iron Tower' WHERE `word_id` = 117342; -- locales_gameobject - name : entry=19368
 UPDATE `trans_words` SET `content_loc2`='Gates of Grim Batol' WHERE `word_id` = 117343; -- locales_gameobject - name : entry=19369
-UPDATE `trans_words` SET `content_loc2`='Dam' WHERE `word_id` = 117344; -- locales_gameobject - name : entry=19371
 UPDATE `trans_words` SET `content_loc2`='Excavation Plataform' WHERE `word_id` = 117345; -- locales_gameobject - name : entry=19372
 UPDATE `trans_words` SET `content_loc2`='Netherguard Walls' WHERE `word_id` = 117346; -- locales_gameobject - name : entry=19374
-UPDATE `trans_words` SET `content_loc2`='Cathedral' WHERE `word_id` = 117347; -- locales_gameobject - name : entry=19375
 UPDATE `trans_words` SET `content_loc2`='Slaughter House' WHERE `word_id` = 117348; -- locales_gameobject - name : entry=19376
 UPDATE `trans_words` SET `content_loc2`='Ziggurat' WHERE `word_id` = 117349; -- locales_gameobject - name : entry=19377
 UPDATE `trans_words` SET `content_loc2`='Tower Zeppelin' WHERE `word_id` = 117350; -- locales_gameobject - name : entry=19378
@@ -366,20 +284,11 @@ UPDATE `trans_words` SET `content_loc2`='Warcraft 2 Dark Portal' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='Draenei Hut' WHERE `word_id` = 117358; -- locales_gameobject - name : entry=19387
 UPDATE `trans_words` SET `content_loc2`='Draenei Tower' WHERE `word_id` = 117359; -- locales_gameobject - name : entry=19388
 UPDATE `trans_words` SET `content_loc2`='Draenei Hut 2' WHERE `word_id` = 117360; -- locales_gameobject - name : entry=19389
-UPDATE `trans_words` SET `content_loc2`='Black Citadel' WHERE `word_id` = 117361; -- locales_gameobject - name : entry=19391
 UPDATE `trans_words` SET `content_loc2`='PvP Wall' WHERE `word_id` = 117310; -- locales_gameobject - name : entry=19392
 UPDATE `trans_words` SET `content_loc2`='PvP Wall 2' WHERE `word_id` = 117362; -- locales_gameobject - name : entry=19393
 UPDATE `trans_words` SET `content_loc2`='PvP Wall 3' WHERE `word_id` = 117363; -- locales_gameobject - name : entry=19394
 UPDATE `trans_words` SET `content_loc2`='Spike Wall' WHERE `word_id` = 117364; -- locales_gameobject - name : entry=19395
-UPDATE `trans_words` SET `content_loc2`='Booty Bay Entrance' WHERE `word_id` = 117365; -- locales_gameobject - name : entry=19396
 UPDATE `trans_words` SET `content_loc2`='Goblin Statue' WHERE `word_id` = 117366; -- locales_gameobject - name : entry=19397
-UPDATE `trans_words` SET `content_loc2`='Burnt People' WHERE `word_id` = 117367; -- locales_gameobject - name : entry=19398
-UPDATE `trans_words` SET `content_loc2`='Burnt People 2' WHERE `word_id` = 117368; -- locales_gameobject - name : entry=19399
-UPDATE `trans_words` SET `content_loc2`='Burnt People 3' WHERE `word_id` = 117369; -- locales_gameobject - name : entry=19400
-UPDATE `trans_words` SET `content_loc2`='Burnt People 4' WHERE `word_id` = 117370; -- locales_gameobject - name : entry=19401
-UPDATE `trans_words` SET `content_loc2`='Burnt People 5' WHERE `word_id` = 117371; -- locales_gameobject - name : entry=19402
-UPDATE `trans_words` SET `content_loc2`='Bridge 4' WHERE `word_id` = 117372; -- locales_gameobject - name : entry=19403
-UPDATE `trans_words` SET `content_loc2`='Burnt Giant Wheel' WHERE `word_id` = 117373; -- locales_gameobject - name : entry=19404
 UPDATE `trans_words` SET `content_loc2`='Lava Altar' WHERE `word_id` = 117374; -- locales_gameobject - name : entry=19405
 UPDATE `trans_words` SET `content_loc2`='Lava Bridge' WHERE `word_id` = 117375; -- locales_gameobject - name : entry=19406
 UPDATE `trans_words` SET `content_loc2`='Lava Plug' WHERE `word_id` = 117376; -- locales_gameobject - name : entry=19407
@@ -395,23 +304,15 @@ UPDATE `trans_words` SET `content_loc2`='Rock Arch 2' WHERE `word_id` = 117385; 
 UPDATE `trans_words` SET `content_loc2`='Rock Arch 3' WHERE `word_id` = 117386; -- locales_gameobject - name : entry=19418
 UPDATE `trans_words` SET `content_loc2`='Wagon' WHERE `word_id` = 117387; -- locales_gameobject - name : entry=19419
 UPDATE `trans_words` SET `content_loc2`='Ogremound 9' WHERE `word_id` = 117388; -- locales_gameobject - name : entry=19420
-UPDATE `trans_words` SET `content_loc2`='Covered Bridge' WHERE `word_id` = 117389; -- locales_gameobject - name : entry=19421
-UPDATE `trans_words` SET `content_loc2`='Darkshire Entrance' WHERE `word_id` = 117390; -- locales_gameobject - name : entry=19422
 UPDATE `trans_words` SET `content_loc2`='Guard Tower' WHERE `word_id` = 114649; -- locales_gameobject - name : entry=19423
-UPDATE `trans_words` SET `content_loc2`='Chasm Bridge' WHERE `word_id` = 117391; -- locales_gameobject - name : entry=19424
 UPDATE `trans_words` SET `content_loc2`='Coffin' WHERE `word_id` = 117392; -- locales_gameobject - name : entry=19425
-UPDATE `trans_words` SET `content_loc2`='Coffin Lid' WHERE `word_id` = 117393; -- locales_gameobject - name : entry=19426
-UPDATE `trans_words` SET `content_loc2`='Darkshire Entrance' WHERE `word_id` = 117390; -- locales_gameobject - name : entry=19427
-UPDATE `trans_words` SET `content_loc2`='Barn' WHERE `word_id` = 117039; -- locales_gameobject - name : entry=19428
 UPDATE `trans_words` SET `content_loc2`='Hay Stack' WHERE `word_id` = 117394; -- locales_gameobject - name : entry=19429
 UPDATE `trans_words` SET `content_loc2`='Hay Wagon' WHERE `word_id` = 117395; -- locales_gameobject - name : entry=19430
 UPDATE `trans_words` SET `content_loc2`='Hearse' WHERE `word_id` = 117396; -- locales_gameobject - name : entry=19431
 UPDATE `trans_words` SET `content_loc2`='Scarecrow' WHERE `word_id` = 117397; -- locales_gameobject - name : entry=19432
 UPDATE `trans_words` SET `content_loc2`='Wheat' WHERE `word_id` = 117398; -- locales_gameobject - name : entry=19433
 UPDATE `trans_words` SET `content_loc2`='Fence Segment' WHERE `word_id` = 117399; -- locales_gameobject - name : entry=19434
-UPDATE `trans_words` SET `content_loc2`='Cementery Gate' WHERE `word_id` = 117400; -- locales_gameobject - name : entry=19436
 UPDATE `trans_words` SET `content_loc2`='Grave Frame' WHERE `word_id` = 117401; -- locales_gameobject - name : entry=19437
-UPDATE `trans_words` SET `content_loc2`='Cementery Gate 2' WHERE `word_id` = 117402; -- locales_gameobject - name : entry=19438
 UPDATE `trans_words` SET `content_loc2`='Gate Segment' WHERE `word_id` = 117403; -- locales_gameobject - name : entry=19439
 UPDATE `trans_words` SET `content_loc2`='Mausoleum' WHERE `word_id` = 117404; -- locales_gameobject - name : entry=19440
 UPDATE `trans_words` SET `content_loc2`='Tomb Stone 1' WHERE `word_id` = 117405; -- locales_gameobject - name : entry=19442
@@ -419,7 +320,6 @@ UPDATE `trans_words` SET `content_loc2`='Tomb Monument' WHERE `word_id` = 117406
 UPDATE `trans_words` SET `content_loc2`='Rock Wall' WHERE `word_id` = 117407; -- locales_gameobject - name : entry=19444
 UPDATE `trans_words` SET `content_loc2`='Warning Tree' WHERE `word_id` = 117408; -- locales_gameobject - name : entry=19445
 UPDATE `trans_words` SET `content_loc2`='Portal Gate' WHERE `word_id` = 117409; -- locales_gameobject - name : entry=19446
-UPDATE `trans_words` SET `content_loc2`='Distillery' WHERE `word_id` = 117410; -- locales_gameobject - name : entry=19448
 UPDATE `trans_words` SET `content_loc2`='Guard Tower 2' WHERE `word_id` = 117411; -- locales_gameobject - name : entry=19449
 UPDATE `trans_words` SET `content_loc2`='Watch Tower' WHERE `word_id` = 117412; -- locales_gameobject - name : entry=19450
 UPDATE `trans_words` SET `content_loc2`='Stormwind Gate Old' WHERE `word_id` = 117413; -- locales_gameobject - name : entry=19451
@@ -445,8 +345,6 @@ UPDATE `trans_words` SET `content_loc2`='Karazahn Sconce 7' WHERE `word_id` = 11
 UPDATE `trans_words` SET `content_loc2`='Karazahn Starlab' WHERE `word_id` = 117434; -- locales_gameobject - name : entry=19476
 UPDATE `trans_words` SET `content_loc2`='Karazahn Table' WHERE `word_id` = 117435; -- locales_gameobject - name : entry=19477
 UPDATE `trans_words` SET `content_loc2`='Karazahn Throne' WHERE `word_id` = 117436; -- locales_gameobject - name : entry=19478
-UPDATE `trans_words` SET `content_loc2`='Dock' WHERE `word_id` = 117437; -- locales_gameobject - name : entry=19479
-UPDATE `trans_words` SET `content_loc2`='Dock 2' WHERE `word_id` = 117438; -- locales_gameobject - name : entry=19480
 UPDATE `trans_words` SET `content_loc2`='Small Boat' WHERE `word_id` = 117439; -- locales_gameobject - name : entry=19481
 UPDATE `trans_words` SET `content_loc2`='Troll Watch Tower' WHERE `word_id` = 117440; -- locales_gameobject - name : entry=19482
 UPDATE `trans_words` SET `content_loc2`='Holy Spring Well' WHERE `word_id` = 117441; -- locales_gameobject - name : entry=19483
@@ -462,12 +360,6 @@ UPDATE `trans_words` SET `content_loc2`='Emerald Dream Fountain Tree 2' WHERE `w
 UPDATE `trans_words` SET `content_loc2`='Emerald Dream Fountain Tree 3' WHERE `word_id` = 117452; -- locales_gameobject - name : entry=19496
 UPDATE `trans_words` SET `content_loc2`='Emerald Dream Fountain Tree 4' WHERE `word_id` = 117453; -- locales_gameobject - name : entry=19497
 UPDATE `trans_words` SET `content_loc2`='Emerald Dream Fountain Tree 5' WHERE `word_id` = 117454; -- locales_gameobject - name : entry=19498
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Door' WHERE `word_id` = 117455; -- locales_gameobject - name : entry=19499
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Portal Particles' WHERE `word_id` = 117456; -- locales_gameobject - name : entry=19500
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Standing Stone' WHERE `word_id` = 117457; -- locales_gameobject - name : entry=19501
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Standing Stone 2' WHERE `word_id` = 117458; -- locales_gameobject - name : entry=19502
-UPDATE `trans_words` SET `content_loc2`='Caverns of Time Portal' WHERE `word_id` = 117459; -- locales_gameobject - name : entry=19503
-UPDATE `trans_words` SET `content_loc2`='Bed' WHERE `word_id` = 115307; -- locales_gameobject - name : entry=19504
 UPDATE `trans_words` SET `content_loc2`='Waterfall 3' WHERE `word_id` = 117460; -- locales_gameobject - name : entry=19505
 UPDATE `trans_words` SET `content_loc2`='Mountain King Statue' WHERE `word_id` = 117461; -- locales_gameobject - name : entry=19506
 UPDATE `trans_words` SET `content_loc2`='Fountain' WHERE `word_id` = 117462; -- locales_gameobject - name : entry=19507
@@ -477,15 +369,9 @@ UPDATE `trans_words` SET `content_loc2`='Spearman Statue' WHERE `word_id` = 1174
 UPDATE `trans_words` SET `content_loc2`='Sunshield Statue' WHERE `word_id` = 117466; -- locales_gameobject - name : entry=19511
 UPDATE `trans_words` SET `content_loc2`='Sunshield Statue 2' WHERE `word_id` = 117467; -- locales_gameobject - name : entry=19512
 UPDATE `trans_words` SET `content_loc2`='Twinblades Statue' WHERE `word_id` = 117468; -- locales_gameobject - name : entry=19513
-UPDATE `trans_words` SET `content_loc2`='Captain Statue' WHERE `word_id` = 117469; -- locales_gameobject - name : entry=19514
-UPDATE `trans_words` SET `content_loc2`='Captain Statue 2' WHERE `word_id` = 117470; -- locales_gameobject - name : entry=19515
-UPDATE `trans_words` SET `content_loc2`='Crusader Statue' WHERE `word_id` = 117471; -- locales_gameobject - name : entry=19516
-UPDATE `trans_words` SET `content_loc2`='Crusader Statue 2' WHERE `word_id` = 117472; -- locales_gameobject - name : entry=19517
-UPDATE `trans_words` SET `content_loc2`='Crusader Statue 3' WHERE `word_id` = 117473; -- locales_gameobject - name : entry=19518
 UPDATE `trans_words` SET `content_loc2`='Human Statue' WHERE `word_id` = 117474; -- locales_gameobject - name : entry=19519
 UPDATE `trans_words` SET `content_loc2`='Paladin Statue' WHERE `word_id` = 117475; -- locales_gameobject - name : entry=19520
 UPDATE `trans_words` SET `content_loc2`='Priest Statue' WHERE `word_id` = 117476; -- locales_gameobject - name : entry=19521
-UPDATE `trans_words` SET `content_loc2`='Cracked Ice' WHERE `word_id` = 117477; -- locales_gameobject - name : entry=19523
 UPDATE `trans_words` SET `content_loc2`='Gnomeragan Door' WHERE `word_id` = 117478; -- locales_gameobject - name : entry=19524
 UPDATE `trans_words` SET `content_loc2`='Sunken Temple Portcullis' WHERE `word_id` = 117479; -- locales_gameobject - name : entry=19525
 UPDATE `trans_words` SET `content_loc2`='Uldaman Door' WHERE `word_id` = 117480; -- locales_gameobject - name : entry=19526
@@ -497,7 +383,6 @@ UPDATE `trans_words` SET `content_loc2`='Mage Portal' WHERE `word_id` = 117485; 
 UPDATE `trans_words` SET `content_loc2`='Meeting Stone 2' WHERE `word_id` = 117486; -- locales_gameobject - name : entry=19533
 UPDATE `trans_words` SET `content_loc2`='Gem Rock' WHERE `word_id` = 117487; -- locales_gameobject - name : entry=19537
 UPDATE `trans_words` SET `content_loc2`='Goblin Shredder Suit' WHERE `word_id` = 114603; -- locales_gameobject - name : entry=19582
-UPDATE `trans_words` SET `content_loc2`='Deadmines Door 2' WHERE `word_id` = 117488; -- locales_gameobject - name : entry=19584
 UPDATE `trans_words` SET `content_loc2`='Monestary Secret Door' WHERE `word_id` = 117489; -- locales_gameobject - name : entry=19588
 UPDATE `trans_words` SET `content_loc2`='Portcullis Active' WHERE `word_id` = 117490; -- locales_gameobject - name : entry=19589
 UPDATE `trans_words` SET `content_loc2`='Wrought Iron Door' WHERE `word_id` = 117491; -- locales_gameobject - name : entry=19593
@@ -519,8 +404,6 @@ UPDATE `trans_words` SET `content_loc2`='Shack' WHERE `word_id` = 117508; -- loc
 UPDATE `trans_words` SET `content_loc2`='Shop Counter' WHERE `word_id` = 117509; -- locales_gameobject - name : entry=19624
 UPDATE `trans_words` SET `content_loc2`='Shop Counter 2' WHERE `word_id` = 117510; -- locales_gameobject - name : entry=19625
 UPDATE `trans_words` SET `content_loc2`='Human Sign Post' WHERE `word_id` = 117511; -- locales_gameobject - name : entry=19626
-UPDATE `trans_words` SET `content_loc2`='Alleria Statue' WHERE `word_id` = 117512; -- locales_gameobject - name : entry=19627
-UPDATE `trans_words` SET `content_loc2`='Danath Statue' WHERE `word_id` = 117513; -- locales_gameobject - name : entry=19628
 UPDATE `trans_words` SET `content_loc2`='Khadgar Statue' WHERE `word_id` = 117514; -- locales_gameobject - name : entry=19629
 UPDATE `trans_words` SET `content_loc2`='Kurdran Statue' WHERE `word_id` = 117515; -- locales_gameobject - name : entry=19630
 UPDATE `trans_words` SET `content_loc2`='Lion Statue' WHERE `word_id` = 117420; -- locales_gameobject - name : entry=19631
@@ -532,11 +415,8 @@ UPDATE `trans_words` SET `content_loc2`='Stocks' WHERE `word_id` = 117520; -- lo
 UPDATE `trans_words` SET `content_loc2`='Human Vendor Tent' WHERE `word_id` = 117521; -- locales_gameobject - name : entry=19637
 UPDATE `trans_words` SET `content_loc2`='Great Wall Portcullis' WHERE `word_id` = 117522; -- locales_gameobject - name : entry=19638
 UPDATE `trans_words` SET `content_loc2`='Pick Axe' WHERE `word_id` = 117523; -- locales_gameobject - name : entry=19639
-UPDATE `trans_words` SET `content_loc2`='Crimson Wall Shield' WHERE `word_id` = 117524; -- locales_gameobject - name : entry=19640
 UPDATE `trans_words` SET `content_loc2`='Human Arrow' WHERE `word_id` = 117525; -- locales_gameobject - name : entry=19641
 UPDATE `trans_words` SET `content_loc2`='Human Arrows' WHERE `word_id` = 117526; -- locales_gameobject - name : entry=19642
-UPDATE `trans_words` SET `content_loc2`='Axe 2' WHERE `word_id` = 117528; -- locales_gameobject - name : entry=19644
-UPDATE `trans_words` SET `content_loc2`='Bow 2' WHERE `word_id` = 117530; -- locales_gameobject - name : entry=19646
 UPDATE `trans_words` SET `content_loc2`='Hammer 2' WHERE `word_id` = 117531; -- locales_gameobject - name : entry=19648
 UPDATE `trans_words` SET `content_loc2`='Mace 2' WHERE `word_id` = 117532; -- locales_gameobject - name : entry=19650
 UPDATE `trans_words` SET `content_loc2`='Spear 2' WHERE `word_id` = 117534; -- locales_gameobject - name : entry=19652
@@ -546,11 +426,8 @@ UPDATE `trans_words` SET `content_loc2`='Wall Sword' WHERE `word_id` = 117539; -
 UPDATE `trans_words` SET `content_loc2`='Wooden Stairs' WHERE `word_id` = 117540; -- locales_gameobject - name : entry=19660
 UPDATE `trans_words` SET `content_loc2`='Wooden Stairs 2' WHERE `word_id` = 117541; -- locales_gameobject - name : entry=19661
 UPDATE `trans_words` SET `content_loc2`='Prison Cell' WHERE `word_id` = 117542; -- locales_gameobject - name : entry=19662
-UPDATE `trans_words` SET `content_loc2`='Brass Doors' WHERE `word_id` = 117543; -- locales_gameobject - name : entry=19663
 UPDATE `trans_words` SET `content_loc2`='Night Elf Owl Banner' WHERE `word_id` = 117544; -- locales_gameobject - name : entry=19664
 UPDATE `trans_words` SET `content_loc2`='Night Elf Tree Banner' WHERE `word_id` = 117545; -- locales_gameobject - name : entry=19665
-UPDATE `trans_words` SET `content_loc2`='Circle of Imprisonment' WHERE `word_id` = 114630; -- locales_gameobject - name : entry=19901
-UPDATE `trans_words` SET `content_loc2`='Circle of Imprisonment' WHERE `word_id` = 114630; -- locales_gameobject - name : entry=20352
 UPDATE `trans_words` SET `content_loc2`='Orc Tower' WHERE `word_id` = 114648; -- locales_gameobject - name : entry=20812
 UPDATE `trans_words` SET `content_loc2`='Guard Tower' WHERE `word_id` = 114649; -- locales_gameobject - name : entry=20816
 UPDATE `trans_words` SET `content_loc2`='Night Elf Moon Well' WHERE `word_id` = 114651; -- locales_gameobject - name : entry=20818
@@ -567,7 +444,6 @@ UPDATE `trans_words` SET `content_loc2`='unk' WHERE `word_id` = 114688; -- local
 UPDATE `trans_words` SET `content_loc2`='unk' WHERE `word_id` = 114688; -- locales_gameobject - name : entry=21654
 UPDATE `trans_words` SET `content_loc2`='unk' WHERE `word_id` = 114688; -- locales_gameobject - name : entry=21655
 UPDATE `trans_words` SET `content_loc2`='unk' WHERE `word_id` = 114688; -- locales_gameobject - name : entry=21656
-UPDATE `trans_words` SET `content_loc2`='Desk Chair' WHERE `word_id` = 114697; -- locales_gameobject - name : entry=22256
 UPDATE `trans_words` SET `content_loc2`='Industrial District' WHERE `word_id` = 114713; -- locales_gameobject - name : entry=25334
 UPDATE `trans_words` SET `content_loc2`='Thundershot Guns \'n Ammo' WHERE `word_id` = 114718; -- locales_gameobject - name : entry=26485
 UPDATE `trans_words` SET `content_loc2`='Pithwick\'s Bags and Supplies' WHERE `word_id` = 114724; -- locales_gameobject - name : entry=26491
@@ -578,7 +454,6 @@ UPDATE `trans_words` SET `content_loc2`='IronForge Elevator' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Flinthammer\'s Armorer and Clothier' WHERE `word_id` = 114741; -- locales_gameobject - name : entry=32348
 UPDATE `trans_words` SET `content_loc2`='The Forlorn Caverns' WHERE `word_id` = 114756; -- locales_gameobject - name : entry=32381
 UPDATE `trans_words` SET `content_loc2`='Gnomes' WHERE `word_id` = 114760; -- locales_gameobject - name : entry=32419
-UPDATE `trans_words` SET `content_loc2`='BerryFizz Potions and Mixed Drinks' WHERE `word_id` = 114764; -- locales_gameobject - name : entry=34357
 UPDATE `trans_words` SET `content_loc2`='Fire on ground' WHERE `word_id` = 114820; -- locales_gameobject - name : entry=56809
 UPDATE `trans_words` SET `content_loc2`='Mining & Jewelcrafting' WHERE `word_id` = 120885; -- locales_gameobject - name : entry=58620
 UPDATE `trans_words` SET `content_loc2`='Rail' WHERE `word_id` = 114872; -- locales_gameobject - name : entry=80024
@@ -589,14 +464,11 @@ UPDATE `trans_words` SET `content_loc2`='Gateway to Tempest Keep' WHERE `word_id
 UPDATE `trans_words` SET `content_loc2`='Gateway to Hyjal Summit' WHERE `word_id` = 121014; -- locales_gameobject - name : entry=99104
 UPDATE `trans_words` SET `content_loc2`='Gateway to Black Temple' WHERE `word_id` = 121015; -- locales_gameobject - name : entry=99105
 UPDATE `trans_words` SET `content_loc2`='Gateway to Zul\'Aman' WHERE `word_id` = 121016; -- locales_gameobject - name : entry=99106
-UPDATE `trans_words` SET `content_loc2`='Bush' WHERE `word_id` = 121011; -- locales_gameobject - name : entry=99107
 UPDATE `trans_words` SET `content_loc2`='Fire With Boiling Water' WHERE `word_id` = 114910; -- locales_gameobject - name : entry=103773
-UPDATE `trans_words` SET `content_loc2`='Brazier of Everfount' WHERE `word_id` = 114939; -- locales_gameobject - name : entry=113791
 UPDATE `trans_words` SET `content_loc2`='Smoldering Coals' WHERE `word_id` = 114984; -- locales_gameobject - name : entry=140358
 UPDATE `trans_words` SET `content_loc2`='Smoldering Coals' WHERE `word_id` = 114984; -- locales_gameobject - name : entry=140359
 UPDATE `trans_words` SET `content_loc2`='Rin\'ji\'s Cage' WHERE `word_id` = 114996; -- locales_gameobject - name : entry=142036
 UPDATE `trans_words` SET `content_loc2`='Egg-O-Matic' WHERE `word_id` = 114997; -- locales_gameobject - name : entry=142071
-UPDATE `trans_words` SET `content_loc2`='Captain\'s Chest' WHERE `word_id` = 268307; -- locales_gameobject - name : entry=142184
 UPDATE `trans_words` SET `content_loc2`='Flinthammer\'s Armorer and Clothier' WHERE `word_id` = 114741; -- locales_gameobject - name : entry=143332
 UPDATE `trans_words` SET `content_loc2`='Deepmountain Mining & Jewelcrafting' WHERE `word_id` = 120911; -- locales_gameobject - name : entry=143344
 UPDATE `trans_words` SET `content_loc2`='Ani' WHERE `word_id` = 115088; -- locales_gameobject - name : entry=149420
@@ -608,35 +480,18 @@ UPDATE `trans_words` SET `content_loc2`='Kaldorei Tome of Summoning' WHERE `word
 UPDATE `trans_words` SET `content_loc2`='Magus Rimtori\'s Journal' WHERE `word_id` = 115110; -- locales_gameobject - name : entry=152098
 UPDATE `trans_words` SET `content_loc2`='Giant Doors Portcullis' WHERE `word_id` = 121077; -- locales_gameobject - name : entry=161463
 UPDATE `trans_words` SET `content_loc2`='Eastern Zeppelin Tower - Tirisfal Glades & Stranglethorn Vale' WHERE `word_id` = 118437; -- locales_gameobject - name : entry=165557
-UPDATE `trans_words` SET `content_loc2`='Bench]' WHERE `word_id` = 118438; -- locales_gameobject - name : entry=170524
-UPDATE `trans_words` SET `content_loc2`='Bed' WHERE `word_id` = 115307; -- locales_gameobject - name : entry=174849
-UPDATE `trans_words` SET `content_loc2`='Blackwood Nut Stores' WHERE `word_id` = 115359; -- locales_gameobject - name : entry=175329
-UPDATE `trans_words` SET `content_loc2`='Blackwood Fruit Stores' WHERE `word_id` = 115360; -- locales_gameobject - name : entry=175330
-UPDATE `trans_words` SET `content_loc2`='Blackwood Grain Stores' WHERE `word_id` = 115361; -- locales_gameobject - name : entry=175331
-UPDATE `trans_words` SET `content_loc2`='Blackwood Nut Stores' WHERE `word_id` = 115359; -- locales_gameobject - name : entry=175339
-UPDATE `trans_words` SET `content_loc2`='Blackwood Fruit Stores' WHERE `word_id` = 115360; -- locales_gameobject - name : entry=175340
-UPDATE `trans_words` SET `content_loc2`='Blackwood Grain Stores' WHERE `word_id` = 115361; -- locales_gameobject - name : entry=175341
 UPDATE `trans_words` SET `content_loc2`='Postbox' WHERE `word_id` = 115449; -- locales_gameobject - name : entry=175668
 UPDATE `trans_words` SET `content_loc2`='Locked Cage' WHERE `word_id` = 115510; -- locales_gameobject - name : entry=175786
 UPDATE `trans_words` SET `content_loc2`='Gadgetzan Auction' WHERE `word_id` = 115524; -- locales_gameobject - name : entry=175904
-UPDATE `trans_words` SET `content_loc2`='Booty Bay Alarm Bell' WHERE `word_id` = 115533; -- locales_gameobject - name : entry=175948
 UPDATE `trans_words` SET `content_loc2`='Dawn\'s Gambit Trap' WHERE `word_id` = 120896; -- locales_gameobject - name : entry=176110
 UPDATE `trans_words` SET `content_loc2`='Bowel with Boobles' WHERE `word_id` = 115556; -- locales_gameobject - name : entry=176157
-UPDATE `trans_words` SET `content_loc2`='Command Tent' WHERE `word_id` = 115571; -- locales_gameobject - name : entry=176210
 UPDATE `trans_words` SET `content_loc2`='JoshTest' WHERE `word_id` = 120912; -- locales_gameobject - name : entry=176357
-UPDATE `trans_words` SET `content_loc2`='Boat to Stormwind' WHERE `word_id` = 118444; -- locales_gameobject - name : entry=176364
-UPDATE `trans_words` SET `content_loc2`='Boat to Teldrassil' WHERE `word_id` = 115592; -- locales_gameobject - name : entry=176365
-UPDATE `trans_words` SET `content_loc2`='Boat to Theramore' WHERE `word_id` = 115593; -- locales_gameobject - name : entry=176369
 UPDATE `trans_words` SET `content_loc2`='Lava trap' WHERE `word_id` = 123066; -- locales_gameobject - name : entry=176590
 UPDATE `trans_words` SET `content_loc2`='Kodo Bones Trap' WHERE `word_id` = 120861; -- locales_gameobject - name : entry=176750
-UPDATE `trans_words` SET `content_loc2`='CavernDoor01' WHERE `word_id` = 115664; -- locales_gameobject - name : entry=176996
-UPDATE `trans_words` SET `content_loc2`='Dire Maul Eastern Door' WHERE `word_id` = 120887; -- locales_gameobject - name : entry=177210
-UPDATE `trans_words` SET `content_loc2`='Ahn\'Qiraj Gong' WHERE `word_id` = 115700; -- locales_gameobject - name : entry=177223
 UPDATE `trans_words` SET `content_loc2`='Book "Evil Soothsaying for Dummies"' WHERE `word_id` = 120890; -- locales_gameobject - name : entry=177226
 UPDATE `trans_words` SET `content_loc2`='Vault Door' WHERE `word_id` = 115704; -- locales_gameobject - name : entry=177237
 UPDATE `trans_words` SET `content_loc2`='Vault Door' WHERE `word_id` = 115704; -- locales_gameobject - name : entry=177238
 UPDATE `trans_words` SET `content_loc2`='Pull rope Bell' WHERE `word_id` = 115726; -- locales_gameobject - name : entry=177271
-UPDATE `trans_words` SET `content_loc2`='CavernDoor01' WHERE `word_id` = 115664; -- locales_gameobject - name : entry=179588
 UPDATE `trans_words` SET `content_loc2`='Meetingstone01' WHERE `word_id` = 115997; -- locales_gameobject - name : entry=179597
 UPDATE `trans_words` SET `content_loc2`='Ritual Candle Aura' WHERE `word_id` = 121040; -- locales_gameobject - name : entry=179688
 UPDATE `trans_words` SET `content_loc2`='SmallBrazier31' WHERE `word_id` = 116030; -- locales_gameobject - name : entry=179874
@@ -662,7 +517,6 @@ UPDATE `trans_words` SET `content_loc2`='Demonic Torch' WHERE `word_id` = 121018
 UPDATE `trans_words` SET `content_loc2`='Firework, Show, Type 1 Purple' WHERE `word_id` = 122970; -- locales_gameobject - name : entry=180734
 UPDATE `trans_words` SET `content_loc2`='Teleport on the Lunar glade - a trap' WHERE `word_id` = 123063; -- locales_gameobject - name : entry=180891
 UPDATE `trans_words` SET `content_loc2`='Teleport in Shtormwind - a trap' WHERE `word_id` = 122962; -- locales_gameobject - name : entry=180892
-UPDATE `trans_words` SET `content_loc2`='Arena Spoils' WHERE `word_id` = 116413; -- locales_gameobject - name : entry=181074
 UPDATE `trans_words` SET `content_loc2`='Soothsaying for Dummies' WHERE `word_id` = 121107; -- locales_gameobject - name : entry=181095
 UPDATE `trans_words` SET `content_loc2`='Grand Widow Faerlina Door' WHERE `word_id` = 116442; -- locales_gameobject - name : entry=181167
 UPDATE `trans_words` SET `content_loc2`='Runed Demonic Blade' WHERE `word_id` = 120987; -- locales_gameobject - name : entry=181207
@@ -670,7 +524,6 @@ UPDATE `trans_words` SET `content_loc2`='Warsong Lumber Pile' WHERE `word_id` = 
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:183163' WHERE `word_id` = 117772; -- locales_gameobject - name : entry=183163
 UPDATE `trans_words` SET `content_loc2`='War Catapult' WHERE `word_id` = 117773; -- locales_gameobject - name : entry=183164
 UPDATE `trans_words` SET `content_loc2`='Moveable Gate' WHERE `word_id` = 120899; -- locales_gameobject - name : entry=183445
-UPDATE `trans_words` SET `content_loc2`='Boat to Azuremyst' WHERE `word_id` = 117879; -- locales_gameobject - name : entry=184084
 UPDATE `trans_words` SET `content_loc2`='InstancePortal_03_Difficulty_0' WHERE `word_id` = 117911; -- locales_gameobject - name : entry=184181
 UPDATE `trans_words` SET `content_loc2`='InstancePortal_03_Difficulty_1' WHERE `word_id` = 117912; -- locales_gameobject - name : entry=184182
 UPDATE `trans_words` SET `content_loc2`='InstancePortal_04_Difficulty_0' WHERE `word_id` = 117913; -- locales_gameobject - name : entry=184183
@@ -712,13 +565,11 @@ UPDATE `trans_words` SET `content_loc2`='Instance_Portal_Difficulty_1' WHERE `wo
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184507
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184508
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184509
-UPDATE `trans_words` SET `content_loc2`='Books on Fire' WHERE `word_id` = 117981; -- locales_gameobject - name : entry=184510
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184511
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184512
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184513
 UPDATE `trans_words` SET `content_loc2`='Logs on fire' WHERE `word_id` = 116717; -- locales_gameobject - name : entry=184514
 UPDATE `trans_words` SET `content_loc2`='Wooden Board' WHERE `word_id` = 116718; -- locales_gameobject - name : entry=184515
-UPDATE `trans_words` SET `content_loc2`='Books on Fire' WHERE `word_id` = 117981; -- locales_gameobject - name : entry=184516
 UPDATE `trans_words` SET `content_loc2`='Large x2 Fire' WHERE `word_id` = 116720; -- locales_gameobject - name : entry=184563
 UPDATE `trans_words` SET `content_loc2`='Large x2 Fire' WHERE `word_id` = 116720; -- locales_gameobject - name : entry=184564
 UPDATE `trans_words` SET `content_loc2`='Large x2 Fire' WHERE `word_id` = 116720; -- locales_gameobject - name : entry=184579
@@ -734,7 +585,6 @@ UPDATE `trans_words` SET `content_loc2`='Felcannon Ammunition 3' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='Felcannon Ammunition 4' WHERE `word_id` = 120992; -- locales_gameobject - name : entry=184603
 UPDATE `trans_words` SET `content_loc2`='Hellfire Fire - Quest - Felcannon Explosion' WHERE `word_id` = 120993; -- locales_gameobject - name : entry=184654
 UPDATE `trans_words` SET `content_loc2`='Western Teleporter' WHERE `word_id` = 120908; -- locales_gameobject - name : entry=185001
-UPDATE `trans_words` SET `content_loc2`='Central Teleporter' WHERE `word_id` = 120909; -- locales_gameobject - name : entry=185002
 UPDATE `trans_words` SET `content_loc2`='Eastern Teleporter' WHERE `word_id` = 120910; -- locales_gameobject - name : entry=185003
 UPDATE `trans_words` SET `content_loc2`='PVP HOLIDAY (H) EotS' WHERE `word_id` = 120905; -- locales_gameobject - name : entry=185106
 UPDATE `trans_words` SET `content_loc2`='PVP HOLIDAY (A) EotS' WHERE `word_id` = 120906; -- locales_gameobject - name : entry=185107
@@ -935,7 +785,6 @@ UPDATE `trans_words` SET `content_loc2`='GO Text Missing:191414' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:191550' WHERE `word_id` = 120956; -- locales_gameobject - name : entry=191550
 UPDATE `trans_words` SET `content_loc2`='Wonderworks Toy\'s & More' WHERE `word_id` = 120939; -- locales_gameobject - name : entry=191685
 UPDATE `trans_words` SET `content_loc2`='Curiosities & Moore Consignment House' WHERE `word_id` = 120931; -- locales_gameobject - name : entry=191687
-UPDATE `trans_words` SET `content_loc2`='Abracadabra!' WHERE `word_id` = 120934; -- locales_gameobject - name : entry=191689
 UPDATE `trans_words` SET `content_loc2`='Piffany & Co.' WHERE `word_id` = 120940; -- locales_gameobject - name : entry=191693
 UPDATE `trans_words` SET `content_loc2`='Jacquelin\'s House of Leather' WHERE `word_id` = 120941; -- locales_gameobject - name : entry=191694
 UPDATE `trans_words` SET `content_loc2`='Tanuk\'s Textiles' WHERE `word_id` = 120942; -- locales_gameobject - name : entry=191696
@@ -1751,7 +1600,6 @@ UPDATE `trans_words` SET `content_loc2`='Frost Rune' WHERE `word_id` = 123078; -
 UPDATE `trans_words` SET `content_loc2`='Grim Intention' WHERE `word_id` = 123080; -- locales_gameobject - name : entry=195364
 UPDATE `trans_words` SET `content_loc2`='Latent Energy' WHERE `word_id` = 121199; -- locales_gameobject - name : entry=195367
 UPDATE `trans_words` SET `content_loc2`='Bucket' WHERE `word_id` = 122238; -- locales_gameobject - name : entry=195378
-UPDATE `trans_words` SET `content_loc2`='Cellar Door' WHERE `word_id` = 121200; -- locales_gameobject - name : entry=195430
 UPDATE `trans_words` SET `content_loc2`='Headquarters Radio' WHERE `word_id` = 121201; -- locales_gameobject - name : entry=195431
 UPDATE `trans_words` SET `content_loc2`='Ancient Altar' WHERE `word_id` = 121202; -- locales_gameobject - name : entry=195432
 UPDATE `trans_words` SET `content_loc2`='Ancient Tablets' WHERE `word_id` = 121203; -- locales_gameobject - name : entry=195433
@@ -1789,7 +1637,6 @@ UPDATE `trans_words` SET `content_loc2`='Stolen Manual' WHERE `word_id` = 121221
 UPDATE `trans_words` SET `content_loc2`='Stolen Manual' WHERE `word_id` = 121221; -- locales_gameobject - name : entry=195584
 UPDATE `trans_words` SET `content_loc2`='Smouldering Stone' WHERE `word_id` = 121227; -- locales_gameobject - name : entry=195600
 UPDATE `trans_words` SET `content_loc2`='Animate Besalt Chunk' WHERE `word_id` = 122453; -- locales_gameobject - name : entry=195602
-UPDATE `trans_words` SET `content_loc2`='Cellar Door' WHERE `word_id` = 121200; -- locales_gameobject - name : entry=195621
 UPDATE `trans_words` SET `content_loc2`='Kaja\'mite Ore' WHERE `word_id` = 122240; -- locales_gameobject - name : entry=195622
 UPDATE `trans_words` SET `content_loc2`='Naga Power Stone' WHERE `word_id` = 122507; -- locales_gameobject - name : entry=195642
 UPDATE `trans_words` SET `content_loc2`='Ancient Rubble' WHERE `word_id` = 121228; -- locales_gameobject - name : entry=195652
@@ -1927,7 +1774,6 @@ UPDATE `trans_words` SET `content_loc2`='Coldridge Tunnel Cave In' WHERE `word_i
 UPDATE `trans_words` SET `content_loc2`='Kezan Medium Fire - Phase 5 6 7' WHERE `word_id` = 122299; -- locales_gameobject - name : entry=201719
 UPDATE `trans_words` SET `content_loc2`='Kezan Large Fire - Phase 5 6 7' WHERE `word_id` = 122300; -- locales_gameobject - name : entry=201720
 UPDATE `trans_words` SET `content_loc2`='Kezan Small Fire - Phase 5 6 7' WHERE `word_id` = 122301; -- locales_gameobject - name : entry=201721
-UPDATE `trans_words` SET `content_loc2`='Bristleback Cage' WHERE `word_id` = 121286; -- locales_gameobject - name : entry=201724
 UPDATE `trans_words` SET `content_loc2`='Leaky Stove' WHERE `word_id` = 121287; -- locales_gameobject - name : entry=201733
 UPDATE `trans_words` SET `content_loc2`='Flammable Bed' WHERE `word_id` = 121288; -- locales_gameobject - name : entry=201734
 UPDATE `trans_words` SET `content_loc2`='Defective Generator' WHERE `word_id` = 121289; -- locales_gameobject - name : entry=201735
@@ -1972,7 +1818,6 @@ UPDATE `trans_words` SET `content_loc2`='Well of Balance' WHERE `word_id` = 1213
 UPDATE `trans_words` SET `content_loc2`='Dwarven Artillery Gears' WHERE `word_id` = 121302; -- locales_gameobject - name : entry=201963
 UPDATE `trans_words` SET `content_loc2`='Darkspear Cage' WHERE `word_id` = 121304; -- locales_gameobject - name : entry=201968
 UPDATE `trans_words` SET `content_loc2`='Tarblossom' WHERE `word_id` = 121305; -- locales_gameobject - name : entry=201975
-UPDATE `trans_words` SET `content_loc2`='Arthas Precipice' WHERE `word_id` = 120798; -- locales_gameobject - name : entry=202078
 UPDATE `trans_words` SET `content_loc2`='The Biggest Egg Ever - Flavor Event' WHERE `word_id` = 122312; -- locales_gameobject - name : entry=202104
 UPDATE `trans_words` SET `content_loc2`='Mechashark X-Steam Controller' WHERE `word_id` = 122313; -- locales_gameobject - name : entry=202108
 UPDATE `trans_words` SET `content_loc2`='Quilboar Cage' WHERE `word_id` = 121308; -- locales_gameobject - name : entry=202112
@@ -2064,7 +1909,6 @@ UPDATE `trans_words` SET `content_loc2`='Charred Gully and Points Unknown! Orcs?
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:202457' WHERE `word_id` = 122365; -- locales_gameobject - name : entry=202457
 UPDATE `trans_words` SET `content_loc2`='Ruins of Vashj\'elan -- Naga!!!' WHERE `word_id` = 122366; -- locales_gameobject - name : entry=202458
 UPDATE `trans_words` SET `content_loc2`='Alliance Field Banner' WHERE `word_id` = 122882; -- locales_gameobject - name : entry=202460
-UPDATE `trans_words` SET `content_loc2`='Captured Tower Banner - Alliance' WHERE `word_id` = 122881; -- locales_gameobject - name : entry=202461
 UPDATE `trans_words` SET `content_loc2`='Alliance Field Barricade Wall' WHERE `word_id` = 122883; -- locales_gameobject - name : entry=202462
 UPDATE `trans_words` SET `content_loc2`='Bilgewater Footlocker' WHERE `word_id` = 121356; -- locales_gameobject - name : entry=202470
 UPDATE `trans_words` SET `content_loc2`='Antediluvean Chest' WHERE `word_id` = 122606; -- locales_gameobject - name : entry=202474
@@ -2195,7 +2039,6 @@ UPDATE `trans_words` SET `content_loc2`='Sunken Horde Chest' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Rug of sectarians' WHERE `word_id` = 122944; -- locales_gameobject - name : entry=202761
 UPDATE `trans_words` SET `content_loc2`='Sectarian trap with Elemental\'s' WHERE `word_id` = 122940; -- locales_gameobject - name : entry=202762
 UPDATE `trans_words` SET `content_loc2`='Southern Firestone' WHERE `word_id` = 121390; -- locales_gameobject - name : entry=202763
-UPDATE `trans_words` SET `content_loc2`='Central Firestone' WHERE `word_id` = 121391; -- locales_gameobject - name : entry=202764
 UPDATE `trans_words` SET `content_loc2`='Northern Firestone' WHERE `word_id` = 121392; -- locales_gameobject - name : entry=202765
 UPDATE `trans_words` SET `content_loc2`='Braided Rope' WHERE `word_id` = 121393; -- locales_gameobject - name : entry=202766
 UPDATE `trans_words` SET `content_loc2`='Adarrah\'s Gemstone' WHERE `word_id` = 121394; -- locales_gameobject - name : entry=202773
@@ -2217,7 +2060,6 @@ UPDATE `trans_words` SET `content_loc2`='Naga Skeleton' WHERE `word_id` = 121404
 UPDATE `trans_words` SET `content_loc2`='Naga Skeleton' WHERE `word_id` = 121404; -- locales_gameobject - name : entry=202867
 UPDATE `trans_words` SET `content_loc2`='Sunken Crate' WHERE `word_id` = 121405; -- locales_gameobject - name : entry=202871
 UPDATE `trans_words` SET `content_loc2`='Scorched Soil' WHERE `word_id` = 121406; -- locales_gameobject - name : entry=202884
-UPDATE `trans_words` SET `content_loc2`='Air Source' WHERE `word_id` = 121407; -- locales_gameobject - name : entry=202887
 UPDATE `trans_words` SET `content_loc2`='Flameward' WHERE `word_id` = 121409; -- locales_gameobject - name : entry=202902
 UPDATE `trans_words` SET `content_loc2`='Sandy Mound' WHERE `word_id` = 121410; -- locales_gameobject - name : entry=202916
 UPDATE `trans_words` SET `content_loc2`='Flameward' WHERE `word_id` = 121409; -- locales_gameobject - name : entry=202927
@@ -2253,7 +2095,6 @@ UPDATE `trans_words` SET `content_loc2`='Emerald Flames' WHERE `word_id` = 12143
 UPDATE `trans_words` SET `content_loc2`='Twilight Arms Crate' WHERE `word_id` = 121432; -- locales_gameobject - name : entry=203066
 UPDATE `trans_words` SET `content_loc2`='Night Elf Archaeology Find' WHERE `word_id` = 121434; -- locales_gameobject - name : entry=203071
 UPDATE `trans_words` SET `content_loc2`='Nerubian Archaeology Find' WHERE `word_id` = 121435; -- locales_gameobject - name : entry=203078
-UPDATE `trans_words` SET `content_loc2`='Air Bubbles' WHERE `word_id` = 121436; -- locales_gameobject - name : entry=203082
 UPDATE `trans_words` SET `content_loc2`='The Manipulator\'s Portal Spell Effect (Fire)' WHERE `word_id` = 121437; -- locales_gameobject - name : entry=203083
 UPDATE `trans_words` SET `content_loc2`='The Manipulator\'s Portal Spell Effect (Air)' WHERE `word_id` = 121438; -- locales_gameobject - name : entry=203085
 UPDATE `trans_words` SET `content_loc2`='The Manipulator\'s Portal Spell Effect (Earth)' WHERE `word_id` = 121439; -- locales_gameobject - name : entry=203086
@@ -2274,7 +2115,6 @@ UPDATE `trans_words` SET `content_loc2`='Fiasco\'s Stray Part' WHERE `word_id` =
 UPDATE `trans_words` SET `content_loc2`='Adarrah\'s Chest' WHERE `word_id` = 121445; -- locales_gameobject - name : entry=203109
 UPDATE `trans_words` SET `content_loc2`='Adarrah\'s Gemstone (Red)' WHERE `word_id` = 121446; -- locales_gameobject - name : entry=203110
 UPDATE `trans_words` SET `content_loc2`='Adarrah\'s Gold' WHERE `word_id` = 121447; -- locales_gameobject - name : entry=203111
-UPDATE `trans_words` SET `content_loc2`='Accident' WHERE `word_id` = 121448; -- locales_gameobject - name : entry=203112
 UPDATE `trans_words` SET `content_loc2`='Lit Bonfire' WHERE `word_id` = 121449; -- locales_gameobject - name : entry=203114
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:203116' WHERE `word_id` = 121450; -- locales_gameobject - name : entry=203116
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:203117' WHERE `word_id` = 121451; -- locales_gameobject - name : entry=203117
@@ -2433,7 +2273,6 @@ UPDATE `trans_words` SET `content_loc2`='Twilight\'s Hammer Summoning Portal Wat
 UPDATE `trans_words` SET `content_loc2`='Twilight\'s Hammer Tent Sand 01' WHERE `word_id` = 121656; -- locales_gameobject - name : entry=203701
 UPDATE `trans_words` SET `content_loc2`='Twilight\'s Hammer Tent Sand 02' WHERE `word_id` = 121657; -- locales_gameobject - name : entry=203702
 UPDATE `trans_words` SET `content_loc2`='Okril\'lon Weapons Crate' WHERE `word_id` = 121658; -- locales_gameobject - name : entry=203707
-UPDATE `trans_words` SET `content_loc2`='Blackwing Descent Elevator' WHERE `word_id` = 121659; -- locales_gameobject - name : entry=203716
 UPDATE `trans_words` SET `content_loc2`='Alliance Submarine circling Abyssal Maw' WHERE `word_id` = 122535; -- locales_gameobject - name : entry=203729
 UPDATE `trans_words` SET `content_loc2`='Horde Submarine circling Abyssal Maw' WHERE `word_id` = 122533; -- locales_gameobject - name : entry=203730
 UPDATE `trans_words` SET `content_loc2`='Bounty Board' WHERE `word_id` = 121671; -- locales_gameobject - name : entry=203733
@@ -2461,7 +2300,6 @@ UPDATE `trans_words` SET `content_loc2`='GO Text Missing:203811' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='ABSOLUTELY NO TRANSIENTS! NO EXCEPTIONS!' WHERE `word_id` = 121684; -- locales_gameobject - name : entry=203838
 UPDATE `trans_words` SET `content_loc2`='Display Base' WHERE `word_id` = 122576; -- locales_gameobject - name : entry=203861
 UPDATE `trans_words` SET `content_loc2`='Op: Gnomeregan Recap Light' WHERE `word_id` = 121685; -- locales_gameobject - name : entry=203862
-UPDATE `trans_words` SET `content_loc2`='Command Tent Light' WHERE `word_id` = 122579; -- locales_gameobject - name : entry=203923
 UPDATE `trans_words` SET `content_loc2`='Clinic Mat' WHERE `word_id` = 122421; -- locales_gameobject - name : entry=203956
 UPDATE `trans_words` SET `content_loc2`='Pillow' WHERE `word_id` = 121360; -- locales_gameobject - name : entry=203958
 UPDATE `trans_words` SET `content_loc2`='Prickly Pear Fruit Trap' WHERE `word_id` = 122571; -- locales_gameobject - name : entry=203971
@@ -2505,8 +2343,6 @@ UPDATE `trans_words` SET `content_loc2`='Fire (Low Poly)' WHERE `word_id` = 1217
 UPDATE `trans_words` SET `content_loc2`='Gurubashi Brazier' WHERE `word_id` = 121705; -- locales_gameobject - name : entry=204111
 UPDATE `trans_words` SET `content_loc2`='Giant Skullpile' WHERE `word_id` = 121706; -- locales_gameobject - name : entry=204113
 UPDATE `trans_words` SET `content_loc2`='Ale Kegs' WHERE `word_id` = 121707; -- locales_gameobject - name : entry=204117
-UPDATE `trans_words` SET `content_loc2`='Cache of Shadra' WHERE `word_id` = 121708; -- locales_gameobject - name : entry=204120
-UPDATE `trans_words` SET `content_loc2`='Cache of Shadra' WHERE `word_id` = 121708; -- locales_gameobject - name : entry=204133
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:204233' WHERE `word_id` = 121709; -- locales_gameobject - name : entry=204233
 UPDATE `trans_words` SET `content_loc2`='Zul\'Mamwe Brazier' WHERE `word_id` = 121711; -- locales_gameobject - name : entry=204247
 UPDATE `trans_words` SET `content_loc2`='Experimental Chair' WHERE `word_id` = 121712; -- locales_gameobject - name : entry=204254
@@ -2514,7 +2350,6 @@ UPDATE `trans_words` SET `content_loc2`='Recovered Helm' WHERE `word_id` = 12313
 UPDATE `trans_words` SET `content_loc2`='Apparatus Control Console' WHERE `word_id` = 122422; -- locales_gameobject - name : entry=204266
 UPDATE `trans_words` SET `content_loc2`='Restoration Apparatus' WHERE `word_id` = 122423; -- locales_gameobject - name : entry=204267
 UPDATE `trans_words` SET `content_loc2`='Survey Tool (Green)' WHERE `word_id` = 121713; -- locales_gameobject - name : entry=204272
-UPDATE `trans_words` SET `content_loc2`='Altar of Shadra' WHERE `word_id` = 121715; -- locales_gameobject - name : entry=204275
 UPDATE `trans_words` SET `content_loc2`='Ancient Bell' WHERE `word_id` = 121716; -- locales_gameobject - name : entry=204276
 UPDATE `trans_words` SET `content_loc2`='Worm Mound' WHERE `word_id` = 121717; -- locales_gameobject - name : entry=204281
 UPDATE `trans_words` SET `content_loc2`='Dwarf Archaeology Find' WHERE `word_id` = 121718; -- locales_gameobject - name : entry=204282
@@ -2533,19 +2368,15 @@ UPDATE `trans_words` SET `content_loc2`='Dragonmaw Bonfire' WHERE `word_id` = 12
 UPDATE `trans_words` SET `content_loc2`='Gnome Sandbag Platform' WHERE `word_id` = 121731; -- locales_gameobject - name : entry=204379
 UPDATE `trans_words` SET `content_loc2`='Rock Wall' WHERE `word_id` = 117407; -- locales_gameobject - name : entry=204381
 UPDATE `trans_words` SET `content_loc2`='Messner\'s Cage' WHERE `word_id` = 121732; -- locales_gameobject - name : entry=204383
-UPDATE `trans_words` SET `content_loc2`='Blackrock Orc Cage Base' WHERE `word_id` = 121733; -- locales_gameobject - name : entry=204384
 UPDATE `trans_words` SET `content_loc2`='Zanzil\'s Portal' WHERE `word_id` = 122463; -- locales_gameobject - name : entry=204386
-UPDATE `trans_words` SET `content_loc2`='Blackrock Coffer' WHERE `word_id` = 121734; -- locales_gameobject - name : entry=204388
 UPDATE `trans_words` SET `content_loc2`='Blackrock Key Pouch' WHERE `word_id` = 121735; -- locales_gameobject - name : entry=204389
 UPDATE `trans_words` SET `content_loc2`='Shell Casing Sparkles' WHERE `word_id` = 121736; -- locales_gameobject - name : entry=204390
-UPDATE `trans_words` SET `content_loc2`='Captain\'s Sparkles' WHERE `word_id` = 121737; -- locales_gameobject - name : entry=204391
 UPDATE `trans_words` SET `content_loc2`='Cannoneer Sparkles' WHERE `word_id` = 121738; -- locales_gameobject - name : entry=204392
 UPDATE `trans_words` SET `content_loc2`='Jorgensen\'s Cage' WHERE `word_id` = 121739; -- locales_gameobject - name : entry=204393
 UPDATE `trans_words` SET `content_loc2`='Jorgensen\'s Cage Base' WHERE `word_id` = 121740; -- locales_gameobject - name : entry=204394
 UPDATE `trans_words` SET `content_loc2`='Grain Wagon' WHERE `word_id` = 121742; -- locales_gameobject - name : entry=204396
 UPDATE `trans_words` SET `content_loc2`='Grain Sacks' WHERE `word_id` = 121743; -- locales_gameobject - name : entry=204397
 UPDATE `trans_words` SET `content_loc2`='Zanzil\'s Elixir' WHERE `word_id` = 122673; -- locales_gameobject - name : entry=204400
-UPDATE `trans_words` SET `content_loc2`='Chain Lever' WHERE `word_id` = 121744; -- locales_gameobject - name : entry=204403
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:204419' WHERE `word_id` = 122464; -- locales_gameobject - name : entry=204419
 UPDATE `trans_words` SET `content_loc2`='Tombshroom' WHERE `word_id` = 121745; -- locales_gameobject - name : entry=204420
 UPDATE `trans_words` SET `content_loc2`='Swabbie\'s Mop' WHERE `word_id` = 122614; -- locales_gameobject - name : entry=204422
@@ -2557,11 +2388,7 @@ UPDATE `trans_words` SET `content_loc2`='Blackrock Key Pouch' WHERE `word_id` = 
 UPDATE `trans_words` SET `content_loc2`='Blackrock Holding Pen' WHERE `word_id` = 121746; -- locales_gameobject - name : entry=204441
 UPDATE `trans_words` SET `content_loc2`='Blackrock Holding Pen' WHERE `word_id` = 121746; -- locales_gameobject - name : entry=204442
 UPDATE `trans_words` SET `content_loc2`='Box of Wild Rats' WHERE `word_id` = 121747; -- locales_gameobject - name : entry=204443
-UPDATE `trans_words` SET `content_loc2`='Blackrock Explosive Device' WHERE `word_id` = 121748; -- locales_gameobject - name : entry=204444
-UPDATE `trans_words` SET `content_loc2`='Blackrock Explosive Device' WHERE `word_id` = 121748; -- locales_gameobject - name : entry=204445
-UPDATE `trans_words` SET `content_loc2`='Blackrock Explosive Device' WHERE `word_id` = 121748; -- locales_gameobject - name : entry=204446
 UPDATE `trans_words` SET `content_loc2`='Seaforium Charge' WHERE `word_id` = 121749; -- locales_gameobject - name : entry=204447
-UPDATE `trans_words` SET `content_loc2`='Captain Stillwater\'s Charts' WHERE `word_id` = 122617; -- locales_gameobject - name : entry=204450
 UPDATE `trans_words` SET `content_loc2`='Grog Barrel' WHERE `word_id` = 122616; -- locales_gameobject - name : entry=204454
 UPDATE `trans_words` SET `content_loc2`='Gunpowder Barrel' WHERE `word_id` = 122615; -- locales_gameobject - name : entry=204455
 UPDATE `trans_words` SET `content_loc2`='Cannonball Crate' WHERE `word_id` = 122613; -- locales_gameobject - name : entry=204456
@@ -2584,7 +2411,6 @@ UPDATE `trans_words` SET `content_loc2`='World Pillar Fragments' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='Barrel of Doublerum' WHERE `word_id` = 121754; -- locales_gameobject - name : entry=204578
 UPDATE `trans_words` SET `content_loc2`='Gar\'gol\'s Personal Treasure Chest' WHERE `word_id` = 121755; -- locales_gameobject - name : entry=204580
 UPDATE `trans_words` SET `content_loc2`='Ward of Ilgalar' WHERE `word_id` = 121756; -- locales_gameobject - name : entry=204582
-UPDATE `trans_words` SET `content_loc2`='Blackwater Rope' WHERE `word_id` = 122674; -- locales_gameobject - name : entry=204585
 UPDATE `trans_words` SET `content_loc2`='Bloodsail Rope' WHERE `word_id` = 122676; -- locales_gameobject - name : entry=204586
 UPDATE `trans_words` SET `content_loc2`='Muddy Journal Page' WHERE `word_id` = 121760; -- locales_gameobject - name : entry=204591
 UPDATE `trans_words` SET `content_loc2`='Oven' WHERE `word_id` = 121761; -- locales_gameobject - name : entry=204598
@@ -2627,7 +2453,6 @@ UPDATE `trans_words` SET `content_loc2`='The First Fragment of the World Pillar'
 UPDATE `trans_words` SET `content_loc2`='Glow Trap' WHERE `word_id` = 122597; -- locales_gameobject - name : entry=204968
 UPDATE `trans_words` SET `content_loc2`='Halls of Origination Transit Device' WHERE `word_id` = 121790; -- locales_gameobject - name : entry=204972
 UPDATE `trans_words` SET `content_loc2`='Halls of Origination Transit Device' WHERE `word_id` = 121790; -- locales_gameobject - name : entry=204979
-UPDATE `trans_words` SET `content_loc2`='Cathedral Gate' WHERE `word_id` = 121791; -- locales_gameobject - name : entry=204986
 UPDATE `trans_words` SET `content_loc2`='Alliance Submarine Aura Generator' WHERE `word_id` = 123118; -- locales_gameobject - name : entry=205048
 UPDATE `trans_words` SET `content_loc2`='Generator of aura of the submarine of the Horde' WHERE `word_id` = 123088; -- locales_gameobject - name : entry=205049
 UPDATE `trans_words` SET `content_loc2`='Unhealthy-Looking Pumpkin' WHERE `word_id` = 121792; -- locales_gameobject - name : entry=205052
@@ -2654,7 +2479,6 @@ UPDATE `trans_words` SET `content_loc2`='Slavemaster\'s Coffer' WHERE `word_id` 
 UPDATE `trans_words` SET `content_loc2`='Tol Barad - West Capture Point - Alliance Defending' WHERE `word_id` = 122465; -- locales_gameobject - name : entry=205101
 UPDATE `trans_words` SET `content_loc2`='Excavation Banner Stand 02' WHERE `word_id` = 121805; -- locales_gameobject - name : entry=205102
 UPDATE `trans_words` SET `content_loc2`='Tol Barad - West Capture Point - Horde Defending' WHERE `word_id` = 121806; -- locales_gameobject - name : entry=205103
-UPDATE `trans_words` SET `content_loc2`='Brewfest Crate' WHERE `word_id` = 121807; -- locales_gameobject - name : entry=205110
 UPDATE `trans_words` SET `content_loc2`='Stormwind Crate' WHERE `word_id` = 121808; -- locales_gameobject - name : entry=205111
 UPDATE `trans_words` SET `content_loc2`='Stormwind Crate (scale x0.5)' WHERE `word_id` = 121809; -- locales_gameobject - name : entry=205112
 UPDATE `trans_words` SET `content_loc2`='General Lantern 01 (scale x0.5)' WHERE `word_id` = 121810; -- locales_gameobject - name : entry=205115
@@ -2673,7 +2497,6 @@ UPDATE `trans_words` SET `content_loc2`='Forgemaster\'s Log' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Tol Barad - East Capture Point - Alliance Defending' WHERE `word_id` = 122466; -- locales_gameobject - name : entry=205138
 UPDATE `trans_words` SET `content_loc2`='Tol Barad - East Capture Point - Horde Defending' WHERE `word_id` = 121824; -- locales_gameobject - name : entry=205139
 UPDATE `trans_words` SET `content_loc2`='Generic Human Chair Low End - Prop (Unusable)' WHERE `word_id` = 121825; -- locales_gameobject - name : entry=205142
-UPDATE `trans_words` SET `content_loc2`='Abandoned Outhouse' WHERE `word_id` = 121826; -- locales_gameobject - name : entry=205143
 UPDATE `trans_words` SET `content_loc2`='One-Time Decryption Engine' WHERE `word_id` = 121827; -- locales_gameobject - name : entry=205145
 UPDATE `trans_words` SET `content_loc2`='Sprouting Crimson Mushroom' WHERE `word_id` = 121828; -- locales_gameobject - name : entry=205146
 UPDATE `trans_words` SET `content_loc2`='Sprouting Crimson Mushroom' WHERE `word_id` = 121828; -- locales_gameobject - name : entry=205147
@@ -2741,9 +2564,6 @@ UPDATE `trans_words` SET `content_loc2`='Harrison\'s Footlocker 01' WHERE `word_
 UPDATE `trans_words` SET `content_loc2`='Harrison\'s Rope' WHERE `word_id` = 122642; -- locales_gameobject - name : entry=205392
 UPDATE `trans_words` SET `content_loc2`='Harrison\'s Rope' WHERE `word_id` = 122642; -- locales_gameobject - name : entry=205393
 UPDATE `trans_words` SET `content_loc2`='Powder Keg' WHERE `word_id` = 107919; -- locales_gameobject - name : entry=205394
-UPDATE `trans_words` SET `content_loc2`='Barrel 03' WHERE `word_id` = 122645; -- locales_gameobject - name : entry=205396
-UPDATE `trans_words` SET `content_loc2`='Barrel 02' WHERE `word_id` = 122651; -- locales_gameobject - name : entry=205397
-UPDATE `trans_words` SET `content_loc2`='Barrel 00' WHERE `word_id` = 122656; -- locales_gameobject - name : entry=205398
 UPDATE `trans_words` SET `content_loc2`='Dynamite 01' WHERE `word_id` = 122660; -- locales_gameobject - name : entry=205399
 UPDATE `trans_words` SET `content_loc2`='Dynamite 06' WHERE `word_id` = 122652; -- locales_gameobject - name : entry=205400
 UPDATE `trans_words` SET `content_loc2`='Dynamite 05' WHERE `word_id` = 122653; -- locales_gameobject - name : entry=205401
@@ -2751,13 +2571,6 @@ UPDATE `trans_words` SET `content_loc2`='Dynamite 02' WHERE `word_id` = 122655; 
 UPDATE `trans_words` SET `content_loc2`='Dynamite 00' WHERE `word_id` = 122646; -- locales_gameobject - name : entry=205403
 UPDATE `trans_words` SET `content_loc2`='Dynamite 04' WHERE `word_id` = 122647; -- locales_gameobject - name : entry=205404
 UPDATE `trans_words` SET `content_loc2`='Dynamite 03' WHERE `word_id` = 122648; -- locales_gameobject - name : entry=205405
-UPDATE `trans_words` SET `content_loc2`='Barrel 09' WHERE `word_id` = 122661; -- locales_gameobject - name : entry=205406
-UPDATE `trans_words` SET `content_loc2`='Barrel 07' WHERE `word_id` = 122649; -- locales_gameobject - name : entry=205407
-UPDATE `trans_words` SET `content_loc2`='Barrel 08' WHERE `word_id` = 122644; -- locales_gameobject - name : entry=205408
-UPDATE `trans_words` SET `content_loc2`='Barrel 05' WHERE `word_id` = 122659; -- locales_gameobject - name : entry=205409
-UPDATE `trans_words` SET `content_loc2`='Barrel 06' WHERE `word_id` = 122654; -- locales_gameobject - name : entry=205410
-UPDATE `trans_words` SET `content_loc2`='Barrel 04' WHERE `word_id` = 122650; -- locales_gameobject - name : entry=205411
-UPDATE `trans_words` SET `content_loc2`='7th Legion Telescope' WHERE `word_id` = 121868; -- locales_gameobject - name : entry=205417
 UPDATE `trans_words` SET `content_loc2`='Barrel of Pyreburn Oil' WHERE `word_id` = 121869; -- locales_gameobject - name : entry=205422
 UPDATE `trans_words` SET `content_loc2`='Tauren Drum Small' WHERE `word_id` = 121870; -- locales_gameobject - name : entry=205432
 UPDATE `trans_words` SET `content_loc2`='Sullah\'s Crate' WHERE `word_id` = 121871; -- locales_gameobject - name : entry=205435
@@ -2846,7 +2659,6 @@ UPDATE `trans_words` SET `content_loc2`='Inner Chamber Door' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Gnomeregan Control Panel' WHERE `word_id` = 121896; -- locales_gameobject - name : entry=205872
 UPDATE `trans_words` SET `content_loc2`='Argent Parachutes' WHERE `word_id` = 121897; -- locales_gameobject - name : entry=205873
 UPDATE `trans_words` SET `content_loc2`='Sand-Covered Hieroglyphs' WHERE `word_id` = 121898; -- locales_gameobject - name : entry=205874
-UPDATE `trans_words` SET `content_loc2`='Crusader\'s Flare' WHERE `word_id` = 122608; -- locales_gameobject - name : entry=205875
 UPDATE `trans_words` SET `content_loc2`='Argent Portal' WHERE `word_id` = 122680; -- locales_gameobject - name : entry=205876
 UPDATE `trans_words` SET `content_loc2`='Argent Portal' WHERE `word_id` = 122680; -- locales_gameobject - name : entry=205877
 UPDATE `trans_words` SET `content_loc2`='Falling Debris (HUGE) 00' WHERE `word_id` = 122473; -- locales_gameobject - name : entry=205882
@@ -2870,7 +2682,6 @@ UPDATE `trans_words` SET `content_loc2`='Reliquary Banner' WHERE `word_id` = 122
 UPDATE `trans_words` SET `content_loc2`='Saltwater Star' WHERE `word_id` = 105121; -- locales_gameobject - name : entry=205989
 UPDATE `trans_words` SET `content_loc2`='Water Portal Controller' WHERE `word_id` = 121922; -- locales_gameobject - name : entry=206017
 UPDATE `trans_words` SET `content_loc2`='Earth Portal Controller' WHERE `word_id` = 121923; -- locales_gameobject - name : entry=206018
-UPDATE `trans_words` SET `content_loc2`='Air Portal Controller' WHERE `word_id` = 121924; -- locales_gameobject - name : entry=206019
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:206027' WHERE `word_id` = 122586; -- locales_gameobject - name : entry=206027
 UPDATE `trans_words` SET `content_loc2`='Small Fire (0.5)' WHERE `word_id` = 121926; -- locales_gameobject - name : entry=206038
 UPDATE `trans_words` SET `content_loc2`='Medium Fire (0.75)' WHERE `word_id` = 121927; -- locales_gameobject - name : entry=206039
@@ -2907,12 +2718,10 @@ UPDATE `trans_words` SET `content_loc2`='Wildhammer Ale Inside. Private Stash.' 
 UPDATE `trans_words` SET `content_loc2`='Ale downstairs. Do not touch. Sincerely, not the bad guys.' WHERE `word_id` = 121950; -- locales_gameobject - name : entry=206202
 UPDATE `trans_words` SET `content_loc2`='Sacred Ale Tap' WHERE `word_id` = 121951; -- locales_gameobject - name : entry=206203
 UPDATE `trans_words` SET `content_loc2`='Wildhammer Ale Cask' WHERE `word_id` = 121948; -- locales_gameobject - name : entry=206292
-UPDATE `trans_words` SET `content_loc2`='A. I. D.A. Terminal' WHERE `word_id` = 121956; -- locales_gameobject - name : entry=206293
 UPDATE `trans_words` SET `content_loc2`='Hero\'s Call Board' WHERE `word_id` = 121945; -- locales_gameobject - name : entry=206294
 UPDATE `trans_words` SET `content_loc2`='Broken Goblin Mine Cart' WHERE `word_id` = 121957; -- locales_gameobject - name : entry=206296
 UPDATE `trans_words` SET `content_loc2`='Moon Gate scale 0.5' WHERE `word_id` = 121958; -- locales_gameobject - name : entry=206304
 UPDATE `trans_words` SET `content_loc2`='Moon Gate scale 0.75' WHERE `word_id` = 121959; -- locales_gameobject - name : entry=206305
-UPDATE `trans_words` SET `content_loc2`='Corrupted Green Egg' WHERE `word_id` = 122596; -- locales_gameobject - name : entry=206307
 UPDATE `trans_words` SET `content_loc2`='Cultist Candle' WHERE `word_id` = 121092; -- locales_gameobject - name : entry=206308
 UPDATE `trans_words` SET `content_loc2`='Twilight Rune of Air' WHERE `word_id` = 121960; -- locales_gameobject - name : entry=206312
 UPDATE `trans_words` SET `content_loc2`='Twilight Rune of Fire' WHERE `word_id` = 121961; -- locales_gameobject - name : entry=206313
@@ -3099,7 +2908,6 @@ UPDATE `trans_words` SET `content_loc2`='Horn of prizyvatel' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Obsidianovy ashes' WHERE `word_id` = 123096; -- locales_gameobject - name : entry=207137
 UPDATE `trans_words` SET `content_loc2`='A bag with poverzhenny demons of fire' WHERE `word_id` = 123097; -- locales_gameobject - name : entry=207138
 UPDATE `trans_words` SET `content_loc2`='Cutting from worg' WHERE `word_id` = 123098; -- locales_gameobject - name : entry=207139
-UPDATE `trans_words` SET `content_loc2`='A bag with sleeping demons of fire' WHERE `word_id` = 123100; -- locales_gameobject - name : entry=207141
 UPDATE `trans_words` SET `content_loc2`='The sphere from transparent glass' WHERE `word_id` = 123101; -- locales_gameobject - name : entry=207142
 UPDATE `trans_words` SET `content_loc2`='Titan Guardian' WHERE `word_id` = 122081; -- locales_gameobject - name : entry=207151
 UPDATE `trans_words` SET `content_loc2`='A cage with drakonchik' WHERE `word_id` = 123090; -- locales_gameobject - name : entry=207152
@@ -3198,9 +3006,6 @@ UPDATE `trans_words` SET `content_loc2`='Deep Garnet Crystal Chunk' WHERE `word_
 UPDATE `trans_words` SET `content_loc2`='Deep Quartz Crystal Chunk' WHERE `word_id` = 122121; -- locales_gameobject - name : entry=207390
 UPDATE `trans_words` SET `content_loc2`='Baradin\'s Wardens Banner' WHERE `word_id` = 122122; -- locales_gameobject - name : entry=207391
 UPDATE `trans_words` SET `content_loc2`='Hellscream\'s Reach Banner' WHERE `word_id` = 122123; -- locales_gameobject - name : entry=207400
-UPDATE `trans_words` SET `content_loc2`='Abandoned Mole Machine' WHERE `word_id` = 122445; -- locales_gameobject - name : entry=207401
-UPDATE `trans_words` SET `content_loc2`='Abandoned Mole Machine' WHERE `word_id` = 122445; -- locales_gameobject - name : entry=207402
-UPDATE `trans_words` SET `content_loc2`='Abandoned Mole Machine' WHERE `word_id` = 122445; -- locales_gameobject - name : entry=207403
 UPDATE `trans_words` SET `content_loc2`='Donais\' Gold' WHERE `word_id` = 122124; -- locales_gameobject - name : entry=207404
 UPDATE `trans_words` SET `content_loc2`='Bauden\'s Chair' WHERE `word_id` = 122856; -- locales_gameobject - name : entry=207405
 UPDATE `trans_words` SET `content_loc2`='Strange Fountain' WHERE `word_id` = 122125; -- locales_gameobject - name : entry=207406
@@ -3217,7 +3022,6 @@ UPDATE `trans_words` SET `content_loc2`='Brown Feather' WHERE `word_id` = 122133
 UPDATE `trans_words` SET `content_loc2`='Owlbeast Claw-Totem' WHERE `word_id` = 122134; -- locales_gameobject - name : entry=207421
 UPDATE `trans_words` SET `content_loc2`='Owlbeast Moon-Totem' WHERE `word_id` = 122135; -- locales_gameobject - name : entry=207422
 UPDATE `trans_words` SET `content_loc2`='Owlbeast Life-Totem' WHERE `word_id` = 122136; -- locales_gameobject - name : entry=207423
-UPDATE `trans_words` SET `content_loc2`='Abandoned Research Samples' WHERE `word_id` = 122137; -- locales_gameobject - name : entry=207424
 UPDATE `trans_words` SET `content_loc2`='Highbank Prison Gate' WHERE `word_id` = 122138; -- locales_gameobject - name : entry=207426
 UPDATE `trans_words` SET `content_loc2`='Cultist Cage' WHERE `word_id` = 121831; -- locales_gameobject - name : entry=207427
 UPDATE `trans_words` SET `content_loc2`='Cultist Cage' WHERE `word_id` = 121831; -- locales_gameobject - name : entry=207428
@@ -3295,7 +3099,6 @@ UPDATE `trans_words` SET `content_loc2`='Lift of the Makers' WHERE `word_id` = 1
 UPDATE `trans_words` SET `content_loc2`='Airbase in a Box Brochure' WHERE `word_id` = 122167; -- locales_gameobject - name : entry=207571
 UPDATE `trans_words` SET `content_loc2`='Ink Bottle' WHERE `word_id` = 122610; -- locales_gameobject - name : entry=207572
 UPDATE `trans_words` SET `content_loc2`='An Explosion Too Far by Max Boomson' WHERE `word_id` = 122611; -- locales_gameobject - name : entry=207573
-UPDATE `trans_words` SET `content_loc2`='Bomb Pile' WHERE `word_id` = 122609; -- locales_gameobject - name : entry=207574
 UPDATE `trans_words` SET `content_loc2`='Lost Isles Tree Fire 02 - Medium (Large)' WHERE `word_id` = 122168; -- locales_gameobject - name : entry=207593
 UPDATE `trans_words` SET `content_loc2`='Lost Isles Tree Fire 02 (Large)' WHERE `word_id` = 122169; -- locales_gameobject - name : entry=207597
 UPDATE `trans_words` SET `content_loc2`='Liam\'s Coffin [INTERNAL]' WHERE `word_id` = 122171; -- locales_gameobject - name : entry=207626
@@ -3423,7 +3226,6 @@ UPDATE `trans_words` SET `content_loc2`='Ice Cream Cone' WHERE `word_id` = 12307
 UPDATE `trans_words` SET `content_loc2`='Sac de grain' WHERE `word_id` = 122700; -- locales_gameobject - name : entry=208419
 UPDATE `trans_words` SET `content_loc2`='Treasure Chest' WHERE `word_id` = 122701; -- locales_gameobject - name : entry=208420
 UPDATE `trans_words` SET `content_loc2`='Cinderweb Egg Sac' WHERE `word_id` = 122748; -- locales_gameobject - name : entry=208423
-UPDATE `trans_words` SET `content_loc2`='A big fire' WHERE `word_id` = 123104; -- locales_gameobject - name : entry=208424
 UPDATE `trans_words` SET `content_loc2`='Cinderweb Egg Sac - Spiderling Trap' WHERE `word_id` = 122749; -- locales_gameobject - name : entry=208426
 UPDATE `trans_words` SET `content_loc2`='Furnace Door' WHERE `word_id` = 122750; -- locales_gameobject - name : entry=208427
 UPDATE `trans_words` SET `content_loc2`='Hitching post of fighting group' WHERE `word_id` = 122888; -- locales_gameobject - name : entry=208428
@@ -3455,7 +3257,6 @@ UPDATE `trans_words` SET `content_loc2`='GO Text Missing:208501' WHERE `word_id`
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:208502' WHERE `word_id` = 122767; -- locales_gameobject - name : entry=208502
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:208503' WHERE `word_id` = 122768; -- locales_gameobject - name : entry=208503
 UPDATE `trans_words` SET `content_loc2`='GO Text Missing:208504' WHERE `word_id` = 122769; -- locales_gameobject - name : entry=208504
-UPDATE `trans_words` SET `content_loc2`='A bag with spices' WHERE `word_id` = 123105; -- locales_gameobject - name : entry=208538
 UPDATE `trans_words` SET `content_loc2`='Voodoo Pile' WHERE `word_id` = 122708; -- locales_gameobject - name : entry=208549
 UPDATE `trans_words` SET `content_loc2`='Voodoo Pile' WHERE `word_id` = 122708; -- locales_gameobject - name : entry=208550
 UPDATE `trans_words` SET `content_loc2`='Portal to Mount Hyjal' WHERE `word_id` = 122772; -- locales_gameobject - name : entry=208552
@@ -3511,7 +3312,6 @@ UPDATE `trans_words` SET `content_loc2`='Corn Kernels' WHERE `word_id` = 122731;
 UPDATE `trans_words` SET `content_loc2`='Mulgore Sweet Potatoes' WHERE `word_id` = 122732; -- locales_gameobject - name : entry=208887
 UPDATE `trans_words` SET `content_loc2`='Savory Spice Herbs' WHERE `word_id` = 122733; -- locales_gameobject - name : entry=208888
 UPDATE `trans_words` SET `content_loc2`='Portal to the Firelands' WHERE `word_id` = 122785; -- locales_gameobject - name : entry=208900
-UPDATE `trans_words` SET `content_loc2`='A big fire' WHERE `word_id` = 123104; -- locales_gameobject - name : entry=208903
 UPDATE `trans_words` SET `content_loc2`='Fandral\'s Flame' WHERE `word_id` = 112632; -- locales_gameobject - name : entry=208933
 UPDATE `trans_words` SET `content_loc2`='Fandral\'s Flame' WHERE `word_id` = 112632; -- locales_gameobject - name : entry=208934
 UPDATE `trans_words` SET `content_loc2`='Wickerman Campfire' WHERE `word_id` = 122869; -- locales_gameobject - name : entry=208935
